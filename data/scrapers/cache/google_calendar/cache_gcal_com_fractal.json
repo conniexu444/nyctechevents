@@ -1027,7 +1027,7 @@
         "education"
       ],
       "price": {
-        "amount": 15.0,
+        "amount": 45.0,
         "type": "Paid",
         "currency": "USD",
         "details": "General Admission"
@@ -1660,5 +1660,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-05T11:31:43.012934"
+  "timestamp": "2026-09-06T11:52:02.207664"
 }

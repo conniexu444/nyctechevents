@@ -1,112 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_8f94c327",
-      "name": "Repair your broken items at Repair Cafe!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/repair-your-broken-items-at-repair-cafe-tickets-1998880840402\n\nRepair can be intimidating if you haven\u2019t done it before, and the hardest part often is getting started. It\u2019s easier with support!Do you hate to throw things out when they break? Are there any repair skills that you want to learn or teach others?\nJoin us to collectively diagnose and fix broken objects, share skills, and build intergenerational, community-based knowledge. We\u2019re interested in helping each other gain confidence in the act of repair to prevent our belongings from going to the landfill, and thinking critically about where our things come from.\nPeople bring a wide variety of items to events, including lamps, chairs, mugs/plates, clothes and more. Think small, portable items (no large appliances, bicycles or couches).\n\nWhen: Saturday, August 01, 2 PM - 5 PM. Doors will close at 2:30 pm\nWhere: NYC Resistor, 87 3rd Ave, Brooklyn, NY 11217\nWe invite every attendee to answer these questions:\nWhat\u2019s broken in your life that you want to repair? Describe it and how it is broken.Does your repair require specific tools or parts? Do you have them?Are you interested in helping others with their repairs? If so, what skills would you like to share (e.g. soldering electronics, sewing fabrics, woodworking skills, understanding mechanisms)?Please be sure to fill out the RSVP form completely. This helps us to prepare for the event. If you do not fill out the form, we will assume the RSVP was by mistake and cancel the ticket.\nQuestions? Email us at repurposefulancestry@gmail.com\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
-      "startDate": "2026-09-05T14:00:00-04:00",
-      "endDate": "2026-09-05T17:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/repair-your-broken-items-at-repair-cafe-tickets-1998880840402",
-        "original_event_id": "j66sb4pu06hcl1dce8q6ttavjk",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=ajY2c2I0cHUwNmhjbDFkY2U4cTZ0dGF2amsgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_7a1f4bcf",
-      "name": "Soft Circuits 101",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/soft-circuits-101-tickets-1998259820916\n\nSew a very simple soft circuit with conductive thread to light an LEDFor everyone who\u2019s curious about where to start with soft circuits and wearables \u2013 Soft Circuits 101! In this workshop, we\u2019ll sew a very simple soft circuit with conductive thread to light an LED. The techniques we use in this class are great building blocks to use for your own projects in the future! This is designed as a beginner introduction to both electrical circuits and sewing \u2013 no experience with either necessary to join. Supplies will be provided and attendees will get to keep their project.This is designed for beginners! No experience needed, and all supplies will be provided.\nYour Instructor:\nKay is a multidisciplinary artist, educator, and creative technologist based in Brooklyn, NY. They are a graduate of NYU\u2019s Interactive Telecommunications graduate program, where they focused on wearable electronics. Kay has been working as a freelance costume designer, drag performer and event producer since 2018, and their costume work has been seen onstage at Bonnaroo, House of Yes, King of Drag, and on \u2018Whatcha Packin\u2019 for RuPaul\u2019s Drag Race S16.\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/\n",
-      "startDate": "2026-09-05T18:00:00-04:00",
-      "endDate": "2026-09-05T20:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/soft-circuits-101-tickets-1998259820916",
-        "original_event_id": "im29np490ddkdignjefrjhqlfc",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=aW0yOW5wNDkwZGRrZGlnbmplZnJqaHFsZmMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_36ab3e09",
       "name": "Intro to Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -4239,7 +4133,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNjEyMDdUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_4b8037f4",
+      "name": "Ham radio In-person exam session",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "<a href=\"https://www.google.com/url?q=https://ham.study/sessions/N2YCR/all&amp;sa=D&amp;source=calendar&amp;ust=1776728715410359&amp;usg=AOvVaw229iicLGqHchkN_tl2hZ90\" target=\"_blank\">https://ham.study/sessions/N2YCR/all</a>",
+      "startDate": "2026-12-13T12:00:00-05:00",
+      "endDate": "2026-12-13T13:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=YzVobTZvcjRjOHEzYWI5Zzcwcm00YjlrNmtxMzZiYjI2a3M2MmI5aGNkaDM0ZDFpY2NxajZjMWo2OF8yMDI2MTIxM1QxNzAwMDBaIHAybTJhdjlkaHJoNG4xdWI3amxzYzY4czdvQGc",
+        "original_event_id": "c5hm6or4c8q3ab9g70rm4b9k6kq36bb26ks62b9hcdh34d1iccqj6c1j68_20261213T170000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=YzVobTZvcjRjOHEzYWI5Zzcwcm00YjlrNmtxMzZiYjI2a3M2MmI5aGNkaDM0ZDFpY2NxajZjMWo2OF8yMDI2MTIxM1QxNzAwMDBaIHAybTJhdjlkaHJoNG4xdWI3amxzYzY4czdvQGc"
+      }
     }
   ],
-  "timestamp": "2026-09-05T11:31:43.457816"
+  "timestamp": "2026-09-06T11:52:02.661230"
 }
