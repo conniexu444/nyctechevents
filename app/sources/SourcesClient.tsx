@@ -182,6 +182,7 @@ export default function SourcesClient({ catalog }: { catalog: EventSourceCatalog
   return (
     <div className="sources-layout">
       <Panel
+        className="sources-panel"
         title="DATA UPLINK"
         systemId="SRC-001"
         footerStats={{
@@ -224,7 +225,7 @@ export default function SourcesClient({ catalog }: { catalog: EventSourceCatalog
         </div>
       </Panel>
 
-      <Panel title="ACTIVE SOURCES" systemId="SRC-002">
+      <Panel className="sources-panel" title="ACTIVE SOURCES" systemId="SRC-002">
         <div className="sources-body">
           <div className="filter-row">
             {FILTERS.map((filter) => (
@@ -247,7 +248,7 @@ export default function SourcesClient({ catalog }: { catalog: EventSourceCatalog
         </div>
       </Panel>
 
-      <Panel title="SITE FEEDS" systemId="SRC-003">
+      <Panel className="sources-panel" title="SITE FEEDS" systemId="SRC-003">
         <div className="feeds-panel">
           <p>
             Those are inbound sources. The site also publishes its own feeds so you can
@@ -279,6 +280,10 @@ export default function SourcesClient({ catalog }: { catalog: EventSourceCatalog
           max-width: 1100px;
           margin: 1.5rem auto 2.5rem;
           padding: 0 1rem;
+        }
+
+        .sources-layout :global(.panel) {
+          height: auto;
         }
 
         .sources-intro,
@@ -398,6 +403,10 @@ export default function SourcesClient({ catalog }: { catalog: EventSourceCatalog
           .stat-row,
           .filter-row {
             grid-template-columns: repeat(2, minmax(0, 1fr));
+          }
+
+          .stat:last-child {
+            grid-column: 1 / -1;
           }
         }
 
