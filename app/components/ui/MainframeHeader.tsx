@@ -66,6 +66,10 @@ export function MainframeHeader() {
               <span className="link-icon">◎</span>
               <span className="link-text">Locations</span>
             </a>
+            <a href="/sources" className="mainframe-link" onClick={playButtonSound}>
+              <span className="link-icon">⌬</span>
+              <span className="link-text">Sources</span>
+            </a>
             <a href="/about" className="mainframe-link" onClick={playButtonSound}>
               <span className="link-icon">⎈</span>
               <span className="link-text">About</span>
@@ -258,7 +262,7 @@ export function MainframeHeader() {
 
           .mainframe-nav.open {
             display: block;
-            max-height: 300px;
+            max-height: 380px;
           }
 
           .nav-grid {
