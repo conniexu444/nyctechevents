@@ -202,7 +202,13 @@ function parseNamedDictOfDicts(
 }
 
 function parsePythonStringList(block: string): string[] {
-  return [...block.matchAll(/['"]([a-z0-9_]+)['"]/g)].map((match) => match[1]);
+  const names: string[] = [];
+  const itemRe = /['"]([a-z0-9_]+)['"]/g;
+  let match: RegExpExecArray | null;
+  while ((match = itemRe.exec(block))) {
+    names.push(match[1]);
+  }
+  return names;
 }
 
 function parseAliasMap(block: string): Record<string, string> {
@@ -303,15 +309,17 @@ export function getEventSourceCatalog(): EventSourceCatalog {
     for (const { key, value } of googleCalendars) {
       const calendarId = typeof value.id === 'string' ? value.id : '';
       const imported = calendarId.includes('@import.calendar.google.com');
+      const communityId = typeof value.community_id === 'string' ? value.community_id : undefined;
+      const community = resolveCommunity(communityId, aliases);
       sources.push(
         enrichSource(
           {
             id: `gcal_${key}`,
-            name: humanizeKey(key),
+            name: community?.name || humanizeKey(key),
             kind: 'gcal',
             kindLabel: imported ? 'Imported Google Calendar' : 'Google Calendar API',
             feedUrl: calendarId ? googleCalendarUrl(calendarId) : undefined,
-            communityId: typeof value.community_id === 'string' ? value.community_id : undefined,
+            communityId,
             ingest: imported
               ? 'Imported Google Calendar (often from Luma), read with the Google Calendar API.'
               : 'Public Google Calendar, read with the Google Calendar API.',
