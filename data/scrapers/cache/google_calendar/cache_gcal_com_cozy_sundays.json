@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_cozy_sundays_8f936b7f",
-      "name": "Cozy Sundays \u2014 Summer '26 Session VII",
-      "type": "co-working",
-      "locationId": "",
-      "communityId": "com_cozy_sundays",
-      "description": "Summer is here, and every fortnight we gather again for Cozy Sundays. You know the drill.\nhouse rules\nTo enter the space, buzz Ambrook and take the stairs. If you have accessibility needs, message a host for elevator access (key fob required)\nThe buzzer will be muted after 2:30, as it is quite loud. Please come on time to avoid disrupting the quiet work periods, and to ensure you can get in.\nBring snacks or tea to share, or a suggested donation to the snack fund to continue to support cozy sundays <3\nThe office has rooms, but they are not soundproof. So please refrain from taking calls during this session as there is limited phone booth availability.\nAmbrook is a shoes-off office! Wear your best socks :)\nPlease only RSVP if you can make it and stay the whole time.\nschedule\n2-2:30p: arrive, quick primer on the session, intros circle\n2:30-3:30p: deep work session #1\n3:30-3:45: break\n3:45-4:45p: deep work session #2\n4:45-5:30: demos - sharing ideas, works in progress, and celebrating wins\n5:30-6:00: mingle & wrap up\n~ optional ~ some of us grab dinner after!\nAbout Cozy Sundays\nWe exist to support people as they work on the things that they love but struggle to make time for \u2014 this place is not for job hunting, catching up on work, sending emails, making sales pitches or networking.\nWe fiercely protect what makes each session special because the magic only exists when we all buy in together.\nThank you Ambrook for lending us their space. Ambrook is building the financial layer powering American industry. They are hiring across roles in engineering, growth and sales.\nIf you can't make it this time but are interested in attending a future session \ud83d\udc49 subscribe to the events calendar lu.ma/cozy-sundays",
-      "startDate": "2026-09-06T18:00:00Z",
-      "endDate": "2026-09-06T21:30:00Z",
-      "category": [
-        "co-working",
-        "passion projects",
-        "community",
-        "biweekly",
-        "creative"
-      ],
-      "price": {
-        "amount": 5.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-0a211f65.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/sptjzqmb",
-        "original_event_id": "_clr78bbcahjmkij7c944gcbof5k7eci0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Cozy Sundays",
-          "website": "https://luma.com/cozy-sundays",
-          "instagram": "",
-          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://luma.com/event/evt-lTgjJgbHH1xyhw2",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Cozy Sundays",
-          "url": "https://luma.com/cozy-sundays",
-          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJjYWhqbWtpajdjOTQ0Z2Nib2Y1azdlY2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_cozy_sundays_21ae50a7",
       "name": "Cozy Sundays \u2014 Summer '26 Session VIII",
       "type": "co-working",
@@ -109,7 +54,337 @@
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE3Y3RqbmtyMWo5dDlrc2MyMmNsbjdpY2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
       }
+    },
+    {
+      "id": "evt_gcal_com_cozy_sundays_8a1baa41",
+      "name": "Cozy Sundays \u2014 Fall '26 Session I",
+      "type": "co-working",
+      "locationId": "",
+      "communityId": "com_cozy_sundays",
+      "description": "Fall has arrived, and every fortnight we gather again for Cozy Sundays. You know the drill.\nhouse rules\nTo enter the space, buzz Ambrook and take the stairs. If you have accessibility needs, message a host for elevator access (key fob required)\nThe buzzer will be muted after 2:30, as it is quite loud. Please come on time to avoid disrupting the quiet work periods, and to ensure you can get in.\nBring snacks or tea to share, or a suggested donation to the snack fund to continue to support cozy sundays <3\nThe office has rooms, but they are not soundproof. So please refrain from taking calls during this session as there is limited phone booth availability.\nAmbrook is a shoes-off office! Wear your best socks :)\nPlease only RSVP if you can make it and stay the whole time.\nschedule\n2-2:30p: arrive, quick primer on the session, intros circle\n2:30-3:30p: deep work session #1\n3:30-3:45: break\n3:45-4:45p: deep work session #2\n4:45-5:30: demos - sharing ideas, works in progress, and celebrating wins\n5:30-6:00: mingle & wrap up\n~ optional ~ some of us grab dinner after!\nAbout Cozy Sundays\nWe exist to support people as they work on the things that they love but struggle to make time for \u2014 this place is not for job hunting, catching up on work, sending emails, making sales pitches or networking.\nWe fiercely protect what makes each session special because the magic only exists when we all buy in together.\nThank you Ambrook for lending us their space. Ambrook is building the financial layer powering American industry. They are hiring across roles in engineering, growth and sales.\nIf you can't make it this time but are interested in attending a future session \ud83d\udc49 subscribe to the events calendar lu.ma/cozy-sundays",
+      "startDate": "2026-10-04T18:00:00Z",
+      "endDate": "2026-10-04T21:30:00Z",
+      "category": [
+        "co-working",
+        "passion projects",
+        "community",
+        "biweekly",
+        "creative"
+      ],
+      "price": {
+        "amount": 5.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0a211f65.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/yuzue83q",
+        "original_event_id": "_clr78baeepc54r1jdtinecraa0pkooq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cozy Sundays",
+          "website": "https://luma.com/cozy-sundays",
+          "instagram": "",
+          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-NvXRl3oew3jP3Lc",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cozy Sundays",
+          "url": "https://luma.com/cozy-sundays",
+          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFlZXBjNTRyMWpkdGluZWNyYWEwcGtvb3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_cozy_sundays_8e25b037",
+      "name": "Cozy Sundays \u2014 Fall '26 Session II",
+      "type": "co-working",
+      "locationId": "",
+      "communityId": "com_cozy_sundays",
+      "description": "Fall has arrived, and every fortnight we gather again for Cozy Sundays. You know the drill.\nhouse rules\nTo enter the space, buzz Ambrook and take the stairs. If you have accessibility needs, message a host for elevator access (key fob required)\nThe buzzer will be muted after 2:30, as it is quite loud. Please come on time to avoid disrupting the quiet work periods, and to ensure you can get in.\nBring snacks or tea to share, or a suggested donation to the snack fund to continue to support cozy sundays <3\nThe office has rooms, but they are not soundproof. So please refrain from taking calls during this session as there is limited phone booth availability.\nAmbrook is a shoes-off office! Wear your best socks :)\nPlease only RSVP if you can make it and stay the whole time.\nschedule\n2-2:30p: arrive, quick primer on the session, intros circle\n2:30-3:30p: deep work session #1\n3:30-3:45: break\n3:45-4:45p: deep work session #2\n4:45-5:30: demos - sharing ideas, works in progress, and celebrating wins\n5:30-6:00: mingle & wrap up\n~ optional ~ some of us grab dinner after!\nAbout Cozy Sundays\nWe exist to support people as they work on the things that they love but struggle to make time for \u2014 this place is not for job hunting, catching up on work, sending emails, making sales pitches or networking.\nWe fiercely protect what makes each session special because the magic only exists when we all buy in together.\nThank you Ambrook for lending us their space. Ambrook is building the financial layer powering American industry. They are hiring across roles in engineering, growth and sales.\nIf you can't make it this time but are interested in attending a future session \ud83d\udc49 subscribe to the events calendar lu.ma/cozy-sundays",
+      "startDate": "2026-10-18T18:00:00Z",
+      "endDate": "2026-10-18T21:30:00Z",
+      "category": [
+        "co-working",
+        "passion projects",
+        "community",
+        "biweekly",
+        "creative"
+      ],
+      "price": {
+        "amount": 5.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0a211f65.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/bhrzzdtm",
+        "original_event_id": "_clr78bbg8dc3idbcd8q44t3kb8qm2ia0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cozy Sundays",
+          "website": "https://luma.com/cozy-sundays",
+          "instagram": "",
+          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-pCX95lj4BttZ5aI",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cozy Sundays",
+          "url": "https://luma.com/cozy-sundays",
+          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnOGRjM2lkYmNkOHE0NHQza2I4cW0yaWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_cozy_sundays_77e1971d",
+      "name": "Cozy Sundays \u2014 Fall '26 Session III",
+      "type": "co-working",
+      "locationId": "",
+      "communityId": "com_cozy_sundays",
+      "description": "Fall has arrived, and every fortnight we gather again for Cozy Sundays. You know the drill.\nhouse rules\nTo enter the space, buzz Ambrook and take the stairs. If you have accessibility needs, message a host for elevator access (key fob required)\nThe buzzer will be muted after 2:30, as it is quite loud. Please come on time to avoid disrupting the quiet work periods, and to ensure you can get in.\nBring snacks or tea to share, or a suggested donation to the snack fund to continue to support cozy sundays <3\nThe office has rooms, but they are not soundproof. So please refrain from taking calls during this session as there is limited phone booth availability.\nAmbrook is a shoes-off office! Wear your best socks :)\nPlease only RSVP if you can make it and stay the whole time.\nschedule\n2-2:30p: arrive, quick primer on the session, intros circle\n2:30-3:30p: deep work session #1\n3:30-3:45: break\n3:45-4:45p: deep work session #2\n4:45-5:30: demos - sharing ideas, works in progress, and celebrating wins\n5:30-6:00: mingle & wrap up\n~ optional ~ some of us grab dinner after!\nAbout Cozy Sundays\nWe exist to support people as they work on the things that they love but struggle to make time for \u2014 this place is not for job hunting, catching up on work, sending emails, making sales pitches or networking.\nWe fiercely protect what makes each session special because the magic only exists when we all buy in together.\nThank you Ambrook for lending us their space. Ambrook is building the financial layer powering American industry. They are hiring across roles in engineering, growth and sales.\nIf you can't make it this time but are interested in attending a future session \ud83d\udc49 subscribe to the events calendar lu.ma/cozy-sundays",
+      "startDate": "2026-11-01T19:00:00Z",
+      "endDate": "2026-11-01T22:30:00Z",
+      "category": [
+        "co-working",
+        "passion projects",
+        "community",
+        "biweekly",
+        "creative"
+      ],
+      "price": {
+        "amount": 5.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0a211f65.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/4pt1zo1v",
+        "original_event_id": "_clr78bb2agq3iibhad3k6pi8f4qlgki0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cozy Sundays",
+          "website": "https://luma.com/cozy-sundays",
+          "instagram": "",
+          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-bT49IqSGCfHy5XR",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cozy Sundays",
+          "url": "https://luma.com/cozy-sundays",
+          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIyYWdxM2lpYmhhZDNrNnBpOGY0cWxna2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_cozy_sundays_572a2744",
+      "name": "Cozy Sundays \u2014 Fall '26 Session IV",
+      "type": "co-working",
+      "locationId": "",
+      "communityId": "com_cozy_sundays",
+      "description": "Fall has arrived, and every fortnight we gather again for Cozy Sundays. You know the drill.\nhouse rules\nTo enter the space, buzz Ambrook and take the stairs. If you have accessibility needs, message a host for elevator access (key fob required)\nThe buzzer will be muted after 2:30, as it is quite loud. Please come on time to avoid disrupting the quiet work periods, and to ensure you can get in.\nBring snacks or tea to share, or a suggested donation to the snack fund to continue to support cozy sundays <3\nThe office has rooms, but they are not soundproof. So please refrain from taking calls during this session as there is limited phone booth availability.\nAmbrook is a shoes-off office! Wear your best socks :)\nPlease only RSVP if you can make it and stay the whole time.\nschedule\n2-2:30p: arrive, quick primer on the session, intros circle\n2:30-3:30p: deep work session #1\n3:30-3:45: break\n3:45-4:45p: deep work session #2\n4:45-5:30: demos - sharing ideas, works in progress, and celebrating wins\n5:30-6:00: mingle & wrap up\n~ optional ~ some of us grab dinner after!\nAbout Cozy Sundays\nWe exist to support people as they work on the things that they love but struggle to make time for \u2014 this place is not for job hunting, catching up on work, sending emails, making sales pitches or networking.\nWe fiercely protect what makes each session special because the magic only exists when we all buy in together.\nThank you Ambrook for lending us their space. Ambrook is building the financial layer powering American industry. They are hiring across roles in engineering, growth and sales.\nIf you can't make it this time but are interested in attending a future session \ud83d\udc49 subscribe to the events calendar lu.ma/cozy-sundays",
+      "startDate": "2026-11-15T19:00:00Z",
+      "endDate": "2026-11-15T22:30:00Z",
+      "category": [
+        "co-working",
+        "passion projects",
+        "community",
+        "biweekly",
+        "creative"
+      ],
+      "price": {
+        "amount": 5.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0a211f65.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/3px2tcui",
+        "original_event_id": "_clr78bacat55egaacpl30h3a9hh7cc20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cozy Sundays",
+          "website": "https://luma.com/cozy-sundays",
+          "instagram": "",
+          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-LWJWAJfj0DjLbv0",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cozy Sundays",
+          "url": "https://luma.com/cozy-sundays",
+          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjYXQ1NWVnYWFjcGwzMGgzYTloaDdjYzIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_cozy_sundays_0c11f85e",
+      "name": "Cozy Sundays \u2014 Fall '26 Session V",
+      "type": "co-working",
+      "locationId": "",
+      "communityId": "com_cozy_sundays",
+      "description": "Fall has arrived, and every fortnight we gather again for Cozy Sundays. You know the drill.\nhouse rules\nTo enter the space, buzz Ambrook and take the stairs. If you have accessibility needs, message a host for elevator access (key fob required)\nThe buzzer will be muted after 2:30, as it is quite loud. Please come on time to avoid disrupting the quiet work periods, and to ensure you can get in.\nBring snacks or tea to share, or a suggested donation to the snack fund to continue to support cozy sundays <3\nThe office has rooms, but they are not soundproof. So please refrain from taking calls during this session as there is limited phone booth availability.\nAmbrook is a shoes-off office! Wear your best socks :)\nPlease only RSVP if you can make it and stay the whole time.\nschedule\n2-2:30p: arrive, quick primer on the session, intros circle\n2:30-3:30p: deep work session #1\n3:30-3:45: break\n3:45-4:45p: deep work session #2\n4:45-5:30: demos - sharing ideas, works in progress, and celebrating wins\n5:30-6:00: mingle & wrap up\n~ optional ~ some of us grab dinner after!\nAbout Cozy Sundays\nWe exist to support people as they work on the things that they love but struggle to make time for \u2014 this place is not for job hunting, catching up on work, sending emails, making sales pitches or networking.\nWe fiercely protect what makes each session special because the magic only exists when we all buy in together.\nThank you Ambrook for lending us their space. Ambrook is building the financial layer powering American industry. They are hiring across roles in engineering, growth and sales.\nIf you can't make it this time but are interested in attending a future session \ud83d\udc49 subscribe to the events calendar lu.ma/cozy-sundays",
+      "startDate": "2026-11-29T19:00:00Z",
+      "endDate": "2026-11-29T22:30:00Z",
+      "category": [
+        "co-working",
+        "passion projects",
+        "community",
+        "biweekly",
+        "creative"
+      ],
+      "price": {
+        "amount": 5.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0a211f65.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/pm8eqp7c",
+        "original_event_id": "_clr78bbk6krj2pr271k74t9papt4ala0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cozy Sundays",
+          "website": "https://luma.com/cozy-sundays",
+          "instagram": "",
+          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-t571gb8hru9VzEU",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cozy Sundays",
+          "url": "https://luma.com/cozy-sundays",
+          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJrNmtyajJwcjI3MWs3NHQ5cGFwdDRhbGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_cozy_sundays_a86df876",
+      "name": "Cozy Sundays \u2014 Fall '26 Session VI",
+      "type": "co-working",
+      "locationId": "",
+      "communityId": "com_cozy_sundays",
+      "description": "Fall has arrived, and every fortnight we gather again for Cozy Sundays. You know the drill.\nhouse rules\nTo enter the space, buzz Ambrook and take the stairs. If you have accessibility needs, message a host for elevator access (key fob required)\nThe buzzer will be muted after 2:30, as it is quite loud. Please come on time to avoid disrupting the quiet work periods, and to ensure you can get in.\nBring snacks or tea to share, or a suggested donation to the snack fund to continue to support cozy sundays <3\nThe office has rooms, but they are not soundproof. So please refrain from taking calls during this session as there is limited phone booth availability.\nAmbrook is a shoes-off office! Wear your best socks :)\nPlease only RSVP if you can make it and stay the whole time.\nschedule\n2-2:30p: arrive, quick primer on the session, intros circle\n2:30-3:30p: deep work session #1\n3:30-3:45: break\n3:45-4:45p: deep work session #2\n4:45-5:30: demos - sharing ideas, works in progress, and celebrating wins\n5:30-6:00: mingle & wrap up\n~ optional ~ some of us grab dinner after!\nAbout Cozy Sundays\nWe exist to support people as they work on the things that they love but struggle to make time for \u2014 this place is not for job hunting, catching up on work, sending emails, making sales pitches or networking.\nWe fiercely protect what makes each session special because the magic only exists when we all buy in together.\nThank you Ambrook for lending us their space. Ambrook is building the financial layer powering American industry. They are hiring across roles in engineering, growth and sales.\nIf you can't make it this time but are interested in attending a future session \ud83d\udc49 subscribe to the events calendar lu.ma/cozy-sundays",
+      "startDate": "2026-12-13T19:00:00Z",
+      "endDate": "2026-12-13T22:30:00Z",
+      "category": [
+        "co-working",
+        "passion projects",
+        "community",
+        "biweekly",
+        "creative"
+      ],
+      "price": {
+        "amount": 5.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0a211f65.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/arjcs1fg",
+        "original_event_id": "_clr78bahb4olgua4eoskchqf91snaca0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cozy Sundays",
+          "website": "https://luma.com/cozy-sundays",
+          "instagram": "",
+          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-QY1XyDv9FGOHyu1",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cozy Sundays",
+          "url": "https://luma.com/cozy-sundays",
+          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFoYjRvbGd1YTRlb3NrY2hxZjkxc25hY2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
+      }
     }
   ],
-  "timestamp": "2026-09-06T11:52:20.434948"
+  "timestamp": "2026-09-07T13:50:20.970591"
 }

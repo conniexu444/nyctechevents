@@ -1,109 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_86de1804",
-      "name": "Gardening on the Roof - Summer '26 Season",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/llfyehpn\n\nAddress:\nFractal Tech\nKings County, New York\nUnited States\n\nHosted by Anthony Castrio \ud83d\udcaf",
-      "startDate": "2026-09-06T14:00:00Z",
-      "endDate": "2026-09-06T16:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-c471f310.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/llfyehpn",
-        "original_event_id": "_clr78baq94q6ksqmdls4guj69d3lgua0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Friends of the Fractal Garden",
-          "website": "https://luma.com/fractal-garden",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Friends of the Fractal Garden",
-          "url": "https://luma.com/fractal-garden",
-          "image": "https://images.lumacdn.com/calendars/xw/d43b818f-b59a-4e6a-857b-72efcee06d17.jpg",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFxOTRxNmtzcW1kbHM0Z3VqNjlkM2xndWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_be4b960a",
-      "name": "NYC Code and Coffee 88 at Fractal Tech Hub: Williamsburg",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-09-06T18:00:00Z",
-      "endDate": "2026-09-06T21:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5lpkgdr7eoolaebk6t352ihgd506atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://www.meetup.com/new-york-code-coffee/events/316046666/",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxwa2dkcjdlb29sYWViazZ0MzUyaWhnZDUwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_0cee66dd",
       "name": "The Founding Debate Reading Group #8 - A Compact or a Nation?",
       "type": "tech",
@@ -209,6 +106,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxYzlyNTJkM2phOWxqYXIzNGVwbm1raWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_8307f0e5",
+      "name": "Brain performance pop-up with Pharia Health (advanced sign-up is required)",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Pharia Health is organizing a special pop-up day for the Fractal Community to access Pharia's brain performance protocols at Fractal Tech. \n\nPharia uses advanced, FDA-cleared neurotech to help your brain more easily access states of focus, presence, drive, and emotional steadiness. All protocols are led by expert physicians, and experienced in one day on-site. \n\nAdvanced sign-up is required to onboard + consult with a physician. Fractal members get an exclusive offer. Contact anna@phariahealth.com to sign up. Read more at phariahealth.com.\nProtocols are done in a private room, but Fractal community members are welcome to stop by to check it out & chat with Anna, Pharia's co-founder, about what we're doing to increase access to advanced tools for brain health & performance.",
+      "startDate": "2026-09-09T13:00:00Z",
+      "endDate": "2026-09-09T21:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-869831cd.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/rxa2vor4",
+        "original_event_id": "_clr78bb96tt7asi8cl664jrfd1k4eea0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Pharia Health",
+          "website": "https://luma.com/calendar/cal-KKVJ1RVXNBPJxr5",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Pharia Health",
+          "url": "https://luma.com/calendar/cal-KKVJ1RVXNBPJxr5",
+          "image": "https://images.lumacdn.com/calendars/mg/d2da359e-b3a7-4196-82bd-86d378637864.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI5NnR0N2FzaThjbDY2NGpyZmQxazRlZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -369,114 +320,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_fractal_215ead12",
-      "name": "Retail Leaders Reception - September Edition",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "The Retail Leaders Reception \u2014 September Edition is an intimate evening gathering for senior leaders across retail, consumer brands, and the broader commerce ecosystem. Hosted by RTM Nexus in New York City, this curated reception brings together brand and retail executives for thoughtful conversation, meaningful introductions, and relationship-building with peers shaping the future of retail.\n\nDesigned to bring the right leaders into one room, the evening offers a relaxed, intentional setting to connect and engage\u2014bringing together executives across merchandising, ecommerce, digital, marketing, partnerships, and innovation. Expect candid conversations, strong networking, and a highly curated group of operators, decision-makers, and industry peers.\n\nAttendance is strictly curated and limited to ensure a high-impact environment.\nWho should attend: Senior leaders from retail and consumer brands. All registrations are reviewed and employment is verified to maintain a high-quality attendee experience.\nApproval required: All attendees must be approved to attend. Location details will be shared upon approval.\nInterested in sponsoring? Email hello@rtmnexus.com for more info",
-      "startDate": "2026-09-16T22:00:00Z",
-      "endDate": "2026-09-17T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-c7951537.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/154yef2s",
-        "original_event_id": "_clr78bbef5m6okiad4s4siio915meoi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "RTM Nexus",
-          "website": "https://luma.com/rtmnexus",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "RTM Nexus",
-          "url": "https://luma.com/rtmnexus",
-          "image": "https://images.lumacdn.com/calendars/x2/c0d9ae03-74ce-4ce1-8451-534a5313c786.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlZjVtNm9raWFkNHM0c2lpbzkxNW1lb2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_b5289ba6",
-      "name": "September Nexus Networking Meet Up",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "A casual, pay-your-own-way networking event designed for professionals to connect, share ideas, and build lasting relationships across the broader business and technology ecosystem.\nMeet fellow professionals, expand your network, and enjoy a relaxed evening together. Food and beverages are available for individual purchase.\nWho Attends:\nFounders & startups\nPR & Agency teams\nVenture Capitalists\nConsultants\nFinance professionals\nContent & social media marketers\nMarketing technology professionals\nAttendance is limited to help keep conversations meaningful, so please apply for a spot. We look forward to meeting you!\nAbout Our Meet Ups:\nOur Meet Ups are relaxed, industry-agnostic gatherings built for professionals who want to unplug from the standard corporate routine and connect on a human level. Whether you are looking to exchange fresh perspectives, brainstorm new concepts, or simply meet peers navigating similar spaces, this environment is designed for open-ended conversation and organic relationship-building.\nWhat It Is:\nAn open, welcoming community space to meet new connections.\nAn opportunity to exchange industry perspectives and uncover unexpected collaborations.\nA low-pressure, welcoming atmosphere with no formal agenda or mandatory pitches.\nWhat It Isn\u2019t:\nRTM Nexus Meet Up is not a curated buyer/seller event and is not structured around guaranteed access to a specific target audience, vertical, company type, or decision-maker profile (ICP).\nLooking for something more targeted? If you need to connect with a specific niche\u2014such as retail, fashion, beauty, CPG, or enterprise brand leaders\u2014check out our \"Retail Leaders Receptions\" and \"Nexus Mixers\" instead. Those events are intentionally curated and sponsored around targeted audiences to provide a more focused networking experience.",
-      "startDate": "2026-09-17T22:00:00Z",
-      "endDate": "2026-09-18T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 25.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-abab6ec1.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/rtmnexus-ezuv",
-        "original_event_id": "_clr78bakadc5cebp8sr4kob5a9cnkhi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "RTM Nexus",
-          "website": "https://luma.com/rtmnexus",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "RTM Nexus",
-          "url": "https://luma.com/rtmnexus",
-          "image": "https://images.lumacdn.com/calendars/x2/c0d9ae03-74ce-4ce1-8451-534a5313c786.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFrYWRjNWNlYnA4c3I0a29iNWE5Y25raGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_cc1272c6",
       "name": "FractalU Fall Mini Classes \ud83c\udf41",
       "type": "tech",
@@ -631,6 +474,55 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJkOHRzNGVsaHBkaGs2Y2lqMWF0MG4ybHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_9260f8d8",
+      "name": "dreamlining",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-09-25T22:00:00Z",
+      "endDate": "2026-09-26T00:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5lt6sla29pa44r25ehalahpoa506atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/2YsMizUZFbFx8RAWBeaZ?c=pjdjQmZE",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWx0NnNsYTI5cGE0NHIyNWVoYWxhaHBvYTUwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1012,60 +904,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_fractal_e6c3ae2d",
-      "name": "October Nexus Networking Meet Up",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "A casual, pay-your-own-way networking event designed for professionals to connect, share ideas, and build lasting relationships across the broader business and technology ecosystem.\nMeet fellow professionals, expand your network, and enjoy a relaxed evening together. Food and beverages are available for individual purchase.\nWho Attends:\nFounders & startups\nPR & Agency teams\nVenture Capitalists\nConsultants\nFinance professionals\nContent & social media marketers\nMarketing technology professionals\nAttendance is limited to help keep conversations meaningful, so please apply for a spot. We look forward to meeting you!\nAbout Our Meet Ups:\nOur Meet Ups are relaxed, industry-agnostic gatherings built for professionals who want to unplug from the standard corporate routine and connect on a human level. Whether you are looking to exchange fresh perspectives, brainstorm new concepts, or simply meet peers navigating similar spaces, this environment is designed for open-ended conversation and organic relationship-building.\nWhat It Is:\nAn open, welcoming community space to meet new connections.\nAn opportunity to exchange industry perspectives and uncover unexpected collaborations.\nA low-pressure, welcoming atmosphere with no formal agenda or mandatory pitches.\nWhat It Isn\u2019t:\nRTM Nexus Meet Up is not a curated buyer/seller event and is not structured around guaranteed access to a specific target audience, vertical, company type, or decision-maker profile (ICP).\nLooking for something more targeted? If you need to connect with a specific niche\u2014such as retail, fashion, beauty, CPG, or enterprise brand leaders\u2014check out our \"Retail Leaders Receptions\" and \"Nexus Mixers\" instead. Those events are intentionally curated and sponsored around targeted audiences to provide a more focused networking experience.",
-      "startDate": "2026-10-21T22:00:00Z",
-      "endDate": "2026-10-22T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 45.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-bcb25941.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/rtmnexus-ti2z",
-        "original_event_id": "_clr78b9g8933gsqmb1jl8di7f4s7aq20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "RTM Nexus",
-          "website": "https://luma.com/rtmnexus",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York\nNew York, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "RTM Nexus",
-          "url": "https://luma.com/rtmnexus",
-          "image": "https://images.lumacdn.com/calendars/x2/c0d9ae03-74ce-4ce1-8451-534a5313c786.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlnODkzM2dzcW1iMWpsOGRpN2Y0czdhcTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_a542befd",
       "name": "Jhana NYC Meditation",
       "type": "tech",
@@ -1333,60 +1171,6 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4ZTFrNG1xMjhiNXM1NHVoa2Q1NjZvb2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_a19bcd5c",
-      "name": "Nexus Networking Meet Up - Holiday Celebration",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "A casual, pay-your-own-way networking event designed for professionals to connect, share ideas, and build lasting relationships across the broader business and technology ecosystem.\nMeet fellow professionals, expand your network, and enjoy a relaxed evening together. Food and beverages are available for individual purchase.\nWho Attends:\nFounders & startups\nPR & Agency teams\nVenture Capitalists\nConsultants\nFinance professionals\nContent & social media marketers\nMarketing technology professionals\nAttendance is limited to help keep conversations meaningful, so please apply for a spot. We look forward to meeting you!\nAbout Our Meet Ups:\nOur Meet Ups are relaxed, industry-agnostic gatherings built for professionals who want to unplug from the standard corporate routine and connect on a human level. Whether you are looking to exchange fresh perspectives, brainstorm new concepts, or simply meet peers navigating similar spaces, this environment is designed for open-ended conversation and organic relationship-building.\nWhat It Is:\nAn open, welcoming community space to meet new connections.\nAn opportunity to exchange industry perspectives and uncover unexpected collaborations.\nA low-pressure, welcoming atmosphere with no formal agenda or mandatory pitches.\nWhat It Isn\u2019t:\nRTM Nexus Meet Up is not a curated buyer/seller event and is not structured around guaranteed access to a specific target audience, vertical, company type, or decision-maker profile (ICP).\nLooking for something more targeted? If you need to connect with a specific niche\u2014such as retail, fashion, beauty, CPG, or enterprise brand leaders\u2014check out our \"Retail Leaders Receptions\" and \"Nexus Mixers\" instead. Those events are intentionally curated and sponsored around targete",
-      "startDate": "2026-11-18T23:00:00Z",
-      "endDate": "2026-11-19T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 15.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-1396d437.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/rtmnexus-pily",
-        "original_event_id": "_clr78b9ka55likb8ela66c2mdhlk8ui0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "RTM Nexus",
-          "website": "https://luma.com/rtmnexus",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York\nNew York, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "RTM Nexus",
-          "url": "https://luma.com/rtmnexus",
-          "image": "https://images.lumacdn.com/calendars/x2/c0d9ae03-74ce-4ce1-8451-534a5313c786.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlrYTU1bGlrYjhlbGE2NmMybWRobGs4dWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1660,5 +1444,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-06T11:52:02.207664"
+  "timestamp": "2026-09-07T13:50:03.191634"
 }
