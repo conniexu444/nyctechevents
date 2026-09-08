@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_c167724c",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2026-09-07T18:30:00-04:00",
-      "endDate": "2026-09-07T21:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053",
-        "original_event_id": "qpfkad1d0c30ru5qtu78ffpeu8_20260907T223000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=cXBma2FkMWQwYzMwcnU1cXR1NzhmZnBldThfMjAyNjA5MDdUMjIzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_d1b034a9",
       "name": "DIY Picture Mat Cutting - Make-Along This Pro Framing Element",
       "type": "hackerspace",
@@ -210,6 +157,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=YWdzaDFmbzltbzNkNjJ1Zzk4NzQ2ZG8wZGsgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_a5a0e6fb",
+      "name": "Hold: lock picking?",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-09-13T19:00:00-04:00",
+      "endDate": "2026-09-13T21:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=YzRzM2VwYjVjY3AzZWI5aGM5aDNjYjlrNmNwajZiYjJjZ3FqaWI5bGM0cDYyZGhpNmtxbTRwajZjayBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "c4s3epb5ccp3eb9hc9h3cb9k6cpj6bb2cgqjib9lc4p62dhi6kqm4pj6ck",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=YzRzM2VwYjVjY3AzZWI5aGM5aDNjYjlrNmNwajZiYjJjZ3FqaWI5bGM0cDYyZGhpNmtxbTRwajZjayBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -584,59 +584,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_40343840",
-      "name": "HOLD: Laser Cutting Class",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-09-20T13:00:00-04:00",
-      "endDate": "2026-09-20T16:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=aGswdGViZ2luZ21qMGs3MmJtc2Vzb2ZtY21fMjAyNjA5MjBUMTcwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "hk0tebgingmj0k72bmsesofmcm_20260920T170000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=aGswdGViZ2luZ21qMGs3MmJtc2Vzb2ZtY21fMjAyNjA5MjBUMTcwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_313ed32e",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -902,12 +849,12 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_33f80178",
-      "name": "HOLD: Leather Working Class",
+      "id": "evt_gcal_com_nyc_resistor_70d0de31",
+      "name": "Learn to Saddle Stitch a Leather Card Holder",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
+      "description": "RSVP https://www.eventbrite.com/e/learn-to-saddle-stitch-a-leather-card-holder-tickets-2000026546239\n\nLearn to hand-stitch leather goods by creating your own ultra-slim credit card holder.This class focuses on teaching beginners how to saddle stitch without a stitching pony (Don\u2019t worry if you don\u2019t know what that means! We\u2019ll explain everything). If you already have some leather crafting experience and want to learn a new skill or brush up on what you already know, you\u2019ll feel right at home.Pre-cut full grain leather will be provided along with the use of tools and other materials needed to complete the project. The price of the ticket covers the cost of instruction, materials, and access to tools and the hosting space.NO FOOD/GUM: Please refrain from eating, chewing gum, or sucking on mints or throat lozenges in class.LATEX ALLERGY WARNING: The glue we use contains latex. This class is not suitable for those with a severe latex allergy.\nThis class is for complete beginners and hobby leather crafters that want to learn or practice saddle stitching. Materials and tools will be provided.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
       "startDate": "2026-09-26T15:00:00-04:00",
       "endDate": "2026-09-26T18:00:00-04:00",
       "category": [
@@ -927,14 +874,14 @@
         "details": ""
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MWd1aHA5YzJzZWdlNzZ0YmdvOTUzdmR0MjYgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "1guhp9c2sege76tbgo953vdt26",
+        "source_url": "https://www.eventbrite.com/e/learn-to-saddle-stitch-a-leather-card-holder-tickets-2000026546239",
+        "original_event_id": "oc3j2gfqdr9tq4vr703pndracc",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -943,7 +890,7 @@
         },
         "venue": {
           "name": "",
-          "address": "",
+          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
           "type": "Offline"
         },
         "speakers": [],
@@ -951,7 +898,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MWd1aHA5YzJzZWdlNzZ0YmdvOTUzdmR0MjYgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=b2MzajJnZnFkcjl0cTR2cjcwM3BuZHJhY2MgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -4135,5 +4082,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-07T13:50:03.877708"
+  "timestamp": "2026-09-08T12:26:08.942036"
 }
