@@ -163,6 +163,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_south_park_commons_f6af67b2",
+      "name": "The Future of Tech Policy in CA with Steve Hilton",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "What's next for tech policy in the state of California? The rules for regulating technology were not built for a world where AI changes this fast. This conversation asks what tech policy in California needs to look like now that the old assumptions no longer hold, with CA gubernatorial candidate Steve Hilton.\n\nAgenda: \n2:30pm: Doors Open\n3:00pm-4:00pm: Fireside Chat\n\nSteve Hilton is the Republican candidate for Governor of\nCalifornia. He advanced from a crowded primary with more than\n2.2 million votes and is now taking on career politician Xavier\nBecerra in the general election.\nSteve was born in London, the son of Hungarian immigrants who\nfled communism in search of freedom and opportunity. From a\nworking-class background, he made it to Oxford University and\nwent on to a career at the highest levels of business and\ngovernment, including serving as senior advisor to British Prime\nMinister David Cameron.\nAfter immigrating to the United States and making California his\nhome, Steve taught at Stanford University, built several\nbusinesses, hosted Fox News\u2019 The Next Revolution, and founded\nGolden Together, a movement for common-sense reform in\nCalifornia. He is the author of More Human, Positive Populism, and\nCalifailure.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-09-23T22:00:00Z",
+      "endDate": "2026-09-24T00:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-448e0237.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/tech-policy-r-ca-spc",
+        "original_event_id": "_clr78b9h8dmkclq7adt72hqp64rjedi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjloOGRta2NscTdhZHQ3MmhxcDY0cmplZGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_6ad5497a",
       "name": "-1 to Physical Intelligence with Sergey Levine",
       "type": "technology",
@@ -271,5 +325,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-08T12:26:10.867446"
+  "timestamp": "2026-09-09T12:37:00.275409"
 }

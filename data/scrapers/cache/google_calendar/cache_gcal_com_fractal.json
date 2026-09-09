@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_0cee66dd",
-      "name": "The Founding Debate Reading Group #8 - A Compact or a Nation?",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "A Compact or a Nation?\nIn 2026, the United States turns 250. Across eight weeks we're reading the founders in their own words \u2014 the arguments they had with each other about liberty, power, and the system of government they were building.\nThe question in our final week: what is the thing the Constitution made - a compact among sovereign states, or a nation? And did the experiment hold?\nWashington's Farewell Address (1796) \u2014 the first president declines a third term, which was the most consequential thing he ever did, and then warns against the two forces he thinks will break the Union: party spirit and sectional feeling.\nThe Kentucky and Virginia Resolutions (1798\u201399) \u2014 twenty-six months later, his own Secretary of State and the man who drafted his first inaugural answer him. The Constitution is a compact, the states are the parties, and each may judge for itself when it has been broken. Kentucky supplies the word: nullification. Written in a good cause \u2014 the Alien and Sedition Acts were a disgrace \u2014 and it becomes the constitutional argument for secession.\nThe Corner-Stone speech (1861) \u2014 three weeks before Fort Sumter, the Vice-President of the Confederacy explains what his government is founded on. He does not claim the founders. He says they believed slavery was wrong in principle, that they rested their government on the equality of men, and that in believing so they were mistaken.\nThe Gettysburg Address (1863) \u2014 272 words that date the nation to 1776 rather than 1787, and to the Declaration rather than the Constitution. Lincoln agrees with Stephens about what the founders believed and disagrees about whether they were right. Both men are claiming the same fathers.\nThe Second Inaugural (1865) \u2014 the same man, six weeks from death, with the war effectively won, declining to claim the vindication that was by then in his hands.\nDownload this week's reader here: masonmelead.com/foundingwk8.pdf",
-      "startDate": "2026-09-08T22:30:00Z",
-      "endDate": "2026-09-09T00:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-09871e7d.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/27h4c16o",
-        "original_event_id": "_clr78b9ia1rj4opkc9266ibk75p76t20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Mason Melead",
-          "website": "https://luma.com/user/usr-4BqWT7Ft7quU7Tr",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Mason Melead",
-          "url": "https://luma.com/user/usr-4BqWT7Ft7quU7Tr",
-          "image": "https://cdn.lu.ma/avatars-default/avatar_15.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlpYTFyajRvcGtjOTI2Nmliazc1cDc2dDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_d7958d81",
-      "name": "We Can Just Do Things \ud83d\ude4c",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "https://a.co/d/0hjIeG31\n'You can just do things' is the sort of book that could have a great impact on our lives - but only if we make that change happen!\nLet's meetup to apply the practices in this book and hold each other accountable to making the dream happen \ud83d\udcaa",
-      "startDate": "2026-09-08T23:00:00Z",
-      "endDate": "2026-09-09T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-cfdbf857.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/bnfw3gqf",
-        "original_event_id": "_clr78bbqc9r52d3ja9ljar34epnmkii0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Ian Howe",
-          "website": "https://luma.com/user/iwhowe77",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Ian Howe",
-          "url": "https://luma.com/user/iwhowe77",
-          "image": "https://images.lumacdn.com/avatars/72/63b4ef0f-163d-47da-ba5a-00fcfa085ca3.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxYzlyNTJkM2phOWxqYXIzNGVwbm1raWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_8307f0e5",
       "name": "Brain performance pop-up with Pharia Health (advanced sign-up is required)",
       "type": "tech",
@@ -266,6 +158,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_e31f8a91",
+      "name": "Hearth Social",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Get up-to-date information at: https://luma.com/ml36fjeg\n\nAddress:\n111 Conselyea St\nBrooklyn, NY\nUnited States\n\nHosted by Crystal Duan",
+      "startDate": "2026-09-11T23:00:00Z",
+      "endDate": "2026-09-12T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0e415e58.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/ml36fjeg",
+        "original_event_id": "_clr78b9jd137ch24b14n4lhi8kr7ioa0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Crystal Duan",
+          "website": "https://luma.com/user/usr-crAg6RIpknXo4Co",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Crystal Duan",
+          "url": "https://luma.com/user/usr-crAg6RIpknXo4Co",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_17.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlqZDEzN2NoMjRiMTRuNGxoaThrcjdpb2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_5a569595",
       "name": "Private Event",
       "type": "tech",
@@ -325,7 +271,7 @@
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
-      "description": "Join us for an afternoon of pursuing your personal side quest! Whether you\u2019re writing, coding, or doing those taxes you\u2019ve been putting off, this is your space. It\u2019s intentional time for you to focus on what feels meaningful to you\u2014and meet people doing the same thing. We\u2019ll split our time between focused work sessions and breaks to reset and mingle with other creators.\nRough Agenda*\n2:30-3:00pm: Introductions and Intention Sharing\n3:00-4:30pm: Deep Focus Session 1\n4:30-4:50pm: Optional Break\n4:50-5:30pm: Deep Focus Session 2\n5:30-6:00pm: Optional Show and Tell\n*Popular opinion is that SideQuest is best when you\u2019re all in, showing up for the duration instead of splitting sessions. Try it\u2014we think you\u2019ll agree.\n___________________\n\nAbout SideQuest:\nWe host coworking sessions every other Sunday. Subscribe to our events calendar if you can\u2019t make this one :)\nIf you've got ideas for how to help build the community, or you'd like to host a future SideQuest (it's easier than you might think!), we'd love to hear from you.\nThank you to Fractal Campus for hosting us, our friends at PurdueHackers, CozySundays and Socratica for seeding the idea, and Chandiran for building the SideQuest community.",
+      "description": "Join us for an afternoon of pursuing your personal side quest! Whether you\u2019re writing, coding, or doing those taxes you\u2019ve been putting off, this is your space. It\u2019s intentional time for you to focus on what feels meaningful to you and meet people doing the same thing. We\u2019ll split our time between focused work sessions and breaks to reset and mingle with other creators.\nRough Agenda*\n2:30-3:00pm: Introductions and Intention Sharing\n3:00-4:00pm: Deep Focus Session 1\n4:00-4:20pm: Optional Break\n4:20-5:30pm: Deep Focus Session 2\n5:30-6:00pm: Optional Show and Tell\n*Popular opinion is that SideQuest is best when you\u2019re all in, showing up for the duration instead of splitting sessions. Try it\u2014we think you\u2019ll agree.\n___________________\n\nAbout SideQuest:\nWe host coworking sessions every other Sunday. Subscribe to our events calendar if you can\u2019t make this one :)\nIf you've got ideas for how to help build the community, or you'd like to host a future SideQuest (it's easier than you might think!), we'd love to hear from you.\nThank you to Fractal Campus for hosting us, our friends at PurdueHackers, CozySundays and Socratica for seeding the idea, and Chandiran for building the SideQuest community.",
       "startDate": "2026-09-13T18:30:00Z",
       "endDate": "2026-09-13T22:00:00Z",
       "category": [
@@ -371,60 +317,6 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlsYWw3NHVvaWQ2OWhuMmxyZDZ0YWtjcDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_ebfad5f4",
-      "name": "WORLD\u2019S THIRD BRAIN PONG TOURNAMENT",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "PLAY PONG WITH ONLY YOUR EYES\n\u2694\ufe0f vie for glory in front of an admiring crowd!\n\ud83c\udfc6 compete for the brain pong trophy!\n\ud83e\udd16 become one with the machine via EOG!\nCompetitors: please show up 30 minutes early and wear minimal makeup. I'll put electrodes on your face and let you practice playing the game. Read more about risks here. The tournament format will be a best-of-1 single-elimination bracket.\nSpectators: all are welcome! come, relax, and watch humans use their bodies as controllers to play Pong.\n\ud83d\udc41\ufe0f spherical \ud83d\udc41\ufe0f snacks will be provided",
-      "startDate": "2026-09-14T22:00:00Z",
-      "endDate": "2026-09-15T00:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-94611d9a.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/0zjiijco",
-        "original_event_id": "_clr78bapalmncj1lc4slgkrc9gs4sd20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "John Hoeksema",
-          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "John Hoeksema",
-          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFwYWxtbmNqMWxjNHNsZ2tyYzlnczRzZDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -636,60 +528,6 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJrZTUxNzJxMjllaHAzYXJpbTZwZDYyc2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_a7e516ac",
-      "name": "Data Salon: AI and Labor",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners. This event will go beyond the hype and inspect the potential impact of AI on labor from well-informed business perspectives both on the ground and systemic.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nDetails on our speakers below:\n\nEmil's Remarks:\nThe future of AI is not predetermined; systems engineers/ entrepreneurs have choices, eg, about how to design technical systems that put people at the center. I will share my opinions about best practices in human-AI hybrid systems designs, at scale. \n\nAbout Emil:\nChronologically: quantitative psychology -> computational sociology -> chemicals and grocery supply chain machine learning -> climate finance entrepreneur -> hybrid human-AI knowledge systems engineer. Whoa! I design complex systems that model complex system, with applications in corporate forecasting.\nBen's remarks:\n\u2022 My role at KUNGFU\n\u2022 Some speculation about the future of work (i.e., things like Baumol\u2019s cost disease, work becoming more relational, rate of change, etc)\n\u2022 But specifically, what are common challenges facing organizations today?\n\u2022 How human-machine teaming is one approach to solving these challenges\n\u2022 Some of the qualities that matter the most today and going forward (e.g., ethical judgement)  effective leadership\n\u2022 What does it mean to be a good data practitioner today?\n\nAbout Ben:\nBen Szuhaj is an AI strategist passionate about helping organizations navigate AI transformation. At KUNGFU.AI, Ben works with leaders to develop and implement practical AI strategies that deliver tangible business value. Ben holds a BA in English and human-centered design from Dartmouth College, where he won the Mecklin Prize for creative nonfiction, and is a competitive long-distance runner.",
-      "startDate": "2026-09-22T22:30:00Z",
-      "endDate": "2026-09-23T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-ce8abf4e.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/t0jdp8hv",
-        "original_event_id": "_clr78bbd8ts4elhpdhk6cij1at0n2lq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Akpanoluo Etteh",
-          "website": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Akpanoluo Etteh",
-          "url": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
-          "image": "https://images.lumacdn.com/avatars/ge/7a2cd2ea-ee03-4613-bdf3-7959363cec26.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJkOHRzNGVsaHBkaGs2Y2lqMWF0MG4ybHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1067,7 +905,7 @@
     },
     {
       "id": "evt_gcal_com_fractal_89efa15a",
-      "name": "\u2660\ufe0fPoker Strategy (FractalU Class)\u2665\ufe0f- Session 1",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 1",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
@@ -1113,7 +951,7 @@
         "luma_host": {
           "name": "Alex Pinheiro",
           "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "image": "https://cdn.lu.ma/avatars-default/avatar_1.png",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFiOGtya3VpcmI2bDU1aWRpbWU5ajRhcWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
@@ -1390,6 +1228,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_82c3a00d",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 2",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
+      "startDate": "2026-10-08T23:00:00Z",
+      "endDate": "2026-10-09T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-76645d9e.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/cuhqmngi",
+        "original_event_id": "_clr78baa6hm6qcq1chhkuu1kd17nee20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Alex Pinheiro",
+          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Alex Pinheiro",
+          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhNmhtNnFjcTFjaGhrdXUxa2QxN25lZTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_ea996fbe",
       "name": "Private Event",
       "type": "tech",
@@ -1606,6 +1498,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_7366d4a1",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 3",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
+      "startDate": "2026-10-15T23:00:00Z",
+      "endDate": "2026-10-16T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-98e01de3.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/yifjuydl",
+        "original_event_id": "_clr78ba9f1ik8da5b5b7clj2d1l3aj20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Alex Pinheiro",
+          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Alex Pinheiro",
+          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE5ZjFpazhkYTViNWI3Y2xqMmQxbDNhajIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_7fd8a41d",
       "name": "Private Event",
       "type": "tech",
@@ -1657,6 +1603,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnNjhzNTZqaWo2NHJuNm9yNjYxam1pdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_8ce37450",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 4",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
+      "startDate": "2026-10-22T23:00:00Z",
+      "endDate": "2026-10-23T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-30069875.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/uomy4h7w",
+        "original_event_id": "_clr78baae5gk6kpjdsrmcchhe16n8r20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Alex Pinheiro",
+          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Alex Pinheiro",
+          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhZTVnazZrcGpkc3JtY2NoaGUxNm44cjIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1768,6 +1768,114 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_fc084b26",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 5",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
+      "startDate": "2026-10-29T23:00:00Z",
+      "endDate": "2026-10-30T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-eb0868dd.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/19jfnir1",
+        "original_event_id": "_clr78bbgdcpm8l3a6lp32r27f5n4qma0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Alex Pinheiro",
+          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Alex Pinheiro",
+          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnZGNwbThsM2E2bHAzMnIyN2Y1bjRxbWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_6e8c7557",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 6",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
+      "startDate": "2026-11-06T00:00:00Z",
+      "endDate": "2026-11-06T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-5d657d8c.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nexzyjo8",
+        "original_event_id": "_clr78bbocpa7ggakcp8k6ibcd50n4s20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Alex Pinheiro",
+          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Alex Pinheiro",
+          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJvY3BhN2dnYWtjcDhrNmliY2Q1MG40czIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_d44d5d18",
       "name": "Context Engineering Guild: November Edition",
       "type": "tech",
@@ -1876,6 +1984,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_e570bd95",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 7",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
+      "startDate": "2026-11-13T00:00:00Z",
+      "endDate": "2026-11-13T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-01575196.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/hx597okp",
+        "original_event_id": "_clr78ba4cpl6qjbjetcj4gibf56nimi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Alex Pinheiro",
+          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Alex Pinheiro",
+          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE0Y3BsNnFqYmpldGNqNGdpYmY1Nm5pbWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_59240598",
       "name": "NYC Physical AI, ML, and Computer Vision Meetup",
       "type": "tech",
@@ -1927,6 +2089,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4ZTFrNG1xMjhiNXM1NHVoa2Q1NjZvb2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_679caec4",
+      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 8",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
+      "startDate": "2026-11-20T00:00:00Z",
+      "endDate": "2026-11-20T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-01575196.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/sbniif7r",
+        "original_event_id": "_clr78ba28l3n0chi90o3ega46pb4ici0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Alex Pinheiro",
+          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Alex Pinheiro",
+          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
+          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOGwzbjBjaGk5MG8zZWdhNDZwYjRpY2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2200,5 +2416,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-08T12:26:08.419282"
+  "timestamp": "2026-09-09T12:36:57.424237"
 }
