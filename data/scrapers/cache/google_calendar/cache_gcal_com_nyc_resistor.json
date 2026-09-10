@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_d1b034a9",
-      "name": "DIY Picture Mat Cutting - Make-Along This Pro Framing Element",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/diy-picture-mat-cutting-make-along-this-pro-framing-element-tickets-1998236764955\n\nLearn how to bevel cut mat board to give your photos and art that professional look! Mat board, foam, and pro-grade cutter access provided.Learn how to bevel cut mat board to give your photos and art that professional look!\nDo you have an awkwardly sized photo or piece of art that doesn't fit in a standard frame? Or do you want to save $$ by matting and framing your art yourself instead of taking it to a frame shop? Well, this make-a-long is for you! Learn how to use a Logan Mat Cutter to cut a beveled window in mat board to make your art and photos look professional. Mat board and foam board backing will be provided (frames will not be provided).\nMat board provided will be 11x14 inches, so please bring one image that is around 8x10 inches. Mat cutter will be available to use after the class on our regular public nights.\nThis class will be lead by Resistor member, Olivia. She is the founder of www.makephilia.com, a femme forward workshop series for learning skills in electronics and materials.  As a photogrpahy major at RIT she cut soooo many matts, so many. \nThis will be a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
-      "startDate": "2026-09-09T19:30:00-04:00",
-      "endDate": "2026-09-09T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "See event description for pricing details"
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/diy-picture-mat-cutting-make-along-this-pro-framing-element-tickets-1998236764955",
-        "original_event_id": "ugs551ntco1vged5p3623q12bg",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=dWdzNTUxbnRjbzF2Z2VkNXAzNjIzcTEyYmcgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_9c6562fb",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -475,6 +422,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=ZWVkZDBkNDI2Nzc5NDEzZjliZTZiZDMwN2E5OTE3NDggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_9d0e2dd4",
+      "name": "Drum Leaf Binding: Books That Open Flat",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/drum-leaf-binding-books-that-open-flat-tickets-2000344444080\n\nLearn how to make books that lay flat with a cool drum leaf binding technique in this fun, hands-on workshop.A drum leaf bound book is one where each spread is a single folded sheet, glued along its back to the sheet next to it, with no sewing and no press required. The result opens completely flat. Because nothing is stitched through the fold, an image can run across the center of a spread without a break, which makes this the natural structure for risograph, screen print, photography, and anything coming off a plotter.\nIn one evening you will build a complete book: fold and collate a text block, glue it up, and case it in with a quarter cloth cover and a throwback spine. Boards come precut on the laser, so all of our time goes into the structure itself.\nWe will also look at the two folded page structures drum leaf descends from, the Japanese album and the butterfly book, so you can see why the assembly works the way it does.\nNo bookbinding experience needed. All materials provided. Bring printed pages of your own if you have them (5.5 \u00d7 8.5 inches, folded to 5.5 \u00d7 4.25 inches) and bind your own work instead of blank paper.This workshop is taught by Woody Poulard who is an artist/musician of Haitian descent who creates audio-reactive visual installations, generative art, and sculptural works alongside lifelong instrumental practice in saxophone and percussion. His visual practice spans digital and physical mediums including pen plotting, risograph printing, and poster design, creating tangible artifacts from algorithmic and generative processes.\n\n\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/\n\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-09-18T19:00:00-04:00",
+      "endDate": "2026-09-18T21:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/drum-leaf-binding-books-that-open-flat-tickets-2000344444080",
+        "original_event_id": "ov4op6r5spthoj6l8tdsi40p3c",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=b3Y0b3A2cjVzcHRob2o2bDh0ZHNpNDBwM2MgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -4188,5 +4188,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-09T12:36:58.036819"
+  "timestamp": "2026-09-10T12:32:05.831628"
 }

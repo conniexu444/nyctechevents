@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_8307f0e5",
-      "name": "Brain performance pop-up with Pharia Health (advanced sign-up is required)",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Pharia Health is organizing a special pop-up day for the Fractal Community to access Pharia's brain performance protocols at Fractal Tech. \n\nPharia uses advanced, FDA-cleared neurotech to help your brain more easily access states of focus, presence, drive, and emotional steadiness. All protocols are led by expert physicians, and experienced in one day on-site. \n\nAdvanced sign-up is required to onboard + consult with a physician. Fractal members get an exclusive offer. Contact anna@phariahealth.com to sign up. Read more at phariahealth.com.\nProtocols are done in a private room, but Fractal community members are welcome to stop by to check it out & chat with Anna, Pharia's co-founder, about what we're doing to increase access to advanced tools for brain health & performance.",
-      "startDate": "2026-09-09T13:00:00Z",
-      "endDate": "2026-09-09T21:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-869831cd.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/rxa2vor4",
-        "original_event_id": "_clr78bb96tt7asi8cl664jrfd1k4eea0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Pharia Health",
-          "website": "https://luma.com/calendar/cal-KKVJ1RVXNBPJxr5",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Pharia Health",
-          "url": "https://luma.com/calendar/cal-KKVJ1RVXNBPJxr5",
-          "image": "https://images.lumacdn.com/calendars/mg/d2da359e-b3a7-4196-82bd-86d378637864.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI5NnR0N2FzaThjbDY2NGpyZmQxazRlZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_79c80197",
-      "name": "Fall Orientation",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Welcome to the fall semester of Fractal Campus and Maximum New York! This fall will be anchored by cohort 16 of Foundations of New York, cohort 3 of Foundations of the Liberal Arts, and cohort 2 of the Fractal Accelerator!\nThe orientation will be a chance to meet other students, meet alumni, meet esteemed guests, see where your class will be held, and have a great time in a lovely space.\nThe approximate order of the evening:\n6:30-7:00pm: arrival (grab a name tag and some snacks)\n~7:00pm: a brief presentation by Daniel from Maximum New York and Andrew and Liam from Fractal Campus.\n~7:30pm onward: socializing, scheming, and having a great time\nDress code:\nSmart casual or business formal. If you think to yourself \"what does that mean,\" then wear what you think it means, and it'll probably be OK. Some people will be in suits, some people will be in jeans and a button down, some people will have great heels, others smart flats.\n+1s are welcome, just have them register",
-      "startDate": "2026-09-09T22:30:00Z",
-      "endDate": "2026-09-10T00:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-1384d093.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/maximum-2986",
-        "original_event_id": "_clr78bbp8dpk6chp6584crj26l87kh20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Maximum New York",
-          "website": "https://luma.com/maximumnewyork",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Maximum New York",
-          "url": "https://luma.com/maximumnewyork",
-          "image": "https://images.lumacdn.com/calendars/o5/066f5816-f982-46c3-ba46-7ab6b849a05e",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJwOGRwazZjaHA2NTg0Y3JqMjZsODdraDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_e0b7cae4",
       "name": "schizo open mic #02",
       "type": "tech",
@@ -2416,5 +2308,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-09T12:36:57.424237"
+  "timestamp": "2026-09-10T12:32:05.245809"
 }
