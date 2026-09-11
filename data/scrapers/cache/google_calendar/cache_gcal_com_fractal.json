@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_e0b7cae4",
-      "name": "schizo open mic #02",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-09-10T23:00:00Z",
-      "endDate": "2026-09-11T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5ll70khmddsn4ia695mj6gicch06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/gxDxXETMb09dSzeDJA4E",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxsNzBraG1kZHNuNGlhNjk1bWo2Z2ljY2gwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_e31f8a91",
       "name": "Hearth Social",
       "type": "tech",
@@ -158,6 +109,55 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_c0ddd608",
+      "name": "fractal brunch",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-09-13T15:00:00Z",
+      "endDate": "2026-09-13T17:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5l2kspjc6d3l2shlb9nk4ii66d06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/VGhsBnrwiX1sib4uenlH",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWwya3NwamM2ZDNsMnNobGI5bms0aWk2NmQwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_b49ada2b",
       "name": "SideQuest IRL #45",
       "type": "tech",
@@ -263,6 +263,114 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzZDRyM2VnYXE5aGptMnBqOWQ5cWsyc2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_fe12e0a2",
+      "name": "Brain performance pop-up with Pharia Health (advanced sign-up is required)",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Pharia Health is organizing a special pop-up day for the Fractal Community to access Pharia's brain performance protocols at Fractal Tech. \n\nPharia uses advanced, FDA-cleared neurotech to help your brain more easily access states of focus, presence, drive, and emotional steadiness. All protocols are led by expert physicians, and experienced in one day on-site. \n\nAdvanced sign-up is required to onboard + consult with a physician. Fractal members get an exclusive offer. Contact anna@phariahealth.com to sign up. Read more at phariahealth.com.\nProtocols are done in a private room, but Fractal community members are welcome to stop by to check it out & chat with Anna, Pharia's co-founder, about what we're doing to increase access to advanced tools for brain health & performance.",
+      "startDate": "2026-09-17T13:00:00Z",
+      "endDate": "2026-09-17T21:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-869831cd.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/yo11t6k1",
+        "original_event_id": "_clr78baddoom2ciod8s70j2acoo5cta0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Pharia Health",
+          "website": "https://luma.com/calendar/cal-KKVJ1RVXNBPJxr5",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Pharia Health",
+          "url": "https://luma.com/calendar/cal-KKVJ1RVXNBPJxr5",
+          "image": "https://images.lumacdn.com/calendars/mg/d2da359e-b3a7-4196-82bd-86d378637864.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFkZG9vbTJjaW9kOHM3MGoyYWNvbzVjdGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_ebfad5f4",
+      "name": "WORLD\u2019S THIRD BRAIN PONG TOURNAMENT",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "PLAY PONG WITH ONLY YOUR EYES\n\u2694\ufe0f vie for glory in front of an admiring crowd!\n\ud83c\udfc6 compete for the brain pong trophy!\n\ud83e\udd16 become one with the machine via EOG!\nCompetitors: please show up 30 minutes early and wear minimal makeup. I'll put electrodes on your face and let you practice playing the game. Read more about risks here. The tournament format will be a best-of-1 single-elimination bracket.\nSpectators: all are welcome! come, relax, and watch humans use their bodies as controllers to play Pong.\n\ud83d\udc41\ufe0f spherical \ud83d\udc41\ufe0f snacks will be provided",
+      "startDate": "2026-09-18T22:00:00Z",
+      "endDate": "2026-09-19T00:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-94611d9a.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/0zjiijco",
+        "original_event_id": "_clr78bapalmncj1lc4slgkrc9gs4sd20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "John Hoeksema",
+          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "John Hoeksema",
+          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFwYWxtbmNqMWxjNHNsZ2tyYzlnczRzZDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -474,6 +582,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlYWgxNnVpcTRlcGg0a21paGY4cjc2a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_a7e516ac",
+      "name": "Data Salon: AI and Labor",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners. This event will go beyond the hype and inspect the potential impact of AI on labor from well-informed business perspectives both on the ground and systemic.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nDetails on our speakers below:\n\nEmil's Remarks:\nThe future of AI is not predetermined; systems engineers/ entrepreneurs have choices, eg, about how to design technical systems that put people at the center. I will share my opinions about best practices in human-AI hybrid systems designs, at scale. \n\nAbout Emil:\nChronologically: quantitative psychology -> computational sociology -> chemicals and grocery supply chain machine learning -> climate finance entrepreneur -> hybrid human-AI knowledge systems engineer. Whoa! I design complex systems that model complex system, with applications in corporate forecasting.\nBen's remarks:\n\u2022 My role at KUNGFU\n\u2022 Some speculation about the future of work (i.e., things like Baumol\u2019s cost disease, work becoming more relational, rate of change, etc)\n\u2022 But specifically, what are common challenges facing organizations today?\n\u2022 How human-machine teaming is one approach to solving these challenges\n\u2022 Some of the qualities that matter the most today and going forward (e.g., ethical judgement)  effective leadership\n\u2022 What does it mean to be a good data practitioner today?\n\nAbout Ben:\nBen Szuhaj is an AI strategist passionate about helping organizations navigate AI transformation. At KUNGFU.AI, Ben works with leaders to develop and implement practical AI strategies that deliver tangible business value. Ben holds a BA in English and human-centered design from Dartmouth College, where he won the Mecklin Prize for creative nonfiction, and is a competitive long-distance runner.",
+      "startDate": "2026-09-24T22:30:00Z",
+      "endDate": "2026-09-25T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-57136cc8.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/t0jdp8hv",
+        "original_event_id": "_clr78bbd8ts4elhpdhk6cij1at0n2lq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Akpanoluo Etteh",
+          "website": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Akpanoluo Etteh",
+          "url": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
+          "image": "https://images.lumacdn.com/avatars/ge/7a2cd2ea-ee03-4613-bdf3-7959363cec26.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJkOHRzNGVsaHBkaGs2Y2lqMWF0MG4ybHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1120,6 +1282,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_66ce27b7",
+      "name": "Vajrayana: An Introduction - Session 1",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
+      "startDate": "2026-10-07T23:00:00Z",
+      "endDate": "2026-10-08T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-10611987.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/hyu791hk",
+        "original_event_id": "_clr78ba28t6jepj8a4rkicplcl8j0hi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Andrew Blevins",
+          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Andrew Blevins",
+          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOHQ2amVwajhhNHJraWNwbGNsOGowaGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_82c3a00d",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 2",
       "type": "tech",
@@ -1390,6 +1606,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_b6d6f91e",
+      "name": "Vajrayana: An Introduction - Session 2",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
+      "startDate": "2026-10-14T23:00:00Z",
+      "endDate": "2026-10-15T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-d42c8ade.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/0zfuybzq",
+        "original_event_id": "_clr78bac6l476ebn8p34crb5ct5jgui0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Andrew Blevins",
+          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Andrew Blevins",
+          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjNmw0NzZlYm44cDM0Y3JiNWN0NWpndWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_7366d4a1",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 3",
       "type": "tech",
@@ -1495,6 +1765,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnNjhzNTZqaWo2NHJuNm9yNjYxam1pdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_fa2e7050",
+      "name": "Vajrayana: An Introduction - Session 3",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
+      "startDate": "2026-10-21T23:00:00Z",
+      "endDate": "2026-10-22T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-ed6566dd.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/sps3j81b",
+        "original_event_id": "_clr78bacehqkiibn95c30kr28hs66pa0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Andrew Blevins",
+          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Andrew Blevins",
+          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjZWhxa2lpYm45NWMzMGtyMjhoczY2cGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1660,6 +1984,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_4db21c7a",
+      "name": "Vajrayana: An Introduction - Session 4",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
+      "startDate": "2026-10-28T23:00:00Z",
+      "endDate": "2026-10-29T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-af45690f.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/na5xfie4",
+        "original_event_id": "_clr78bbg9dmn4gr6cco7kk2gasp3it20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Andrew Blevins",
+          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Andrew Blevins",
+          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnOWRtbjRncjZjY283a2syZ2FzcDNpdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_fc084b26",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 5",
       "type": "tech",
@@ -1711,6 +2089,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnZGNwbThsM2E2bHAzMnIyN2Y1bjRxbWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_e5e40bfb",
+      "name": "Vajrayana: An Introduction - Session 5",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
+      "startDate": "2026-11-05T00:00:00Z",
+      "endDate": "2026-11-05T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-b9b6ce05.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/r4ffw69w",
+        "original_event_id": "_clr78bb6d1n74qri95ol4spoa954alq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Andrew Blevins",
+          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Andrew Blevins",
+          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI2ZDFuNzRxcmk5NW9sNHNwb2E5NTRhbHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1873,6 +2305,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJuZXBtajRrcjU3NWw0a2wxZzg5NmpncGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_281239a5",
+      "name": "Vajrayana: An Introduction - Session 6",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
+      "startDate": "2026-11-12T00:00:00Z",
+      "endDate": "2026-11-12T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-82544638.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/4johjpha",
+        "original_event_id": "_clr78b9pdtojcphjcpjmucij8p4kqia0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Andrew Blevins",
+          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Andrew Blevins",
+          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
+          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlwZHRvamNwaGpjcGptdWNpajhwNGtxaWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2308,5 +2794,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-10T12:32:05.245809"
+  "timestamp": "2026-09-11T12:29:43.562206"
 }

@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_f0512475",
-      "name": "EA Data & Tech Meetup",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "Come join other effective altruists (EAs) working in data and tech for a casual meet up at Juke Bar. Hope to see you there!",
-      "startDate": "2026-09-10T18:30:00-04:00",
-      "endDate": "2026-09-10T20:30:00-04:00",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-73d44d97.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/y7eqdk4x",
-        "original_event_id": "37v4aibri0njk868bu3ukms2lb",
-        "organizer": {
-          "name": "EA NYC",
-          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Juke Bar\nJuke Bar, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "EA NYC",
-          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=Mzd2NGFpYnJpMG5qazg2OGJ1M3VrbXMybGIgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_d9922e74",
       "name": "EA NYC Beginner-Friendly Summer Hike #2!",
       "type": "effective altruism",
@@ -908,5 +854,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-10T12:31:48.715700"
+  "timestamp": "2026-09-11T12:29:17.888939"
 }
