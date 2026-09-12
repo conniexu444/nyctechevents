@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_e31f8a91",
-      "name": "Hearth Social",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/ml36fjeg\n\nAddress:\n111 Conselyea St\nBrooklyn, NY\nUnited States\n\nHosted by Crystal Duan",
-      "startDate": "2026-09-11T23:00:00Z",
-      "endDate": "2026-09-12T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-0e415e58.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/ml36fjeg",
-        "original_event_id": "_clr78b9jd137ch24b14n4lhi8kr7ioa0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Crystal Duan",
-          "website": "https://luma.com/user/usr-crAg6RIpknXo4Co",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Crystal Duan",
-          "url": "https://luma.com/user/usr-crAg6RIpknXo4Co",
-          "image": "https://cdn.lu.ma/avatars-default/avatar_17.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlqZDEzN2NoMjRiMTRuNGxoaThrcjdpb2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_5a569595",
       "name": "Private Event",
       "type": "tech",
@@ -2794,5 +2740,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-11T12:29:43.562206"
+  "timestamp": "2026-09-12T11:50:32.264474"
 }

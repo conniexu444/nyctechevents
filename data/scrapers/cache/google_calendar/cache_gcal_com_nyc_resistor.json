@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_f54bbece",
-      "name": "Soft Robotics: An Intro Talk for Curious Artists/Tinkerers",
+      "id": "evt_gcal_com_nyc_resistor_57712c14",
+      "name": "Hold for Adelle ",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/soft-robotics-an-intro-talk-for-curious-artiststinkerers-tickets-1999421190604\n\nA lighthearted lecture with serious learning about the field of soft robotics, what softness is, and a playful approach to materiality.Precisely because the full potential of the emerging field of soft systems, particularly soft actuators, is unrealized, there are countless opportunities for curious innovators to discover or develop their own soft systems. This talk covers concepts from soft robotics such as:\nWhat is soft robotics?What is it good for?What is material softness?How can material play inspire us to explore novel creations?How can we look at familiar and new materials with fresh eyes?This talk is for anyone curious about soft robotics, and who is open to play. This lecture with have things to touch, and objects for play, but will not feature any hands-on fabrication.\nSuggested Donation $15\nSpeaker:\nKari Love has been teaching a popular soft robotics for artists course at NYU for nearly 10 years, and was the co-author of Make: Soft Robotics - A DIY Introduction to Squishy, Stretchable, and Flexible Robots. She has made functional space suits, costumes/wearables, puppets, robots from candy, and countless other soft things.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-09-11T19:00:00-04:00",
-      "endDate": "2026-09-11T21:00:00-04:00",
+      "description": "",
+      "startDate": "2026-09-13T10:00:00-04:00",
+      "endDate": "2026-09-13T17:00:00-04:00",
       "category": [
         "hackerspace",
         "maker",
@@ -20,20 +20,20 @@
         "robotics"
       ],
       "price": {
-        "amount": 15.0,
-        "type": "Paid",
+        "amount": 0,
+        "type": "Free",
         "currency": "USD",
-        "details": "See event description for pricing details"
+        "details": ""
       },
       "capacity": null,
-      "registrationRequired": true,
+      "registrationRequired": null,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/soft-robotics-an-intro-talk-for-curious-artiststinkerers-tickets-1999421190604",
-        "original_event_id": "agsh1fo9mo3d62ug98746do0dk",
+        "source_url": "https://www.google.com/calendar/event?eid=NGhjOTU4MTdlaHFndnA2cGZwZDlpZ2I4aTAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "4hc95817ehqgvp6pfpd9igb8i0",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -42,7 +42,7 @@
         },
         "venue": {
           "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
+          "address": "",
           "type": "Offline"
         },
         "speakers": [],
@@ -50,7 +50,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=YWdzaDFmbzltbzNkNjJ1Zzk4NzQ2ZG8wZGsgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NGhjOTU4MTdlaHFndnA2cGZwZDlpZ2I4aTAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1747,6 +1747,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=YzVobTZvcjRjOHEzYWI5Zzcwcm00YjlrNmtxMzZiYjI2a3M2MmI5aGNkaDM0ZDFpY2NxajZjMWo2OF8yMDI2MTAxMVQxNjAwMDBaIHAybTJhdjlkaHJoNG4xdWI3amxzYzY4czdvQGc"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_40133bbf",
+      "name": "Computer Programming for Absolute Beginners (in Python)",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/computer-programming-for-absolute-beginners-in-python-tickets-2000671876439\n\nThis tutorial for absolute beginners goes through basic programming concepts, Python syntax, and a few fun programs along the way.It's time to stop putting it off. You know that Python is a powerful language with a huge ecosystem and friendly community. Maybe you've dabbled with some tutorials before, but it never quite stuck. It's time to join some fellow beginners and learn to program in the Python programming language. This tutorial for absolute beginners go through basic programming concepts, Python syntax, and a few fun programs along the way. It's not a math-heavy hacker challenge; just the sensible foundation concepts heavy with examples. If you've started and stopped learning to code before, or never got around to starting at all, sign up for this tutorial and start on a strong step. You'll end with a set of tools, the knowledge of where to go next, and the confidence to continue your programming journey.This tutorial is presented by Al Sweigart, author of Automate the Boring Stuff with Python and several other Python books. All of his books are freely available under a Creative Commons license at https://inventwithpython.com.This tutorial is for complete beginners with no programming experience. You will need a laptop with Python installed (it is free from Python.org). You will need to install a code editor: I recommend Mu for free from https://codewith.mu/. Course materials are at https://inventwithpython.com/pyconus2026/.Attendees will get a printed workbook that we'll work through during the class. You'll be able to take it home for self-completion and review.\nThere are 2 spots reserved for people who cannot access the class at the full price, so please make use of one of these pay-what-you-can tickets if that is your situation. Checkout Code: 4-ACCESSTIX\nThis is a masks optional class.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-10-11T18:30:00-04:00",
+      "endDate": "2026-10-25T22:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/computer-programming-for-absolute-beginners-in-python-tickets-2000671876439",
+        "original_event_id": "grauqep7rg08j5i9dibsjgsb3c",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYCResistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=Z3JhdXFlcDdyZzA4ajVpOWRpYnNqZ3NiM2MgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -4133,60 +4186,7 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cGVkcGlrMnZjYWlycmxpNzdobWp1NnA5ajggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_ce39dadc",
-      "name": "HOLD: Intro to Soldering Workshop: Make an LED Tile",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP\u00a0<a href=\"https://www.eventbrite.com/o/52408308\">https://www.eventbrite.com/o/52408308</a><br>This is our monthly soldering class. The tickets typically go live 3-4 weeks in advance.",
-      "startDate": "2026-12-19T13:00:00-05:00",
-      "endDate": "2026-12-19T16:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=M2hvdTljMzd2cDhsazNyMnZzNnNhNWpsMm1fMjAyNjEyMTlUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "3hou9c37vp8lk3r2vs6sa5jl2m_20261219T180000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=M2hvdTljMzd2cDhsazNyMnZzNnNhNWpsMm1fMjAyNjEyMTlUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
     }
   ],
-  "timestamp": "2026-09-11T12:29:44.063024"
+  "timestamp": "2026-09-12T11:50:32.804475"
 }

@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_620988d1",
-      "name": "Aren\u2019s content crash course",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Find more information on https://luma.com/verci",
-      "startDate": "2026-09-11T22:30:00Z",
-      "endDate": "2026-09-12T00:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/verci",
-        "original_event_id": "_cdgmopbm5ls30gjlcdb42hbeclkkepq2cd06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/CgeqEtIfwI5rIxP4UHnU",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxzMzBnamxjZGI0MmhiZWNsa2tlcHEyY2QwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_944b476a",
       "name": "new interfaces 006",
       "type": "technology",
@@ -359,60 +310,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_verci_0c8276cf",
-      "name": "AI Agents Founders Dinner",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "About this event\nVerci, MongoDB Ventures, and JPMorgan are hosting a private, curated dinner for a select group of idea to series a founders building in nyc\nMore about the hosts\nMongoDB Ventures is the strategic corporate venture capital arm of MongoDB, Inc. Headquartered in New York City, it invests in early-stage and high-growth startups building developer tools, infrastructure software, and foundational data/AI technologies\nJPMorgan Chase & Co. is the largest bank in the United States and a leading global financial services firm. Headquartered in New York City, it operates in over 100 countries, offering investment banking, asset management, treasury services, and retail banking through the Chase brand.\nVerci is a workspace and social space in NYC (and soon LA/SF), meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
-      "startDate": "2026-09-22T23:00:00Z",
-      "endDate": "2026-09-23T01:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-3e2d921f.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/dmyx24by",
-        "original_event_id": "_clr78bb38p472kqje12mkib5dlrmmhq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIzOHA0NzJrcWplMTJta2liNWRscm1taHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_379eda76",
       "name": "Verci Cafe",
       "type": "technology",
@@ -570,6 +467,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_0c8276cf",
+      "name": "NYC Founders Dinner by ElevenLabs, Deel, and Verci",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "About this event\nVerci, ElevenLabs, and Deel are hosting a private, curated dinner for a select group of idea to series a founders building in nyc.\nMore about the hosts\nElevenLabs is transforming human-technology interaction with AI research and products. ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models.\nDeel is one platform for payroll, HR, benefits, mobility, performance, and device management across 150+ countries. Built on owned infrastructure, powered by AI, and supported by thousands of local experts, Deel helps businesses scale smarter, faster, and more compliantly.\nVerci is a workspace and social space in NYC and LA, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
+      "startDate": "2026-09-24T23:00:00Z",
+      "endDate": "2026-09-25T01:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-3e2d921f.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/dmyx24by",
+        "original_event_id": "_clr78bb38p472kqje12mkib5dlrmmhq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIzOHA0NzJrcWplMTJta2liNWRscm1taHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_3d0057f5",
       "name": "Verci World Cup",
       "type": "technology",
@@ -683,7 +634,7 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "Get up-to-date information at: https://luma.com/rtvq5r6l\n\nAddress:\nVerci Flatiron\nCome on up to 12th floor to enjoy some lovely TED Talks\nNew York, New York\nUnited States\n\nHosted by Verci",
+      "description": "Come listen to some of our amazing members give TED Talks about the things they're experts on and most passionate about. Each TED Talk followed by quick Q&A from the crowd!\n\nFill out this form and text Bobby at 440-221-8719 if you want to be a speaker.",
       "startDate": "2026-09-29T22:00:00Z",
       "endDate": "2026-09-30T00:00:00Z",
       "category": [
@@ -693,15 +644,15 @@
         "community"
       ],
       "price": {
-        "amount": 0,
+        "amount": 0.0,
         "type": "Free",
         "currency": "USD",
-        "details": ""
+        "details": "General Admission"
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": false,
       "tags": [],
-      "image": "",
+      "image": "events/luma-event-c6833c2e.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -709,30 +660,35 @@
         "original_event_id": "_clr78bb6b1pmegap6haj0m9n8hc6ghi0clr6arjkecn6ot9edlgg",
         "organizer": {
           "name": "Verci Events",
-          "website": "",
+          "website": "https://luma.com/verci",
           "instagram": "",
           "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
         },
         "venue": {
           "name": "",
-          "address": "Verci Flatiron, 45 E 20th St, New York, NY 10003, USA",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
           "type": "Offline"
         },
         "speakers": [],
         "social_links": [],
         "featured": false,
         "luma_source": true,
-        "luma_host": null,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI2YjFwbWVnYXA2aGFqMG05bjhoYzZnaGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
       "id": "evt_gcal_com_verci_8ce6b882",
-      "name": "Consumer Founders Dinner with Imaginary Ventures, Verci, and JPM",
+      "name": "Consumer Founders Dinner with Imaginary Ventures, Verci, JPM, and Gunderson Dettmer",
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "Get up-to-date information at: https://luma.com/wxce9s4q\n\nAddress:\nCheck event page for more details.\n\nHosted by Verci & Alex Yu",
+      "description": "We're bringing together ~20 CPG and consumer founders for a private, curated dinner in NYC, co-hosted by Imaginary Ventures, Verci, JPM, and Gunderson Dettmer.\nJoin us for an evening of great food, unhurried conversation, and a table full of the people shaping what consumer becomes next.\nMore about the hosts\nImaginary Ventures is a leading venture capital firm dedicated to building and partnering with iconic, generationally-defining consumer businesses \u2013 and select enabling technology businesses.\nJ.P. Morgan serves venture-backed and high-growth startups, founders, and venture capital firms across the globe. We provide deep industry expertise, local support, global products and services, and a robust network of investors and partners to meet your commercial, investment, and private banking needs.\nGunderson Dettmer is the preeminent law firm for startups, emerging companies, and venture capital. We serve market-leading venture capital and growth equity investors and pioneering private companies through inception, growth and maturity, as well as the groundbreaking public companies that result from the global venture capital ecosystem.\nWe started Verci with one goal: support unconventional people through community. That instinct became Verci - a event and co-working space in NYC & LA, home to 350+ nights of dinners, salons, and gatherings built on the idea that proximity creates the conditions for great things to happen. Hopefully we'll have the privilege of hosting you soon. read our manifesto at verci.com/manifesto.",
       "startDate": "2026-09-29T23:00:00Z",
       "endDate": "2026-09-30T01:00:00Z",
       "category": [
@@ -742,15 +698,15 @@
         "community"
       ],
       "price": {
-        "amount": 0,
+        "amount": 0.0,
         "type": "Free",
         "currency": "USD",
-        "details": ""
+        "details": "General Admission"
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": false,
       "tags": [],
-      "image": "",
+      "image": "events/luma-event-57a34053.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -758,20 +714,25 @@
         "original_event_id": "_clr78bbhb917iribf4s58m9h8op50u20clr6arjkecn6ot9edlgg",
         "organizer": {
           "name": "Verci Events",
-          "website": "",
+          "website": "https://luma.com/verci",
           "instagram": "",
           "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
         },
         "venue": {
           "name": "",
-          "address": "https://luma.com/event/evt-qZBynKy8TY1F2Px",
+          "address": "New York, NY\nNew York, New York",
           "type": "Offline"
         },
         "speakers": [],
         "social_links": [],
         "featured": false,
         "luma_source": true,
-        "luma_host": null,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJoYjkxN2lyaWJmNHM1OG05aDhvcDUwdTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
@@ -972,5 +933,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-11T12:29:55.322091"
+  "timestamp": "2026-09-12T11:50:43.658148"
 }
