@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_d9922e74",
-      "name": "EA NYC Beginner-Friendly Summer Hike #2!",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "Time for another relaxed stroll through the woods!  We'll be walking the Pine Meadow Trail in Harriman State Park, stopping to eat a packed lunch by the stream.  Key points follow, more details below.\nKey points - read this!\nThe hike is confirmed for Sat Sep 12!  Weather looks good.\nMeet me (Jacob Eliosoff) at Penn Station at 8:45 am, in the NJ Transit area (31st St & 7th Ave).  We'll take the 9:14 am train to Secaucus, and connect there to the Port Jervis line train to Sloatsburg, arriving at 10:24 am.  (Buy your round trip ticket here, $30.)  You must catch that 9:14 am train or you miss the hike!I'll keep an eye on jacob.eliosoff@gmail.com/FB Messenger up to 9:30 am, but may be hard to reach during the hike.\nBring: water, a packed lunch (no restos on the trail)/snacks, comfy shoes + socks, ideally a hat.  I recommend long (light) pants rather than shorts, to avoid scratches & ticks.\nWe'll finish by returning from Sloatsburg on the 4:25 pm train arriving back at Penn at 5:36 pm.\nOverall itinerary:\n8:45 am: meet in Penn Station, NJ Transit area.\n9:14 am: train to Secaucus leaves.\n9:30 am: connecting train from Secaucus to Sloatsburg leaves.\n10:24 am: train arrives at Sloatsburg.\nHike along Harriman State Park's Pine Meadow Trail.Approximate route.  Total mileage is 6-8 non-steep miles.\n4:25 pm: catch the Port Jervis Line train at Sloatsburg.\n5:36 pm: train arrives at Penn Station.\nOther notes:\nAll are welcome!  We'll go pretty slowly, with breaks.  This route has no extended climbs/descents.\nNonprofit workers and students are eligible for a discount on the bus/train tickets - contact me.\nTicks are always a risk in NY nature, as some of us learned a few hikes ago.  They're harmless if removed within a day: I suggest giving yourself a close body inspection once you get home after the hike.",
-      "startDate": "2026-09-12T08:45:00-04:00",
-      "endDate": "2026-09-12T17:36:00-04:00",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "events/luma-event-32856a73.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/bnqtcve6",
-        "original_event_id": "4m5rp6edismalgashfq7rmo2vk",
-        "organizer": {
-          "name": "EA NYC",
-          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Penn Station\nPenn Station, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "EA NYC",
-          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NG01cnA2ZWRpc21hbGdhc2hmcTdybW8ydmsgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_40535626",
       "name": "Forecasting AI: A Workshop with Superforecaster Jonathan Mann",
       "type": "effective altruism",
@@ -854,5 +800,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-12T11:50:07.791602"
+  "timestamp": "2026-09-13T12:59:30.143590"
 }
