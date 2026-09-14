@@ -436,7 +436,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-3e2d921f.jpg",
+      "image": "events/luma-event-b9869852.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -899,5 +899,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-13T13:00:04.497060"
+  "timestamp": "2026-09-14T14:37:38.926055"
 }

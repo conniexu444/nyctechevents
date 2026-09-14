@@ -1,112 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_57712c14",
-      "name": "Hold for Adelle ",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-09-13T10:00:00-04:00",
-      "endDate": "2026-09-13T17:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NGhjOTU4MTdlaHFndnA2cGZwZDlpZ2I4aTAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "4hc95817ehqgvp6pfpd9igb8i0",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NGhjOTU4MTdlaHFndnA2cGZwZDlpZ2I4aTAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_abb554d4",
-      "name": "Locksport Workshop",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/locksport-workshop-tickets-2000161469799\n\nEthics, theory and hands on practice of lockpickingJoin us for a fun and interactive session where you'll learn all about the fascinating world of locksport. Whether you're a beginner or an experienced lockpicker, this workshop is perfect for anyone interested in the art of lockpicking.\nOur expert instructor will guide you through the basics of lockpicking, teach you about different types of locks, and share tips and tricks to improve your skills. It's a great opportunity to meet like-minded enthusiasts and expand your knowledge in a friendly and welcoming environment.\nFor beginners and enthusiast.\n\nEd is a longtime HackManhattan member. A lockpicking enthusiast and advocate for hacker culture, Ed enjoys sharing the spirit of tinkering, learning, and breaking things open to understand how they work. Outside the hackerspace, he\u2019s a member of The Open Organization Of lockpickers, amateur radio operator, and a proud Trekkie since 2007.\n\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
-      "startDate": "2026-09-13T19:00:00-04:00",
-      "endDate": "2026-09-13T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/locksport-workshop-tickets-2000161469799",
-        "original_event_id": "n0p0rrn9ec1149eggh8g2q1ftg",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=bjBwMHJybjllYzExNDllZ2doOGcycTFmdGcgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_5b8b96de",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -743,6 +637,112 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_bbe27371",
+      "name": "Hold: yoga",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-09-26T12:00:00-04:00",
+      "endDate": "2026-09-26T13:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=M2tkcXRqcmprb3Nxc2hnc3VmNmNqdmFyaGQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "3kdqtjrjkosqshgsuf6cjvarhd",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=M2tkcXRqcmprb3Nxc2hnc3VmNmNqdmFyaGQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_6f0af134",
+      "name": "Yoga for Hackers",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/yoga-for-hackers-tickets-2000885126275\n\nHack your body. We&#39;ll cover fundamental yoga postures, with an emphasis on alignment, breathing practices and strength. All are welcome!Note: class begins at noon, please try to come a few minutes early to set up!\n\nDescription:\nPerfect for those of us who spend too much time at our computers or hunched over a project. No prior experience with yoga required. Please wear comfortable clothes for stretching and bring a yoga mat (or borrow one from a friend)!Instructor:\nHal has been practicing yoga since they were a teenager. Their first yoga teacher used to come around the room and cheerfully say the class would be in the pose for a week to 10 days. Hal has a similar sense of humor and thinks a yoga class is best when students feel both deeply supported and challenged. Hal is a software dev who appreciates a good bug and is a 200-hr certified yoga teacher.More info:\nNo masks required\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
+      "startDate": "2026-09-26T12:00:00-04:00",
+      "endDate": "2026-09-26T13:30:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/yoga-for-hackers-tickets-2000885126275",
+        "original_event_id": "ejsamgf3fjjtno96f8fnm91ggk",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=ZWpzYW1nZjNmamp0bm85NmY4Zm5tOTFnZ2sgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_70d0de31",
       "name": "Learn to Saddle Stitch a Leather Card Holder",
       "type": "hackerspace",
@@ -1273,59 +1273,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_308f9ff5",
-      "name": "Intro to Soldering Workshop: Make an LED Tile",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-2000420690134\n\nSoldering is one of the most important skills you&#39;ll need for working with electronics. Come join us for an introductory through-hole solderSoldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole soldering workshop. Soldering enables you to create sturdy connections between electrical components. In this hands-on workshop, you'll learn how to use a soldering iron safely and effectively, and get plenty of practice with both soldering and de-soldering techniques. We'll be soldering up some Game of Life kits - LED tiles that generate nifty animations. No previous experience is required, making this introductory workshop a great choice for anyone who's curious about getting started with hardware tinkering! All materials will be provided.\nOK, awesome, I want to join!\nPlease be ready to start at Noon! We find that you will need this time to get through the whole class. Our classes tend to sell out about a week in advance so if you're interested, you may want to sign up early.\nThis class will be taught by Resistor member Olivia.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-10-04T12:00:00-04:00",
-      "endDate": "2026-10-04T15:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-2000420690134",
-        "original_event_id": "238g07p7fc7kabekjjup7tutas",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MjM4ZzA3cDdmYzdrYWJla2pqdXA3dHV0YXMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_9c497022",
       "name": "Day 2: Pot and Switch Workshop - Disengineering",
       "type": "hackerspace",
@@ -1644,14 +1591,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_5f177a68",
-      "name": "HOLD: Python Class (evening)",
+      "id": "evt_gcal_com_nyc_resistor_7ea25c4f",
+      "name": "HOLD SILICONE SFX WORKSHOP",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
       "description": "",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-12",
+      "startDate": "2026-10-10T13:00:00-04:00",
+      "endDate": "2026-10-10T17:00:00-04:00",
       "category": [
         "hackerspace",
         "maker",
@@ -1675,8 +1622,8 @@
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MDlhc3RsMTExY281NnIzOGgxcWIzdGZ0MGMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "09astl111co56r38h1qb3tft0c",
+        "source_url": "https://www.google.com/calendar/event?eid=NnNwbWFlOW1jaGo2Y2I5bTY0cW1hYjlrNzRxNjhiYjE2Z3BtYWJiMjc1aGowZDFuNjVoajRvajQ2ZyBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "6spmae9mchj6cb9m64qmab9k74q68bb16gpmabb275hj0d1n65hj4oj46g",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1693,7 +1640,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MDlhc3RsMTExY281NnIzOGgxcWIzdGZ0MGMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NnNwbWFlOW1jaGo2Y2I5bTY0cW1hYjlrNzRxNjhiYjE2Z3BtYWJiMjc1aGowZDFuNjVoajRvajQ2ZyBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -1704,7 +1651,7 @@
       "communityId": "com_nyc_resistor",
       "description": "<a href=\"https://www.google.com/url?q=https://ham.study/sessions/N2YCR/all&amp;sa=D&amp;source=calendar&amp;ust=1776728715410359&amp;usg=AOvVaw229iicLGqHchkN_tl2hZ90\" target=\"_blank\">https://ham.study/sessions/N2YCR/all</a>",
       "startDate": "2026-10-11T12:00:00-04:00",
-      "endDate": "2026-10-11T13:00:00-04:00",
+      "endDate": "2026-10-11T14:00:00-04:00",
       "category": [
         "hackerspace",
         "maker",
@@ -1757,7 +1704,7 @@
       "communityId": "com_nyc_resistor",
       "description": "RSVP https://www.eventbrite.com/e/computer-programming-for-absolute-beginners-in-python-tickets-2000671876439\n\nThis tutorial for absolute beginners goes through basic programming concepts, Python syntax, and a few fun programs along the way.It's time to stop putting it off. You know that Python is a powerful language with a huge ecosystem and friendly community. Maybe you've dabbled with some tutorials before, but it never quite stuck. It's time to join some fellow beginners and learn to program in the Python programming language. This tutorial for absolute beginners go through basic programming concepts, Python syntax, and a few fun programs along the way. It's not a math-heavy hacker challenge; just the sensible foundation concepts heavy with examples. If you've started and stopped learning to code before, or never got around to starting at all, sign up for this tutorial and start on a strong step. You'll end with a set of tools, the knowledge of where to go next, and the confidence to continue your programming journey.This tutorial is presented by Al Sweigart, author of Automate the Boring Stuff with Python and several other Python books. All of his books are freely available under a Creative Commons license at https://inventwithpython.com.This tutorial is for complete beginners with no programming experience. You will need a laptop with Python installed (it is free from Python.org). You will need to install a code editor: I recommend Mu for free from https://codewith.mu/. Course materials are at https://inventwithpython.com/pyconus2026/.Attendees will get a printed workbook that we'll work through during the class. You'll be able to take it home for self-completion and review.\nThere are 2 spots reserved for people who cannot access the class at the full price, so please make use of one of these pay-what-you-can tickets if that is your situation. Checkout Code: 4-ACCESSTIX\nThis is a masks optional class.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
       "startDate": "2026-10-11T18:30:00-04:00",
-      "endDate": "2026-10-25T22:00:00-04:00",
+      "endDate": "2026-10-11T22:00:00-04:00",
       "category": [
         "hackerspace",
         "maker",
@@ -2439,6 +2386,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_9b1dd407",
+      "name": "HOLD: slimy silicone sfx: an artist talk & hands on workshop",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-10-25T14:00:00-04:00",
+      "endDate": "2026-10-25T18:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NmxpajhkcGg2NHFtMmI5bjZncDNpYjlrNmNybWFiOW82Z3AzY2I5aWNjcWppZTMxNmRpM2NkcjFjNCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "6lij8dph64qm2b9n6gp3ib9k6crmab9o6gp3cb9iccqjie316di3cdr1c4",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NmxpajhkcGg2NHFtMmI5bjZncDNpYjlrNmNybWFiOW82Z3AzY2I5aWNjcWppZTMxNmRpM2NkcjFjNCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_48b165ab",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -3081,8 +3081,8 @@
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
       "description": "",
-      "startDate": "2026-11-14T13:00:00-05:00",
-      "endDate": "2026-11-14T17:00:00-05:00",
+      "startDate": "2026-11-14T15:00:00-05:00",
+      "endDate": "2026-11-14T19:00:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -4188,5 +4188,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-13T12:59:53.072756"
+  "timestamp": "2026-09-14T14:37:22.202597"
 }
