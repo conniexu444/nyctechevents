@@ -6,7 +6,7 @@
       "type": "effective altruism",
       "locationId": "",
       "communityId": "com_effective_altruism_nyc",
-      "description": "Join us for an introductory forecasting workshop lead by Jonathan Mann for people interested in AI safety. We\u2019ll learn how to make clear, testable predictions, assign probabilities, update our beliefs, and avoid common forecasting mistakes through practical exercises. No prior forecasting experience is required. We\u2019ll use our knowledge to try to make forecasts on pressing topics related to the advance of AI.\nJonathan Mann is a Good Judgment Superforecaster and a member of the forecasting group Samotsvety, which has published some of the most-cited probability estimates on AI risk and AGI timelines. He is a security architect in the financial sector and teaches computer science at NYU.",
+      "description": "Join us for an introductory forecasting workshop lead by Jonathan Mann for people interested in AI safety. We\u2019ll learn how to make clear, testable predictions, assign probabilities, update our beliefs, and avoid common forecasting mistakes through practical exercises. No prior forecasting experience is required. We\u2019ll use our knowledge to try to make forecasts on pressing topics related to the advance of AI.\nJonathan Mann is a Good Judgment Superforecaster and a member of the forecasting group Samotsvety, which has published some of the most-cited probability estimates on AI risk and AGI timelines. He is a security architect in the financial sector and teaches computer science at NYU.\n\nWe'll start out with  primer on forecasting based on this article and then move on to forecast AI scenarios.",
       "startDate": "2026-09-15T18:00:00-04:00",
       "endDate": "2026-09-15T20:00:00-04:00",
       "category": [
@@ -800,5 +800,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-14T14:36:50.829215"
+  "timestamp": "2026-09-15T13:01:49.175331"
 }
