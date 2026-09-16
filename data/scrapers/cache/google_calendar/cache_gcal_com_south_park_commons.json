@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_south_park_commons_a1f80486",
-      "name": "Fireside with Qasar Younis, Applied Intuition",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_south_park_commons",
-      "description": "South Park Commons is delighted to host Qasar Younis, Co-founder and CEO of Applied Intuition.\nEvent Details\n11:30am: Doors Open + Mingling\n12:00pm-1:00pm: Fireside Chat\nBefore founding Applied Intuition, Qasar was the COO of Y Combinator, a prominent venture accelerator in Silicon Valley. Prior to Y Combinator, Qasar founded a technology firm, which was later acquired by Google, and worked as an automotive engineer at General Motors and Bosch. Younis has a bachelor\u2019s degree in mechanical engineering from Kettering University (formerly known as General Motors Institute) and an MBA from Harvard Business School.\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
-      "startDate": "2026-09-15T18:30:00Z",
-      "endDate": "2026-09-15T20:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "learning",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-f802f598.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/qasar-younis-spc",
-        "original_event_id": "_clr78bab65rjeui9b11misrg91mlkdq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "South Park Commons",
-          "website": "https://luma.com/southparkcommons-events",
-          "instagram": "",
-          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "380 Brannan St\n380 Brannan St, San Francisco, California",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "South Park Commons",
-          "url": "https://luma.com/southparkcommons-events",
-          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFiNjVyamV1aTliMTFtaXNyZzkxbWxrZHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_south_park_commons_10bd68e9",
       "name": "SPC Post-Training Forum: Mercor CEO, Brendan Foody",
       "type": "technology",
@@ -325,5 +271,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-15T13:02:21.223316"
+  "timestamp": "2026-09-16T12:59:02.662174"
 }
