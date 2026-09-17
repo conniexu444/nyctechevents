@@ -1,66 +1,12 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_809b3e30",
-      "name": "\u26a1 Fractal Weekly Demo Party #6 \u26a1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long, signup here - https://forms.gle/VBmGap6c4BJXcrkm9\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
-      "startDate": "2026-09-16T22:30:00Z",
-      "endDate": "2026-09-17T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e0bfcd4c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/xb5gapuj",
-        "original_event_id": "_clr78ba3d4r3egaq9hjm2pj9d9qk2si0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzZDRyM2VnYXE5aGptMnBqOWQ5cWsyc2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_fe12e0a2",
       "name": "Brain performance pop-up with Pharia Health (advanced sign-up is required)",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Pharia Health is organizing a special pop-up day for the Fractal Community to access Pharia's brain performance protocols at Fractal Tech. \n\nPharia uses advanced, FDA-cleared neurotech to help your brain more easily access states of focus, presence, drive, and emotional steadiness. All protocols are led by expert physicians, and experienced in one day on-site. \n\nAdvanced sign-up is required to onboard + consult with a physician. Fractal members get an exclusive offer. Contact anna@phariahealth.com to sign up. Read more at phariahealth.com.\nProtocols are done in a private room, but Fractal community members are welcome to stop by to check it out & chat with Anna, Pharia's co-founder, about what we're doing to increase access to advanced tools for brain health & performance.",
+      "description": "Pharia Health is organizing a special pop-up day for the Fractal Community to access Pharia's brain performance protocols at Fractal Tech. \n\nPharia uses advanced, FDA-cleared neurotech to help your brain more easily access states of focus, presence, drive, and emotional steadiness. All protocols are led by expert physicians, and experienced on-site in one-day. Protocols involve a series of stimulations, 3 minutes each, over the course of one work-day length (~9-4pm). There is plenty of break time to co-work or relax.  \n\nAdvanced sign-up is required to onboard and consult with a Pharia physician. The full one-day protocol is $995, but Fractal Tech members are eligible for an exclusive discount. Sign-up on Luma to be contacted by Pharia's team. To learn more visit phariahealth.com.\nProtocols will be done in a private room, but Fractal community members are welcome to stop by to check it out & chat with Anna, Pharia's co-founder, about what we're doing to increase access to advanced tools for brain health & performance.",
       "startDate": "2026-09-17T13:00:00Z",
       "endDate": "2026-09-17T21:00:00Z",
       "category": [
@@ -2583,5 +2529,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-16T12:58:59.674821"
+  "timestamp": "2026-09-17T12:55:39.931035"
 }

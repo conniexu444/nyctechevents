@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_31f5c961",
-      "name": "Masks On Craft Night",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "All the fun of a regular craft night with the added safety of a masks-required environment.<br><br>Free (and optional) tickets are available here:\u00a0<a href=\"https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557\">https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557</a><br><br>This event, like all NYC Resistor events is 18 and over and governed by out code of conduct.\u00a0<br><br>More information:\u00a0<a href=\"http://www.nycresistor.com/participate/\"><u>http://www.nycresistor.com/participate/</u></a><br>NYC Resistor Code of Conduct:\u00a0<a href=\"http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/\"><u>http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/</u></a>",
-      "startDate": "2026-09-16T18:30:00-04:00",
-      "endDate": "2026-09-16T21:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557",
-        "original_event_id": "1g5dt0s2jb9qca1mcjmi6nci8e_20260916T223000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "87 3rd Ave, Brooklyn, NY 11217, USA",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MWc1ZHQwczJqYjlxY2ExbWNqbWk2bmNpOGVfMjAyNjA5MTZUMjIzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_ce1f31fb",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -849,59 +796,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_f1b6a38c",
-      "name": "HOLD: RENTAL solder workshop",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-10-01T08:00:00-04:00",
-      "endDate": "2026-10-01T17:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MGljaDZtMW9lcWIxZHJkbXRhZG5ic3ViazAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "0ich6m1oeqb1drdmtadnbsubk0",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGljaDZtMW9lcWIxZHJkbXRhZG5ic3ViazAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_52dd7235",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -1058,6 +952,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=N2tmMGN0YWRtYzc4YmYyNWNoMGNtdjc2cXNfMjAyNjEwMDNUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_7f3da3b7",
+      "name": "Hold: Olivia pinhole",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-10-03T18:00:00-04:00",
+      "endDate": "2026-10-03T22:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=M3NlY3E5dWR0c2o2aWMwbHNqY2Iwa2JqbTQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "3secq9udtsj6ic0lsjcb0kbjm4",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=M3NlY3E5dWR0c2o2aWMwbHNqY2Iwa2JqbTQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1485,6 +1432,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_80c496fb",
+      "name": "DIY Slimy Creatures: an artist talk & workshop",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/diy-slimy-creatures-an-artist-talk-workshop-tickets-2001284463704\n\nLearn how special effects were made in upcoming sci-fi film Spoon-Fed by Jaime Sunwoo and make your own mini monster with silicone and foam.At this artist talk and hands-on workshop, go behind the scenes of Spoon-Fed, an upcoming sci-fi short film by NYC Resistor member Jaime Sunwoo, and discover how its creatures and special effects were brought to life.\nHandle original puppets and masks from the film, watch behind-the-scenes footage, and learn how creatures are developed from concept to execution. Then, just in time for spooky season, make your own mini monster using silicone and foam in this beginner-friendly workshop.\nAll materials included, no experience necessary.\n\nAbout the Artist:\nJaime Sunwoo (she/her) is a multidisciplinary artist from New York City working in film, art, and animation. Her animated short documentary Equality Tea was featured in Vogue and Whetstone Magazine. Her film Handwritten premiered at Lincoln Center for New York Asian Film Festival and is streaming on Amazon Prime Video in Fantastic New Worlds: A Handmade Puppet Dreams Collection. Her New York Times featured production Specially Processed American Me received support from BRIClab, NYC Women's Fund, The Jim Henson Foundation, Queens Council on the Arts, Asian Women Giving Circle, Brooklyn Arts Fund, and The Laundromat Project. Her short film Ommatidia, co-created with neuroscientist Sromana Mukherjee at NYU's Desplan Lab, premiered at the Science New Wave Festival and is streaming on Labocine. She is currently developing Spoon-Fed, a sci-fi film. IG: @jaimesunwoo @spoonfedmovie\nAs with all NYC Resistor events, this event is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. If you have any questions, please email sunwooprojects@gmail.com\nThis workshop is made possible by public funds from the Greater New York Arts Development Fund of the New York City Department of Cultural Affairs, the Statewide Community Regrants Program, as well as from a regrant program of the New York State Council on the Arts with the support of the New York State Legislature, both administered by Brooklyn Arts Council.\n",
+      "startDate": "2026-10-10T13:00:00-04:00",
+      "endDate": "2026-10-10T17:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/diy-slimy-creatures-an-artist-talk-workshop-tickets-2001284463704",
+        "original_event_id": "lctma5ve1dfbi1gif47hroqmio",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=bGN0bWE1dmUxZGZiaTFnaWY0N2hyb3FtaW8gcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_99000282",
       "name": "Ham radio In-person exam session",
       "type": "hackerspace",
@@ -1645,7 +1645,7 @@
     },
     {
       "id": "evt_gcal_com_nyc_resistor_fcfaf840",
-      "name": "HOLD Olivia: Pinhole Polariod",
+      "name": "HOLD Olivia: surface or vape",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
@@ -2913,6 +2913,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NGYyMW10NG1hZTZndmhtc2UyNzJuZWx1bTIgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_e214137d",
+      "name": "Hold: Olivia Pinhole/surface/vape",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-14",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NjZ2a2xmdWFpNGtnNG9yaGxlaGYwNmRoNjkgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "66vklfuai4kg4orhlehf06dh69",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjZ2a2xmdWFpNGtnNG9yaGxlaGYwNmRoNjkgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -4186,60 +4239,7 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=M2hvdTljMzd2cDhsazNyMnZzNnNhNWpsMm1fMjAyNjEyMTlUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_6b924659",
-      "name": "HOLD: Laser Cutting Class",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-12-20T13:00:00-05:00",
-      "endDate": "2026-12-20T16:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=aGswdGViZ2luZ21qMGs3MmJtc2Vzb2ZtY21fMjAyNjEyMjBUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "hk0tebgingmj0k72bmsesofmcm_20261220T180000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=aGswdGViZ2luZ21qMGs3MmJtc2Vzb2ZtY21fMjAyNjEyMjBUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
     }
   ],
-  "timestamp": "2026-09-16T12:59:00.116443"
+  "timestamp": "2026-09-17T12:55:40.453425"
 }
