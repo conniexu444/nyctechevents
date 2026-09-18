@@ -55,6 +55,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_5a9b267c",
+      "name": "Satellite Manicures",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Vena for a gel manicure and choose from four styles \u2014 three custom designs or a classic plain manicure.",
+      "startDate": "2026-09-23T15:00:00Z",
+      "endDate": "2026-09-23T18:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-3ad319b6.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci-kqtt",
+        "original_event_id": "_clr78bb8ad47et3kago56ijg9go3gji0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-hSHwttT0SJpL08N",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI4YWQ0N2V0M2thZ281NmlqZzlnbzNnamkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_379eda76",
       "name": "Verci Cafe",
       "type": "technology",
@@ -160,6 +214,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIxYTE4azZyOWs2dDZrdW85aGY1bm1taGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_58535b32",
+      "name": "Satellite Massages",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Take a break and reset with a relaxing 30-minute massage.",
+      "startDate": "2026-09-24T16:00:00Z",
+      "endDate": "2026-09-24T19:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-6a05d552.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/4b3mnz69",
+        "original_event_id": "_clr78b9id5j5kl1na5ongtq890rmmea0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlpZDVqNWtsMW5hNW9uZ3RxODkwcm1tZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -325,7 +433,7 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "About this event\nVerci, FirstMark, and Deel are hosting a private, curated dinner for a select group of consumer tech founders, idea to series a building in nyc.\nMore about the hosts\nDeel is one platform for payroll, HR, benefits, mobility, performance, and device management across 150+ countries. Built on owned infrastructure, powered by AI, and supported by thousands of local experts, Deel helps businesses scale smarter, faster, and more compliantly.\nVerci is a workspace and social space in NYC and LA, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
+      "description": "About this event\nVerci, FirstMark, and Deel are hosting a private, curated dinner for a select group of consumer tech founders, idea to series a building in nyc.\nMore about the hosts\nDeel is one platform for payroll, HR, benefits, mobility, performance, and device management across 150+ countries. Built on owned infrastructure, powered by AI, and supported by thousands of local experts, Deel helps businesses scale smarter, faster, and more compliantly.\nFirstMark is a venture capital firm based in New York City, partnering with founders to make their mark on the world.\nVerci is a workspace and social space in NYC and LA, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
       "startDate": "2026-09-28T23:00:00Z",
       "endDate": "2026-09-29T01:00:00Z",
       "category": [
@@ -487,7 +595,7 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "We're bringing together ~20 CPG and consumer founders for a private, curated dinner in NYC, co-hosted by Imaginary Ventures, Verci, JPM, and Gunderson Dettmer.\nJoin us for an evening of great food, unhurried conversation, and a table full of the people shaping what consumer becomes next.\nMore about the hosts\nImaginary Ventures is a leading venture capital firm dedicated to building and partnering with iconic, generationally-defining consumer businesses \u2013 and select enabling technology businesses.\nJ.P. Morgan serves venture-backed and high-growth startups, founders, and venture capital firms across the globe. We provide deep industry expertise, local support, global products and services, and a robust network of investors and partners to meet your commercial, investment, and private banking needs.\nGunderson Dettmer is the preeminent law firm for startups, emerging companies, and venture capital. We serve market-leading venture capital and growth equity investors and pioneering private companies through inception, growth and maturity, as well as the groundbreaking public companies that result from the global venture capital ecosystem.\nWe started Verci with one goal: support unconventional people through community. That instinct became Verci - a event and co-working space in NYC & LA, home to 350+ nights of dinners, salons, and gatherings built on the idea that proximity creates the conditions for great things to happen. Hopefully we'll have the privilege of hosting you soon. read our manifesto at verci.com/manifesto.",
+      "description": "We're bringing together ~20 CPG and consumer founders for a private, curated dinner in NYC, co-hosted by Imaginary Ventures, Verci, JPM, and Gunderson Dettmer.\nJoin us for an evening of great food, unhurried conversation, and a table full of the people shaping what consumer becomes next.\nMore about the hosts\nImaginary Ventures is a leading venture capital firm dedicated to building and partnering with iconic, generationally-defining consumer businesses \u2013 and select enabling technology businesses.\nJ.P. Morgan serves venture-backed and high-growth startups, founders, and venture capital firms across the globe. We provide deep industry expertise, local support, global products and services, and a robust network of investors and partners to meet your commercial, investment, and private banking needs.\nGunderson Dettmer is the preeminent international law firm with an exclusive focus on the innovation economy. The firm serves market-leading venture capital and growth equity investors and pioneering companies through inception, growth and maturity, as well as groundbreaking public companies that result from the global venture capital ecosystem. The firm\u2019s focus and technical skill enable an accelerated pace and unmatched efficiency, delivering best-in-class value at each phase of a client\u2019s business. Learn more at www.gunder.com\nWe started Verci with one goal: support unconventional people through community. That instinct became Verci - a event and co-working space in NYC & LA, home to 350+ nights of dinners, salons, and gatherings built on the idea that proximity creates the conditions for great things to happen. Hopefully we'll have the privilege of hosting you soon. read our manifesto at verci.com/manifesto.",
       "startDate": "2026-09-29T23:00:00Z",
       "endDate": "2026-09-30T01:00:00Z",
       "category": [
@@ -801,5 +909,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-17T12:55:50.862085"
+  "timestamp": "2026-09-18T12:33:07.057291"
 }
