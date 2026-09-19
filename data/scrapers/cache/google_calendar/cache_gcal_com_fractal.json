@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_ebfad5f4",
-      "name": "WORLD\u2019S THIRD BRAIN PONG TOURNAMENT",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "PLAY PONG WITH ONLY YOUR EYES\n\u2694\ufe0f vie for glory in front of an admiring crowd!\n\ud83c\udfc6 compete for the brain pong trophy!\n\ud83e\udd16 become one with the machine via EOG!\nCompetitors: please show up 30 minutes early and wear minimal makeup. I'll put electrodes on your face and let you practice playing the game. Read more about risks here. The tournament format will be a best-of-1 single-elimination bracket.\nSpectators: all are welcome! come, relax, and watch humans use their bodies as controllers to play Pong.\n\ud83d\udc41\ufe0f spherical \ud83d\udc41\ufe0f snacks will be provided",
-      "startDate": "2026-09-18T22:00:00Z",
-      "endDate": "2026-09-19T00:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-94611d9a.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/0zjiijco",
-        "original_event_id": "_clr78bapalmncj1lc4slgkrc9gs4sd20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "John Hoeksema",
-          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "John Hoeksema",
-          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFwYWxtbmNqMWxjNHNsZ2tyYzlnczRzZDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_1e156c52",
       "name": "Private Event",
       "type": "tech",
@@ -1557,6 +1503,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_fc858e82",
+      "name": "Private Event",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Get up-to-date information at: https://luma.com/nyc-ysko\n\nAddress:\n111 Conselyea St\nBrooklyn, NY\nUnited States\n\nHosted by Crystal Duan",
+      "startDate": "2026-10-24T19:30:00Z",
+      "endDate": "2026-10-25T01:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-b42365d8.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-ysko",
+        "original_event_id": "_clr78bbne9i4mpro8t65ejr98tq46gi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "https://luma.com/nyc-tech",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Fractal Campus NYC",
+          "url": "https://luma.com/nyc-tech",
+          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJuZTlpNG1wcm84dDY1ZWpyOTh0cTQ2Z2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_a542befd",
       "name": "Jhana NYC Meditation",
       "type": "tech",
@@ -2475,5 +2475,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-18T12:32:55.515854"
+  "timestamp": "2026-09-19T12:12:36.292675"
 }

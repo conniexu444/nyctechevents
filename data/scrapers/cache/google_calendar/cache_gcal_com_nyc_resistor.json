@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_9d0e2dd4",
-      "name": "Drum Leaf Binding: Books That Open Flat",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/drum-leaf-binding-books-that-open-flat-tickets-2000344444080\n\nLearn how to make books that lay flat with a cool drum leaf binding technique in this fun, hands-on workshop.A drum leaf bound book is one where each spread is a single folded sheet, glued along its back to the sheet next to it, with no sewing and no press required. The result opens completely flat. Because nothing is stitched through the fold, an image can run across the center of a spread without a break, which makes this the natural structure for risograph, screen print, photography, and anything coming off a plotter.\nIn one evening you will build a complete book: fold and collate a text block, glue it up, and case it in with a quarter cloth cover and a throwback spine. Boards come precut on the laser, so all of our time goes into the structure itself.\nWe will also look at the two folded page structures drum leaf descends from, the Japanese album and the butterfly book, so you can see why the assembly works the way it does.\nNo bookbinding experience needed. All materials provided. Bring printed pages of your own if you have them (5.5 \u00d7 8.5 inches, folded to 5.5 \u00d7 4.25 inches) and bind your own work instead of blank paper.This workshop is taught by Woody Poulard who is an artist/musician of Haitian descent who creates audio-reactive visual installations, generative art, and sculptural works alongside lifelong instrumental practice in saxophone and percussion. His visual practice spans digital and physical mediums including pen plotting, risograph printing, and poster design, creating tangible artifacts from algorithmic and generative processes.\n\n\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/\n\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-09-18T19:00:00-04:00",
-      "endDate": "2026-09-18T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/drum-leaf-binding-books-that-open-flat-tickets-2000344444080",
-        "original_event_id": "ov4op6r5spthoj6l8tdsi40p3c",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=b3Y0b3A2cjVzcHRob2o2bDh0ZHNpNDBwM2MgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_2067a89a",
       "name": "Intro to Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -1697,6 +1644,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_0d071779",
+      "name": "HOLD: Olivia bedazzle your tools,  pimp your tech.",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-10-17T18:00:00-04:00",
+      "endDate": "2026-10-17T20:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NDl0bzdqOWU5NWZoMGlxYWo0OW45bDlsYnYgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "49to7j9e95fh0iqaj49n9l9lbv",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NDl0bzdqOWU5NWZoMGlxYWo0OW45bDlsYnYgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_56c180b1",
       "name": "Learn to Use a Laser Cutter to Cut and Etch Your Own Designs",
       "type": "hackerspace",
@@ -3181,6 +3181,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_a50d50fc",
+      "name": "HOLD: Frame Making Class",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-22T09:30:00-05:00",
+      "endDate": "2026-11-22T13:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=XzZsMGs2Y2kzNmwyazRiOWw2ZDFrNGI5azcxMWowYjlvOGQwamViOXA2OTFqMmVhMzZjcmtjZDFqNnMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "_6l0k6ci36l2k4b9l6d1k4b9k711j0b9o8d0jeb9p691j2ea36crkcd1j6s",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=XzZsMGs2Y2kzNmwyazRiOWw2ZDFrNGI5azcxMWowYjlvOGQwamViOXA2OTFqMmVhMzZjcmtjZDFqNnMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_78ec0cb9",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -4186,60 +4239,7 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=aGswdGViZ2luZ21qMGs3MmJtc2Vzb2ZtY21fMjAyNjEyMjBUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_f1612432",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2026-12-21T18:30:00-05:00",
-      "endDate": "2026-12-21T21:30:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053",
-        "original_event_id": "0au2lakcl2vb7744hj4vkq52ap_20261221T233000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNjEyMjFUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
     }
   ],
-  "timestamp": "2026-09-18T12:32:56.073829"
+  "timestamp": "2026-09-19T12:12:36.880142"
 }
