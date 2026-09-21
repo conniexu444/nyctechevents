@@ -1,109 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_cc1272c6",
-      "name": "FractalU Fall Mini Classes \ud83c\udf41",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-09-20T16:00:00Z",
-      "endDate": "2026-09-20T20:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5ll4eq29a514gm1j8hsk8lb4f106atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/fJaccVQidLiccM9tORMJ?c=rWTb_hgt",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxsNGVxMjlhNTE0Z20xajhoc2s4bGI0ZjEwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_ea3072b1",
-      "name": "Voice Agents in Production \u2014 NYC Builders Meetup",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Voice AI has moved fast from impressive demos to real-world deployment - and that is where the interesting problems begin.\nVoice Agents in Production is a small, technical meetup for founders, engineers, AI builders, and operators working on or exploring real-time voice agents.\nThe focus is practical: what actually happens when voice agents start speaking with real customers.\nWe\u2019ll get into topics such as:\nReal-time latency and conversation quality\nInterruptions, turn-taking, and natural dialogue\nTool calling and connecting agents to real systems\nTelephony and production infrastructure\nReliability, monitoring, and evaluation\nMultilingual voice agents\nWhat works in demos but breaks in production\nWhere Voice AI is heading next\nThe evening will feature a few short live demos from builders, an open discussion around lessons from building Voice AI systems, and plenty of time to meet others working in the space.\nFormat\n5:00\u20135:25 PM \u2014 Arrivals & networking\n5:25\u20135:35 PM \u2014 Welcome & introductions\n5:35\u20136:05 PM \u2014 Voice Agents in Production: builder discussion\n6:05\u20136:30 PM \u2014 Live demos\n6:30\u20137:00 PM \u2014 Open discussion & networking\nNo long presentations and no sales pitches \u2014 just builders sharing what they are learning, showing what they are building, and meeting others working on the next generation of conversational AI.\nHosted by Kaleem Khan, Founder of heyfon.ai, while in NYC connecting with the Voice AI and broader AI builder community.\nFree to attend. Registration approval required due to limited capacity.\n\nLocation: Fractal Campus NYC (111 Conselyea St, Brooklyn, NY)",
-      "startDate": "2026-09-20T21:00:00Z",
-      "endDate": "2026-09-20T23:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-0cb74165.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/mb2tr97s",
-        "original_event_id": "_clr78bbke5172q29ehp3arim6pd62si0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Kaleem Khan",
-          "website": "https://luma.com/user/kaleemkhan",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Kaleem Khan",
-          "url": "https://luma.com/user/kaleemkhan",
-          "image": "https://images.lumacdn.com/uploads/pn/20112af9-40ae-41b1-9694-3639b41602ca.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJrZTUxNzJxMjllaHAzYXJpbTZwZDYyc2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_da989a51",
       "name": "\u26a1 Fractal Weekly Demo Party #7 \u26a1",
       "type": "tech",
@@ -2367,5 +2264,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-20T12:49:20.710597"
+  "timestamp": "2026-09-21T14:45:10.472735"
 }
