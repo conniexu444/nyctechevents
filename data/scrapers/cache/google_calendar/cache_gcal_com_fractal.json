@@ -1,6 +1,60 @@
 {
   "events": [
     {
+      "id": "evt_gcal_com_fractal_d0eb0489",
+      "name": "Study Hall: Foundations of New York",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "do you work better with a study group? come read and do  homework for Maximum New York together\n\nreoccurring event. same place, same time every week",
+      "startDate": "2026-09-23T20:30:00Z",
+      "endDate": "2026-09-23T22:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-63ecdf73.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/p6ldo3mr",
+        "original_event_id": "_clr78bbf85162mj969skusjf9l26gd20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "John Hoeksema",
+          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "John Hoeksema",
+          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmODUxNjJtajk2OXNrdXNqZjlsMjZnZDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_da989a51",
       "name": "\u26a1 Fractal Weekly Demo Party #7 \u26a1",
       "type": "tech",
@@ -271,7 +325,7 @@
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
-      "description": "Join us for an afternoon of pursuing your personal side quest! Whether you\u2019re writing, coding, or doing those taxes you\u2019ve been putting off, this is your space. It\u2019s intentional time for you to focus on what feels meaningful to you\u2014and meet people doing the same thing. We\u2019ll split our time between focused work sessions and breaks to reset and mingle with other creators.\nRough Agenda*\n2:30-3:00pm: Introductions and Intention Sharing\n3:00-4:30pm: Deep Focus Session 1\n4:30-4:50pm: Optional Break\n4:50-5:30pm: Deep Focus Session 2\n5:30-6:00pm: Optional Show and Tell\n*Popular opinion is that SideQuest is best when you\u2019re all in, showing up for the duration instead of splitting sessions. Try it\u2014we think you\u2019ll agree.\n___________________\n\nAbout SideQuest:\nWe host coworking sessions every other Sunday. Subscribe to our events calendar if you can\u2019t make this one :)\nIf you've got ideas for how to help build the community, or you'd like to host a future SideQuest (it's easier than you might think!), we'd love to hear from you.\nThank you to Fractal Campus for hosting us, our friends at PurdueHackers, CozySundays and Socratica for seeding the idea, and Chandiran for building the SideQuest community.",
+      "description": "Join us for an afternoon of pursuing your personal side quest! Whether you\u2019re writing, coding, or doing those taxes you\u2019ve been putting off, this is your space. It\u2019s intentional time for you to focus on what feels meaningful to you and meet people doing the same thing. We\u2019ll split our time between focused work sessions and breaks to reset and mingle with other creators.\nRough Agenda*\n2:30-3:00pm: Mingling, Introductions, and Intention Sharing\n3:00-4:00pm: Deep Focus Session 1\n4:00-4:20pm: Optional Break\n4:20-5:30pm: Deep Focus Session 2\n5:30-6:00pm: Optional Show and Tell\n___________________\n\nAbout SideQuest:\nWe host coworking sessions every other Sunday. Subscribe to our events calendar if you can\u2019t make this one :)\nIf you've got ideas for how to help build the community, or you'd like to host a future SideQuest (it's easier than you might think!), we'd love to hear from you.\nThank you to Fractal Campus for hosting us, our friends at PurdueHackers, CozySundays and Socratica for seeding the idea, and Chandiran for building the SideQuest community.",
       "startDate": "2026-09-27T18:30:00Z",
       "endDate": "2026-09-27T22:00:00Z",
       "category": [
@@ -317,6 +371,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOWQwamV1OW45Z3A2Nm9hbWE5YW1pdTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_7477beaa",
+      "name": "Study Hall: Foundations of New York",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "do you work better with a study group? come read and do  homework for Maximum New York together\n\nreoccurring event. same place, same time every week",
+      "startDate": "2026-09-30T20:30:00Z",
+      "endDate": "2026-09-30T22:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-63ecdf73.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/bstu8ed0",
+        "original_event_id": "_clr78ba7919j2p2getql6e33dtqkkga0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "John Hoeksema",
+          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "John Hoeksema",
+          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE3OTE5ajJwMmdldHFsNmUzM2R0cWtrZ2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -641,6 +749,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI5YWQzbDRoYmxhdG5rdW9pODhoZ2tvaGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_b40162bc",
+      "name": "Study Hall: Foundations of New York",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "do you work better with a study group? come read and do  homework for Maximum New York together\n\nreoccurring event. same place, same time every week",
+      "startDate": "2026-10-07T20:30:00Z",
+      "endDate": "2026-10-07T22:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-63ecdf73.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/arg02079",
+        "original_event_id": "_clr78b9n8trmasi4cp2niuapcl0kggq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "John Hoeksema",
+          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "John Hoeksema",
+          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
+          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluOHRybWFzaTRjcDJuaXVhcGNsMGtnZ3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2264,5 +2426,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-21T14:45:10.472735"
+  "timestamp": "2026-09-22T12:59:41.158765"
 }
