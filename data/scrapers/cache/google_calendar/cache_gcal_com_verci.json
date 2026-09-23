@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_1bdfb86a",
-      "name": "Verci x Reunion Bathing Club",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Join us for an evening at the Russian-Turkish baths led by  Matt, founder of Reunion Bathing Club. We'll spend some time moving between the sauna and cold plunge. Come unwind, meet some new people, and ease into the rest of your week. Verci is subsidizing 50% of ticket cost.",
-      "startDate": "2026-09-22T23:00:00Z",
-      "endDate": "2026-09-23T01:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 20.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-ebe8cda2.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/3hhp8t3t",
-        "original_event_id": "_clr78b9n8hnk8cbhed6nccqb9p4n6hq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Russian & Turkish Baths\nRussian & Turkish Baths, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluOGhuazhjYmhlZDZuY2NxYjlwNG42aHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_5a9b267c",
       "name": "Satellite Manicures",
       "type": "technology",
@@ -62,7 +8,7 @@
       "communityId": "com_verci",
       "description": "Join Vena for a gel manicure and choose from four styles \u2014 three custom designs or a classic plain manicure. Please come with clean, polish - free nails!",
       "startDate": "2026-09-23T15:00:00Z",
-      "endDate": "2026-09-23T18:00:00Z",
+      "endDate": "2026-09-23T18:30:00Z",
       "category": [
         "technology",
         "innovation",
@@ -163,6 +109,55 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_27c95a0e",
+      "name": "Verci Monthly Poker Night",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Find more information on https://luma.com/verci",
+      "startDate": "2026-09-23T22:00:00Z",
+      "endDate": "2026-09-24T00:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci",
+        "original_event_id": "_cdgmopbm5lqn2rb96t154pbb89ajethgf506atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/wMckiB6vh2Sfqq0p5k3S",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxxbjJyYjk2dDE1NHBiYjg5YWpldGhnZjUwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_b3c95fe9",
       "name": "Floral Arranging Workshop",
       "type": "technology",
@@ -224,7 +219,7 @@
       "communityId": "com_verci",
       "description": "Take a break and reset with a relaxing 30-minute massage.",
       "startDate": "2026-09-24T16:00:00Z",
-      "endDate": "2026-09-24T19:00:00Z",
+      "endDate": "2026-09-24T20:00:00Z",
       "category": [
         "technology",
         "innovation",
@@ -322,6 +317,163 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIzOHA0NzJrcWplMTJta2liNWRscm1taHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_bfdaef78",
+      "name": "verci yoga & coffee",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Find more information on https://luma.com/verci",
+      "startDate": "2026-09-25T13:00:00Z",
+      "endDate": "2026-09-25T15:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci",
+        "original_event_id": "_cdgmopbm5l164ibo99hj8pqgdlgkacj49l06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/YCx3QAERimnyZ9cx5Ox9",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWwxNjRpYm85OWhqOHBxZ2RsZ2thY2o0OWwwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_cc8c0097",
+      "name": "Verci Manicures",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Chloe for a gel manicure. Please come with clean, polish - free nails!",
+      "startDate": "2026-09-25T15:00:00Z",
+      "endDate": "2026-09-25T20:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-064a087e.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/058jci2w",
+        "original_event_id": "_clr78baa9phnkir1ddbncpbmf9r48pq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://luma.com/event/evt-JNczKakWvevzvDg",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhOXBobmtpcjFkZGJuY3BibWY5cjQ4cHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_eabccd33",
+      "name": "Verci Massages",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Take a break and reset with a relaxing 30-minute massage.",
+      "startDate": "2026-09-25T15:00:00Z",
+      "endDate": "2026-09-25T20:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-d29502fd.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/gf7a374b",
+        "original_event_id": "_clr78bbe8t9lgphi6hq6qmaa8hplgti0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlOHQ5bGdwaGk2aHE2cW1hYThocGxndGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -425,6 +577,55 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI3OHRrbTRzMW5kOXQzMmoyN2U5YzRjcnEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_e5b86f89",
+      "name": "Director's Dinner",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Find more information on https://luma.com/verci",
+      "startDate": "2026-09-27T23:00:00Z",
+      "endDate": "2026-09-28T01:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci",
+        "original_event_id": "_cdgmopbm5lc3ij1mdp538d1jf9l7ci378l06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/7HGLS2wqYppSqhP31R8T",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxjM2lqMW1kcDUzOGQxamY5bDdjaTM3OGwwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -909,5 +1110,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-22T12:59:52.642690"
+  "timestamp": "2026-09-23T13:10:58.282822"
 }
