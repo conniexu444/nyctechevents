@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_1c831743",
-      "name": "NYCResistor Ham Radio Club",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091373259\n\nMonthly Amateur Radio club meeting of NYCResistorRadio curious? Join the NYC Resistor Ham Radio Club (call sign N2YCR) for our open and regular meetings, the 4th Wednesday of each month from 8:00 \u2013 9:30 pm at NYC Resistor (87 3rd Avenue, 4th Floor).\nThe amateur radio hobby has something for everyone, from Morse code to modern digital modes. Bring projects you're working on, gear to fix, problems that puzzle you, outings you'd like to organize, or just yourself to meet &amp; greet your friendly local hams. Drop by the #n2ycr channel in Discord any time to say hi.\nYou do not need to be a member of Resistor to be a member of the club, nor do you need to be a licensed amateur radio operator (though of course we hope you'll become licensed with our help).\nWe aim to create an inclusive, encouraging, and diverse environment to bring together Brooklyn's radio hackers, antenna experimenters, shortwave listeners, toroid winders, satellite chasers, and balloon launchers.\nCome make some noise in the weird and wonderful medium of radio!This is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
-      "startDate": "2026-09-23T20:00:00-04:00",
-      "endDate": "2026-09-23T23:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091373259",
-        "original_event_id": "95g01m8cknmgjgfrb8puc554qc",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor, 87 3rd Ave, Brooklyn, NY 11217, USA",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=OTVnMDFtOGNrbm1namdmcmI4cHVjNTU0cWMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_55471e9b",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -4186,7 +4133,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=OTcyb3RiNTZwZ2pwZGduNnU0a2k2MjZlb2MgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_fec2086f",
+      "name": "Fire Extinguisher Health Check",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "https://blink.ucsd.edu/safety/fire/extinguisher/inspection.html",
+      "startDate": "2026-12-29T21:00:00-05:00",
+      "endDate": "2026-12-29T22:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MDlhcmR0ZDNlbHY0NjZiNGlhazkyamsxbmVfMjAyNjEyMzBUMDIwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "09ardtd3elv466b4iak92jk1ne_20261230T020000Z",
+        "organizer": {
+          "name": "NYC Resistor",
+          "website": "",
+          "instagram": "",
+          "email": "opn.address@gmail.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor, 87 3rd Ave, Brooklyn, NY 11217, USA",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MDlhcmR0ZDNlbHY0NjZiNGlhazkyamsxbmVfMjAyNjEyMzBUMDIwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
     }
   ],
-  "timestamp": "2026-09-23T13:10:45.300567"
+  "timestamp": "2026-09-24T13:04:56.986503"
 }
