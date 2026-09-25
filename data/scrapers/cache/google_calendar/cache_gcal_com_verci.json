@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_58535b32",
-      "name": "Satellite Massages",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Take a break and reset with a relaxing 30-minute massage.",
-      "startDate": "2026-09-24T16:00:00Z",
-      "endDate": "2026-09-24T20:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-6a05d552.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/4b3mnz69",
-        "original_event_id": "_clr78b9id5j5kl1na5ongtq890rmmea0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlpZDVqNWtsMW5hNW9uZ3RxODkwcm1tZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_0c8276cf",
-      "name": "NYC Founders Dinner by ElevenLabs, Deel, and Verci",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "About this event\nVerci, ElevenLabs, and Deel are hosting a private, curated dinner for a select group of idea to series a founders building in nyc.\nMore about the hosts\nElevenLabs is transforming human-technology interaction with AI research and products. ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models.\nDeel is one platform for payroll, HR, benefits, mobility, performance, and device management across 150+ countries. Built on owned infrastructure, powered by AI, and supported by thousands of local experts, Deel helps businesses scale smarter, faster, and more compliantly.\nVerci is a workspace and social space in NYC and LA, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
-      "startDate": "2026-09-24T23:00:00Z",
-      "endDate": "2026-09-25T01:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-b9869852.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/dmyx24by",
-        "original_event_id": "_clr78bb38p472kqje12mkib5dlrmmhq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIzOHA0NzJrcWplMTJta2liNWRscm1taHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_bfdaef78",
       "name": "verci yoga & coffee",
       "type": "technology",
@@ -263,60 +155,6 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlOHQ5bGdwaGk2aHE2cW1hYThocGxndGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_9eceb171",
-      "name": "Satellite Lunch",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Wrap up Spa Week with a beautiful rooftop lunch. Limited spots available.",
-      "startDate": "2026-09-25T16:30:00Z",
-      "endDate": "2026-09-25T17:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-0f69dc02.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/i4rcto3k",
-        "original_event_id": "_clr78b9n6l2mus2behcm4sbad1m34pq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluNmwybXVzMmJlaGNtNHNiYWQxbTM0cHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -796,6 +634,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_9eceb171",
+      "name": "Satellite Lunch",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Wrap up Spa Week with a beautiful rooftop lunch. Limited spots available.",
+      "startDate": "2026-10-02T16:30:00Z",
+      "endDate": "2026-10-02T17:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0f69dc02.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/i4rcto3k",
+        "original_event_id": "_clr78b9n6l2mus2behcm4sbad1m34pq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluNmwybXVzMmJlaGNtNHNiYWQxbTM0cHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_ee291ebc",
       "name": "Verci Cafe",
       "type": "technology",
@@ -953,5 +845,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-24T13:05:07.405944"
+  "timestamp": "2026-09-25T13:09:22.525976"
 }

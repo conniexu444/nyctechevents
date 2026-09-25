@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_8e7ea720",
-      "name": "EA NYC Creatives & Communicators Meetup",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "Calling all writers, designers, filmmakers, marketers, podcasters, artists, and other creative-minded EAs!\nThis is an informal monthly meetup to connect and share ideas.   Whether you\u2019re working on a creative project, thinking about how to use storytelling for impact, or just curious what this group is about, come hang out!\nPlease note that this event is capped to 10 attendees due to reservation rules at the restaurant.",
-      "startDate": "2026-09-24T19:00:00-04:00",
-      "endDate": "2026-09-24T21:00:00-04:00",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-0d524a64.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/ivpzafdw",
-        "original_event_id": "37pmcofvu1m9jv5jobcuuqmv09",
-        "organizer": {
-          "name": "EA NYC",
-          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Beyond Sushi - Vegan Restaurant\nBeyond Sushi - Vegan Restaurant, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "EA NYC",
-          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MzdwbWNvZnZ1MW05anY1am9iY3V1cW12MDkgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_bb16e6b3",
       "name": "Petrov Day",
       "type": "effective altruism",
@@ -746,5 +692,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-24T13:04:39.210976"
+  "timestamp": "2026-09-25T13:08:56.884887"
 }
