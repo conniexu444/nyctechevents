@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_a11dfba6",
-      "name": "Jhana NYC Meditation",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "This is a social event hosted for jhana meditators and those who are curious about jhana meditation. During the meeting we will meditate but there will be no instruction; you're welcome to meditate however you like or to sit quietly for an hour.\n\nPlease bring food and drinks to share. Paper cups, plates, bowls, utensils, and napkins will be provided.\nIf you aren't able to bring food or drink to share, we ask for a $15 donation for the food we're providing.  Payment can be sent to @gumballsforme on PayPal or Venmo, or given in cash to David.\nMeditation cushions will not be provided.  Please bring whatever you need to make yourself comfortable.  We will be meeting in The Lounge.\nDIRECTIONS\nThere are two grey doors at the address. Enter the one on the RIGHT (to the right of Savino's Quality Pasta) and proceed straight up the stairs to the second floor.",
-      "startDate": "2026-09-27T18:00:00Z",
-      "endDate": "2026-09-27T22:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-39b7587a.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/gntkytq0",
-        "original_event_id": "_clr78bbf71n4ejimdop6mkr785c7iea0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Jhana NYC",
-          "website": "https://luma.com/calendar/cal-Hl2i5yr1fumfqWY",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Jhana NYC",
-          "url": "https://luma.com/calendar/cal-Hl2i5yr1fumfqWY",
-          "image": "https://images.lumacdn.com/uploads/6d/165fb0da-7792-4255-ab8b-e75bc6c1bf4d.jpg",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmNzFuNGVqaW1kb3A2bWtyNzg1YzdpZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_9c7a5657",
-      "name": "SideQuest IRL #46",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Join us for an afternoon of pursuing your personal side quest! Whether you\u2019re writing, coding, or doing those taxes you\u2019ve been putting off, this is your space. It\u2019s intentional time for you to focus on what feels meaningful to you and meet people doing the same thing. We\u2019ll split our time between focused work sessions and breaks to reset and mingle with other creators.\nRough Agenda*\n2:30-3:00pm: Mingling, Introductions, and Intention Sharing\n3:00-4:00pm: Deep Focus Session 1\n4:00-4:20pm: Optional Break\n4:20-5:30pm: Deep Focus Session 2\n5:30-6:00pm: Optional Show and Tell\n___________________\n\nAbout SideQuest:\nWe host coworking sessions every other Sunday. Subscribe to our events calendar if you can\u2019t make this one :)\nIf you've got ideas for how to help build the community, or you'd like to host a future SideQuest (it's easier than you might think!), we'd love to hear from you.\nThank you to Fractal Campus for hosting us, our friends at PurdueHackers, CozySundays and Socratica for seeding the idea, and Chandiran for building the SideQuest community.",
-      "startDate": "2026-09-27T18:30:00Z",
-      "endDate": "2026-09-27T22:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-474c7a7c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/30napr09",
-        "original_event_id": "_clr78ba29d0jeu9n9gp66oama9amiu20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "SideQuest",
-          "website": "https://luma.com/sidequest",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Kings County, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "SideQuest",
-          "url": "https://luma.com/sidequest",
-          "image": "https://images.lumacdn.com/calendars/7l/768c5bdb-8fbb-4530-a326-f69af660c934",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOWQwamV1OW45Z3A2Nm9hbWE5YW1pdTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_7477beaa",
       "name": "Study Hall: Foundations of New York",
       "type": "tech",
@@ -168,7 +60,7 @@
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
+      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsign up here - https://forms.gle/g8z8GuRmFMfPtbfq6\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
       "startDate": "2026-09-30T22:30:00Z",
       "endDate": "2026-10-01T01:00:00Z",
       "category": [
@@ -1194,7 +1086,7 @@
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
-      "description": "This is a social event hosted for jhana meditators and those who are curious about jhana meditation. During the meeting we will meditate but there will be no instruction; you're welcome to meditate however you like or to sit quietly for an hour.\n\nPlease bring food and drinks to share. Paper cups, plates, bowls, utensils, and napkins will be provided.\nMeditation cushions will not be provided.  Please bring whatever you need to make yourself comfortable.  We will be meeting in The Lounge.\nDIRECTIONS\nThere are two grey doors at the address. Enter the one on the RIGHT (to the right of Savino's Quality Pasta) and proceed straight up the stairs to the second floor.",
+      "description": "This is a social event hosted for jhana meditators and those who are curious about jhana meditation. During the meeting we will meditate but there will be no instruction; you're welcome to meditate however you like or to sit quietly for an hour.\n\nMeditation cushions will not be provided.  Please bring whatever you need to make yourself comfortable.  We will be meeting in The Lounge.\nDIRECTIONS\nThere are two grey doors at the address. Enter the one on the RIGHT (to the right of Savino's Quality Pasta) and proceed straight up the stairs to the second floor.",
       "startDate": "2026-10-25T18:00:00Z",
       "endDate": "2026-10-25T22:00:00Z",
       "category": [
@@ -2161,5 +2053,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-27T13:27:02.528191"
+  "timestamp": "2026-09-28T16:18:49.879285"
 }
