@@ -1,61 +1,8 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_762bac8e",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2026-09-28T18:30:00-04:00",
-      "endDate": "2026-09-28T21:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053",
-        "original_event_id": "0au2lakcl2vb7744hj4vkq52ap_20260928T223000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNjA5MjhUMjIzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_386153ee",
-      "name": "Resistor Tuesday Members Meeting",
+      "name": "F.O.R.C.E. - Resistor Annual Members Meeting",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
@@ -112,7 +59,7 @@
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/pot-switch-build-a-6-voice-oscillator-synth-from-salvaged-components-tickets-1999714453762\n\nA TWO-DAY workshop for building your own analog synthesizer in a small box or tin. E-waste gives each synth its own unique sound and style.In this TWO-DAY workshop series, \u201cPot &amp; Switch\u201d, participants will be guided through the process of building their own analog synthesizer.\nWed Sept 30 7-10pm\n&amp;\nSun Oct 5 6-9pm\n\nInstead of using all new materials, we will be salvaging as many potentiometers (knobs) and switches as we can from e-waste to create the interfaces of our synthesizers, resulting in each person\u2019s synth being unique in its sound and playability.\n\nWe will be using a CD40106 IC chip to breadboard a 6-voice oscillator circuit to which we will be connecting our found components, then we will house this all in a small box or tin. We will provide tins and boxes for you to choose from, or feel free to bring your own if you have one that you specifically want to use!\n\nAs always, NO EXPERIENCE NECESSARY!\nThis class is for anyone interested in hardware hacking, electronic music, e-waste salvation, and creative technology!\nYour instructor:\nThe Disengineering Society is a hardware hacking collective and a publisher of educational materials. Their textbooks reimagine educational literature through idiosyncratic construction and site-specific applications. Disengineering\u2019s publications go hand-in-hand with their widely offered workshops that emphasize chaos, destruction, electronic screeches, and a devout commitment to combating \u201cplanned obsolescence\u201d.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
+      "description": "RSVP https://www.eventbrite.com/e/pot-switch-build-a-6-voice-oscillator-synth-from-salvaged-components-tickets-1999714453762\n\nA TWO-DAY workshop for building your own analog synthesizer in a small box or tin. E-waste gives each synth its own unique sound and style.In this TWO-DAY workshop series, \u201cPot & Switch\u201d, participants will be guided through the process of building their own analog synthesizer.\nWed Sept 30 7-10pm\n&\nSun Oct 4 6-9pm\n\nInstead of using all new materials, we will be salvaging as many potentiometers (knobs) and switches as we can from e-waste to create the interfaces of our synthesizers, resulting in each person\u2019s synth being unique in its sound and playability.\n\nWe will be using a CD40106 IC chip to breadboard a 6-voice oscillator circuit to which we will be connecting our found components, then we will house this all in a small box or tin. We will provide tins and boxes for you to choose from, or feel free to bring your own if you have one that you specifically want to use!\n\nAs always, NO EXPERIENCE NECESSARY!\nThis class is for anyone interested in hardware hacking, electronic music, e-waste salvation, and creative technology!\nYour instructor:\nThe Disengineering Society is a hardware hacking collective and a publisher of educational materials. Their textbooks reimagine educational literature through idiosyncratic construction and site-specific applications. Disengineering\u2019s publications go hand-in-hand with their widely offered workshops that emphasize chaos, destruction, electronic screeches, and a devout commitment to combating \u201cplanned obsolescence\u201d.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.",
       "startDate": "2026-09-30T19:00:00-04:00",
       "endDate": "2026-09-30T22:00:00-04:00",
       "category": [
@@ -263,59 +210,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MGlxcWZ0NDc1ZzByaDJxZTI4YnR2OGduZTlfMjAyNjEwMDJUMjIzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_cd7a10aa",
-      "name": "HOLD: Repair Event (Maurice)",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-10-03T14:00:00-04:00",
-      "endDate": "2026-10-03T17:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=N2tmMGN0YWRtYzc4YmYyNWNoMGNtdjc2cXNfMjAyNjEwMDNUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "7kf0ctadmc78bf25ch0cmv76qs_20261003T180000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=N2tmMGN0YWRtYzc4YmYyNWNoMGNtdjc2cXNfMjAyNjEwMDNUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -744,7 +638,7 @@
     },
     {
       "id": "evt_gcal_com_nyc_resistor_33cc63c1",
-      "name": "HOLD: Kari",
+      "name": "HOLD: Kari - (and post the open mic)",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
@@ -1167,14 +1061,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_59f4ccef",
-      "name": "HOLD: Trees",
+      "id": "evt_gcal_com_nyc_resistor_f786cd22",
+      "name": "DIY Fig Tree Nursery and Distribution Toolkit",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-17",
+      "description": "RSVP https://www.eventbrite.com/e/diy-fig-tree-nursery-and-distribution-toolkit-tickets-2002474891305\n\nStart your own nursery in a milk crate and create a part of our collective toolkit for perennial community agriculture reinforcement!To set up community building infrastructure to collective tree saplings to distribute in support of agriculture. Together, this becomes a library resource for everyone to access saplings.\nEveryone can take home their windowsill nursery and decentralized propogation toolkit.\nWe'll cover topics such as:\nfruit/nut/seed treesoverwinter-stratificationair/root exchangereading room discussionWho is this for:\nAnyone who wants to learn to propogate and clone their favorite types of trees or make a sapling nursery.  We welcome personal proposals with nut tree seed and/or scion too. Come use and amplify your favorite fruit tree with grow light nurseries.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
+      "startDate": "2026-10-16T14:00:00-04:00",
+      "endDate": "2026-10-16T16:00:00-04:00",
       "category": [
         "hackerspace",
         "maker",
@@ -1192,14 +1086,14 @@
         "details": ""
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=N3BrZ2N2bW81MmowcjB0MXZkZzBsMzI1YjAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "7pkgcvmo52j0r0t1vdg0l325b0",
+        "source_url": "https://www.eventbrite.com/e/diy-fig-tree-nursery-and-distribution-toolkit-tickets-2002474891305",
+        "original_event_id": "k54ub1doror29ifug800p50l5s",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1208,7 +1102,7 @@
         },
         "venue": {
           "name": "",
-          "address": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
           "type": "Offline"
         },
         "speakers": [],
@@ -1216,7 +1110,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=N3BrZ2N2bW81MmowcjB0MXZkZzBsMzI1YjAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=azU0dWIxZG9yb3IyOWlmdWc4MDBwNTBsNXMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1591,12 +1485,12 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_4607ed67",
-      "name": "HOLD: SYNTH Night",
+      "id": "evt_gcal_com_nyc_resistor_0ffaf3aa",
+      "name": "Synthesizer Night @ NYC Resistor",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
+      "description": "RSVP https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2002480300484\n\nGathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!Join us at NYC Resistor, a makerspace in Brooklyn for an electrifying Synthesizer Night! Get ready to unleash your creativity, explore sonic landscapes, and connect with fellow synth enthusiasts in an evening dedicated to the mesmerizing world of synthesizers. This is a pay-what-you-wish event (recommended donation $8).\nSynthesizer Night at NYC Resistor is a celebration of all things synthesizer. Whether you're a seasoned musician, an avid collector, or simply fascinated by the possibilities of electronic sound, this event offers a unique opportunity to gather with like-minded individuals and revel in the captivating soundscape of synthesizers.\nAt Synthesizer Night, participants are encouraged to bring their own synthesizers, from vintage analog gems to cutting-edge modular wonders. It's a chance to showcase your personal setup, experiment with new equipment, and dive into the rich sonic tapestry that synthesizers offer.\nFor those looking to enhance the collaborative experience, consider arriving early to connect your synthesizer to a MIDI/CV clock. This allows for synchronized timing among all instruments, creating a seamless musical fusion during impromptu jam sessions.\nIn addition to the collaborative jam sessions, the event provides a unique opportunity for a show and tell/play with anything that attendees bring. Share your favorite gear, experiment with different setups, and engage in hands-on exploration of various synthesizers and electronic music equipment.\nThe event unfolds in a relaxed and welcoming atmosphere, providing a platform for musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. Whether you're a beginner seeking guidance or an expert eager to inspire others, Synthesizer Night is the perfect setting to engage in conversations, exchange knowledge, and foster a vibrant community. \nThroughout the evening, you'll have the opportunity to engage in impromptu jam sessions, where the collective energy of multiple synthesizers intertwines to create awe-inspiring sounds. Experience the joy of collaborating with fellow musicians, experiment with different genres and styles, and let the unique characteristics of each instrument shape your sonic explorations.\nAdditionally, for those who wish to showcase their skills and perform, there will be dedicated performance slots. Take center stage, captivate the audience, and let your creativity soar as you demonstrate the full potential of your synthesizer setup. To sign up for a performance slot, email classes@nycresistor.com or join our Discord and post to #synth.\nWhether you're an ardent synth enthusiast, an aspiring musician, or simply curious about the captivating world of synthesizers, Synthesizer Night at NYC Resistor is an event that will inspire, educate, and leave you in awe of the boundless possibilities that electronic sound offers. Don't miss this opportunity to immerse yourself in an evening of music, collaboration, and innovation. Mark your calendars, pack up your favorite synths, and join us at NYC Resistor for a night you won't soon forget. We can't wait to see you there!\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
       "startDate": "2026-10-23T19:30:00-04:00",
       "endDate": "2026-10-23T22:30:00-04:00",
       "category": [
@@ -1610,20 +1504,20 @@
         "robotics"
       ],
       "price": {
-        "amount": 0,
-        "type": "Free",
+        "amount": 8.0,
+        "type": "Paid",
         "currency": "USD",
-        "details": ""
+        "details": "See event description for pricing details"
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=OTM4MDcwNDkwZDgxNGQyMjgyYzY2ZDljMGJmNTIzNjFfMjAyNjEwMjNUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "938070490d814d2282c66d9c0bf52361_20261023T233000Z",
+        "source_url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2002480300484",
+        "original_event_id": "c0j6g56b9m20jleaegno2pqvug",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1632,7 +1526,7 @@
         },
         "venue": {
           "name": "",
-          "address": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
           "type": "Offline"
         },
         "speakers": [],
@@ -1640,16 +1534,16 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=OTM4MDcwNDkwZDgxNGQyMjgyYzY2ZDljMGJmNTIzNjFfMjAyNjEwMjNUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=YzBqNmc1NmI5bTIwamxlYWVnbm8ycHF2dWcgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_bfed3388",
-      "name": "HOLD: Wire wrapped jewelry",
+      "id": "evt_gcal_com_nyc_resistor_06208a88",
+      "name": "Wire Wrapping: Make Your Own Wand or Bracelet",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
+      "description": "RSVP https://www.eventbrite.com/e/wire-wrapping-make-your-own-wand-or-bracelet-tickets-2002479922353\n\nIn this wire wrapping workshop, we will unlock our creative potential by crafting unique objects from aluminum wire and stones.You'll learn four simple weaving techniques that build into complex, stimulating details, and how to embed stones and beads securely into your designs. Once you've mastered the techniques, you'll put them to use creating either a wand or a bracelet. Participants can also personalize their piece with their choice of stones and beads.\nQuartz points, assorted gemstone beads, and aluminum wire will be provided. Feel free to bring your own stones and beads.\nWho is this class for:\nAnyone that likes working with their hands and small repetitive details.\nYour Instructor:I am an artist that approaches many mediums and loves working with her hands. My visual language stems from my proclivity for organic details and fluid dynamics. Wire wrapping has been an important medium in my exploration in tandem with stones and crystals. I enjoy creating small 'magical' objects with different combinations of stones, wire wrapping techniques, metals, anything to create pieces that feel alive and otherworldly but also intuitive and instinctually familiar.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
       "startDate": "2026-10-24T12:00:00-04:00",
       "endDate": "2026-10-24T14:00:00-04:00",
       "category": [
@@ -1669,14 +1563,67 @@
         "details": ""
       },
       "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/wire-wrapping-make-your-own-wand-or-bracelet-tickets-2002479922353",
+        "original_event_id": "cghhtk2395mh60qrub4e95o5mc",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=Y2doaHRrMjM5NW1oNjBxcnViNGU5NW81bWMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_8ef4ec97",
+      "name": "HOLD: Pretty PCB",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-10-24T15:00:00-04:00",
+      "endDate": "2026-10-24T19:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
       "registrationRequired": null,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MmhhbDA5bGVjMXVjaWY5cmg5amJ0aWs4YXEgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "2hal09lec1ucif9rh9jbtik8aq",
+        "source_url": "https://www.google.com/calendar/event?eid=MHQ4dmxyOHVkb3Y4NHNpam00aTJoMzVoZmggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "0t8vlr8udov84sijm4i2h35hfh",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1693,7 +1640,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MmhhbDA5bGVjMXVjaWY5cmg5amJ0aWs4YXEgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MHQ4dmxyOHVkb3Y4NHNpam00aTJoMzVoZmggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1747,59 +1694,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MTA2OGpjOXRzMDRxc25iNnJtOTdwOXA0bHUgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_9b1dd407",
-      "name": "HOLD: Screening (Jaime)",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-10-25T14:00:00-04:00",
-      "endDate": "2026-10-25T18:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NmxpajhkcGg2NHFtMmI5bjZncDNpYjlrNmNybWFiOW82Z3AzY2I5aWNjcWppZTMxNmRpM2NkcjFjNCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "6lij8dph64qm2b9n6gp3ib9k6crmab9o6gp3cb9iccqjie316di3cdr1c4",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NmxpajhkcGg2NHFtMmI5bjZncDNpYjlrNmNybWFiOW82Z3AzY2I5aWNjcWppZTMxNmRpM2NkcjFjNCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -2174,6 +2068,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_889306c5",
+      "name": "HOLD: Networks Class",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-01T16:00:00-05:00",
+      "endDate": "2026-11-01T19:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NjhvbWFlMWxjbGhqaWJiNjc0cmo4YjlrYzRxajhiYjJjNHBqaWJiNWNrcTMwZGI1NzFnamdvajQ3MCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "68omae1lclhjibb674rj8b9kc4qj8bb2c4pjibb5ckq30db571gjgoj470",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjhvbWFlMWxjbGhqaWJiNjc0cmo4YjlrYzRxajhiYjJjNHBqaWJiNWNrcTMwZGI1NzFnamdvajQ3MCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_2f30deb3",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -2493,7 +2440,7 @@
     },
     {
       "id": "evt_gcal_com_nyc_resistor_ac66d7fe",
-      "name": "Hold tape class",
+      "name": "HOLD: tape class",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
@@ -4029,5 +3976,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-28T16:18:50.339475"
+  "timestamp": "2026-09-29T14:31:57.621699"
 }

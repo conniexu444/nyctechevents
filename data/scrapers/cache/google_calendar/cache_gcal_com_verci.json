@@ -1,120 +1,12 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_0d51e00c",
-      "name": "Consumer Tech Founders Dinner by FirstMark, Verci, Orrick and Deel",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "About this event\nVerci, FirstMark, Orrick and Deel are hosting a private, curated dinner for a select group of consumer tech founders, idea to series a building in nyc.\nMore about the hosts\nDeel is one platform for payroll, HR, benefits, mobility, performance, and device management across 150+ countries. Built on owned infrastructure, powered by AI, and supported by thousands of local experts, Deel helps businesses scale smarter, faster, and more compliantly.\nFirstMark is a venture capital firm based in New York City, partnering with founders to make their mark on the world.\nOrrick\u00a0is a global, tech-focused law firm built for the innovation economy. Team Orrick partners with entrepreneurs, investors, and market leaders to build, scale, and protect what\u2019s next, providing end-to-end legal and strategic guidance from financing and protecting IP to attracting talent and navigating a rapidly evolving landscape.\nVerci is a workspace and social space in NYC and LA, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
-      "startDate": "2026-09-28T23:00:00Z",
-      "endDate": "2026-09-29T01:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-905bf1ed.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/z12ul4v8",
-        "original_event_id": "_clr78ba175qk2i2h6lik4ebbb9t3aia0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmExNzVxazJpMmg2bGlrNGViYmI5dDNhaWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_f1a54e5d",
-      "name": "Onboarding Night",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "VERCI ONBOARDING NIGHT!!\nCongrats, you\u2019re in. Now it\u2019s time to get properly initiated.\nWhat are we doing? It\u2019s a surprise. Just know it\u2019ll be super fun and you\u2019ll leave knowing some new faces around Verci.\nCome ready to participate, meet your fellow new members, and trust the process.\nAttendance is voluntary (mandatory). See you there!!!!",
-      "startDate": "2026-09-28T23:00:00Z",
-      "endDate": "2026-09-29T01:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-5268f51b.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/verci-xuwr",
-        "original_event_id": "_clr78ba38525gcikf1kkieaqa5i46ka0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzODUyNWdjaWtmMWtraWVhcWE1aTQ2a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_52ca08b7",
       "name": "Verci TED Talk Night",
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "Come listen to some of our amazing members give TED Talks about the things they're experts on and most passionate about. Each TED Talk followed by quick Q&A from the crowd!\n\nFill out this form and text Ali at (248) 971-4091 if you want to be a speaker.",
+      "description": "Come listen to some of our amazing members give TED Talks about the things they're experts on and most passionate about. Each TED Talk followed by quick Q&A from the crowd!\n\nSpeakers for September 29th Ted Talks:\nDiana Arus - the problem with modern skepticism\nLucas Rizzoto - something weird\nLucas Simon - how to be funny\nKaitlyn Drohan - how to blow up your life\nRose - how to build your life back\nDom - true greatness in athletes\nClay - running 100 milles in 48 hrs\n\nFill out this form and text Ali at (248) 971-4091 if you want to be a speaker.",
       "startDate": "2026-09-29T22:00:00Z",
       "endDate": "2026-09-30T00:00:00Z",
       "category": [
@@ -487,6 +379,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_f1a54e5d",
+      "name": "Onboarding Night",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "VERCI ONBOARDING NIGHT!!\nCongrats, you\u2019re in. Now it\u2019s time to get properly initiated.\nWhat are we doing? It\u2019s a surprise. Just know it\u2019ll be super fun and you\u2019ll leave knowing some new faces around Verci.\nCome ready to participate, meet your fellow new members, and trust the process.\nAttendance is voluntary (mandatory). See you there!!!!",
+      "startDate": "2026-10-12T23:00:00Z",
+      "endDate": "2026-10-13T01:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-5268f51b.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci-xuwr",
+        "original_event_id": "_clr78ba38525gcikf1kkieaqa5i46ka0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzODUyNWdjaWtmMWtraWVhcWE1aTQ2a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_8455b357",
       "name": "Verci Tunisia",
       "type": "technology",
@@ -590,5 +536,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-28T16:18:56.981283"
+  "timestamp": "2026-09-29T14:32:04.484465"
 }

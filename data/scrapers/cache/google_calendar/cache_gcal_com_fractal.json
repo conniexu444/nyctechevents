@@ -55,60 +55,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_fractal_b7ec1db5",
-      "name": "\u26a1 Fractal Weekly Demo Party #8 \u26a1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsign up here - https://forms.gle/g8z8GuRmFMfPtbfq6\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
-      "startDate": "2026-09-30T22:30:00Z",
-      "endDate": "2026-10-01T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e0bfcd4c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/qzgozqkl",
-        "original_event_id": "_clr78bbq8lsj0oho88rmgc2b8pjm6ca0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxOGxzajBvaG84OHJtZ2MyYjhwam02Y2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_2ea7962c",
       "name": "Goodbye Politicians, Hello Democracy Film Screening",
       "type": "tech",
@@ -438,7 +384,7 @@
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
+      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsign up here! https://forms.gle/5Q5CcxtGtrMNXE2m9\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
       "startDate": "2026-10-07T22:30:00Z",
       "endDate": "2026-10-08T01:00:00Z",
       "category": [
@@ -538,6 +484,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOHQ2amVwajhhNHJraWNwbGNsOGowaGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_92e4f01f",
+      "name": "AI Builders Week 4: RAG, Vector Search & Context Memory",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Your model only knows what you give it. This session is about giving it the right things: chunking documents so they stay meaningful, generating embeddings, and running vector search that actually grounds your answers in real sources. Then context memory: what to keep, what to summarize, and what to throw away so your agent stays sharp over long conversations without blowing up your token bill.\nYou'll leave with a working local RAG pipeline you can plug into your fellowship project.\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
+      "startDate": "2026-10-08T22:00:00Z",
+      "endDate": "2026-10-09T00:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-2020a169.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/3perce-thdp",
+        "original_event_id": "_clr78bbm6dd56srd8d4j8jj5cgp74ga0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "3percentclub",
+          "website": "https://luma.com/3percentclub",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Fractal NYC (Lounge, own entrance), 111 Conselyea St, Floor 2, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "3percentclub",
+          "url": "https://luma.com/3percentclub",
+          "image": "https://images.lumacdn.com/uploads/6y/13ccab43-8589-4817-a138-6d6d7001ac97.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJtNmRkNTZzcmQ4ZDRqOGpqNWNncDc0Z2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -808,6 +808,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjNmw0NzZlYm44cDM0Y3JiNWN0NWpndWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_007beb40",
+      "name": "AI Builders Week 5: Privacy & Security Controls",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "What happens to the data an agent sends, stores, and returns? We\u2019ll look at Zero Data Retention, endpoint controls, self-hosting options, and how to handle personal information in a system people may rely on.\nYou\u2019ll examine the privacy and security choices for your own project as cross-track pods form with Citizens.\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\n6:00\u20138:00 PM \u00b7 Location TBA\nJoining virtually? Zoom: https://us06web.zoom.us/s/84280401788\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
+      "startDate": "2026-10-15T22:00:00Z",
+      "endDate": "2026-10-16T00:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-2020a169.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/vop59frl",
+        "original_event_id": "_clr78bbd9ss3gcj4ctj3ekrq99sj8ka0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "3percentclub",
+          "website": "https://luma.com/3percentclub",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Fractal NYC (Lounge, own entrance), 111 Conselyea St, Floor 2, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "3percentclub",
+          "url": "https://luma.com/3percentclub",
+          "image": "https://images.lumacdn.com/uploads/6y/13ccab43-8589-4817-a138-6d6d7001ac97.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJkOXNzM2djajRjdGozZWtycTk5c2o4a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2053,5 +2107,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-28T16:18:49.879285"
+  "timestamp": "2026-09-29T14:31:56.980634"
 }
