@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_386153ee",
-      "name": "F.O.R.C.E. - Resistor Annual Members Meeting",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "See the #members voice channel on discord.",
-      "startDate": "2026-09-29T20:00:00-04:00",
-      "endDate": "2026-09-29T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjA5MzBUMDAwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "p4f1001anp1giijk0ij2m636v1_20260930T000000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "87 3rd Ave",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjA5MzBUMDAwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_6ea3d126",
       "name": "Pot & Switch: Build a 6-voice oscillator synth from salvaged components",
       "type": "hackerspace",
@@ -643,8 +590,8 @@
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
       "description": "",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-10",
+      "startDate": "2026-10-09T18:00:00-04:00",
+      "endDate": "2026-10-09T21:00:00-04:00",
       "category": [
         "hackerspace",
         "maker",
@@ -956,7 +903,7 @@
     },
     {
       "id": "evt_gcal_com_nyc_resistor_fcfaf840",
-      "name": "HOLD Olivia: surface or vape",
+      "name": "HOLD Olivia: Sew at Tote Bag",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
@@ -1111,6 +1058,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=azU0dWIxZG9yb3IyOWlmdWc4MDBwNTBsNXMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_07d0a126",
+      "name": "Hold: lock picking class",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-10-16T19:00:00-04:00",
+      "endDate": "2026-10-16T20:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NjByM2NjMWxjaGlqNGJiMzZoaTNpYjlrNzFoMzBiOXA2NHI2NGI5cDY4czM0bzlrNmtvMzRjcGg2NCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "60r3cc1lchij4bb36hi3ib9k71h30b9p64r64b9p68s34o9k6ko34cph64",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjByM2NjMWxjaGlqNGJiMzZoaTNpYjlrNzFoMzBiOXA2NHI2NGI5cDY4czM0bzlrNmtvMzRjcGg2NCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -1906,59 +1906,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NjlicGIzODE3Y2x2NG9mcXVnYXNibjQzcHRfMjAyNjEwMjlUMjIzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_07d0a126",
-      "name": "Hold: lock picking class",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-10-30T19:00:00-04:00",
-      "endDate": "2026-10-30T20:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NjByM2NjMWxjaGlqNGJiMzZoaTNpYjlrNzFoMzBiOXA2NHI2NGI5cDY4czM0bzlrNmtvMzRjcGg2NCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "60r3cc1lchij4bb36hi3ib9k71h30b9p64r64b9p68s34o9k6ko34cph64",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjByM2NjMWxjaGlqNGJiMzZoaTNpYjlrNzFoMzBiOXA2NHI2NGI5cDY4czM0bzlrNmtvMzRjcGg2NCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -3976,5 +3923,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-29T14:31:57.621699"
+  "timestamp": "2026-09-30T14:27:54.125921"
 }

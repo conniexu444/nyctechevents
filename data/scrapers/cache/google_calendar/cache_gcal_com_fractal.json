@@ -510,7 +510,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-2020a169.jpg",
+      "image": "events/luma-event-68fc5ecb.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -834,7 +834,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-2020a169.jpg",
+      "image": "events/luma-event-7c205d69.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -2107,5 +2107,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-29T14:31:56.980634"
+  "timestamp": "2026-09-30T14:27:53.687470"
 }
