@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_7477beaa",
-      "name": "Study Hall: Foundations of New York",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "do you work better with a study group? come read and do  homework for Maximum New York together\n\nreoccurring event. same place, same time every week",
-      "startDate": "2026-09-30T20:30:00Z",
-      "endDate": "2026-09-30T22:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-63ecdf73.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/bstu8ed0",
-        "original_event_id": "_clr78ba7919j2p2getql6e33dtqkkga0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "John Hoeksema",
-          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "John Hoeksema",
-          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE3OTE5ajJwMmdldHFsNmUzM2R0cWtrZ2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_2ea7962c",
       "name": "Goodbye Politicians, Hello Democracy Film Screening",
       "type": "tech",
@@ -703,6 +649,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_2896f088",
+      "name": "Context Engineering Guild: October Edition",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "NYC IRL community for advanced practitioners of LLM coding techniques. Monthly Brooklyn meetups. \n\nThe CEG emphasizes advanced use of LLMs for the working engineer, and is not intended for first time coders.\n\nWe start with a lecture on whats happened in the last month, then have some guided or group discussions about current trends in tooling and capabilities. \n\n CEG posts at https://x.com/ContextGuildNYC\n\nBring your main coding laptop so we can share how we build together.",
+      "startDate": "2026-10-13T23:00:00Z",
+      "endDate": "2026-10-14T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-57b0a1e7.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/3zek6pqo",
+        "original_event_id": "_clr78bbfclj48hql8p5legi3alcmuca0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Context Engineering Guild",
+          "website": "https://luma.com/CEG",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Context Engineering Guild",
+          "url": "https://luma.com/CEG",
+          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmY2xqNDhocWw4cDVsZWdpM2FsY211Y2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_b6c79b5f",
       "name": "\u26a1 Fractal Weekly Demo Party #10 \u26a1",
       "type": "tech",
@@ -1189,60 +1189,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_fractal_2896f088",
-      "name": "Context Engineering Guild: October Full Moon Edition",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "NYC IRL community for advanced practitioners of LLM coding techniques. Monthly Brooklyn meetups on the new moon.. \n\nThe CEG emphasizes advanced use of LLMs for the working engineer, and is not intended for first time coders.\n\nWe start with a lecture on whats happened in the last month, then have some guided or group discussions about current trends in tooling and capabilities. \n\n CEG posts at https://x.com/ContextGuildNYC\n\nBring your main coding laptop so we can share how we build together.",
-      "startDate": "2026-10-25T18:00:00Z",
-      "endDate": "2026-10-25T20:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-57b0a1e7.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/3zek6pqo",
-        "original_event_id": "_clr78bbfclj48hql8p5legi3alcmuca0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Context Engineering Guild",
-          "website": "https://luma.com/CEG",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Context Engineering Guild",
-          "url": "https://luma.com/CEG",
-          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmY2xqNDhocWw4cDVsZWdpM2FsY211Y2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_26f4f1f1",
       "name": "SideQuest IRL #48",
       "type": "tech",
@@ -1510,60 +1456,6 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJvY3BhN2dnYWtjcDhrNmliY2Q1MG40czIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_d44d5d18",
-      "name": "Context Engineering Guild: November Edition",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "NYC IRL community for advanced practitioners of LLM coding techniques. Monthly Brooklyn meetups on the new moon.. \n\nThe CEG emphasizes advanced use of LLMs for the working engineer, and is not intended for first time coders.\n\nWe start with a lecture on whats happened in the last month, then have some guided or group discussions about current trends in tooling and capabilities. \n\n CEG posts at https://x.com/ContextGuildNYC\n\nBring your main coding laptop so we can share how we build together.",
-      "startDate": "2026-11-08T19:00:00Z",
-      "endDate": "2026-11-08T21:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-57b0a1e7.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/gl8rycz0",
-        "original_event_id": "_clr78b9k718k8ppp693lgpj8d9t7el20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Context Engineering Guild",
-          "website": "https://luma.com/CEG",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Context Engineering Guild",
-          "url": "https://luma.com/CEG",
-          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlrNzE4azhwcHA2OTNsZ3BqOGQ5dDdlbDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1945,6 +1837,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_d44d5d18",
+      "name": "Context Engineering Guild: November Edition",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "NYC IRL community for advanced practitioners of LLM coding techniques. Monthly Brooklyn meetups. \n\nThe CEG emphasizes advanced use of LLMs for the working engineer, and is not intended for first time coders.\n\nWe start with a lecture on whats happened in the last month, then have some guided or group discussions about current trends in tooling and capabilities. \n\n CEG posts at https://x.com/ContextGuildNYC\n\nBring your main coding laptop so we can share how we build together.",
+      "startDate": "2026-11-25T00:00:00Z",
+      "endDate": "2026-11-25T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-57b0a1e7.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/gl8rycz0",
+        "original_event_id": "_clr78b9k718k8ppp693lgpj8d9t7el20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Context Engineering Guild",
+          "website": "https://luma.com/CEG",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Context Engineering Guild",
+          "url": "https://luma.com/CEG",
+          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlrNzE4azhwcHA2OTNsZ3BqOGQ5dDdlbDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_cda561a7",
       "name": "SideQuest IRL #51",
       "type": "tech",
@@ -2107,5 +2053,5 @@
       }
     }
   ],
-  "timestamp": "2026-09-30T14:27:53.687470"
+  "timestamp": "2026-10-01T14:59:59.757393"
 }
