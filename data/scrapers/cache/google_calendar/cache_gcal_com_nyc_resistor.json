@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_52dd7235",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098740960\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2026-10-01T18:30:00-04:00",
-      "endDate": "2026-10-01T21:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098740960",
-        "original_event_id": "1i8vj2fe02qqqr7haajpl4ae5g",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MWk4dmoyZmUwMnFxcXI3aGFhanBsNGFlNWcgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_8b3be444",
       "name": "Masks On Craft Night",
       "type": "hackerspace",
@@ -1856,6 +1803,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_889306c5",
+      "name": "HOLD: Networks Class",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-10-30T18:00:00-04:00",
+      "endDate": "2026-10-30T21:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NjhvbWFlMWxjbGhqaWJiNjc0cmo4YjlrYzRxajhiYjJjNHBqaWJiNWNrcTMwZGI1NzFnamdvajQ3MCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "68omae1lclhjibb674rj8b9kc4qj8bb2c4pjibb5ckq30db571gjgoj470",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjhvbWFlMWxjbGhqaWJiNjc0cmo4YjlrYzRxajhiYjJjNHBqaWJiNWNrcTMwZGI1NzFnamdvajQ3MCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_bc97242b",
       "name": "HOLD: HALLOWEEN PARTY!!!",
       "type": "hackerspace",
@@ -1959,59 +1959,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=dW1rc2UwZ2lkYnVzNmRlbm1yMnNkcGNtbjNfMjAyNjExMDFUMTcwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_889306c5",
-      "name": "HOLD: Networks Class",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-11-01T16:00:00-05:00",
-      "endDate": "2026-11-01T19:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NjhvbWFlMWxjbGhqaWJiNjc0cmo4YjlrYzRxajhiYjJjNHBqaWJiNWNrcTMwZGI1NzFnamdvajQ3MCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "68omae1lclhjibb674rj8b9kc4qj8bb2c4pjibb5ckq30db571gjgoj470",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjhvbWFlMWxjbGhqaWJiNjc0cmo4YjlrYzRxajhiYjJjNHBqaWJiNWNrcTMwZGI1NzFnamdvajQ3MCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -3921,7 +3868,113 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjEyMDlUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_c6f3cf90",
+      "name": "Stitch Witches - sewing circle event",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "Kate and Keegan are gonna have a donation based sewing hangout. Will write copy and make flyer eventually",
+      "startDate": "2026-12-09T18:30:00-05:00",
+      "endDate": "2026-12-09T22:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MGg0czBpajZiOW5qaG8zdW5kOGFndWR0Z2cgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "0h4s0ij6b9njho3und8agudtgg",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGg0czBpajZiOW5qaG8zdW5kOGFndWR0Z2cgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_e19c9467",
+      "name": "Public Craft Night Mondays and Thursdays!",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP <a href=\"https://www.google.com/url?q=https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098749987&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0Byh4gdKOjbK1BkIJ0RcvT\" target=\"_blank\">https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098749987</a>\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community&#39;s values before attending.\n",
+      "startDate": "2026-12-10T18:30:00-05:00",
+      "endDate": "2026-12-10T21:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098749987",
+        "original_event_id": "2sknvh354rc1sv0pupa7h338g6",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MnNrbnZoMzU0cmMxc3YwcHVwYTdoMzM4ZzYgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
     }
   ],
-  "timestamp": "2026-10-01T15:00:00.478958"
+  "timestamp": "2026-10-02T14:22:57.074483"
 }

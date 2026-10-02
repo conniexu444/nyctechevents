@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_2ea7962c",
-      "name": "Goodbye Politicians, Hello Democracy Film Screening",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "What if you randomly selected average Americans and had them deliberate on what to do about a complex, contentious political issue? Well in fall of 2020, during the height of COVID lockdowns, that's exactly what Adam Cronkite did. 30 randomly selected Michiganders, stratified by demographics, gathered on Zoom for six weeks to come up with a set of recommendations for the state government on what to do about COVID. These deliberations, plus the personal diaries recorded by these delegates, became the film Goodbye Politicians, Hello Democracy.\nThis film explores the idea of \"sortition democracy,\" or government by bodies of randomly selected citizens. We'll begin with a brief primer, then watch the 75 minute film, and follow up with a discussion.",
-      "startDate": "2026-10-01T22:45:00Z",
-      "endDate": "2026-10-02T00:45:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-d56c3a24.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/4opwzhtj",
-        "original_event_id": "_clr78bbp9lm6cuige5d50kaechp6mi20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Paul Melman",
-          "website": "https://luma.com/user/usr-5wlAGF1Tf8jSUDe",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Paul Melman",
-          "url": "https://luma.com/user/usr-5wlAGF1Tf8jSUDe",
-          "image": "https://cdn.lu.ma/avatars-default/avatar_14.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJwOWxtNmN1aWdlNWQ1MGthZWNocDZtaTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_89efa15a",
-      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
-      "startDate": "2026-10-01T23:00:00Z",
-      "endDate": "2026-10-02T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-867a75b4.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/2wmeugcb",
-        "original_event_id": "_clr78bab8krkuirb6l55idime9j4aqa0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Alex Pinheiro",
-          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Alex Pinheiro",
-          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFiOGtya3VpcmI2bDU1aWRpbWU5ajRhcWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_c71c8177",
       "name": "Builders NYC: Dev Talk LIVE",
       "type": "tech",
@@ -2053,5 +1945,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-01T14:59:59.757393"
+  "timestamp": "2026-10-02T14:22:56.499491"
 }

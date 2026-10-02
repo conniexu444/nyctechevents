@@ -1,104 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_bbc0baf2",
-      "name": "World Longevity Day",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "These nice people keep track of Longevity Day celebrations around the world:<br><br><a href=\"http://www.longevityhistory.com/longevity-day-and-longevity-month/\">http://www.longevityhistory.com/longevity-day-and-longevity-month/</a><br><br>...but while people are living longer every year, there haven't been more Longevity Day celebrations every year. If that seems \"off\" to you, why not host one yourself? And then tell the folks at LongevityHistory.com!<br><br>The website has records of past events, which may offer ideas for how to celebrate. If you have any cool ideas of your own, let us know: alexrk@effectivealtruism.nyc",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-02",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MzFxYzU2aG05ZWpjZmYxNm1ydTVibGo2OWNfMjAyNjEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
-        "original_event_id": "31qc56hm9ejcff16mru5blj69c_20261001",
-        "organizer": {
-          "name": "Effective Altruism NYC Events",
-          "website": "",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Worldwide!",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MzFxYzU2aG05ZWpjZmYxNm1ydTVibGo2OWNfMjAyNjEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_effective_altruism_nyc_0d61cd0e",
-      "name": "World Vegetarian Day",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "&quot;To promote the joy, compassion and life-enhancing possibilities of vegetarianism.&quot;<br><br><br><a href=\"https://www.google.com/url?q=https://en.wikipedia.org/wiki/World_Vegetarian_Day&amp;sa=D&amp;source=calendar&amp;ust=1671557444525285&amp;usg=AOvVaw1hZuhRxjjdUUvObB5dF0CH\" target=\"_blank\">https://en.wikipedia.org/wiki/World_Vegetarian_Day</a><br><br><br>Also the beginning of Vegetarian Awareness Month -- though it&#39;s never a bad time to be aware of the vegetarians around you!",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-02",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NGQ0N2F1NHJqZzk1cWFqZmNnZ290dDFwZmRfMjAyNjEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
-        "original_event_id": "4d47au4rjg95qajfcggott1pfd_20261001",
-        "organizer": {
-          "name": "Effective Altruism NYC Events",
-          "website": "",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Worldwide!",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NGQ0N2F1NHJqZzk1cWFqZmNnZ290dDFwZmRfMjAyNjEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_69fe6a46",
       "name": "World Mental Health Day",
       "type": "effective altruism",
@@ -636,7 +538,105 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MmIwa29yNTB1ODRicHRqZTZxNTZramJxMG5fMjAyNzA5MjYgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_0d5c6822",
+      "name": "World Longevity Day",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "These nice people keep track of Longevity Day celebrations around the world:<br><br><a href=\"http://www.longevityhistory.com/longevity-day-and-longevity-month/\">http://www.longevityhistory.com/longevity-day-and-longevity-month/</a><br><br>...but while people are living longer every year, there haven't been more Longevity Day celebrations every year. If that seems \"off\" to you, why not host one yourself? And then tell the folks at LongevityHistory.com!<br><br>The website has records of past events, which may offer ideas for how to celebrate. If you have any cool ideas of your own, let us know: alexrk@effectivealtruism.nyc",
+      "startDate": "2027-10-01",
+      "endDate": "2027-10-02",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MzFxYzU2aG05ZWpjZmYxNm1ydTVibGo2OWNfMjAyNzEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
+        "original_event_id": "31qc56hm9ejcff16mru5blj69c_20271001",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "website": "",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Worldwide!",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MzFxYzU2aG05ZWpjZmYxNm1ydTVibGo2OWNfMjAyNzEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_b76a7ead",
+      "name": "World Vegetarian Day",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "&quot;To promote the joy, compassion and life-enhancing possibilities of vegetarianism.&quot;<br><br><br><a href=\"https://www.google.com/url?q=https://en.wikipedia.org/wiki/World_Vegetarian_Day&amp;sa=D&amp;source=calendar&amp;ust=1671557444525285&amp;usg=AOvVaw1hZuhRxjjdUUvObB5dF0CH\" target=\"_blank\">https://en.wikipedia.org/wiki/World_Vegetarian_Day</a><br><br><br>Also the beginning of Vegetarian Awareness Month -- though it&#39;s never a bad time to be aware of the vegetarians around you!",
+      "startDate": "2027-10-01",
+      "endDate": "2027-10-02",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NGQ0N2F1NHJqZzk1cWFqZmNnZ290dDFwZmRfMjAyNzEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
+        "original_event_id": "4d47au4rjg95qajfcggott1pfd_20271001",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "website": "",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Worldwide!",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NGQ0N2F1NHJqZzk1cWFqZmNnZ290dDFwZmRfMjAyNzEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
     }
   ],
-  "timestamp": "2026-10-01T14:59:36.655958"
+  "timestamp": "2026-10-02T14:22:43.030136"
 }
