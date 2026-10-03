@@ -22,6 +22,11 @@ const nextConfig = {
         destination: '/sitemap.xml',
         permanent: true,
       },
+      {
+        source: '/data',
+        destination: '/sources',
+        permanent: false,
+      },
     ];
   },
   
