@@ -1,6 +1,60 @@
 {
   "events": [
     {
+      "id": "evt_gcal_com_effective_altruism_nyc_6eb9123e",
+      "name": "EA Data & Tech Meetup",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "Come join other effective altruists (EAs) working in data and tech for a casual meet up at Juke Bar. Hope to see you there!",
+      "startDate": "2026-10-08T18:30:00-04:00",
+      "endDate": "2026-10-08T20:30:00-04:00",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-73d44d97.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/4s7jtfal",
+        "original_event_id": "0uul34a8d5anpgr80dit8nf0u8",
+        "organizer": {
+          "name": "EA NYC",
+          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Juke Bar\nJuke Bar, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "EA NYC",
+          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MHV1bDM0YThkNWFucGdyODBkaXQ4bmYwdTggaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_effective_altruism_nyc_69fe6a46",
       "name": "World Mental Health Day",
       "type": "effective altruism",
@@ -47,6 +101,163 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MnRhcWU2ZTljdW92ZTJoazAzOXUwOGQ3cGZfMjAyNjEwMTAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_605713d5",
+      "name": "Future Tense: AI and the Worlds We\u2019re Making",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "Forecasting asks: what is most likely to happen? Foresight asks a different question: what could happen, and what would it demand of us?\nFollowing our AI 2040 reading group and our evening with superforecaster Jonathan Mann, strategist and foresight practitioner Sabeen Sidiqui will lead an exploration of the plausible long-term futures of AI. Through strategic scenario mapping, we will examine competing possibilities, surface hidden assumptions, and discover the strategic architecture of the choices made today that then shape the worlds that emerge.\nJoin us for the third event in our AI and the Future series, and come prepared to imagine beyond prediction.\n\nConnect with Sabeen here: https://www.linkedin.com/in/sabeeninnovation/",
+      "startDate": "2026-10-14T18:00:00-04:00",
+      "endDate": "2026-10-14T21:00:00-04:00",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-27bcc8fd.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/oen4b3g7",
+        "original_event_id": "4h8plqrpq8asn1doi2lmn8fa30",
+        "organizer": {
+          "name": "EA NYC",
+          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "EA NYC",
+          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NGg4cGxxcnBxOGFzbjFkb2kybG1uOGZhMzAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_ecd6a7f5",
+      "name": "Ambitious Impact Mixer",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "\u200bWrapping up EAG NYC? Join Ambitious Impact (AIM, formerly Charity Entrepreneurship) and people from the AIM community for a relaxed evening of drinks and conversation at Collider in the Financial District.This is a casual gathering for anyone interested in high-impact entrepreneurship in global health and animal welfare. Come hang out with AIM staff, AIM founders, and team members from charities across our portfolio. Whether you're thinking about launching a charity yourself, exploring roles at AIM or one of our related organizations, or looking to support new charities as a mentor or advisor - we'd love to meet you.Expect a light structure to help you find the right people quickly, and plenty of time to simply mingle.\u200bLight refreshments provided.\u200bIf you know other relevant folks based in NYC, or attending EAG NYC, please pass on this invite to them.",
+      "startDate": "2026-10-18T18:00:00-04:00",
+      "endDate": "2026-10-18T20:00:00-04:00",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-6234e060.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/jku4aytv",
+        "original_event_id": "45pcld94q0ibkl9bkqqebmehfu",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "website": "",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Collider, 26 Broadway, Floor 3, New York, NY 10004, USA",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NDVwY2xkOTRxMGlia2w5YmtxcWVibWVoZnUgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_606103f5",
+      "name": "EA NYC Vegan Dim Sum",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "Please join EA NYC for our monthly vegan dim sum.\n- All are welcome! - Cost per meal: variable, likely $25-$30 - If you\u2019d like to attend but have any concerns, please get in touch with Megan\nJoin for an EA NYC community favorite: tasty and affordable vegan dim sum!",
+      "startDate": "2026-10-31T13:00:00-04:00",
+      "endDate": "2026-10-31T15:00:00-04:00",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-97fb11c5.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/pjs8swor",
+        "original_event_id": "6d9q5oc7ff12igk5s01441l3r6",
+        "organizer": {
+          "name": "EA NYC",
+          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Bodhi Kosher Vegetarian Restaurant\nBodhi Kosher Vegetarian Restaurant, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "EA NYC",
+          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NmQ5cTVvYzdmZjEyaWdrNXMwMTQ0MWwzcjYgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
       }
     },
     {
@@ -638,5 +849,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-02T14:22:43.030136"
+  "timestamp": "2026-10-03T12:54:28.735605"
 }

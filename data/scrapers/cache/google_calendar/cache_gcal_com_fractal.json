@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_c71c8177",
-      "name": "Builders NYC: Dev Talk LIVE",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Dev Talk LIVE\nCome hear what NYC builders are actually working on.\nDev Talk LIVE brings together a small lineup of developers, founders, and builders to showcase what they\u2019ve built, tell the story behind it, and break down the technical and product decisions that got them there.\nEach featured builder gets the floor to take us inside their project: what they set out to build, the problems they ran into, the technology behind it, what changed along the way, and what they learned from shipping it. Then we open things up for questions and conversation with the room.\nNo endless panels. No surface-level startup pitches. No pretending everything went perfectly.\nJust builders talking builds.\nWe\u2019ll have roughly 90\u201395 minutes of featured Dev Talks, with plenty of breathing room between sessions and time before and after to meet other developers, founders, creatives, and technologists from around NYC.\nSchedule\n6:30 PM \u2014 Doors Open + Meet the Community\n7:00 PM \u2014 Dev Talk LIVE Begins\n8:35 PM \u2014 Talks Wrap\n8:35\u20139:00 PM \u2014 Hang Out, Meet the Speakers + Networking\nWhether you\u2019re working on your own product, looking for inspiration, interested in how other people approach building, or just want to meet more people making cool things in NYC, come through.\nBring your questions. Meet some builders. Leave with something to think about.\nYou can connect with us here: https://linktr.ee/builders.nyc",
-      "startDate": "2026-10-02T22:30:00Z",
-      "endDate": "2026-10-03T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-66ae7362.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/houw3tqf",
-        "original_event_id": "_clr78ba99ph56tqaecpm8ua285r4sdq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Builders NYC",
-          "website": "https://luma.com/builders-nyc",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Builders NYC",
-          "url": "https://luma.com/builders-nyc",
-          "image": "https://images.lumacdn.com/uploads/u5/f9f898b6-f70c-418c-99be-739654bcda7d.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE5OXBoNTZ0cWFlY3BtOHVhMjg1cjRzZHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_b7c77fac",
       "name": "Private Event",
       "type": "tech",
@@ -541,60 +487,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_fractal_2896f088",
-      "name": "Context Engineering Guild: October Edition",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "NYC IRL community for advanced practitioners of LLM coding techniques. Monthly Brooklyn meetups. \n\nThe CEG emphasizes advanced use of LLMs for the working engineer, and is not intended for first time coders.\n\nWe start with a lecture on whats happened in the last month, then have some guided or group discussions about current trends in tooling and capabilities. \n\n CEG posts at https://x.com/ContextGuildNYC\n\nBring your main coding laptop so we can share how we build together.",
-      "startDate": "2026-10-13T23:00:00Z",
-      "endDate": "2026-10-14T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-57b0a1e7.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/3zek6pqo",
-        "original_event_id": "_clr78bbfclj48hql8p5legi3alcmuca0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Context Engineering Guild",
-          "website": "https://luma.com/CEG",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Context Engineering Guild",
-          "url": "https://luma.com/CEG",
-          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmY2xqNDhocWw4cDVsZWdpM2FsY211Y2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_b6c79b5f",
       "name": "\u26a1 Fractal Weekly Demo Party #10 \u26a1",
       "type": "tech",
@@ -862,6 +754,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnNjhzNTZqaWo2NHJuNm9yNjYxam1pdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_2896f088",
+      "name": "Context Engineering Guild: October Edition",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "NYC IRL community for advanced practitioners of LLM coding techniques. Monthly Brooklyn meetups. \n\nThe CEG emphasizes advanced use of LLMs for the working engineer, and is not intended for first time coders.\n\nWe start with a lecture on whats happened in the last month, then have some guided or group discussions about current trends in tooling and capabilities. \n\n CEG posts at https://x.com/ContextGuildNYC\n\nBring your main coding laptop so we can share how we build together.",
+      "startDate": "2026-10-17T20:00:00Z",
+      "endDate": "2026-10-17T22:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-57b0a1e7.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/3zek6pqo",
+        "original_event_id": "_clr78bbfclj48hql8p5legi3alcmuca0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Context Engineering Guild",
+          "website": "https://luma.com/CEG",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Context Engineering Guild",
+          "url": "https://luma.com/CEG",
+          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmY2xqNDhocWw4cDVsZWdpM2FsY211Y2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1945,5 +1891,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-02T14:22:56.499491"
+  "timestamp": "2026-10-03T12:54:46.301398"
 }
