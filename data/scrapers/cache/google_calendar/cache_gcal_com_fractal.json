@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_b7c77fac",
-      "name": "Private Event",
+      "id": "evt_gcal_com_fractal_45764154",
+      "name": "fractal brunch",
       "type": "tech",
-      "locationId": "loc_fractal",
+      "locationId": "",
       "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/x03dxey9\n\nAddress:\nFractal Tech\nBrooklyn, NY\nUnited States\n\nHosted by Liam Duffy",
-      "startDate": "2026-10-03T14:00:00Z",
-      "endDate": "2026-10-03T19:00:00Z",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-10-04T15:00:00Z",
+      "endDate": "2026-10-04T17:00:00Z",
       "category": [
         "tech",
         "startup",
@@ -16,96 +16,37 @@
         "education"
       ],
       "price": {
-        "amount": 0.0,
+        "amount": 0,
         "type": "Free",
         "currency": "USD",
-        "details": "General Admission"
+        "details": ""
       },
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-06b9ab6d.jpg",
+      "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://luma.com/x03dxey9",
-        "original_event_id": "_clr78b9h91nmkk1h88qlgdppdln3ak20clr6arjkecn6ot9edlgg",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5l8m8jr8e156cgijatm68uaq8h06atj5dpq76bjcekn6qo8",
         "organizer": {
           "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
+          "website": "",
           "instagram": "",
           "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
         },
         "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "name": "",
+          "address": "https://partiful.com/e/cFqr1IK0lstpBDPLuDgA?c=k6anPfUU",
           "type": "Offline"
         },
         "speakers": [],
         "social_links": [],
         "featured": false,
         "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjloOTFubWtrMWg4OHFsZ2RwcGRsbjNhazIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_b92642cc",
-      "name": "Escaping Flatland NYC IRL v4",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Welcome to the fourth iteration of Escaping Flatland IRL NYC\u2014a meetup group that shares an interest in Henrik Karlsson's Substack blog on attention, beauty, and living intentionally.\nAt this event, we'll have a mixture of open-ended mingling and more structured discussion around two of his essays. \n\nThe selected essays for the event are \"Almost anything you give sustained attention to will begin to loop on itself and bloom\" and \"Looking for Alice\". I'm suspecting the latter is a fan-favorite...\n\nFeel free to bring snacks, drinks, or whatever else you'd like!\nSpecial thanks to Fractal Tech for lending us the space for the event. I strongly encourage you all to check out their other events; they truly are a wonderful community!",
-      "startDate": "2026-10-03T19:00:00Z",
-      "endDate": "2026-10-03T22:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-db5453ee.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/3esb8q7n",
-        "original_event_id": "_clr78bb86krlimak89230san6h8j4tq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Evan Correa",
-          "website": "https://luma.com/user/usr-r0w3xgcRidmZmft",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Evan Correa",
-          "url": "https://luma.com/user/usr-r0w3xgcRidmZmft",
-          "image": "https://images.lumacdn.com/avatars/ih/0fa298b4-8216-4648-89c4-7dfcfa26b560.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI4NmtybGltYWs4OTIzMHNhbjZoOGo0dHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw4bThqcjhlMTU2Y2dpamF0bTY4dWFxOGgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1891,5 +1832,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-03T12:54:46.301398"
+  "timestamp": "2026-10-04T13:38:41.412423"
 }

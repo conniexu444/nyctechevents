@@ -217,6 +217,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_856e432a",
+      "name": "new interfaces 007",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "new interfaces is an intimate afternoon where we celebrate experiments in creative technology\nwelcoming designers, engineers, artists, and anyone in between!\nwanna demo? we're looking for:\n- radical remixes and reimaginations of technology\n- experiments with design, art, code, hardware, photography, video, and more\n- side projects that make you wonder and imagine\napply here to demo:\nhttps://forms.gle/y94C2a3Xg3eXF4bj6\nfollow new interfaces for updates:\nhttps://x.com/newinterfaces?utm_source=luma\nsee our website to check out past demos:\nhttps://www.interfaces.new\nsee you there! good times guaranteed",
+      "startDate": "2026-10-18T17:00:00Z",
+      "endDate": "2026-10-18T20:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-c72a8005.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/72ze84s3",
+        "original_event_id": "_clr78bbh9173am1ich9mqiq5d0s6mcq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "new interfaces",
+          "website": "https://luma.com/newinterfaces",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "new interfaces",
+          "url": "https://luma.com/newinterfaces",
+          "image": "https://images.lumacdn.com/calendars/2e/76c3ecab-abde-423b-a4e5-f5366a45b391.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJoOTE3M2FtMWljaDltcWlxNWQwczZtY3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_8455b357",
       "name": "Verci Tunisia",
       "type": "technology",
@@ -371,60 +425,6 @@
         "luma_source": true,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw5NG1wanBlcGk2a2hpY2M1bTZnb3FvOWwwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_856e432a",
-      "name": "new interfaces 007",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "new interfaces is an intimate afternoon where we celebrate experiments in creative technology\nwelcoming designers, engineers, artists, and anyone in between!\nwanna demo? we're looking for:\n- radical remixes and reimaginations of technology\n- experiments with design, art, code, hardware, photography, video, and more\n- side projects that make you wonder and imagine\napply here to demo:\nhttps://forms.gle/y94C2a3Xg3eXF4bj6\nfollow new interfaces for updates:\nhttps://x.com/newinterfaces?utm_source=luma\nsee our website to check out past demos:\nhttps://www.interfaces.new\nsee you there! good times guaranteed",
-      "startDate": "2026-10-24T18:00:00Z",
-      "endDate": "2026-10-24T21:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-8a7df1b2.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/72ze84s3",
-        "original_event_id": "_clr78bbh9173am1ich9mqiq5d0s6mcq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "new interfaces",
-          "website": "https://luma.com/newinterfaces",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "new interfaces",
-          "url": "https://luma.com/newinterfaces",
-          "image": "https://images.lumacdn.com/calendars/2e/76c3ecab-abde-423b-a4e5-f5366a45b391.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJoOTE3M2FtMWljaDltcWlxNWQwczZtY3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -644,5 +644,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-03T12:54:53.849233"
+  "timestamp": "2026-10-04T13:38:47.836253"
 }

@@ -1,112 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_d2e56ce9",
-      "name": "Repair your broken items at Repair Cafe!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/repair-your-broken-items-at-repair-cafe-tickets-2002454601618\n\nRepair can be intimidating if you haven\u2019t done it before, and the hardest part often is getting started. It\u2019s easier with support!Do you hate to throw things out when they break?Are there any repair skills that you want to learn or teach others?\nJoin us to collectively diagnose and fix broken objects, share skills, and build intergenerational, community-based knowledge. We\u2019re interested in helping each other gain confidence in the act of repair to prevent our belongings from going to the landfill, and thinking critically about where our things come from.\nPeople bring a wide variety of items to events, including lamps, chairs, mugs/plates, clothes and more. Think small, portable items (no large appliances, bicycles or couches).\n\nWhen: Saturday, October 03, 2 PM - 5 PM. Doors will close at 2:30 pm\nWhere: NYC Resistor, 87 3rd Ave, Brooklyn, NY 11217\nWe invite every attendee to answer these questions:\nWhat\u2019s broken in your life that you want to repair? Describe it and how it is broken.Does your repair require specific tools or parts? Do you have them?Are you interested in helping others with their repairs? If so, what skills would you like to share (e.g. soldering electronics, sewing fabrics, woodworking skills, understanding mechanisms)?Please be sure to fill out the RSVP form completely. This helps us to prepare for the event. If you do not fill out the form, we will assume the RSVP was by mistake and cancel the ticket.\nQuestions? Email us at repurposefulancestrylab@gmail.com\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
-      "startDate": "2026-10-03T14:00:00-04:00",
-      "endDate": "2026-10-03T17:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/repair-your-broken-items-at-repair-cafe-tickets-2002454601618",
-        "original_event_id": "qqb2amhp0iomch9kujhsmhf09g",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=cXFiMmFtaHAwaW9tY2g5a3VqaHNtaGYwOWcgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_d6c07206",
-      "name": "Make Along: Make a Pinhole Polaroid Camera from a Beer or Soda Can!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/make-along-make-a-pinhole-polaroid-camera-from-a-beer-or-soda-can-tickets-2001386660377\n\nLearn how to make a pinhole polaroid camera with stuff you can find around the house, but don&#39;t worry, we&#39;ll provide all the materials.Together we will make pinhole cameras from two cans. Cans will be provided. You can use this camera with 4x5 film or polaroids or long exposure non silver based emulsion. If you love making equipment from trash you will love this class. We will discuss long exposure reciprocity failure, light metering apps, and how a pinhole camera works.\nThis class will be taught by Resistor member Olivia.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-10-03T18:00:00-04:00",
-      "endDate": "2026-10-03T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/make-along-make-a-pinhole-polaroid-camera-from-a-beer-or-soda-can-tickets-2001386660377",
-        "original_event_id": "ahdse9i42k3fpu1sj134qm18cs",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=YWhkc2U5aTQyazNmcHUxc2oxMzRxbTE4Y3MgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_c0f1ea5e",
       "name": "Intro to Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -3974,7 +3868,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MGg0czBpajZiOW5qaG8zdW5kOGFndWR0Z2cgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_e19c9467",
+      "name": "Public Craft Night Mondays and Thursdays!",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP <a href=\"https://www.google.com/url?q=https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098749987&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0Byh4gdKOjbK1BkIJ0RcvT\" target=\"_blank\">https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098749987</a>\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community&#39;s values before attending.\n",
+      "startDate": "2026-12-10T18:30:00-05:00",
+      "endDate": "2026-12-10T21:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098749987",
+        "original_event_id": "2sknvh354rc1sv0pupa7h338g6",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MnNrbnZoMzU0cmMxc3YwcHVwYTdoMzM4ZzYgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
     }
   ],
-  "timestamp": "2026-10-03T12:54:46.745757"
+  "timestamp": "2026-10-04T13:38:41.957642"
 }
