@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_3d0057f5",
-      "name": "Verci World Cup",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "We rented out an entire indoor / outdoor soccer complex in lower manhattan.\nWe'll have food and drinks available and get a good sweat in (if you want to play soccer and or hang out for vibes). Bring turf shoes or sneakers.\nAll skill levels welcome!!",
-      "startDate": "2026-10-04T16:30:00Z",
-      "endDate": "2026-10-04T18:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-22d03bae.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/cfuq9k1n",
-        "original_event_id": "_clr78bb78tkm4s1nd9t32j27e9c4crq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "the Ground\nthe Ground, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI3OHRrbTRzMW5kOXQzMmoyN2U5YzRjcnEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_03c7f64e",
-      "name": "Cookie Cafe",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "12th Floor - Cookie pop up from Rising Rose!",
-      "startDate": "2026-10-05T15:00:00Z",
-      "endDate": "2026-10-05T19:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-f491096e.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/q3ser7kh",
-        "original_event_id": "_clr78bboe9b42eaicpnj8rqm8l47eqq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJvZTliNDJlYWljcG5qOHJxbThsNDdlcXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_ee291ebc",
       "name": "Verci Cafe",
       "type": "technology",
@@ -160,60 +52,6 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlwYjVqazhlM2hkZGQ1aWxyb2N0czVhaDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_f1a54e5d",
-      "name": "Onboarding Night",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "VERCI ONBOARDING NIGHT!!\nCongrats, you\u2019re in. Now it\u2019s time to get properly initiated.\nWhat are we doing? It\u2019s a surprise. Just know it\u2019ll be super fun and you\u2019ll leave knowing some new faces around Verci.\nCome ready to participate, meet your fellow new members, and trust the process.\nAttendance is voluntary (mandatory). See you there!!!!",
-      "startDate": "2026-10-12T23:00:00Z",
-      "endDate": "2026-10-13T01:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-5268f51b.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/verci-xuwr",
-        "original_event_id": "_clr78ba38525gcikf1kkieaqa5i46ka0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzODUyNWdjaWtmMWtraWVhcWE1aTQ2a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -482,6 +320,114 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_f1a54e5d",
+      "name": "Onboarding Night",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "VERCI ONBOARDING NIGHT!!\nCongrats, you\u2019re in. Now it\u2019s time to get properly initiated.\nWhat are we doing? It\u2019s a surprise. Just know it\u2019ll be super fun and you\u2019ll leave knowing some new faces around Verci.\nCome ready to participate, meet your fellow new members, and trust the process.\nAttendance is voluntary (mandatory). See you there!!!!",
+      "startDate": "2026-11-03T00:00:00Z",
+      "endDate": "2026-11-03T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-5268f51b.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci-xuwr",
+        "original_event_id": "_clr78ba38525gcikf1kkieaqa5i46ka0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzODUyNWdjaWtmMWtraWVhcWE1aTQ2a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_4facb3f9",
+      "name": "Community Builders and Partnerships Dinner w/ Verci",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "We're bringing together the heads of startup partnerships, venture partnerships, and GTM leaders for an evening of incredible dinner by a renowned private chef on a rooftop in Flatiron.\nThere's lots to talk about and we'd love to see you there.\nThe hosts:\nVerci is a workspace and social space in NYC, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
+      "startDate": "2026-11-12T00:00:00Z",
+      "endDate": "2026-11-12T03:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-90785bae.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/e9malz0d",
+        "original_event_id": "_clr78bb9cl7kogifa1mm6c1me5d5kt20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI5Y2w3a29naWZhMW1tNmMxbWU1ZDVrdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_018dc36a",
       "name": "Cookie Cafe",
       "type": "technology",
@@ -644,5 +590,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-04T13:38:47.836253"
+  "timestamp": "2026-10-05T16:41:21.666605"
 }

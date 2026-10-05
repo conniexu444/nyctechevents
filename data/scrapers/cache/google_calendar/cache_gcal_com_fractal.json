@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_45764154",
-      "name": "fractal brunch",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-10-04T15:00:00Z",
-      "endDate": "2026-10-04T17:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5l8m8jr8e156cgijatm68uaq8h06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/cFqr1IK0lstpBDPLuDgA?c=k6anPfUU",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw4bThqcjhlMTU2Y2dpamF0bTY4dWFxOGgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_b40162bc",
       "name": "Study Hall: Foundations of New York",
       "type": "tech",
@@ -371,6 +322,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4OHNvNDhwcWRjNWE1MGUxajhkazNjbWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_a6dc195d",
+      "name": "Hearth: Reading Party \ud83d\udcd6 \ud83c\udf89",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "We\u2019re borrowing a format inspired by other reading party clubs (e.g. Reading Rhythms): part quiet reading session, part conversation, part cozy hangout!  Bring whatever you\u2019re actually excited to read\u2014fiction, nonfiction, poetry, essays, a favorite childhood novel of yours, graphic novel, Kindle, whatever :)  +1s welcome.\n\nHost: Hearth (https://discoverhearth.org/), a new IRL spiritual and social community for non-religious younger adults!",
+      "startDate": "2026-10-10T23:00:00Z",
+      "endDate": "2026-10-11T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-97d0f893.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/8kktfbkx",
+        "original_event_id": "_clr78b9j6pr5gda89914eriqcso36ci0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Ray Batra",
+          "website": "https://luma.com/user/usr-8t0QbBQ7pStUpSR",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Ray Batra",
+          "url": "https://luma.com/user/usr-8t0QbBQ7pStUpSR",
+          "image": "https://images.lumacdn.com/avatars/xh/ecef9106-f3db-4ad6-bd4d-f50a7c90240f",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlqNnByNWdkYTg5OTE0ZXJpcWNzbzM2Y2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1832,5 +1837,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-04T13:38:41.412423"
+  "timestamp": "2026-10-05T16:41:14.926308"
 }

@@ -1,112 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_c0f1ea5e",
-      "name": "Intro to Soldering Workshop: Make an LED Tile",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP\u00a0<a href=\"https://www.eventbrite.com/e/2000420690134\">https://www.eventbrite.com/e/2000420690134</a><br><br>Soldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole solderSoldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole soldering workshop. Soldering enables you to create sturdy connections between electrical components. In this hands-on workshop, you'll learn how to use a soldering iron safely and effectively, and get plenty of practice with both soldering and de-soldering techniques. We'll be soldering up some Game of Life kits - LED tiles that generate nifty animations. No previous experience is required, making this introductory workshop a great choice for anyone who's curious about getting started with hardware tinkering! All materials will be provided.<br>OK, awesome, I want to join!<br>Please be ready to start at 1pm! We find that you will need this time to get through the whole class. Our classes tend to sell out about a week in advance so if you're interested, you may want to sign up early.<br>This class will be taught by Resistor member Olivia.<br>As with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at <a href=\"http://www.nycresistor.com/participate/\" target=\"_blank\">www.nycresistor.com/participate/</a>. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email <a href=\"mailto:classes@nycresistor.com\" target=\"_blank\">classes@nycresistor.com</a>.<br>This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.",
-      "startDate": "2026-10-04T12:00:00-04:00",
-      "endDate": "2026-10-04T15:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/2000420690134",
-        "original_event_id": "1349qsfd8lodac98v7lelde069",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MTM0OXFzZmQ4bG9kYWM5OHY3bGVsZGUwNjkgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_9c497022",
-      "name": "Day 2: Pot and Switch Workshop - Disengineering",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-10-04T18:00:00-04:00",
-      "endDate": "2026-10-04T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MmZ0YW0yNjA3OXJwN2hybnBiMWtxN28wMGQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "2ftam26079rp7hrnpb1kq7o00d",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MmZ0YW0yNjA3OXJwN2hybnBiMWtxN28wMGQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_986325cd",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -369,59 +263,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=ZGdqZDZvOG5mNWk0MTE1N3BzNW1qbDAzdDAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_3a6b8558",
-      "name": "Ira Glass \u2014 A Night of Stories and Improv",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "This American Life\u2019s Ira Glass will tell stories and incredibly funny comedians will do improv, based on the stories. Featuring Vic Michaelis and friends.\n\nLivestream link: The link to watch will be emailed to Life Partners on October 8 and again right before showtime. Questions? Email lifepartners@thislife.org",
-      "startDate": "2026-10-09T21:30:00-04:00",
-      "endDate": "2026-10-09T23:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=ZGdmZmsyYWVxaGxtanM2cXQ2ajU4dnByazAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "dgffk2aeqhlmjs6qt6j58vprk0",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Online livestream",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=ZGdmZmsyYWVxaGxtanM2cXQ2ajU4dnByazAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1482,6 +1323,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MHQ4dmxyOHVkb3Y4NHNpam00aTJoMzVoZmggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_d6fe4598",
+      "name": "PCB Artwork: Make your own business card",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/pcb-artwork-make-your-own-business-card-tickets-2002916205287\n\nPrinted circuit boards aren&#39;t just for electronics. Their layered structure make them a surprisingly expressive artistic medium.Printed circuit boards aren't just for electronics. Their layered structure, copper traces, soldermask colors, and silkscreen printing make them a surprisingly expressive artistic medium.\nIn this workshop, you'll use PCBs to design your own business card (or any other kind of card), ready to fabricate in real fiberglass and copper.\nYou'll edit and manipulate vector art in **Inkscape**, convert your artwork into a **KiCAD** footprint, and place it on a board ready to be fabricated. Along the way, you'll learn how PCB fabricators interpret computer graphics: how vector paths become physical primitives, how colors map to fabrication layers, and how artwork gets distributed across copper, soldermask, and silkscreen to create the final board.\nNo electronics background required \u2014 this workshop is about graphic design and fabrication, not circuit theory or soldering. If you have a computer, you can make a graphic PCB! If you already know how to design a PCB, this can help you level up their visual appeal. Background in working with SVG is helpful but not required.\nTo bring:\nLaptopThis workshop is lead by Alex Tait.\nThere are 2 spots reserved for people who cannot access the class at the full price, so please make use of one of these half-off need-based tickets if that is your situation. Checkout Code: 4-ACCESSTIX\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at on the NYC Resistor website.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n\n\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-10-24T15:00:00-04:00",
+      "endDate": "2026-10-24T19:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/pcb-artwork-make-your-own-business-card-tickets-2002916205287",
+        "original_event_id": "q1aib8mfjdue3h8fuo99sdm6o4",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=cTFhaWI4bWZqZHVlM2g4ZnVvOTlzZG02bzQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -3921,7 +3815,113 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MnNrbnZoMzU0cmMxc3YwcHVwYTdoMzM4ZzYgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_4b8037f4",
+      "name": "Ham radio In-person exam session",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "<a href=\"https://www.google.com/url?q=https://ham.study/sessions/N2YCR/all&amp;sa=D&amp;source=calendar&amp;ust=1776728715410359&amp;usg=AOvVaw229iicLGqHchkN_tl2hZ90\" target=\"_blank\">https://ham.study/sessions/N2YCR/all</a>",
+      "startDate": "2026-12-13T12:00:00-05:00",
+      "endDate": "2026-12-13T13:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=YzVobTZvcjRjOHEzYWI5Zzcwcm00YjlrNmtxMzZiYjI2a3M2MmI5aGNkaDM0ZDFpY2NxajZjMWo2OF8yMDI2MTIxM1QxNzAwMDBaIHAybTJhdjlkaHJoNG4xdWI3amxzYzY4czdvQGc",
+        "original_event_id": "c5hm6or4c8q3ab9g70rm4b9k6kq36bb26ks62b9hcdh34d1iccqj6c1j68_20261213T170000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=YzVobTZvcjRjOHEzYWI5Zzcwcm00YjlrNmtxMzZiYjI2a3M2MmI5aGNkaDM0ZDFpY2NxajZjMWo2OF8yMDI2MTIxM1QxNzAwMDBaIHAybTJhdjlkaHJoNG4xdWI3amxzYzY4czdvQGc"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_2e09615a",
+      "name": "Public Craft Night Mondays and Thursdays!",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
+      "startDate": "2026-12-14T18:30:00-05:00",
+      "endDate": "2026-12-14T21:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053",
+        "original_event_id": "0au2lakcl2vb7744hj4vkq52ap_20261214T233000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNjEyMTRUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
     }
   ],
-  "timestamp": "2026-10-04T13:38:41.957642"
+  "timestamp": "2026-10-05T16:41:15.598564"
 }
