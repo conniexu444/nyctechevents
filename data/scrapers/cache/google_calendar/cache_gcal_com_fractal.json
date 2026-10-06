@@ -186,7 +186,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-68fc5ecb.jpg",
+      "image": "events/luma-event-51384bd0.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -564,7 +564,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-7c205d69.jpg",
+      "image": "events/luma-event-c66bece1.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -1837,5 +1837,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-05T16:41:14.926308"
+  "timestamp": "2026-10-06T14:38:54.883676"
 }

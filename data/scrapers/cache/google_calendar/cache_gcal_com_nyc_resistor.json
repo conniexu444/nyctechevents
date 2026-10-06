@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_986325cd",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2026-10-05T18:30:00-04:00",
-      "endDate": "2026-10-05T21:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053",
-        "original_event_id": "0au2lakcl2vb7744hj4vkq52ap_20261005T223000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNjEwMDVUMjIzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_1182498c",
       "name": "Resistor Tuesday Members Meeting",
       "type": "hackerspace",
@@ -1694,6 +1641,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NjhvbWFlMWxjbGhqaWJiNjc0cmo4YjlrYzRxajhiYjJjNHBqaWJiNWNrcTMwZGI1NzFnamdvajQ3MCBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_80a9981d",
+      "name": "Simple Data Networks for Multidisciplinary Artists",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/simple-data-networks-for-multidisciplinary-artists-tickets-2002982579815\n\nLearn to create projects involving multiple separate components that communicate together to provide unique interactive experiences!If you're a multidisciplinary artist who likes to explore combinations of multiple different backgrounds, mediums or genres, or if you're a curious experimentalist who loves to mix and match various skillsets or software tools, you may not always find one single solution or application that accomplishes everything your project needs. You often just have to create the solution yourself!Consider these examples:- Using a physical sensor (distance, light, pressure, etc.) as an input to a computer program- Using a machine learning model (hand pose, body pose, face detection, etc.) to interface with an interactive kinetic or LED-based sculpture- Creating a handheld or wearable wireless controller for your generative synthesized musical instrument, allowing you to move around freely instead of being stuck to your computer on stage, or better yet, repurposing an existing smartphone to function as one- Enabling audience participation during a performance through the smartphones they already own- Solving any creative problem where no out-of-the-box solution already exists!For these tasks above and many many more, you may just have to break down your idea into separate components, handle each component separately using whichever tool that's best for the job, and then allow those components to work together to solve the larger task. No compromise needed!To accomplish this, we will go over OSC, the most widely supported real-time communication protocol that exists. OSC is the common language that your favorite hardware/software tool most likely speaks, and which allows multiple otherwise-incompatible programs to easily communicate with each other. We will introduce some basic networking concepts and dive right into how to send/receive OSC messages between devices. We'll work in pairs to mix-and-match different software tools together and see what kinds of interactions we can create. Time permitting, we'll have some time for creative brainstorming and ideation at the end. \n\nWhat kinds of projects and experiences would you want to create with this technology? Who is the class for? This 95% code-free workshop is intended to complement your existing interests and skills.Creative multimedia tools that support OSC include:- TouchDesigner- Max/MSP- Ableton (with M4L)- Processing / OpenFrameworks / p5.js- Arduino, ESP32, Raspberry Pi- Unity/Unreal- Any iOS/Android mobile device- Just raw code baby (Python, Node.js, C++, etc.)- Many othersIf you already use or are interested in any of the items listed above, or are just curious to explore the potential of networking together multiple programs/devices, this beginner-friendly, 95% code-free (code starter examples provided) workshop is a great starting point.Bring a laptop and your smartphone!\nInstructor bio:\nYonatan Rozin is a multidisciplinary interactive technologist, prototyper, educator and classically-trained percussionist based in New York City. His freelance and personal practice frequently explores novel combinations of multimedia software and hardware platforms in the creation of unfamiliar installations, performances and experiences. As a freelance interactive art consultant, software engineer at the Harvestworks Digital Media Arts Center and avid collaborator, he has created bespoke interactive solutions for numerous independent artists across a variety of mediums and backgrounds.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at on the NYC Resistor website.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-10-30T18:00:00-04:00",
+      "endDate": "2026-10-30T21:00:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/simple-data-networks-for-multidisciplinary-artists-tickets-2002982579815",
+        "original_event_id": "jp4js0dobo52vajr6oa7f615dc",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=anA0anMwZG9ibzUydmFqcjZvYTdmNjE1ZGMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -3923,5 +3923,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-05T16:41:15.598564"
+  "timestamp": "2026-10-06T14:38:55.494263"
 }

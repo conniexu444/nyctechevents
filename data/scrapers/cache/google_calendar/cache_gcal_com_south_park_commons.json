@@ -55,6 +55,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_south_park_commons_f2501edd",
+      "name": "DYNA Robotics Fireside w/ SPC's Embodied AI Forum",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "South Park Commons' Embodied AI Forum is delighted to host the founders of DYNA Robotics.\nEvent Details\n2:30pm: Doors Open\n3:00 - 4:00pm: Fireside Chat\n\nBio: Jason Ma is the co-founder of Dyna, which he started with Lindon Gao and York Yang in 2024. Dyna's pushing the boundaries of robot foundation models and deploying them in the field, now running in laundromats and Din Tai Fung, folding 1590 table napkins a day. Jason leads the research, from DYNA-1 to DYNA-2 world-action model, the first to show scaling laws for human-video-to-robot transfer. Before Dyna, he did his PhD at UPenn's GRASP Lab and researched at DeepMind, NVIDIA and Meta AI, where his work included Eureka (LLM-driven reward design), VIP (visual rewards learned from video), Open X-Embodiment and DROID robot datasets.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-10-14T21:30:00Z",
+      "endDate": "2026-10-14T23:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-d21910e1.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/cxfmn7r8",
+        "original_event_id": "_clr78bbob9cj8e9kb9k32tj9a5i5gh20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJvYjljajhlOWtiOWszMnRqOWE1aTVnaDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_edbbc75d",
       "name": "Fireside Chat with Tony Zhao, Sunday Robotics",
       "type": "technology",
@@ -163,5 +217,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-05T16:41:16.889090"
+  "timestamp": "2026-10-06T14:38:58.322859"
 }
