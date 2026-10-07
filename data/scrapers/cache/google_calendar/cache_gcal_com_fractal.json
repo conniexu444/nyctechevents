@@ -164,11 +164,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_92e4f01f",
-      "name": "AI Builders Week 4: RAG, Vector Search & Context Memory",
+      "name": "Build AI Search That Finds the Right Answer",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
-      "description": "Your model only knows what you give it. This session is about giving it the right things: chunking documents so they stay meaningful, generating embeddings, and running vector search that actually grounds your answers in real sources. Then context memory: what to keep, what to summarize, and what to throw away so your agent stays sharp over long conversations without blowing up your token bill.\nYou'll leave with a working local RAG pipeline you can plug into your fellowship project.\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
+      "description": "Stop pasting whole documents into your prompts. Your AI is only as good as the info you feed it. Dumping huge files wastes money and memory. In this hands-on workshop, you'll split big documents into useful pieces, search thousands of pages in milliseconds, and give your app a memory that stays sharp over long conversations.\nWhat you'll do:\n\u2702\ufe0f Smart splitting: break big documents into pieces without losing meaning\n\ud83d\udd0d Fast search: find the exact answer across thousands of pages\n\ud83d\udcbb Hands-on lab: build a working search pipeline on real NYC public data\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nNew? Jump in anytime. Every class starts with a quick recap, so you won't be lost.\nFree. Join in person or on Zoom.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
       "startDate": "2026-10-08T22:00:00Z",
       "endDate": "2026-10-09T00:00:00Z",
       "category": [
@@ -268,6 +268,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhNmhtNnFjcTFjaGhrdXUxa2QxN25lZTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_aeb0e209",
+      "name": "Creator's Group IRL | Co-Working",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Creator's Group IRL is for people who actually want to make their dreams real. Those dreams are artistic in nature.\nThis is a co-working space + container for the imagineer who wishes there were other allies along the path of creativity. You want to make your aspirations into material reality. You do not want to merely discuss film, you want to MAKE films and take action together!\nThis IS a place for:\nFriendship\nCollaboration / Teammwork\nAccountability & Support for your goals\nLet's begin a brand new day, and make our dreams real\ud83d\udcad\nLOCATION\nFractal Tech | 111 Conselyea St, Brooklyn NY\nDETAILS\nReach out to Joe for any questions you may have!\nWGP&GR",
+      "startDate": "2026-10-09T20:30:00Z",
+      "endDate": "2026-10-09T23:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-71ffba38.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/i1icakqg",
+        "original_event_id": "_clr78bbme1r62rq3c937epic85sjgea0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Joe Zoll",
+          "website": "https://luma.com/user/usr-eNEwwDIEE1GaLIo",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Joe Zoll",
+          "url": "https://luma.com/user/usr-eNEwwDIEE1GaLIo",
+          "image": "https://images.lumacdn.com/avatars/mb/4673f746-9fd9-4a94-b0e7-96463bdc8c1b.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJtZTFyNjJycTNjOTM3ZXBpYzg1c2pnZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -433,6 +487,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_aebd95ed",
+      "name": "Speculative Worldbuilding Seminar (FractalU), Unit 2",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "This interdisciplinary seminar explores how fictional worlds operate as structured models of society, drawing on speculative fiction, history, anthropology, and political theory. Students analyze how environments, institutions, culture, memory, and technology shape social order, while building a single evolving fictional world across the semester. The course culminates in a cohesive \"world dossier\" integrating these elements into a fully realized speculative society that can be used as a platform for creative projects.\nApply for the semester here.",
+      "startDate": "2026-10-13T22:30:00Z",
+      "endDate": "2026-10-14T00:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-698fb529.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/4g2yykg1",
+        "original_event_id": "_clr78bb8d1rn6palb1jjigad71m3gga0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Sarah",
+          "website": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Sarah",
+          "url": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "image": "https://images.lumacdn.com/uploads/r0/ec2a4233-729c-41b8-9dcf-0cf634c09153.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI4ZDFybjZwYWxiMWpqaWdhZDcxbTNnZ2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_b6c79b5f",
       "name": "\u26a1 Fractal Weekly Demo Party #10 \u26a1",
       "type": "tech",
@@ -542,11 +650,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_007beb40",
-      "name": "AI Builders Week 5: Privacy & Security Controls",
+      "name": "Secure AI: Keep Your App's Data Private + Find Your Hackathon Team",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
-      "description": "What happens to the data an agent sends, stores, and returns? We\u2019ll look at Zero Data Retention, endpoint controls, self-hosting options, and how to handle personal information in a system people may rely on.\nYou\u2019ll examine the privacy and security choices for your own project as cross-track pods form with Citizens.\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\n6:00\u20138:00 PM \u00b7 Location TBA\nJoining virtually? Zoom: https://us06web.zoom.us/s/84280401788\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
+      "description": "What happens to the data an agent sends, stores, and returns? We\u2019ll look at Zero Data Retention, endpoint controls, self-hosting options, and how to handle personal information in a system people may rely on.\nYou\u2019ll examine the privacy and security choices for your own project as cross-track pods form with Citizens.\n6:00\u20138:00 PM \u00b7 Location TBA\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nNew? Jump in anytime. Every class starts with a quick recap, so you won't be lost.\nFree. Join in person or on Zoom.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
       "startDate": "2026-10-15T22:00:00Z",
       "endDate": "2026-10-16T00:00:00Z",
       "category": [
@@ -578,7 +686,7 @@
         },
         "venue": {
           "name": "",
-          "address": "Fractal NYC (Lounge, own entrance), 111 Conselyea St, Floor 2, Brooklyn, NY 11211",
+          "address": "Poetica Coffee\nPoetica Coffee, New York, New York",
           "type": "Offline"
         },
         "speakers": [],
@@ -754,6 +862,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmY2xqNDhocWw4cDVsZWdpM2FsY211Y2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_09d47951",
+      "name": "Speculative Worldbuilding Seminar (FractalU), Unit 3",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "This interdisciplinary seminar explores how fictional worlds operate as structured models of society, drawing on speculative fiction, history, anthropology, and political theory. Students analyze how environments, institutions, culture, memory, and technology shape social order, while building a single evolving fictional world across the semester. The course culminates in a cohesive \"world dossier\" integrating these elements into a fully realized speculative society that can be used as a platform for creative projects.\nApply for the semester here.",
+      "startDate": "2026-10-20T22:30:00Z",
+      "endDate": "2026-10-21T00:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-698fb529.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/2j7k4g86",
+        "original_event_id": "_clr78baeb527kea1epimqkj18trmsta0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Sarah",
+          "website": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Sarah",
+          "url": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "image": "https://images.lumacdn.com/uploads/r0/ec2a4233-729c-41b8-9dcf-0cf634c09153.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFlYjUyN2tlYTFlcGltcWtqMTh0cm1zdGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1135,6 +1297,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_e896a5c4",
+      "name": "Speculative Worldbuilding Seminar (FractalU), Unit 4",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "This interdisciplinary seminar explores how fictional worlds operate as structured models of society, drawing on speculative fiction, history, anthropology, and political theory. Students analyze how environments, institutions, culture, memory, and technology shape social order, while building a single evolving fictional world across the semester. The course culminates in a cohesive \"world dossier\" integrating these elements into a fully realized speculative society that can be used as a platform for creative projects.\nApply for the semester here.",
+      "startDate": "2026-11-03T23:30:00Z",
+      "endDate": "2026-11-04T01:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-698fb529.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/523bxysa",
+        "original_event_id": "_clr78bandli36o9o9dkneu2acl36uqq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Sarah",
+          "website": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Sarah",
+          "url": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "image": "https://images.lumacdn.com/uploads/r0/ec2a4233-729c-41b8-9dcf-0cf634c09153.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFuZGxpMzZvOW85ZGtuZXUyYWNsMzZ1cXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_e5e40bfb",
       "name": "Vajrayana: An Introduction - Session 5",
       "type": "tech",
@@ -1297,6 +1513,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_416eccc1",
+      "name": "Speculative Worldbuilding Seminar (FractalU), Unit 5",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "This interdisciplinary seminar explores how fictional worlds operate as structured models of society, drawing on speculative fiction, history, anthropology, and political theory. Students analyze how environments, institutions, culture, memory, and technology shape social order, while building a single evolving fictional world across the semester. The course culminates in a cohesive \"world dossier\" integrating these elements into a fully realized speculative society that can be used as a platform for creative projects.\nApply for the semester here.",
+      "startDate": "2026-11-10T23:30:00Z",
+      "endDate": "2026-11-11T01:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-698fb529.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/e9c2n06m",
+        "original_event_id": "_clr78bbmapb5aiqhdpd36ha5c57lgla0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Sarah",
+          "website": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Sarah",
+          "url": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "image": "https://images.lumacdn.com/uploads/r0/ec2a4233-729c-41b8-9dcf-0cf634c09153.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJtYXBiNWFpcWhkcGQzNmhhNWM1N2xnbGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_281239a5",
       "name": "Vajrayana: An Introduction - Session 6",
       "type": "tech",
@@ -1456,6 +1726,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4ZTFrNG1xMjhiNXM1NHVoa2Q1NjZvb2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_5dde804b",
+      "name": "Speculative Worldbuilding Seminar (FractalU), Unit 6",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "This interdisciplinary seminar explores how fictional worlds operate as structured models of society, drawing on speculative fiction, history, anthropology, and political theory. Students analyze how environments, institutions, culture, memory, and technology shape social order, while building a single evolving fictional world across the semester. The course culminates in a cohesive \"world dossier\" integrating these elements into a fully realized speculative society that can be used as a platform for creative projects.\nApply for the semester here.",
+      "startDate": "2026-11-17T23:30:00Z",
+      "endDate": "2026-11-18T01:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-698fb529.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/uxxmtqz8",
+        "original_event_id": "_clr78ba6c92kcsi1a956kh38cso5iua0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Sarah",
+          "website": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Sarah",
+          "url": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
+          "image": "https://images.lumacdn.com/uploads/r0/ec2a4233-729c-41b8-9dcf-0cf634c09153.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE2Yzkya2NzaTFhOTU2a2gzOGNzbzVpdWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1837,5 +2161,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-06T14:38:54.883676"
+  "timestamp": "2026-10-07T15:00:13.761248"
 }
