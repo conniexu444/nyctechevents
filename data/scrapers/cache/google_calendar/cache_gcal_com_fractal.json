@@ -1,168 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_b40162bc",
-      "name": "Study Hall: Foundations of New York",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "do you work better with a study group? come read and do  homework for Maximum New York together\n\nreoccurring event. same place, same time every week",
-      "startDate": "2026-10-07T20:30:00Z",
-      "endDate": "2026-10-07T22:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-63ecdf73.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/arg02079",
-        "original_event_id": "_clr78b9n8trmasi4cp2niuapcl0kggq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "John Hoeksema",
-          "website": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "John Hoeksema",
-          "url": "https://luma.com/user/usr-2GzgfZeT0UHewk3",
-          "image": "https://images.lumacdn.com/avatars/cs/698ea46f-e14f-4f60-b117-70dc34fa91e8",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluOHRybWFzaTRjcDJuaXVhcGNsMGtnZ3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_e9c1a01a",
-      "name": "\u26a1 Fractal Weekly Demo Party #9 \u26a1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsign up here! https://forms.gle/5Q5CcxtGtrMNXE2m9\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
-      "startDate": "2026-10-07T22:30:00Z",
-      "endDate": "2026-10-08T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e0bfcd4c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/1mh298rb",
-        "original_event_id": "_clr78ba1alsmmrjab4p7aqpmclcjaja0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmExYWxzbW1yamFiNHA3YXFwbWNsY2phamEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_66ce27b7",
-      "name": "Vajrayana: An Introduction - Session 1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
-      "startDate": "2026-10-07T23:00:00Z",
-      "endDate": "2026-10-08T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-10611987.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/hyu791hk",
-        "original_event_id": "_clr78ba28t6jepj8a4rkicplcl8j0hi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Andrew Blevins",
-          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Andrew Blevins",
-          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOHQ2amVwajhhNHJraWNwbGNsOGowaGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_92e4f01f",
       "name": "Build AI Search That Finds the Right Answer",
       "type": "tech",
@@ -649,60 +487,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_fractal_007beb40",
-      "name": "Secure AI: Keep Your App's Data Private + Find Your Hackathon Team",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "What happens to the data an agent sends, stores, and returns? We\u2019ll look at Zero Data Retention, endpoint controls, self-hosting options, and how to handle personal information in a system people may rely on.\nYou\u2019ll examine the privacy and security choices for your own project as cross-track pods form with Citizens.\n6:00\u20138:00 PM \u00b7 Location TBA\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nNew? Jump in anytime. Every class starts with a quick recap, so you won't be lost.\nFree. Join in person or on Zoom.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
-      "startDate": "2026-10-15T22:00:00Z",
-      "endDate": "2026-10-16T00:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-c66bece1.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/vop59frl",
-        "original_event_id": "_clr78bbd9ss3gcj4ctj3ekrq99sj8ka0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "3percentclub",
-          "website": "https://luma.com/3percentclub",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Poetica Coffee\nPoetica Coffee, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "3percentclub",
-          "url": "https://luma.com/3percentclub",
-          "image": "https://images.lumacdn.com/uploads/6y/13ccab43-8589-4817-a138-6d6d7001ac97.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJkOXNzM2djajRjdGozZWtycTk5c2o4a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_7366d4a1",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 3",
       "type": "tech",
@@ -754,6 +538,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE5ZjFpazhkYTViNWI3Y2xqMmQxbDNhajIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_007beb40",
+      "name": "Secure AI: Keep Your App's Data Private + Find Your Hackathon Team",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "What happens to the data an agent sends, stores, and returns? We\u2019ll look at Zero Data Retention, endpoint controls, self-hosting options, and how to handle personal information in a system people may rely on.\nYou\u2019ll examine the privacy and security choices for your own project as cross-track pods form with Citizens.\n6:00\u20138:00 PM \u00b7 Location TBA\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nNew? Jump in anytime. Every class starts with a quick recap, so you won't be lost.\nFree. Join in person or on Zoom.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
+      "startDate": "2026-10-15T23:00:00Z",
+      "endDate": "2026-10-16T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-c66bece1.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/vop59frl",
+        "original_event_id": "_clr78bbd9ss3gcj4ctj3ekrq99sj8ka0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "3percentclub",
+          "website": "https://luma.com/3percentclub",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Poetica Coffee\nPoetica Coffee, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "3percentclub",
+          "url": "https://luma.com/3percentclub",
+          "image": "https://images.lumacdn.com/uploads/6y/13ccab43-8589-4817-a138-6d6d7001ac97.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJkOXNzM2djajRjdGozZWtycTk5c2o4a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2161,5 +1999,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-07T15:00:13.761248"
+  "timestamp": "2026-10-08T15:08:51.753715"
 }

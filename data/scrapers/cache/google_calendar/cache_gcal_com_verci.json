@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_ee291ebc",
-      "name": "Verci Cafe",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Stop by the weekly Verci Cafe for drinks on the house!",
-      "startDate": "2026-10-07T15:00:00Z",
-      "endDate": "2026-10-07T20:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-5d013f69.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/yufjrrdd",
-        "original_event_id": "_clr78b9pb5jk8e3hddd5ilrocts5ah20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "45 E 20th St floor 12\n45 E 20th St floor 12, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlwYjVqazhlM2hkZGQ1aWxyb2N0czVhaDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_affbeff0",
       "name": "VERCI Laptop Spa",
       "type": "technology",
@@ -110,13 +56,13 @@
     },
     {
       "id": "evt_gcal_com_verci_b0f90af5",
-      "name": "How to Get Gains",
+      "name": "The Most Asked Questions in Fitness, Answered",
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
       "description": "Find more information on https://luma.com/verci",
-      "startDate": "2026-10-14T22:00:00Z",
-      "endDate": "2026-10-14T23:00:00Z",
+      "startDate": "2026-10-14T22:30:00Z",
+      "endDate": "2026-10-15T00:00:00Z",
       "category": [
         "technology",
         "innovation",
@@ -894,5 +840,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-07T15:00:25.183024"
+  "timestamp": "2026-10-08T15:09:02.374899"
 }
