@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_01217264",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098741963\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2026-10-08T18:30:00-04:00",
-      "endDate": "2026-10-08T21:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098741963",
-        "original_event_id": "qt829ggka8025f3od93svihl98",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=cXQ4MjlnZ2thODAyNWYzb2Q5M3N2aWhsOTggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_fc14bb0b",
       "name": "Silicone Casting: The Simplest Soft Robot",
       "type": "hackerspace",
@@ -1485,6 +1432,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_cadc4d34",
+      "name": "Intro to Soldering Workshop: Make an LED Tile",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-2003176131734\n\nSoldering is one of the most important skills you&#39;ll need for working with electronics. Come join us for an introductory through-hole solderSoldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole soldering workshop. Soldering enables you to create sturdy connections between electrical components. In this hands-on workshop, you'll learn how to use a soldering iron safely and effectively, and get plenty of practice with both soldering and de-soldering techniques. We'll be soldering up some Game of Life kits - LED tiles that generate nifty animations. No previous experience is required, making this introductory workshop a great choice for anyone who's curious about getting started with hardware tinkering! All materials will be provided.\nOK, awesome, I want to join!\nPlease be ready to start at Noon! We find that you will need this time to get through the whole class. Our classes tend to sell out about a week in advance so if you're interested, you may want to sign up early.\nThis class will be taught by Resistor member Missy.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-11-01T12:00:00-05:00",
+      "endDate": "2026-11-01T15:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-2003176131734",
+        "original_event_id": "0mrjdihpkppko3fjqj6oe5i54c",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MG1yamRpaHBrcHBrbzNmanFqNm9lNWk1NGMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_06174f5f",
       "name": "HOLD: Intro to Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -1644,14 +1644,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_b4fcf1ed",
-      "name": "Hold: Laser Cutting Class",
+      "id": "evt_gcal_com_nyc_resistor_20f1467e",
+      "name": "Hold: Solder LED tile",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
       "description": "",
-      "startDate": "2026-11-04",
-      "endDate": "2026-11-05",
+      "startDate": "2026-11-04T18:00:00-05:00",
+      "endDate": "2026-11-04T21:00:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -1675,8 +1675,8 @@
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NHFwZW9zODU5dDc1dmg2bDQyZTVtdWtoN2dfMjAyNjExMDQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "4qpeos859t75vh6l42e5mukh7g_20261104",
+        "source_url": "https://www.google.com/calendar/event?eid=aGFoaXVsZjB1ZHJlODkzNHBzcTBrZnU2cTlfMjAyNjExMDRUMjMwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "hahiulf0udre8934psq0kfu6q9_20261104T230000Z",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1693,7 +1693,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NHFwZW9zODU5dDc1dmg2bDQyZTVtdWtoN2dfMjAyNjExMDQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=aGFoaXVsZjB1ZHJlODkzNHBzcTBrZnU2cTlfMjAyNjExMDRUMjMwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -2171,6 +2171,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NjZ2a2xmdWFpNGtnNG9yaGxlaGYwNmRoNjkgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_cd764860",
+      "name": "HOLD: Olivia Intro to Sewing",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-14T11:00:00-05:00",
+      "endDate": "2026-11-14T14:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MDg5dDA2NXZlaTV2cGdjcWJlaWU1a2tvdXEgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "089t065vei5vpgcqbeie5kkouq",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MDg5dDA2NXZlaTV2cGdjcWJlaWU1a2tvdXEgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -3128,14 +3181,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_1543c551",
-      "name": "Hold: Laser Cutting Class",
+      "id": "evt_gcal_com_nyc_resistor_5650e4ef",
+      "name": "Hold: Solder LED tile",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
       "description": "",
-      "startDate": "2026-12-02",
-      "endDate": "2026-12-03",
+      "startDate": "2026-12-02T18:00:00-05:00",
+      "endDate": "2026-12-02T21:00:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -3159,8 +3212,8 @@
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NHFwZW9zODU5dDc1dmg2bDQyZTVtdWtoN2dfMjAyNjEyMDIgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "4qpeos859t75vh6l42e5mukh7g_20261202",
+        "source_url": "https://www.google.com/calendar/event?eid=aGFoaXVsZjB1ZHJlODkzNHBzcTBrZnU2cTlfMjAyNjEyMDJUMjMwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "hahiulf0udre8934psq0kfu6q9_20261202T230000Z",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -3177,7 +3230,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NHFwZW9zODU5dDc1dmg2bDQyZTVtdWtoN2dfMjAyNjEyMDIgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=aGFoaXVsZjB1ZHJlODkzNHBzcTBrZnU2cTlfMjAyNjEyMDJUMjMwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -3605,6 +3658,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_3456db16",
+      "name": "HOLD: Olivia Ice Dying",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-12-12T11:00:00-05:00",
+      "endDate": "2026-12-12T14:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MGpzNnFsbnVqczdhZHBlcTRpN2oxOWVxNG8gcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "0js6qlnujs7adpeq4i7j19eq4o",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGpzNnFsbnVqczdhZHBlcTRpN2oxOWVxNG8gcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_4b8037f4",
       "name": "Ham radio In-person exam session",
       "type": "hackerspace",
@@ -3868,60 +3974,7 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cGVkcGlrMnZjYWlycmxpNzdobWp1NnA5ajggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_ce39dadc",
-      "name": "HOLD: Intro to Soldering Workshop: Make an LED Tile",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP\u00a0<a href=\"https://www.eventbrite.com/o/52408308\">https://www.eventbrite.com/o/52408308</a><br>This is our monthly soldering class. The tickets typically go live 3-4 weeks in advance.",
-      "startDate": "2026-12-19T13:00:00-05:00",
-      "endDate": "2026-12-19T16:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=M2hvdTljMzd2cDhsazNyMnZzNnNhNWpsMm1fMjAyNjEyMTlUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "3hou9c37vp8lk3r2vs6sa5jl2m_20261219T180000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=M2hvdTljMzd2cDhsazNyMnZzNnNhNWpsMm1fMjAyNjEyMTlUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
     }
   ],
-  "timestamp": "2026-10-08T15:08:52.296024"
+  "timestamp": "2026-10-09T14:51:54.638298"
 }

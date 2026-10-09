@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_92e4f01f",
-      "name": "Build AI Search That Finds the Right Answer",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Stop pasting whole documents into your prompts. Your AI is only as good as the info you feed it. Dumping huge files wastes money and memory. In this hands-on workshop, you'll split big documents into useful pieces, search thousands of pages in milliseconds, and give your app a memory that stays sharp over long conversations.\nWhat you'll do:\n\u2702\ufe0f Smart splitting: break big documents into pieces without losing meaning\n\ud83d\udd0d Fast search: find the exact answer across thousands of pages\n\ud83d\udcbb Hands-on lab: build a working search pipeline on real NYC public data\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nNew? Jump in anytime. Every class starts with a quick recap, so you won't be lost.\nFree. Join in person or on Zoom.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
-      "startDate": "2026-10-08T22:00:00Z",
-      "endDate": "2026-10-09T00:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-51384bd0.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/3perce-thdp",
-        "original_event_id": "_clr78bbm6dd56srd8d4j8jj5cgp74ga0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "3percentclub",
-          "website": "https://luma.com/3percentclub",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Fractal NYC (Lounge, own entrance), 111 Conselyea St, Floor 2, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "3percentclub",
-          "url": "https://luma.com/3percentclub",
-          "image": "https://images.lumacdn.com/uploads/6y/13ccab43-8589-4817-a138-6d6d7001ac97.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJtNmRkNTZzcmQ4ZDRqOGpqNWNncDc0Z2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_82c3a00d",
-      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 2",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
-      "startDate": "2026-10-08T23:00:00Z",
-      "endDate": "2026-10-09T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-76645d9e.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/cuhqmngi",
-        "original_event_id": "_clr78baa6hm6qcq1chhkuu1kd17nee20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Alex Pinheiro",
-          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Alex Pinheiro",
-          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhNmhtNnFjcTFjaGhrdXUxa2QxN25lZTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_aeb0e209",
       "name": "Creator's Group IRL | Co-Working",
       "type": "tech",
@@ -808,6 +700,55 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjZWhxa2lpYm45NWMzMGtyMjhoczY2cGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_5996c83a",
+      "name": "Something Old, Something New, Something Borrowed",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-10-22T21:30:00Z",
+      "endDate": "2026-10-22T23:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5l666tqq917jejhidkrk6p9h9h06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://community.swugn.org/events/details/solidworks-solidworks-user-group-of-new-york-city-presents-something-old-something-new-something-borrowed/",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw2NjZ0cXE5MTdqZWpoaWRrcms2cDloOWgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1999,5 +1940,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-08T15:08:51.753715"
+  "timestamp": "2026-10-09T14:51:54.239622"
 }
