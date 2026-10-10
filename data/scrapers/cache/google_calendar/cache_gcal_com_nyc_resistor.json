@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_fc14bb0b",
-      "name": "Silicone Casting: The Simplest Soft Robot",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/silicone-casting-the-simplest-soft-robot-tickets-2002480395769\n\nLearn to cast your first silicone object by making a pneumatic soft robotic bending actuator.Get started with silicone casting!\nThis workshop is for people who have always wanted to make a silicone cast or a simple soft robot, but have been too afraid to jump in without a guide. After a full project demo, you'll go hands-on to make your own bending actuator. The vacuum equipment will also be available to use at NYC Resistor Craft Nights later.\nLearn:\nHow to measure, mix, and pour siliconeUse a vacuum pot to remove air bubblesHow using fabric can change the movement of a silicone inflated pieceThis class is geared towards people with little to no experience working with silicone, curious about soft robotics, and want to learn basic silicone casting.\nIt does help to have typical hand dexterity, so please reach out if you think you might need accomodations.\nInstructor:\nKari Love has been teaching a popular soft robotics for artists course at NYU for nearly 10 years, and was the co-author of Make: Soft Robotics - A DIY Introduction to Squishy, Stretchable, and Flexible Robots. She has made functional space suits, costumes/wearables, puppets, robots from candy, and countless other soft things.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-10-09T18:00:00-04:00",
-      "endDate": "2026-10-09T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/silicone-casting-the-simplest-soft-robot-tickets-2002480395769",
-        "original_event_id": "dgjd6o8nf5i41157ps5mjl03t0",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=ZGdqZDZvOG5mNWk0MTE1N3BzNW1qbDAzdDAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_80c496fb",
       "name": "DIY Slimy Creatures: an artist talk & workshop",
       "type": "hackerspace",
@@ -1432,6 +1379,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_5832319b",
+      "name": "NYC Resistor Halloween Party 2026",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/nyc-resistor-halloween-party-2026-tickets-2003212555679\n\nJoin NYC Resistor and friends for a spooky-special night of music and costumes.Join us for the 2026 NYC Resistor Halloween party! Costumes encouraged, 21+, tickets $20 in advance or at the door. Drinks are free.\nAs with all NYC Resistor events, this event is governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
+      "startDate": "2026-10-31T20:00:00-04:00",
+      "endDate": "2026-10-31T23:55:00-04:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 20.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "See event description for pricing details"
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/nyc-resistor-halloween-party-2026-tickets-2003212555679",
+        "original_event_id": "hqanc5aq1r0aojq1ndnnqi2r64",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 3rd Ave\nBrooklyn,  11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=aHFhbmM1YXExcjBhb2pxMW5kbm5xaTJyNjQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_cadc4d34",
       "name": "Intro to Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -1482,59 +1482,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MG1yamRpaHBrcHBrbzNmanFqNm9lNWk1NGMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_06174f5f",
-      "name": "HOLD: Intro to Soldering Workshop: Make an LED Tile",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP\u00a0<a href=\"https://www.google.com/url?q=https://www.eventbrite.com/o/52408308&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1Dqb65aVAqtw7EJ7R8E_lI\" target=\"_blank\">https://www.eventbrite.com/o/52408308</a><br>This is our monthly soldering class. The tickets typically go live 3-4 weeks in advance.",
-      "startDate": "2026-11-01T12:00:00-05:00",
-      "endDate": "2026-11-01T15:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=dW1rc2UwZ2lkYnVzNmRlbm1yMnNkcGNtbjNfMjAyNjExMDFUMTcwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "umkse0gidbus6denmr2sdpcmn3_20261101T170000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=dW1rc2UwZ2lkYnVzNmRlbm1yMnNkcGNtbjNfMjAyNjExMDFUMTcwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -1803,6 +1750,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_618aa095",
+      "name": "HOLD: AM Yoga class",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=NjMwb21xcnYwYXM1YmUwNG1obnU3NjA5c3EgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "630omqrv0as5be04mhnu7609sq",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjMwb21xcnYwYXM1YmUwNG1obnU3NjA5c3EgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_26a6ca21",
       "name": "HOLD: Repair Event (Maurice)",
       "type": "hackerspace",
@@ -1906,6 +1906,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NjRybWNwajVjNWgzY2I5amM4cGplYjlrNnNzNjhiOXBjcGhqZWI5bjcwcTNhZHI0NjlqM2dvcHA2ayBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_cb5f3fab",
+      "name": "HOLD silkscreen class",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-08T16:00:00-05:00",
+      "endDate": "2026-11-08T16:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MHRtdGc4aG1sMm5tZmZlbnNycmY4Z29qZmwgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "0tmtg8hml2nmffensrrf8gojfl",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MHRtdGc4aG1sMm5tZmZlbnNycmY4Z29qZmwgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -3976,5 +4029,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-09T14:51:54.638298"
+  "timestamp": "2026-10-10T14:09:20.486907"
 }

@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_aeb0e209",
-      "name": "Creator's Group IRL | Co-Working",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Creator's Group IRL is for people who actually want to make their dreams real. Those dreams are artistic in nature.\nThis is a co-working space + container for the imagineer who wishes there were other allies along the path of creativity. You want to make your aspirations into material reality. You do not want to merely discuss film, you want to MAKE films and take action together!\nThis IS a place for:\nFriendship\nCollaboration / Teammwork\nAccountability & Support for your goals\nLet's begin a brand new day, and make our dreams real\ud83d\udcad\nLOCATION\nFractal Tech | 111 Conselyea St, Brooklyn NY\nDETAILS\nReach out to Joe for any questions you may have!\nWGP&GR",
-      "startDate": "2026-10-09T20:30:00Z",
-      "endDate": "2026-10-09T23:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-71ffba38.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/i1icakqg",
-        "original_event_id": "_clr78bbme1r62rq3c937epic85sjgea0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Joe Zoll",
-          "website": "https://luma.com/user/usr-eNEwwDIEE1GaLIo",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Joe Zoll",
-          "url": "https://luma.com/user/usr-eNEwwDIEE1GaLIo",
-          "image": "https://images.lumacdn.com/avatars/mb/4673f746-9fd9-4a94-b0e7-96463bdc8c1b.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJtZTFyNjJycTNjOTM3ZXBpYzg1c2pnZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_ea996fbe",
       "name": "Private Event",
       "type": "tech",
@@ -112,7 +58,7 @@
       "id": "evt_gcal_com_fractal_a6dc195d",
       "name": "Hearth: Reading Party \ud83d\udcd6 \ud83c\udf89",
       "type": "tech",
-      "locationId": "loc_fractal",
+      "locationId": "",
       "communityId": "com_fractal",
       "description": "We\u2019re borrowing a format inspired by other reading party clubs (e.g. Reading Rhythms): part quiet reading session, part conversation, part cozy hangout!  Bring whatever you\u2019re actually excited to read\u2014fiction, nonfiction, poetry, essays, a favorite childhood novel of yours, graphic novel, Kindle, whatever :)  +1s welcome.\n\nHost: Hearth (https://discoverhearth.org/), a new IRL spiritual and social community for non-religious younger adults!",
       "startDate": "2026-10-10T23:00:00Z",
@@ -145,8 +91,8 @@
           "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
         },
         "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "name": "",
+          "address": "Brooklyn, NY\nBrooklyn, New York",
           "type": "Offline"
         },
         "speakers": [],
@@ -434,7 +380,7 @@
     },
     {
       "id": "evt_gcal_com_fractal_007beb40",
-      "name": "Secure AI: Keep Your App's Data Private + Find Your Hackathon Team",
+      "name": "Secure AI: Keep Your App's Data Private",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
@@ -470,7 +416,7 @@
         },
         "venue": {
           "name": "",
-          "address": "Poetica Coffee\nPoetica Coffee, New York, New York",
+          "address": "New York, NY\nNew York, New York",
           "type": "Offline"
         },
         "speakers": [],
@@ -1562,6 +1508,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_e2fe006a",
+      "name": "Data Salon: Agents and Stakeholders",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners, hosted by Newtown Analytics at Fractal Tech. This event will go beyond the hype and inspect the potential impact of AI on labor from well-informed business perspectives both on the ground and systemic.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nDetails on our speakers and topic, TBA!",
+      "startDate": "2026-11-18T23:30:00Z",
+      "endDate": "2026-11-19T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-af05706c.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/ozb7lz0u",
+        "original_event_id": "_clr78bafed2kke3ld8skes3q6di4ulq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Akpanoluo Etteh",
+          "website": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Akpanoluo Etteh",
+          "url": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
+          "image": "https://images.lumacdn.com/avatars/ge/7a2cd2ea-ee03-4613-bdf3-7959363cec26.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFmZWQya2tlM2xkOHNrZXMzcTZkaTR1bHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_679caec4",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 8",
       "type": "tech",
@@ -1940,5 +1940,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-09T14:51:54.239622"
+  "timestamp": "2026-10-10T14:09:19.988013"
 }

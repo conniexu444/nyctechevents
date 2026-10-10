@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_a0f7fc80",
-      "name": "Christian's Dining Hall",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Our monthly community dinner!\nThis is a classic Verci experience, so if you haven't made it out to one yet, this is the perfect time to pull up.\nThis one is Christian's version. So its like dining hall but its not. Its actually dj pauly d's engagement party. so. dress like its 1009 jersey shore and get ready to take down like 5 chicken parms (Christian's favorite dish).",
-      "startDate": "2026-10-09T22:30:00Z",
-      "endDate": "2026-10-10T00:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-6481612e.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/rq4av72u",
-        "original_event_id": "_clr78bal8ld52ppl991k8uajap8nkhq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://luma.com/event/evt-UEZQg5JCDySVQzG",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFsOGxkNTJwcGw5OTFrOHVhamFwOG5raHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_f41f48a7",
       "name": "Studio Jams - Songwriting Workshop with Alara and Alton",
       "type": "technology",
@@ -565,6 +511,55 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_f907345c",
+      "name": "verci yoga & coffee",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Find more information on https://luma.com/verci",
+      "startDate": "2026-10-30T13:00:00Z",
+      "endDate": "2026-10-30T15:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci",
+        "original_event_id": "_cdgmopbm5l94al3785j4cdbg619mclj9b506atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/CDd4mLUWz6q3dpYZFIJR",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw5NGFsMzc4NWo0Y2RiZzYxOW1jbGo5YjUwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_12bbb0a3",
       "name": "Cookie Cafe",
       "type": "technology",
@@ -889,5 +884,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-09T14:52:04.881329"
+  "timestamp": "2026-10-10T14:09:31.020523"
 }
