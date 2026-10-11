@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_69fe6a46",
-      "name": "World Mental Health Day",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-11",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MnRhcWU2ZTljdW92ZTJoazAzOXUwOGQ3cGZfMjAyNjEwMTAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
-        "original_event_id": "2taqe6e9cuove2hk039u08d7pf_20261010",
-        "organizer": {
-          "name": "Effective Altruism NYC Events",
-          "website": "",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MnRhcWU2ZTljdW92ZTJoazAzOXUwOGQ3cGZfMjAyNjEwMTAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_605713d5",
       "name": "Future Tense: AI and the Worlds We\u2019re Making",
       "type": "effective altruism",
@@ -793,7 +744,56 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NGQ0N2F1NHJqZzk1cWFqZmNnZ290dDFwZmRfMjAyNzEwMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_622e94fe",
+      "name": "World Mental Health Day",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "",
+      "startDate": "2027-10-10",
+      "endDate": "2027-10-11",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MnRhcWU2ZTljdW92ZTJoazAzOXUwOGQ3cGZfMjAyNzEwMTAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
+        "original_event_id": "2taqe6e9cuove2hk039u08d7pf_20271010",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "website": "",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MnRhcWU2ZTljdW92ZTJoazAzOXUwOGQ3cGZfMjAyNzEwMTAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
     }
   ],
-  "timestamp": "2026-10-10T14:09:04.946800"
+  "timestamp": "2026-10-11T14:33:39.488618"
 }

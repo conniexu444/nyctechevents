@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_ea996fbe",
-      "name": "Private Event",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/wclb2ksd\n\nAddress:\nFractal Tech\nBrooklyn, NY\nUnited States\n\nHosted by Liam Duffy",
-      "startDate": "2026-10-10T14:00:00Z",
-      "endDate": "2026-10-10T19:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-06b9ab6d.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/wclb2ksd",
-        "original_event_id": "_clr78ba88so48pqdc5a50e1j8dk3cma0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4OHNvNDhwcWRjNWE1MGUxajhkazNjbWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_a6dc195d",
-      "name": "Hearth: Reading Party \ud83d\udcd6 \ud83c\udf89",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "We\u2019re borrowing a format inspired by other reading party clubs (e.g. Reading Rhythms): part quiet reading session, part conversation, part cozy hangout!  Bring whatever you\u2019re actually excited to read\u2014fiction, nonfiction, poetry, essays, a favorite childhood novel of yours, graphic novel, Kindle, whatever :)  +1s welcome.\n\nHost: Hearth (https://discoverhearth.org/), a new IRL spiritual and social community for non-religious younger adults!",
-      "startDate": "2026-10-10T23:00:00Z",
-      "endDate": "2026-10-11T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-97d0f893.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/8kktfbkx",
-        "original_event_id": "_clr78b9j6pr5gda89914eriqcso36ci0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Ray Batra",
-          "website": "https://luma.com/user/usr-8t0QbBQ7pStUpSR",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Brooklyn, NY\nBrooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Ray Batra",
-          "url": "https://luma.com/user/usr-8t0QbBQ7pStUpSR",
-          "image": "https://images.lumacdn.com/avatars/xh/ecef9106-f3db-4ad6-bd4d-f50a7c90240f",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlqNnByNWdkYTg5OTE0ZXJpcWNzbzM2Y2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_83fae6af",
       "name": "SideQuest IRL #47",
       "type": "tech",
@@ -1940,5 +1832,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-10T14:09:19.988013"
+  "timestamp": "2026-10-11T14:33:57.381170"
 }

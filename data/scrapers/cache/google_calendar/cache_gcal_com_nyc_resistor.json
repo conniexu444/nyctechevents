@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_80c496fb",
-      "name": "DIY Slimy Creatures: an artist talk & workshop",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/diy-slimy-creatures-an-artist-talk-workshop-tickets-2001284463704\n\nLearn how special effects were made in upcoming sci-fi film Spoon-Fed by Jaime Sunwoo and make your own mini monster with silicone and foam.At this artist talk and hands-on workshop, go behind the scenes of Spoon-Fed, an upcoming sci-fi short film by NYC Resistor member Jaime Sunwoo, and discover how its creatures and special effects were brought to life.\nHandle original puppets and masks from the film, watch behind-the-scenes footage, and learn how creatures are developed from concept to execution. Then, just in time for spooky season, make your own mini monster using silicone and foam in this beginner-friendly workshop.\nAll materials included, no experience necessary.\n\nAbout the Artist:\nJaime Sunwoo (she/her) is a multidisciplinary artist from New York City working in film, art, and animation. Her animated short documentary Equality Tea was featured in Vogue and Whetstone Magazine. Her film Handwritten premiered at Lincoln Center for New York Asian Film Festival and is streaming on Amazon Prime Video in Fantastic New Worlds: A Handmade Puppet Dreams Collection. Her New York Times featured production Specially Processed American Me received support from BRIClab, NYC Women's Fund, The Jim Henson Foundation, Queens Council on the Arts, Asian Women Giving Circle, Brooklyn Arts Fund, and The Laundromat Project. Her short film Ommatidia, co-created with neuroscientist Sromana Mukherjee at NYU's Desplan Lab, premiered at the Science New Wave Festival and is streaming on Labocine. She is currently developing Spoon-Fed, a sci-fi film. IG: @jaimesunwoo @spoonfedmovie\nAs with all NYC Resistor events, this event is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. If you have any questions, please email sunwooprojects@gmail.com\nThis workshop is made possible by public funds from the Greater New York Arts Development Fund of the New York City Department of Cultural Affairs, the Statewide Community Regrants Program, as well as from a regrant program of the New York State Council on the Arts with the support of the New York State Legislature, both administered by Brooklyn Arts Council.\n",
-      "startDate": "2026-10-10T13:00:00-04:00",
-      "endDate": "2026-10-10T17:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/diy-slimy-creatures-an-artist-talk-workshop-tickets-2001284463704",
-        "original_event_id": "lctma5ve1dfbi1gif47hroqmio",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=bGN0bWE1dmUxZGZiaTFnaWY0N2hyb3FtaW8gcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_99000282",
       "name": "Ham radio In-person exam session",
       "type": "hackerspace",
@@ -2651,6 +2598,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_d2cd9751",
+      "name": "All Decked Out: A Cyberdeck \"Open Mic\"",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/all-decked-out-a-cyberdeck-open-mic-tickets-2003244844255\n\nShow off your cyberdeck creations at this &quot;open mic&quot; event and celebrate the creation and use of our own bespoke hardware.All Decked Out: A Cyberdeck \"Open Mic\" is here to celebrate the creativity and passion people making their own custom-built, portable personal computer that express their own aesthtics and meet specific technical needs. We want to see all of your cyberdecks at NYC Resistor! Bring high tech and low tech projects, cute/chic or raw aesthetics.\n\nHow It Works: Bring your cyberdeck, and we'll provide a display card and name-tags. Sign up in advance for prepared materials and a reserved spot, or just drop in and we'll make it work on the fly. We set up pieces when they arrive, and take down pieces when the creator leaves.\nWhat to Expect: A diverse array of projects\u2022 An inclusive atmosphere \u2022 Community Spirit.\u2022 Opportunities to connect with fellow art+tech enthusiasts \u2022 Drinks available by donation\n\ud83c\udf9f\ufe0f Admission is pay-what-you-wish [recommended $5]. Reserve your spot now and show off what you spun up a while ago or something you just conceived! Or just come to see what the talent in our community puts on display.\nThis is a masks optional event.\nWe are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending. We are also an 18+ space, and accessibility information can be found here.\n",
+      "startDate": "2026-11-20T19:00:00-05:00",
+      "endDate": "2026-11-20T21:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 5.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "See event description for pricing details"
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/all-decked-out-a-cyberdeck-open-mic-tickets-2003244844255",
+        "original_event_id": "pt9d86i4j087vs8315rc30dhb0",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=cHQ5ZDg2aTRqMDg3dnM4MzE1cmMzMGRoYjAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_9ac92e73",
       "name": "HOLD: Intro to Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -4029,5 +4029,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-10T14:09:20.486907"
+  "timestamp": "2026-10-11T14:33:57.980059"
 }
