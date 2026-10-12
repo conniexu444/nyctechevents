@@ -109,6 +109,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_south_park_commons_3980135c",
+      "name": "Bio-Data Hackathon Demos + Prizes at SPC",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "This weekend, ML researchers, wet-lab biologists, bioinformaticians, and founders are hacking at SPC on multimodal patient datasets.\nOn Sunday, they show their work. Teams will demo what they found: new biological insights, new algorithmic approaches, new ways to visualize messy human data. Maybe even a bespoke therapeutic for a specific case.\nJudged by the SPC team and guest experts.\nSchedule \n5PM \u2014 Science Fair Style Demos\n6:30PM \u2014\u00a0Finalist Demos + Prizes\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.",
+      "startDate": "2026-10-19T00:00:00Z",
+      "endDate": "2026-10-19T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-1eb7381f.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/data-hackathon-demos",
+        "original_event_id": "_clr78ban8lmk2i2madslcqje99c54ua0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFuOGxtazJpMm1hZHNsY3FqZTk5YzU0dWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_1ebf3432",
       "name": "-1 to Anduril with Trae Stephens",
       "type": "technology",
@@ -217,5 +271,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-11T14:34:00.584960"
+  "timestamp": "2026-10-12T17:13:53.565070"
 }
