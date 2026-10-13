@@ -114,8 +114,8 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_south_park_commons",
-      "description": "This weekend, ML researchers, wet-lab biologists, bioinformaticians, and founders are hacking at SPC on multimodal patient datasets.\nOn Sunday, they show their work. Teams will demo what they found: new biological insights, new algorithmic approaches, new ways to visualize messy human data. Maybe even a bespoke therapeutic for a specific case.\nJudged by the SPC team and guest experts.\nSchedule \n5PM \u2014 Science Fair Style Demos\n6:30PM \u2014\u00a0Finalist Demos + Prizes\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.",
-      "startDate": "2026-10-19T00:00:00Z",
+      "description": "This weekend, ML researchers, wet-lab biologists, bioinformaticians, and founders are hacking at SPC on multimodal patient datasets.\nOn Sunday, they show their work. Teams will demo what they found: new biological insights, new algorithmic approaches, new ways to visualize messy human data. Maybe even a bespoke therapeutic for a specific case.\nJudged by the SPC team and guest experts.\nSchedule \n4:30PM \u2014 Science Fair Style Demos\n5:30PM \u2014\u00a0Finalist Demos + Prizes\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.",
+      "startDate": "2026-10-18T23:30:00Z",
       "endDate": "2026-10-19T02:00:00Z",
       "category": [
         "technology",
@@ -240,7 +240,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-15188f25.jpg",
+      "image": "events/luma-event-5db58396.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -271,5 +271,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-12T17:13:53.565070"
+  "timestamp": "2026-10-13T15:29:27.343652"
 }

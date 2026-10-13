@@ -1,6 +1,60 @@
 {
   "events": [
     {
+      "id": "evt_gcal_com_verci_564c79fb",
+      "name": "Open Mic Night",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Ali for the (now) weekly open mic night! Stop by to say or hear something epic",
+      "startDate": "2026-10-13T23:00:00Z",
+      "endDate": "2026-10-14T01:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-bfc424e0.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/i8foe8dh",
+        "original_event_id": "_clr78badedjl6la8eta38u38ddp48q20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "45 E 20th St floor 12\n45 E 20th St floor 12, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFkZWRqbDZsYThldGEzOHUzOGRkcDQ4cTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_b0f90af5",
       "name": "The Most Asked Questions in Fitness, Answered",
       "type": "technology",
@@ -73,7 +127,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-c90d8751.jpg",
+      "image": "events/luma-event-374a7c25.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -150,6 +204,60 @@
         "luma_source": true,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxoNnVxaXA3NXBqOHFpMmVwYTQ0bWI1NmgwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_42303f99",
+      "name": "Ugly Duckling x Butter Girl 'home' cafe",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Come join Ugly Duckling x Buttergirl for a Bread + Butter public 'home' cafe experience featuring asian sourdough + self churned butter!\nTicket includes:\nMini Sample Box: a slice of Ugly Duckling's lao gan ma chili crisp sourdough + sampler of Butter Girl's exclusive scallion pancake butter\nHome Cafe Spread: access to exclusive Butter Girl's butters + Ugly Duckling's Sourdoughs (a cafe spread will be laid out with event exclusive flavors for purchase at a discounted price)\nSocial Experience: a third space experience! lots of seating, tables, rooftop, great ambiance to come hang out with your friends.\nFree Tastings: there will be small butter samplers and new flavors of sourdough available for tasting!\nSurprise Giveaways: 2 lucky guests will win a surprise giveaway bag!\nWho we are:\nUgly Duckling - nyc micro bakery bringing forward asian flavored sourdoughs, think lao gan ma chili crisp, black sesame, miso corn sourdoughs!\nButter girl - a girl churning her own butter that the internet has fallen in love with! Her most famous flavors are Grilled Cheese and French Onion Soup Flavored butters, and they sell out every time she drops!\nIf you love bread & butter, this is the event for you!",
+      "startDate": "2026-10-17T18:00:00Z",
+      "endDate": "2026-10-17T21:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-451fef19.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/c2093o7l",
+        "original_event_id": "_clr78ba18ds68r2399qk8r278534gui0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Ugly Duckling",
+          "website": "https://luma.com/calendar/cal-D5zLqCAW7u41ITk",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Ugly Duckling",
+          "url": "https://luma.com/calendar/cal-D5zLqCAW7u41ITk",
+          "image": "https://images.lumacdn.com/uploads/ke/78001d84-8fef-48f6-8326-92aa36288f93.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmExOGRzNjhyMjM5OXFrOHIyNzg1MzRndWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -364,6 +472,114 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_063af3fd",
+      "name": "Paper Lantern Decorating",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Come decorate a paper lantern! All materials provided.",
+      "startDate": "2026-10-19T22:30:00Z",
+      "endDate": "2026-10-19T23:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-f2249c82.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/qinoh5ql",
+        "original_event_id": "_clr78ba4cdml2t2o7515ecpn6537eli0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE0Y2RtbDJ0Mm83NTE1ZWNwbjY1MzdlbGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_2c7a5659",
+      "name": "Open Mic Night (funny)",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Ali for the (now) weekly open mic night! Stop by to say or hear something funny",
+      "startDate": "2026-10-20T23:00:00Z",
+      "endDate": "2026-10-21T01:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-bfc424e0.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/rvx30ji2",
+        "original_event_id": "_clr78bbb95p64dri90s38oahdhj66cq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "45 E 20th St floor 12\n45 E 20th St floor 12, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJiOTVwNjRkcmk5MHMzOG9haGRoajY2Y3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_a350db53",
       "name": "Creators for Good",
       "type": "technology",
@@ -459,6 +675,60 @@
         "luma_source": true,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw5NG1wanBlcGk2a2hpY2M1bTZnb3FvOWwwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_594c2272",
+      "name": "Open Mic Night (funny)",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Ali for the (now) weekly open mic night! Stop by to say or hear something funny",
+      "startDate": "2026-10-27T23:00:00Z",
+      "endDate": "2026-10-28T01:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-bfc424e0.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/tsis1mj3",
+        "original_event_id": "_clr78bacf17mck9pe98kacqoe0o6sca0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "45 E 20th St floor 12\n45 E 20th St floor 12, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjZjE3bWNrOXBlOThrYWNxb2UwbzZzY2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -619,6 +889,114 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_ac1adf26",
+      "name": "Open Mic Night (funny)",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Ali for the (now) weekly open mic night! Stop by to say or hear something funny",
+      "startDate": "2026-11-04T00:00:00Z",
+      "endDate": "2026-11-04T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-bfc424e0.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/tjfhptaf",
+        "original_event_id": "_clr78bbg8t9kuj24adm6qd3gdhd6mp20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "45 E 20th St floor 12\n45 E 20th St floor 12, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnOHQ5a3VqMjRhZG02cWQzZ2RoZDZtcDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_4bcb2210",
+      "name": "Open Mic Night (funny)",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Ali for the (now) weekly open mic night! Stop by to say or hear something funny",
+      "startDate": "2026-11-11T00:00:00Z",
+      "endDate": "2026-11-11T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-bfc424e0.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/xxramndq",
+        "original_event_id": "_clr78bbe8hckmhrmcdckcsqaa97nit20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "45 E 20th St floor 12\n45 E 20th St floor 12, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlOGhja21ocm1jZGNrY3NxYWE5N25pdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_4facb3f9",
       "name": "Community Builders and Partnerships Dinner w/ Verci",
       "type": "technology",
@@ -724,6 +1102,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFoZTUybTh0cms5MWtuMmxpbmQ1ODM4b3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_1470dc32",
+      "name": "Open Mic Night (funny)",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join Ali for the (now) weekly open mic night! Stop by to say or hear something funny",
+      "startDate": "2026-11-18T00:00:00Z",
+      "endDate": "2026-11-18T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-bfc424e0.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/ovefmlhg",
+        "original_event_id": "_clr78bb2857kgda799j5aca26golkqq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "45 E 20th St floor 12\n45 E 20th St floor 12, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIyODU3a2dkYTc5OWo1YWNhMjZnb2xrcXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -835,5 +1267,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-12T17:14:14.671783"
+  "timestamp": "2026-10-13T15:29:41.513626"
 }
