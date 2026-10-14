@@ -2,11 +2,11 @@
   "events": [
     {
       "id": "evt_gcal_com_south_park_commons_f2501edd",
-      "name": "DYNA Robotics Fireside w/ SPC's Embodied AI Forum",
+      "name": "Dyna Robotics Fireside w/ SPC's Embodied AI Forum",
       "type": "technology",
       "locationId": "",
       "communityId": "com_south_park_commons",
-      "description": "South Park Commons' Embodied AI Forum is delighted to host the founders of DYNA Robotics.\nEvent Details\n2:30pm: Doors Open\n3:00 - 4:00pm: Fireside Chat\n\nBio: Jason Ma is the co-founder of Dyna, which he started with Lindon Gao and York Yang in 2024. Dyna's pushing the boundaries of robot foundation models and deploying them in the field, now running in laundromats and Din Tai Fung, folding 1590 table napkins a day. Jason leads the research, from DYNA-1 to DYNA-2 world-action model, the first to show scaling laws for human-video-to-robot transfer. Before Dyna, he did his PhD at UPenn's GRASP Lab and researched at DeepMind, NVIDIA and Meta AI, where his work included Eureka (LLM-driven reward design), VIP (visual rewards learned from video), Open X-Embodiment and DROID robot datasets.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "description": "South Park Commons' Embodied AI Forum is delighted to host Jason Ma, co-founder of DYNA Robotics.\nEvent Details\n2:30pm: Doors Open\n3:00 - 4:00pm: Fireside Chat\n\nBio: Jason Ma is the co-founder of Dyna, which he started with Lindon Gao and York Yang in 2024. Dyna's pushing the boundaries of robot foundation models and deploying them in the field, now running in laundromats and Din Tai Fung, folding 1590 table napkins a day. Jason leads the research, from DYNA-1 to DYNA-2 world-action model, the first to show scaling laws for human-video-to-robot transfer. Before Dyna, he did his PhD at UPenn's GRASP Lab and researched at DeepMind, NVIDIA and Meta AI, where his work included Eureka (LLM-driven reward design), VIP (visual rewards learned from video), Open X-Embodiment and DROID robot datasets.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
       "startDate": "2026-10-14T21:30:00Z",
       "endDate": "2026-10-14T23:00:00Z",
       "category": [
@@ -271,5 +271,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-13T15:29:27.343652"
+  "timestamp": "2026-10-14T13:15:14.956618"
 }
