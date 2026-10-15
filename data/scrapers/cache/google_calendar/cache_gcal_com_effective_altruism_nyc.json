@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_605713d5",
-      "name": "Future Tense: AI and the Worlds We\u2019re Making",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "Forecasting asks: what is most likely to happen? Foresight asks a different question: what could happen, and what would it demand of us?\nFollowing our AI 2040 reading group and our evening with superforecaster Jonathan Mann, strategist and foresight practitioner Sabeen Sidiqui will lead an exploration of the plausible long-term futures of AI. Through strategic scenario mapping, we will examine competing possibilities, surface hidden assumptions, and discover the strategic architecture of the choices made today that then shape the worlds that emerge.\nJoin us for the third event in our AI and the Future series, and come prepared to imagine beyond prediction.\n\nConnect with Sabeen here: https://www.linkedin.com/in/sabeeninnovation/",
-      "startDate": "2026-10-14T18:00:00-04:00",
-      "endDate": "2026-10-14T21:00:00-04:00",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-27bcc8fd.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/oen4b3g7",
-        "original_event_id": "4h8plqrpq8asn1doi2lmn8fa30",
-        "organizer": {
-          "name": "EA NYC",
-          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "EA NYC",
-          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NGg4cGxxcnBxOGFzbjFkb2kybG1uOGZhMzAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_ecd6a7f5",
       "name": "Ambitious Impact Mixer",
       "type": "effective altruism",
@@ -795,5 +741,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-14T13:14:56.079973"
+  "timestamp": "2026-10-15T13:02:41.026692"
 }
