@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_007beb40",
-      "name": "Secure AI: Keep Your App's Data Private",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "What happens to the data an agent sends, stores, and returns? We\u2019ll look at Zero Data Retention, endpoint controls, self-hosting options, and how to handle personal information in a system people may rely on.\nYou\u2019ll examine the privacy and security choices for your own project as cross-track pods form with Citizens.\n6:00\u20138:00 PM \u00b7 Location TBA\nSome coding experience needed. This is about applied engineering, not starting from scratch.\nNew? Jump in anytime. Every class starts with a quick recap, so you won't be lost.\nFree. Join in person or on Zoom.\nJoining virtually? Live stream: https://us06web.zoom.us/s/84280401788\nPart of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC.\nApplying to the fellowship gets you:\nAccess to our Google Classroom for labs and coursework\nMentorship from working AI practitioners\nResume workshops\nOur Discord community\nA shot at the October hackathon and Demo Night\nSign up: https://forms.fillout.com/t/p52mmdNs8jus",
-      "startDate": "2026-10-15T22:00:00Z",
-      "endDate": "2026-10-16T00:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-c66bece1.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/vop59frl",
-        "original_event_id": "_clr78bbd9ss3gcj4ctj3ekrq99sj8ka0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "3percentclub",
-          "website": "https://luma.com/3percentclub",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Zoom",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "3percentclub",
-          "url": "https://luma.com/3percentclub",
-          "image": "https://images.lumacdn.com/uploads/6y/13ccab43-8589-4817-a138-6d6d7001ac97.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJkOXNzM2djajRjdGozZWtycTk5c2o4a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_7366d4a1",
-      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 3",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
-      "startDate": "2026-10-15T23:00:00Z",
-      "endDate": "2026-10-16T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-98e01de3.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/yifjuydl",
-        "original_event_id": "_clr78ba9f1ik8da5b5b7clj2d1l3aj20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Alex Pinheiro",
-          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Alex Pinheiro",
-          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE5ZjFpazhkYTViNWI3Y2xqMmQxbDNhajIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_e2573ea1",
       "name": "Creators Group IRL - Co-Working",
       "type": "tech",
@@ -263,6 +155,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJmY2xqNDhocWw4cDVsZWdpM2FsY211Y2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_7d1d3887",
+      "name": "Gardening on the Roof - Fall '26 Season",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Get up-to-date information at: https://luma.com/9mtmkdwx\n\nAddress:\nFractal Tech\nKings County, New York\nUnited States\n\nHosted by Anthony Castrio \ud83d\udcaf",
+      "startDate": "2026-10-18T14:00:00Z",
+      "endDate": "2026-10-18T16:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-51fde3e5.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/9mtmkdwx",
+        "original_event_id": "_clr78bb9b4qn6jr8a1q64gjqap4j2ii0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Friends of the Fractal Garden",
+          "website": "https://luma.com/fractal-garden",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Friends of the Fractal Garden",
+          "url": "https://luma.com/fractal-garden",
+          "image": "https://images.lumacdn.com/calendars/xw/d43b818f-b59a-4e6a-857b-72efcee06d17.jpg",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI5YjRxbjZqcjhhMXE2NGdqcWFwNGoyaWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1105,6 +1051,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_f1288ffb",
+      "name": "Ask a Republican!",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "What is a Maximum Republican?\nYou can read the Maximum Republican overview here, but you might have questions that it doesn't cover. Maybe you just want to discuss the partisan landscape of New York City and State in a grounded way. Maybe you don't want to be afraid of doing partisan politics anymore, and want to talk to people who aren't either. Maybe you're just intellectually curious, and want to see what's happening in that area.\nCome have some lunch, meet new friends (of all parties and none), and let's chat.\nRun of show:\n12:30-1:00pm: we will have a light lunch and snacks. Arrive, eat some food, and just chill.\n1:00-2:00pm: a few Maximum Republicans will be answering your questions. You can submit them beforehand via this Luma registration too.\n2:00-2:30pm: hang out and depart at your leisure.",
+      "startDate": "2026-11-07T17:30:00Z",
+      "endDate": "2026-11-07T19:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-37a271c6.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/maximum-x5vk",
+        "original_event_id": "_clr78bbb8psl0i2869r6ari5b516mq20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Maximum New York",
+          "website": "https://luma.com/maximumnewyork",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Maximum New York",
+          "url": "https://luma.com/maximumnewyork",
+          "image": "https://images.lumacdn.com/calendars/o5/066f5816-f982-46c3-ba46-7ab6b849a05e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJiOHBzbDBpMjg2OXI2YXJpNWI1MTZtcTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_cad1bee0",
       "name": "SideQuest IRL #49",
       "type": "tech",
@@ -1326,7 +1326,7 @@
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Join us in New York on November 13th for the NYC Physical AI, ML, and Computer Vision Meetup, co-presented by Nebius and Voxel51.\nThe evening features lightning talks from local speakers working across AI, machine learning, and computer vision, followed by networking, food, and drinks.\nTalks will include:\nClosing the human to robot gap for dexterous hands \u2014 Irmak Guzey at New York University\nBuilding Real-World Computer Vision Systems with Voxel51 \u2014 Dan Gural at Voxel51\nLocation: Fractal, 111 Conselyea St, Fl 2, Brooklyn, NY 11211 (Williamsburg - 3 min from the Lorimer St L/Metropolitan Ave G stop).\nBy submitting, you agree to Voxel51's Terms of Service and Privacy Policy and agree to receive occasional emails.",
+      "description": "Join us in New York on November 13th for the NYC Physical AI, ML, and Computer Vision Meetup, co-presented by Nebius and Voxel51.\nThe evening features lightning talks from local speakers working across AI, machine learning, and computer vision, followed by networking, food, and drinks.\nTalks will include:\nClosing the human to robot gap for dexterous hands \u2014 Irmak Guzey at New York University\nBuilding Real-World Computer Vision Systems with Voxel51 \u2014 Dan Gural at Voxel51\nBeyond Frames: Searching Hours of Footage with One Natural-Language Query \u2014 Yash Gugale at TwelveLabs\nLearning the Geometry of Compression: OrBIT \u2014 Yunied Puig de Dios at Independent\nLocation: Fractal, 111 Conselyea St, Fl 2, Brooklyn, NY 11211 (Williamsburg - 3 min from the Lorimer St L/Metropolitan Ave G stop).\nBy submitting, you agree to Voxel51's Terms of Service and Privacy Policy and agree to receive occasional emails.",
       "startDate": "2026-11-13T22:30:00Z",
       "endDate": "2026-11-14T01:30:00Z",
       "category": [
@@ -1699,6 +1699,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_851676ad",
+      "name": "Classics-plus-Bible reading group returns(!!!) with Session 2.1: Creation and corruption",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome back! / Start here!\n\nAt long last, we will resume our discussion group where we pair Bible passages with classic literature and philosophy. No beliefs required!\nWe will be kicking off Season Two at the very beginning with Genesis chapters 1-4, alongside a variety of other texts about new beginnings and falls from grace.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nThe non-biblical texts will add up to a substantial amount of prep. They will be available online.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2026-12-03T00:00:00Z",
+      "endDate": "2026-12-03T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-6a5dab27.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/k4fp2c2i",
+        "original_event_id": "_clr78bafdh168t2fet6kmlq6e5cnge20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFmZGgxNjh0MmZldDZrbWxxNmU1Y25nZTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_cda561a7",
       "name": "SideQuest IRL #51",
       "type": "tech",
@@ -1750,6 +1804,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI4YWxubDZoajJjNHJrc3FiZjZwM2s0cGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_49b71533",
+      "name": "Classics-plus-Bible reading group, Session 2.2 - Borges: The limits of knowledge, the joy of strangeness",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis will be our first meaty session of Season Two. We will continue reading Genesis, and we also read a number of short stories by Jorge Louis Borges. In each story, there is a relevance to our other readings, today or later in the season. See if you can find it!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: Genesis Ch. 5-11, and about 5-8 Borges short stories TBD, most of which are super short.\n\nBuy yourself a Borges collection. I have the \"Collected Fictions\" transl. Hurley.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2026-12-17T00:00:00Z",
+      "endDate": "2026-12-17T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-9ea4a507.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/uixma227",
+        "original_event_id": "_clr78ba7eh15aqa989t6moq3e1lnct20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE3ZWgxNWFxYTk4OXQ2bW9xM2UxbG5jdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1913,7 +2021,277 @@
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhZDU5bXVvaGphb3FrZXRhYzh0bWw2ZDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
+    },
+    {
+      "id": "evt_gcal_com_fractal_916505ef",
+      "name": "Classics-plus-Bible reading group, Session 2.3 - Wilde: A cry from the depths, a fire from the sky",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis will be our third session of Season Two, and it's the one where we'll really be digging into the main theme of the season: suffering. We will read the beautiful essay \"De Profundis\", penned in prison by Oscar Wilde.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: \"De Profundis\" by Wilde (which you can find online), Genesis Ch. 12-19, and a handful of other relevant Bible passages.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-01-07T00:00:00Z",
+      "endDate": "2027-01-07T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-eb3a3725.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/pno7z01m",
+        "original_event_id": "_clr78bb68lo6ugqecp364dqfdtcnehq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI2OGxvNnVncWVjcDM2NGRxZmR0Y25laHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_0bf2e7e3",
+      "name": "Classics-plus-Bible reading group, Session 2.4 - Kierkegaard: The leap",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nIn our continued trek through Genesis, we have arrived at The Binding of Isaac, and that means it's time to read \"Fear and Trembling\", the Christian existentialist classic by S. Kierkegaard. It's a fairly short book, and we'll be discussing the whole thing.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: All of F&T, and Genesis 20-28 (with 23-28 maybe being optional).\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-01-21T00:00:00Z",
+      "endDate": "2027-01-21T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-1a90315c.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/3njxzznr",
+        "original_event_id": "_clr78baochpn4sq4cdrl4e236197kja0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFvY2hwbjRzcTRjZHJsNGUyMzYxOTdramEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_eaa54988",
+      "name": "Classics-plus-Bible reading group, Session 2.5 - Kafka: Wrestling with the incomprehensible",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nIn this one, we're going to read and discuss The Trial by Franz Kafka, alongside some final readings from Genesis, and some other quick Bible stories. (More context forthcoming.)\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-02-04T00:00:00Z",
+      "endDate": "2027-02-04T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-9f685e11.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/dubd280y",
+        "original_event_id": "_clr78bagagp3gcro85kl4la68dd6gtq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFnYWdwM2djcm84NWtsNGxhNjhkZDZndHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_75d60c70",
+      "name": "Classics-plus-Bible reading group, Session 2.6 - Job and Weil: Suffering and affliction",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nHere, we will read the entire Book of Job, which is sort of the implicit biblical centerpiece of this whole season. We'll also read a short essay called \u201cThe Love of God and Affliction\u201d by Simone Weil.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nBlurbs and prompts forthcoming. Please check back here closer to the time.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-02-18T00:00:00Z",
+      "endDate": "2027-02-18T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-8f5c4d7d.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/hqxmpsf8",
+        "original_event_id": "_clr78bbndss62ir8epl62hhl617m4i20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJuZHNzNjJpcjhlcGw2MmhobDYxN200aTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_30a0fba6",
+      "name": "Classics-plus-Bible reading group, Session 2.7 - Dostoevsky: Rebellion and temptation",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis is a placeholder event in October, so who knows whether we're still on schedule. But if we are, we will be reading some Dostoevksy this time, specifically Book V of The Brothers Karamazov, along with a corresponding passage from the Gospels.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-03-04T00:00:00Z",
+      "endDate": "2027-03-04T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-b7f87b64.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/jeei4era",
+        "original_event_id": "_clr78bbq89c56sibch1mas3jept46si0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxODljNTZzaWJjaDFtYXMzamVwdDQ2c2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
     }
   ],
-  "timestamp": "2026-10-15T13:02:57.326665"
+  "timestamp": "2026-10-16T12:56:23.521433"
 }

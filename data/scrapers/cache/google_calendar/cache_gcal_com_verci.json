@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_1551a783",
-      "name": "Ikebana Workshop",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Get up-to-date information at: https://luma.com/i09llsuf\n\nAddress:\nVerci Flatiron\nNew York, NY\nUnited States\n\nHosted by Verci & Noam",
-      "startDate": "2026-10-15T22:00:00Z",
-      "endDate": "2026-10-15T23:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-374a7c25.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/i09llsuf",
-        "original_event_id": "_clr78bbm69mkulaj9dolat2qa5jkkpa0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJtNjlta3VsYWo5ZG9sYXQycWE1amtrcGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_606ef75c",
       "name": "Little Miss Matched  by FIG Album Event!!",
       "type": "technology",
@@ -727,6 +673,55 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_3bc22f38",
+      "name": "Guitar Class \ud83c\udfb8",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Find more information on https://luma.com/verci",
+      "startDate": "2026-10-28T22:30:00Z",
+      "endDate": "2026-10-29T00:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci",
+        "original_event_id": "_cdgmopbm5lin4t9n69bn2eb39hokusiae906atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/y5MPzszUpltcC31HKdTt",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxpbjR0OW42OWJuMmViMzlob2t1c2lhZTkwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_f907345c",
       "name": "verci yoga & coffee",
       "type": "technology",
@@ -1311,5 +1306,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-15T13:03:11.037820"
+  "timestamp": "2026-10-16T12:56:38.318583"
 }
