@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_606ef75c",
-      "name": "Little Miss Matched  by FIG Album Event!!",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Find more information on https://luma.com/verci",
-      "startDate": "2026-10-17T00:00:00Z",
-      "endDate": "2026-10-17T01:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/verci",
-        "original_event_id": "_cdgmopbm5lh6uqip75pj8qi2epa44mb56h06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/9LrPjQm8KusDjtkfCeAV?",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxoNnVxaXA3NXBqOHFpMmVwYTQ0bWI1NmgwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_42303f99",
       "name": "Ugly Duckling x Butter Girl 'home' cafe",
       "type": "technology",
@@ -1306,5 +1257,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-16T12:56:38.318583"
+  "timestamp": "2026-10-17T11:56:34.893276"
 }

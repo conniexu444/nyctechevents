@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_e2573ea1",
-      "name": "Creators Group IRL - Co-Working",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-10-16T20:30:00Z",
-      "endDate": "2026-10-16T23:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5lp36u3nctol2drg91158oj8ap06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/OZyQgpbc82fm3o6FRz3Z?c=G55XMGVL",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxwMzZ1M25jdG9sMmRyZzkxMTU4b2o4YXAwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_7fd8a41d",
       "name": "Private Event",
       "type": "tech",
@@ -2293,5 +2244,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-16T12:56:23.521433"
+  "timestamp": "2026-10-17T11:56:22.918582"
 }

@@ -1,112 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_f786cd22",
-      "name": "DIY Fig Tree Nursery and Distribution Toolkit",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/diy-fig-tree-nursery-and-distribution-toolkit-tickets-2002474891305\n\nStart your own nursery in a milk crate and create a part of our collective toolkit for perennial community agriculture reinforcement!To set up community building infrastructure to collective tree saplings to distribute in support of agriculture. Together, this becomes a library resource for everyone to access saplings.\nEveryone can take home their windowsill nursery and decentralized propogation toolkit.\nWe'll cover topics such as:\nfruit/nut/seed treesoverwinter-stratificationair/root exchangereading room discussionWho is this for:\nAnyone who wants to learn to propogate and clone their favorite types of trees or make a sapling nursery.  We welcome personal proposals with nut tree seed and/or scion too. Come use and amplify your favorite fruit tree with grow light nurseries.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
-      "startDate": "2026-10-16T14:00:00-04:00",
-      "endDate": "2026-10-16T16:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/diy-fig-tree-nursery-and-distribution-toolkit-tickets-2002474891305",
-        "original_event_id": "k54ub1doror29ifug800p50l5s",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=azU0dWIxZG9yb3IyOWlmdWc4MDBwNTBsNXMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_7e43eade",
-      "name": "Locksport Workshop",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/locksport-workshop-tickets-2002594332557\n\nEthics, theory and hands on practice of lockpickingJoin us for a fun and interactive session where you'll learn all about the fascinating world of locksport. Whether you're a beginner or an experienced lockpicker, this workshop is perfect for anyone interested in the art of lockpicking.\nOur expert instructor will guide you through the basics of lockpicking, teach you about different types of locks, and share tips and tricks to improve your skills. It's a great opportunity to meet like-minded enthusiasts and expand your knowledge in a friendly and welcoming environment.\nFor beginners and enthusiast.\n\nEd is a longtime HackManhattan member. A lockpicking enthusiast and advocate for hacker culture, Ed enjoys sharing the spirit of tinkering, learning, and breaking things open to understand how they work. Outside the hackerspace, he\u2019s a member of The Open Organization Of lockpickers, amateur radio operator, and a proud Trekkie since 2007.\n\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
-      "startDate": "2026-10-16T19:00:00-04:00",
-      "endDate": "2026-10-16T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/locksport-workshop-tickets-2002594332557",
-        "original_event_id": "7q9a71452qd88qst54el8fj7d8",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=N3E5YTcxNDUycWQ4OHFzdDU0ZWw4Zmo3ZDggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_286761a2",
       "name": "Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -4027,7 +3921,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNjEyMjFUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_55bbc731",
+      "name": "Resistor Tuesday Members Meeting",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "See the #members voice channel on discord.",
+      "startDate": "2026-12-22T20:00:00-05:00",
+      "endDate": "2026-12-22T21:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjEyMjNUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "p4f1001anp1giijk0ij2m636v1_20261223T010000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "87 3rd Ave",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjEyMjNUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
     }
   ],
-  "timestamp": "2026-10-16T12:56:24.153492"
+  "timestamp": "2026-10-17T11:56:23.484372"
 }

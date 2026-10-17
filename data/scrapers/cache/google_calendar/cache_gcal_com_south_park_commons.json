@@ -55,6 +55,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_south_park_commons_78388b59",
+      "name": "Fireside Chat with Sriram Krishnan",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "We're delighted to host Sriram Krishnan at South Park Commons.\nSriram Krishnan most recently served as Senior White House Policy Advisor on Artificial Intelligence, where he was an architect of the U.S. AI Action Plan.\n\nPrior to his White House role, Sriram was a General Partner at Andreessen Horowitz, where he led the firm's international expansion and invested across AI, infrastructure, and consumer technology. He has also held senior product leadership roles at Microsoft, Meta, and Twitter, including early work building Windows Azure and scaling Meta's mobile advertising platform.\nAgenda:\n11:30am: Doors Open\n12:00pm\u20141:00pm: Fireside Chat & Q&A\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-10-20T18:30:00Z",
+      "endDate": "2026-10-20T20:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-1fcbb67f.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/sriram-spc",
+        "original_event_id": "_clr78bbpe1r7au2oeho4klq56h0m6da0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJwZTFyN2F1Mm9laG80a2xxNTZoMG02ZGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_1ebf3432",
       "name": "-1 to Anduril with Trae Stephens",
       "type": "technology",
@@ -271,5 +325,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-16T12:56:26.910222"
+  "timestamp": "2026-10-17T11:56:25.424769"
 }
