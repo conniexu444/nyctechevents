@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_286761a2",
-      "name": "Soldering Workshop: Make an LED Tile",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2001386593176\n\nSoldering is one of the most important skills you&#39;ll need for working with electronics. Come join us for an introductory through-hole solderSoldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole soldering workshop. Soldering enables you to create sturdy connections between electrical components. In this hands-on workshop, you'll learn how to use a soldering iron safely and effectively, and get plenty of practice with both soldering and de-soldering techniques. We'll be soldering up some Game of Life kits - LED tiles that generate nifty animations. No previous experience is required, making this introductory workshop a great choice for anyone who's curious about getting started with hardware tinkering! All materials will be provided.\nOK, awesome, I want to join!\nPlease be ready to start at Noon! We find that you will need this time to get through the whole class. Our classes tend to sell out about a week in advance so if you're interested, you may want to sign up early.\nThis class will be taught by Resistor member Olivia.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-10-17T12:00:00-04:00",
-      "endDate": "2026-10-17T15:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2001386593176",
-        "original_event_id": "1un21que4ivfjf5dtiq3q0dkl8",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MXVuMjFxdWU0aXZmamY1ZHRpcTNxMGRrbDggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_56c180b1",
       "name": "Learn to Use a Laser Cutter to Cut and Etch Your Own Designs",
       "type": "hackerspace",
@@ -3974,7 +3921,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjEyMjNUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_fdf84852",
+      "name": "NYCResistor Ham Radio Club",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091483589\n\nMonthly Amateur Radio club meeting of NYCResistorRadio curious? Join the NYC Resistor Ham Radio Club (call sign N2YCR) for our open and regular meetings, the 4th Wednesday of each month from 8:00 \u2013 9:30 pm at NYC Resistor (87 3rd Avenue, 4th Floor).\nThe amateur radio hobby has something for everyone, from Morse code to modern digital modes. Bring projects you're working on, gear to fix, problems that puzzle you, outings you'd like to organize, or just yourself to meet &amp; greet your friendly local hams. Drop by the #n2ycr channel in Discord any time to say hi.\nYou do not need to be a member of Resistor to be a member of the club, nor do you need to be a licensed amateur radio operator (though of course we hope you'll become licensed with our help).\nWe aim to create an inclusive, encouraging, and diverse environment to bring together Brooklyn's radio hackers, antenna experimenters, shortwave listeners, toroid winders, satellite chasers, and balloon launchers.\nCome make some noise in the weird and wonderful medium of radio!This is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
+      "startDate": "2026-12-23T19:00:00-05:00",
+      "endDate": "2026-12-23T22:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091483589",
+        "original_event_id": "7vl3bg3sp6se04kfb53tnf5d10",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=N3ZsM2JnM3NwNnNlMDRrZmI1M3RuZjVkMTAgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
     }
   ],
-  "timestamp": "2026-10-17T11:56:23.484372"
+  "timestamp": "2026-10-18T12:21:21.684583"
 }
