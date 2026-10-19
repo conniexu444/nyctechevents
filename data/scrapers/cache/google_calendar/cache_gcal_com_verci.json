@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_856e432a",
-      "name": "new interfaces 007",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "new interfaces is an intimate afternoon where we celebrate experiments in creative technology\nwelcoming designers, engineers, artists, and anyone in between!\nwanna demo? we're looking for:\n- radical remixes and reimaginations of technology\n- experiments with design, art, code, hardware, photography, video, and more\n- side projects that make you wonder and imagine\napply here to demo:\nhttps://forms.gle/y94C2a3Xg3eXF4bj6\nfollow new interfaces for updates:\nhttps://x.com/newinterfaces?utm_source=luma\nsee our website to check out past demos:\nhttps://www.interfaces.new\nsee you there! good times guaranteed",
-      "startDate": "2026-10-18T17:00:00Z",
-      "endDate": "2026-10-18T20:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-c72a8005.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/72ze84s3",
-        "original_event_id": "_clr78bbh9173am1ich9mqiq5d0s6mcq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "new interfaces",
-          "website": "https://luma.com/newinterfaces",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "new interfaces",
-          "url": "https://luma.com/newinterfaces",
-          "image": "https://images.lumacdn.com/calendars/2e/76c3ecab-abde-423b-a4e5-f5366a45b391.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJoOTE3M2FtMWljaDltcWlxNWQwczZtY3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_8455b357",
-      "name": "Verci Tunisia",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "APPLY TO THE RETREAT HERE!!\nMore info on our tunisia website. For more information on the hotel that may not be listed on the website, visit their home website.\nThis luma page is only for buying tickets. Your payment will not be processed until your ticket is accepted. You will be notified within 2 days if you are accepted into the experience after applying.\nEmail us at club@verci.com for any inquiries!",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-27",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 1750.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-f0f8a274.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/z1bld6pu",
-        "original_event_id": "_clr78bb9ct47acib850j0cbd718jilq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Tunis\nTunis, Tunis, Tunis Governorate",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI5Y3Q0N2FjaWI4NTBqMGNiZDcxOGppbHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_f46037a4",
       "name": "Cookie Cafe",
       "type": "technology",
@@ -160,60 +52,6 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJuY2Rpa29kcTJhcGpsMnIybDlsazNndWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_063af3fd",
-      "name": "Paper Lantern Decorating",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Come decorate a paper lantern! All materials provided.",
-      "startDate": "2026-10-19T22:30:00Z",
-      "endDate": "2026-10-19T23:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-f2249c82.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/qinoh5ql",
-        "original_event_id": "_clr78ba4cdml2t2o7515ecpn6537eli0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE0Y2RtbDJ0Mm83NTE1ZWNwbjY1MzdlbGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -464,6 +302,60 @@
         "luma_source": true,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxtNmljYjViNWhsa3U5aGVwN2o4bDlpYTEwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_063af3fd",
+      "name": "Paper Lantern Decorating",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Come decorate a paper lantern! All materials provided.",
+      "startDate": "2026-10-26T22:30:00Z",
+      "endDate": "2026-10-26T23:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-f2249c82.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/qinoh5ql",
+        "original_event_id": "_clr78ba4cdml2t2o7515ecpn6537eli0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE0Y2RtbDJ0Mm83NTE1ZWNwbjY1MzdlbGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -1154,5 +1046,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-18T12:21:33.524460"
+  "timestamp": "2026-10-19T15:12:17.627762"
 }

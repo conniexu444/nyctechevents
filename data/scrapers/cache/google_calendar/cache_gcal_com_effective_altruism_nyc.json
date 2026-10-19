@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_ecd6a7f5",
-      "name": "Ambitious Impact Mixer",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "\u200bWrapping up EAG NYC? Join Ambitious Impact (AIM, formerly Charity Entrepreneurship) and people from the AIM community for a relaxed evening of drinks and conversation at Collider in the Financial District.This is a casual gathering for anyone interested in high-impact entrepreneurship in global health and animal welfare. Come hang out with AIM staff, AIM founders, and team members from charities across our portfolio. Whether you're thinking about launching a charity yourself, exploring roles at AIM or one of our related organizations, or looking to support new charities as a mentor or advisor - we'd love to meet you.Expect a light structure to help you find the right people quickly, and plenty of time to simply mingle.\u200bLight refreshments provided.\u200bIf you know other relevant folks based in NYC, or attending EAG NYC, please pass on this invite to them.",
-      "startDate": "2026-10-18T18:00:00-04:00",
-      "endDate": "2026-10-18T20:00:00-04:00",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-6234e060.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/jku4aytv",
-        "original_event_id": "45pcld94q0ibkl9bkqqebmehfu",
-        "organizer": {
-          "name": "Effective Altruism NYC Events",
-          "website": "",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Collider, 26 Broadway, Floor 3, New York, NY 10004, USA",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NDVwY2xkOTRxMGlia2w5YmtxcWVibWVoZnUgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_606103f5",
       "name": "EA NYC Vegan Dim Sum",
       "type": "effective altruism",
@@ -741,5 +692,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-18T12:21:03.871686"
+  "timestamp": "2026-10-19T15:11:45.031499"
 }

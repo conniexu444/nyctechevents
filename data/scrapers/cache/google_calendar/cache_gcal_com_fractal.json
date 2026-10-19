@@ -1,109 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_7d1d3887",
-      "name": "Gardening on the Roof - Fall '26 Season",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/9mtmkdwx\n\nAddress:\nFractal Tech\nKings County, New York\nUnited States\n\nHosted by Anthony Castrio \ud83d\udcaf",
-      "startDate": "2026-10-18T14:00:00Z",
-      "endDate": "2026-10-18T16:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-51fde3e5.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/9mtmkdwx",
-        "original_event_id": "_clr78bb9b4qn6jr8a1q64gjqap4j2ii0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Friends of the Fractal Garden",
-          "website": "https://luma.com/fractal-garden",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Friends of the Fractal Garden",
-          "url": "https://luma.com/fractal-garden",
-          "image": "https://images.lumacdn.com/calendars/xw/d43b818f-b59a-4e6a-857b-72efcee06d17.jpg",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI5YjRxbjZqcjhhMXE2NGdqcWFwNGoyaWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_56a51f8a",
-      "name": "fractal brunch",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-10-18T15:00:00Z",
-      "endDate": "2026-10-18T17:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5lb70camaook2ha7a8qmgmi36t06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/5UTeKbrgQW0H72KtCcjz",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxiNzBjYW1hb29rMmhhN2E4cW1nbWkzNnQwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_09d47951",
       "name": "Speculative Worldbuilding Seminar (FractalU), Unit 3",
       "type": "tech",
@@ -1380,6 +1277,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_a43340a1",
+      "name": "Maximum Graduation!",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Congratulations, Cohort 16!\nCome and celebrate the end of cohort 16 of The Foundations of New York, and those who successfully completed the final exam. They will receive their MNY credentials and other accolades, and we will all enjoy good company and food.\nRun of show:\n6:00-6:30pm: arrival, food, and socializing\n6:30-6:50pm: presentation of credentials\n6:50-7:30pm (and beyond): enjoy good company\nMNY alumni, friends, and +1s are welcome! Just register on this Luma.",
+      "startDate": "2026-11-21T23:00:00Z",
+      "endDate": "2026-11-22T00:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-672ca1f2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/maximum-x33c",
+        "original_event_id": "_clr78b9h71onedbf8ps3ap9gaha3iiq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Maximum New York",
+          "website": "https://luma.com/maximumnewyork",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Maximum New York",
+          "url": "https://luma.com/maximumnewyork",
+          "image": "https://images.lumacdn.com/calendars/o5/066f5816-f982-46c3-ba46-7ab6b849a05e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjloNzFvbmVkYmY4cHMzYXA5Z2FoYTNpaXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_796c5bff",
       "name": "Jhana NYC Meditation",
       "type": "tech",
@@ -2136,5 +2087,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-18T12:21:21.066174"
+  "timestamp": "2026-10-19T15:12:05.086880"
 }
