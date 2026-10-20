@@ -109,14 +109,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_fractal_5996c83a",
-      "name": "Something Old, Something New, Something Borrowed",
+      "id": "evt_gcal_com_fractal_ef69ea79",
+      "name": "\u26a1 Fractal Weekly Demo Party #11 \u26a1",
       "type": "tech",
-      "locationId": "",
+      "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-10-22T21:30:00Z",
-      "endDate": "2026-10-22T23:30:00Z",
+      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long, signup here! https://forms.gle/aseDLe991oN9m7WX7\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
+      "startDate": "2026-10-22T22:30:00Z",
+      "endDate": "2026-10-23T01:00:00Z",
       "category": [
         "tech",
         "startup",
@@ -124,37 +124,42 @@
         "education"
       ],
       "price": {
-        "amount": 0,
+        "amount": 0.0,
         "type": "Free",
         "currency": "USD",
-        "details": ""
+        "details": "General Admission"
       },
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "",
+      "image": "events/luma-event-e0bfcd4c.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5l666tqq917jejhidkrk6p9h9h06atj5dpq76bjcekn6qo8",
+        "source_url": "https://luma.com/5qvhtqyl",
+        "original_event_id": "_clr78bb5el9l0h1k6tr44cq9b57nce20clr6arjkecn6ot9edlgg",
         "organizer": {
           "name": "Fractal Campus NYC",
-          "website": "",
+          "website": "https://luma.com/nyc-tech",
           "instagram": "",
           "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
         },
         "venue": {
-          "name": "",
-          "address": "https://community.swugn.org/events/details/solidworks-solidworks-user-group-of-new-york-city-presents-something-old-something-new-something-borrowed/",
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
           "type": "Offline"
         },
         "speakers": [],
         "social_links": [],
         "featured": false,
         "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw2NjZ0cXE5MTdqZWpoaWRrcms2cDloOWgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+        "luma_host": {
+          "name": "Fractal Campus NYC",
+          "url": "https://luma.com/nyc-tech",
+          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI1ZWw5bDBoMWs2dHI0NGNxOWI1N25jZTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2087,5 +2092,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-19T15:12:05.086880"
+  "timestamp": "2026-10-20T13:12:17.207892"
 }

@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_b3f05efc",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2026-10-19T18:30:00-04:00",
-      "endDate": "2026-10-19T21:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053",
-        "original_event_id": "0au2lakcl2vb7744hj4vkq52ap_20261019T223000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNjEwMTlUMjIzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_e66323e3",
       "name": "Resistor Tuesday Members Meeting",
       "type": "hackerspace",
@@ -369,59 +316,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cTFhaWI4bWZqZHVlM2g4ZnVvOTlzZG02bzQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_97ce19f9",
-      "name": "Halloween Potions Make Along",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/halloween-potions-make-along-tickets-2003260634484\n\nGet into the spirit for Halloween and join us as we craft various decorative concoctions.Come join us at NYCResistor for a fun-filled Potions Make-Along event!\nGet into the spirit for Halloween and join us as we craft various decorative concoctions. We will have an assortment of dyes, mica powder and other trinkets to add to ornate bottles. \nFor those of you who play Dungeons and Dragons, feel free to bring some dice to drop into the bottles as well to use in your next game.\nThis class is for everyone, all materials provided, but feel free to bring reference drawings or photos if you want!This workshop is led by Resistor member Jack P.\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nphoto credit: https://www.thekristyncole.com/diy-halloween-potion/\n",
-      "startDate": "2026-10-25T11:00:00-04:00",
-      "endDate": "2026-10-25T13:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/halloween-potions-make-along-tickets-2003260634484",
-        "original_event_id": "h6e6n88s8ugegabufrbh9sal24",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=aDZlNm44OHM4dWdlZ2FidWZyYmg5c2FsMjQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1168,11 +1062,11 @@
     },
     {
       "id": "evt_gcal_com_nyc_resistor_ac66d7fe",
-      "name": "HOLD: tape class",
+      "name": "Basics of Analog Tape Echo and Cassette Loops",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
+      "description": "<a href=\"https://www.eventbrite.com/e/basics-of-analog-tape-echo-and-cassette-loops-tickets-2003610940258\">https://www.eventbrite.com/e/basics-of-analog-tape-echo-and-cassette-loops-tickets-2003610940258</a><br><br><br><br><p>A primer on magnetic tape, no-input mixing techniques, tape loops, and analog tape echo. How it works, how to set it up, how to play with it</p><br><br><p>A primer on magnetic tape, no-input mixing techniques, tape loops, and analog tape echo. How it works, how to set it up, how to play with it. We'll build a cassette loop and jam with reel-to-reel- and cassette-based echo systems. We'll show how to extend those techniques further with additional digital loopers and feedback systems.</p><p><br></p><p>This is for:</p><ul><li>Anyone (not just musicians) who is curious about incorporating analog tape equipment into their adventures in audio,</li><li>Anyone interested in analog electronics and music technology,</li><li>Musicians looking to experiment with strange, non-linear processing and recording techniques,</li></ul><p><br></p><p>Participants do not need to bring any equipment with them but are encouraged to bring (if possible) the following:</p><ul><li>something to record with (an instrument, a microphone, a digital recording, another cassette),</li><li>any cables and adapters you might need for the above equipment,</li><li>a blank cassette or two,</li><li>a tape splicing block,</li><li>splicing tape for 1/8\" tape,</li></ul><p><br></p><p>New York native Nat Homer is an experimental electronic musician focusing on analog feedback systems and composition tools. Ambient, drone, noise, minimalism, psychedelia, and rock. 15+ years of recording and performing experience</p><p><strong><strong>This is a masks optional event.</strong></strong></p><p>We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our\u00a0<a href=\"https://www.nycresistor.com/code-of-conduct/\" target=\"_blank\"><u>Code of Conduct</u></a>\u00a0to familiarize yourself with our community's values before attending. We are also an 18+ space, and accessibility information can be found\u00a0<a href=\"https://www.nycresistor.com/participate/\" target=\"_blank\"><u>here</u></a>.</p>",
       "startDate": "2026-11-08T12:00:00-05:00",
       "endDate": "2026-11-08T16:00:00-05:00",
       "category": [
@@ -1192,13 +1086,13 @@
         "details": ""
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NjRybWNwajVjNWgzY2I5amM4cGplYjlrNnNzNjhiOXBjcGhqZWI5bjcwcTNhZHI0NjlqM2dvcHA2ayBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "source_url": "https://www.eventbrite.com/e/basics-of-analog-tape-echo-and-cassette-loops-tickets-2003610940258",
         "original_event_id": "64rmcpj5c5h3cb9jc8pjeb9k6ss68b9pcphjeb9n70q3adr469j3gopp6k",
         "organizer": {
           "name": "NYCResistor",
@@ -1380,7 +1274,7 @@
     },
     {
       "id": "evt_gcal_com_nyc_resistor_c2eddabe",
-      "name": "mri project (no noise-making projects in the space)",
+      "name": "PRIVATE REHEARSAL: mri project (no noise-making projects in the space)",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
@@ -1485,14 +1379,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_e214137d",
-      "name": "Hold: Olivia Into to Sewing Tote bag",
+      "id": "evt_gcal_com_nyc_resistor_0768f5ae",
+      "name": "Sewing Machines: How to Make a Tote Bag",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-14",
+      "description": "<a href=\"https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2003614910132\">https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2003614910132</a><br><br><br><br><p>Absolute beginners are welcome. Learn how to thread and use a Sewing Machine. Make a Tote bag at NYC Resistor!</p><br><br><p>Learn how to properly operate a sewing machine and make a tote bag. We will cover the basics. This class is designed for absolute beginners.</p><ul><li>How a sewing machine works.</li><li>How to thread a sewing machine.</li><li>Types of stitches.</li><li>Stretch vs Non-stretch Fabrics.</li><li>Make a liner (the inside outs).</li><li>Secure your stitches.</li><li>Sewing trouble shooting.</li></ul><p>We will be using fabric that has been donated to NYC Resistor, but if you would like to bring your own it is encouraged!</p><p>This class is taught by NYC Resistor member: Olivia founder of\u00a0<a href=\"https://www.makephilia.com/\" target=\"_blank\"><u>Makephilia Workshops</u></a>.</p><p>As with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at\u00a0<a href=\"https://www.nycresistor.com/code-of-conduct/\" target=\"_blank\"><u>www.nycresistor.com/participate/</u></a>. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.</p><p>This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.</p>",
+      "startDate": "2026-11-13T18:00:00-05:00",
+      "endDate": "2026-11-13T21:00:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -1510,14 +1404,14 @@
         "details": ""
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NjZ2a2xmdWFpNGtnNG9yaGxlaGYwNmRoNjkgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "66vklfuai4kg4orhlehf06dh69",
+        "source_url": "https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2003614910132",
+        "original_event_id": "5bj4ci3aifqfqrmv2k6ibks541",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1526,7 +1420,7 @@
         },
         "venue": {
           "name": "",
-          "address": "",
+          "address": "NYC Resistor, 87 3rd Ave, Brooklyn, NY 11217, USA",
           "type": "Offline"
         },
         "speakers": [],
@@ -1534,7 +1428,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjZ2a2xmdWFpNGtnNG9yaGxlaGYwNmRoNjkgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NWJqNGNpM2FpZnFmcXJtdjJrNmlia3M1NDEgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1544,8 +1438,8 @@
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
       "description": "",
-      "startDate": "2026-11-14T11:00:00-05:00",
-      "endDate": "2026-11-14T14:00:00-05:00",
+      "startDate": "2026-11-14T10:00:00-05:00",
+      "endDate": "2026-11-14T13:00:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -1592,7 +1486,7 @@
     },
     {
       "id": "evt_gcal_com_nyc_resistor_5e7b0a52",
-      "name": "mri project (no noisemaking projects in the space)",
+      "name": "PRIVATE REHEARSAL: mri project (no noisemaking projects in the space)",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
@@ -1962,59 +1856,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_bf713eb6",
-      "name": "HOLD: Cyberdeck \"Open Mic\"",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-21",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MjVwcjQzZnVxNWdrZ2ZuYWlsczRsbXZ0MXMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "25pr43fuq5gkgfnails4lmvt1s",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MjVwcjQzZnVxNWdrZ2ZuYWlsczRsbXZ0MXMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_d2cd9751",
       "name": "All Decked Out: A Cyberdeck \"Open Mic\"",
       "type": "hackerspace",
@@ -2074,8 +1915,8 @@
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
       "description": "RSVP\u00a0<a href=\"https://www.eventbrite.com/o/52408308\">https://www.eventbrite.com/o/52408308</a><br>This is our monthly soldering class. The tickets typically go live 3-4 weeks in advance.",
-      "startDate": "2026-11-21T13:00:00-05:00",
-      "endDate": "2026-11-21T16:00:00-05:00",
+      "startDate": "2026-11-21T10:00:00-05:00",
+      "endDate": "2026-11-21T13:00:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -2118,6 +1959,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=M2hvdTljMzd2cDhsazNyMnZzNnNhNWpsMm1fMjAyNjExMjFUMTgwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_d15ba358",
+      "name": "HOLD Olivia: Pinhole polariod",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-21T15:00:00-05:00",
+      "endDate": "2026-11-21T18:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MXQxMHVzMDloM3RuMTBlNms2cTJqcnE0a2kgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "1t10us09h3tn10e6k6q2jrq4ki",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MXQxMHVzMDloM3RuMTBlNms2cTJqcnE0a2kgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -2171,6 +2065,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=XzZsMGs2Y2kzNmwyazRiOWw2ZDFrNGI5azcxMWowYjlvOGQwamViOXA2OTFqMmVhMzZjcmtjZDFqNnMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_fef5a262",
+      "name": "Hold: Lockpicking class",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-22T15:00:00-05:00",
+      "endDate": "2026-11-22T17:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=MG5nczhsbmZ2ZzF0ZTVwNHJhZGdsZHZzYWwgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "0ngs8lnfvg1te5p4radgldvsal",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MG5nczhsbmZ2ZzF0ZTVwNHJhZGdsZHZzYWwgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -2499,7 +2446,7 @@
       "communityId": "com_nyc_resistor",
       "description": "",
       "startDate": "2026-11-29T14:00:00-05:00",
-      "endDate": "2026-11-29T15:00:00-05:00",
+      "endDate": "2026-11-29T17:00:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -3923,14 +3870,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_467d0d5d",
-      "name": "HOLD: SYNTH Night",
+      "id": "evt_gcal_com_nyc_resistor_243fe420",
+      "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
-      "startDate": "2026-12-25T19:30:00-05:00",
-      "endDate": "2026-12-25T22:30:00-05:00",
+      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098788101\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
+      "startDate": "2026-12-28T18:30:00-05:00",
+      "endDate": "2026-12-28T21:30:00-05:00",
       "category": [
         "hackerspace",
         "maker",
@@ -3948,14 +3895,14 @@
         "details": ""
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=OTM4MDcwNDkwZDgxNGQyMjgyYzY2ZDljMGJmNTIzNjFfMjAyNjEyMjZUMDAzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "938070490d814d2282c66d9c0bf52361_20261226T003000Z",
+        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098788101",
+        "original_event_id": "972otb56pgjpdgn6u4ki626eoc",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -3964,7 +3911,7 @@
         },
         "venue": {
           "name": "",
-          "address": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
           "type": "Offline"
         },
         "speakers": [],
@@ -3972,9 +3919,9 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=OTM4MDcwNDkwZDgxNGQyMjgyYzY2ZDljMGJmNTIzNjFfMjAyNjEyMjZUMDAzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=OTcyb3RiNTZwZ2pwZGduNnU0a2k2MjZlb2MgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     }
   ],
-  "timestamp": "2026-10-19T15:12:05.777465"
+  "timestamp": "2026-10-20T13:12:17.819950"
 }
