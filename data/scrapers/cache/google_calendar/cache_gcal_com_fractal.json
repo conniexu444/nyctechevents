@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_09d47951",
-      "name": "Speculative Worldbuilding Seminar (FractalU), Unit 3",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "This interdisciplinary seminar explores how fictional worlds operate as structured models of society, drawing on speculative fiction, history, anthropology, and political theory. Students analyze how environments, institutions, culture, memory, and technology shape social order, while building a single evolving fictional world across the semester. The course culminates in a cohesive \"world dossier\" integrating these elements into a fully realized speculative society that can be used as a platform for creative projects.\nApply for the semester here.",
-      "startDate": "2026-10-20T22:30:00Z",
-      "endDate": "2026-10-21T00:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-698fb529.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/2j7k4g86",
-        "original_event_id": "_clr78baeb527kea1epimqkj18trmsta0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Sarah",
-          "website": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Sarah",
-          "url": "https://luma.com/user/usr-jImy8pXPdoV9Rs4",
-          "image": "https://images.lumacdn.com/uploads/r0/ec2a4233-729c-41b8-9dcf-0cf634c09153.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFlYjUyN2tlYTFlcGltcWtqMTh0cm1zdGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_fa2e7050",
       "name": "Vajrayana: An Introduction - Session 3",
       "type": "tech",
@@ -1445,7 +1391,7 @@
     },
     {
       "id": "evt_gcal_com_fractal_d44d5d18",
-      "name": "Context Engineering Guild: November Edition",
+      "name": "Context Engineering Guild of NYC: November Edition",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
@@ -1474,14 +1420,14 @@
         "source_url": "https://luma.com/gl8rycz0",
         "original_event_id": "_clr78b9k718k8ppp693lgpj8d9t7el20clr6arjkecn6ot9edlgg",
         "organizer": {
-          "name": "Context Engineering Guild",
+          "name": "Context Engineering Guild of New York City",
           "website": "https://luma.com/CEG",
           "instagram": "",
           "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
         },
         "venue": {
           "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
+          "address": "Brooklyn, NY\nBrooklyn, New York",
           "type": "Offline"
         },
         "speakers": [],
@@ -1489,7 +1435,7 @@
         "featured": false,
         "luma_source": true,
         "luma_host": {
-          "name": "Context Engineering Guild",
+          "name": "Context Engineering Guild of New York City",
           "url": "https://luma.com/CEG",
           "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
           "type": "Organization"
@@ -2092,5 +2038,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-20T13:12:17.207892"
+  "timestamp": "2026-10-21T13:23:15.254442"
 }
