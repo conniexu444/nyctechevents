@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_fa2e7050",
-      "name": "Vajrayana: An Introduction - Session 3",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
-      "startDate": "2026-10-21T23:00:00Z",
-      "endDate": "2026-10-22T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-ed6566dd.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/sps3j81b",
-        "original_event_id": "_clr78bacehqkiibn95c30kr28hs66pa0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Andrew Blevins",
-          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Andrew Blevins",
-          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjZWhxa2lpYm45NWMzMGtyMjhoczY2cGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_ef69ea79",
       "name": "\u26a1 Fractal Weekly Demo Party #11 \u26a1",
       "type": "tech",
@@ -1143,7 +1089,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-855214e8.jpg",
+      "image": "events/luma-event-41817197.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -1445,11 +1391,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_851676ad",
-      "name": "Classics-plus-Bible reading group returns(!!!) with Session 2.1: Creation and corruption",
+      "name": "Bible-plus-classics reading group returns(!!!) with Session 2.1: Creation and corruption",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Welcome back! / Start here!\n\nAt long last, we will resume our discussion group where we pair Bible passages with classic literature and philosophy. No beliefs required!\nWe will be kicking off Season Two at the very beginning with Genesis chapters 1-4, alongside a variety of other texts about new beginnings and falls from grace.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nThe non-biblical texts will add up to a substantial amount of prep. They will be available online.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "description": "Welcome back! / Start here!\n\nAt long last, we will resume our discussion group where we pair Bible passages with classic literature and philosophy. No beliefs required!\nWe will be kicking off Season Two at the very beginning with Genesis chapters 1-4, alongside a few other texts about new beginnings.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nPlease prepare by reading the excerpts described in the season doc under \"Session 1: Creation and corruption\". For this first session, the texts are all free online.\nAltogether, these readings may take you up to about an hour:\nhttps://docs.google.com/document/d/1IBA5ctBYNK-uiWrO3WCykldqZeRhrVXZd5QRaZ12DMU/edit?tab=t.0#heading=h.bs12mvcmdjcg\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019ll cover a variety of stories about trials and suffering. On the Bible side, there will be heavy doses of Genesis and Job, along with many other Old and New Testament episodes. From the wider canon, we\u2019ll get perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through May 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
       "startDate": "2026-12-03T00:00:00Z",
       "endDate": "2026-12-03T02:00:00Z",
       "category": [
@@ -1553,11 +1499,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_49b71533",
-      "name": "Classics-plus-Bible reading group, Session 2.2 - Borges: The limits of knowledge, the joy of strangeness",
+      "name": "Bible-plus-classics reading group, Session 2.2 - Borges: The limits of knowledge, the joy of strangeness",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis will be our first meaty session of Season Two. We will continue reading Genesis, and we also read a number of short stories by Jorge Louis Borges. In each story, there is a relevance to our other readings, today or later in the season. See if you can find it!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: Genesis Ch. 5-11, and about 5-8 Borges short stories TBD, most of which are super short.\n\nBuy yourself a Borges collection. I have the \"Collected Fictions\" transl. Hurley.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis will be our first meaty session of Season Two. We will continue reading Genesis, and we also read a number of short stories by Jorge Louis Borges. In each story, there is a relevance to our other readings, today or later in the season. See if you can find it!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: Genesis Ch. 5-11, and about 5-8 Borges short stories TBD.\n\nYou'll need to yourself a Borges collection. I have the \"Collected Fictions\" transl. Hurley:\nhttps://www.amazon.com/dp/0140286802\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019ll cover a variety of stories about trials and suffering. On the Bible side, there will be heavy doses of Genesis and Job, along with many other Old and New Testament episodes. From the wider canon, we\u2019ll get perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
       "startDate": "2026-12-17T00:00:00Z",
       "endDate": "2026-12-17T02:00:00Z",
       "category": [
@@ -1769,11 +1715,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_916505ef",
-      "name": "Classics-plus-Bible reading group, Session 2.3 - Wilde: A cry from the depths, a fire from the sky",
+      "name": "Bible-plus-classics reading group, Session 2.3 - Wilde: A cry from the depths, a fire from the sky",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis will be our third session of Season Two, and it's the one where we'll really be digging into the main theme of the season: suffering. We will read the beautiful essay \"De Profundis\", penned in prison by Oscar Wilde.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: \"De Profundis\" by Wilde (which you can find online), Genesis Ch. 12-19, and a handful of other relevant Bible passages.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis will be our third session of Season Two, and it's the one where we'll really begin digging into the main theme of the season: suffering. We will read the beautiful essay \"De Profundis\", penned in prison by Oscar Wilde.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: \"De Profundis\" by Wilde (which you can find online), Genesis Ch. 12-19, and a handful of other relevant Bible passages.\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019ll cover a variety of stories about trials and suffering. On the Bible side, there will be heavy doses of Genesis and Job, along with many other Old and New Testament episodes. From the wider canon, we\u2019ll get perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
       "startDate": "2027-01-07T00:00:00Z",
       "endDate": "2027-01-07T02:00:00Z",
       "category": [
@@ -1823,11 +1769,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_0bf2e7e3",
-      "name": "Classics-plus-Bible reading group, Session 2.4 - Kierkegaard: The leap",
+      "name": "Bible-plus-classics reading group, Session 2.4 - Kierkegaard: The leap",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nIn our continued trek through Genesis, we have arrived at The Binding of Isaac, and that means it's time to read \"Fear and Trembling\", the Christian existentialist classic by S. Kierkegaard. It's a fairly short book, and we'll be discussing the whole thing.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: All of F&T, and Genesis 20-28 (with 23-28 maybe being optional).\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nIn our continued trek through Genesis, we have arrived at The Binding of Isaac, and that means it's time to read \"Fear and Trembling\", the Christian existentialist classic by S. Kierkegaard. It's a fairly short book, and we'll be discussing the whole thing.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nSomething like: All of F&T, and Genesis 20-28 (with 23-28 maybe being optional).\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019ll cover a variety of stories about trials and suffering. On the Bible side, there will be heavy doses of Genesis and Job, along with many other Old and New Testament episodes. From the wider canon, we\u2019ll get perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
       "startDate": "2027-01-21T00:00:00Z",
       "endDate": "2027-01-21T02:00:00Z",
       "category": [
@@ -1877,11 +1823,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_eaa54988",
-      "name": "Classics-plus-Bible reading group, Session 2.5 - Kafka: Wrestling with the incomprehensible",
+      "name": "Bible-plus-classics reading group, Session 2.5 - Kafka: Wrestling with the incomprehensible",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nIn this one, we're going to read and discuss The Trial by Franz Kafka, alongside some final readings from Genesis, and some other quick Bible stories. (More context forthcoming.)\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nIn this one, we're going to read and discuss The Trial by Franz Kafka, alongside some final readings from Genesis, and some other quick Bible stories. (More context forthcoming.)\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019ll cover a variety of stories about trials and suffering. On the Bible side, there will be heavy doses of Genesis and Job, along with many other Old and New Testament episodes. From the wider canon, we\u2019ll get perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
       "startDate": "2027-02-04T00:00:00Z",
       "endDate": "2027-02-04T02:00:00Z",
       "category": [
@@ -1931,11 +1877,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_75d60c70",
-      "name": "Classics-plus-Bible reading group, Session 2.6 - Job and Weil: Suffering and affliction",
+      "name": "Bible-plus-classics reading group, Session 2.6 - Job and Weil: Suffering and affliction",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nHere, we will read the entire Book of Job, which is sort of the implicit biblical centerpiece of this whole season. We'll also read a short essay called \u201cThe Love of God and Affliction\u201d by Simone Weil.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nBlurbs and prompts forthcoming. Please check back here closer to the time.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nHere, we will read the entire Book of Job, which is sort of the implicit biblical centerpiece of this whole season. We'll also read a short essay called \u201cThe Love of God and Affliction\u201d by Simone Weil.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nBlurbs and prompts forthcoming. Please check back here closer to the time.\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019ll cover a variety of stories about trials and suffering. On the Bible side, there will be heavy doses of Genesis and Job, along with many other Old and New Testament episodes. From the wider canon, we\u2019ll get perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
       "startDate": "2027-02-18T00:00:00Z",
       "endDate": "2027-02-18T02:00:00Z",
       "category": [
@@ -1985,11 +1931,11 @@
     },
     {
       "id": "evt_gcal_com_fractal_30a0fba6",
-      "name": "Classics-plus-Bible reading group, Session 2.7 - Dostoevsky: Rebellion and temptation",
+      "name": "Bible-plus-classics reading group, Session 2.7 - Dostoevsky: Rebellion and temptation",
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis is a placeholder event in October, so who knows whether we're still on schedule. But if we are, we will be reading some Dostoevksy this time, specifically Book V of The Brothers Karamazov, along with a corresponding passage from the Gospels.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nAbout Season Two\nThis new season overall is called \u201cDangers, toils, and snares\u201d. We\u2019ll be covering a variety of stories about temptation and suffering, with heavy doses of Genesis and Job, and with perspectives from the likes of Borges, Oscar Wilde, Kierkegaard, Kafka, Simone Weil, Dostoevsky, Boethius, Nietzsche, Flannery O\u2019Connor, and more. As a capstone, we will conclude with multiple sessions on Melville\u2019s Moby-Dick.\nThis theme will last us through the Spring/Summer 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required! If you\u2019re new to the group, you\u2019re welcome to start right here.\nThis is a placeholder event in October, so who knows whether we're still on schedule. But if we are, we will be reading some Dostoevksy this time, specifically Book V of The Brothers Karamazov, along with a corresponding passage from the Gospels.\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nExact readings for this session\nForthcoming. Please check back here closer to the time.",
       "startDate": "2027-03-04T00:00:00Z",
       "endDate": "2027-03-04T02:00:00Z",
       "category": [
@@ -2038,5 +1984,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-21T13:23:15.254442"
+  "timestamp": "2026-10-22T13:24:17.405479"
 }

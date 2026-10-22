@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_south_park_commons_1ebf3432",
-      "name": "-1 to Anduril with Trae Stephens",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_south_park_commons",
-      "description": "South Park Commons is delighted to host Trae Stephens as part of our -1 to Now series.\nEvent Details\n3:00pm: Doors Open + Mingling\n3:30-4:30pm: Fireside Chat\n\nTrae is a General Partner at Founders Fund. He is also Co-founder and Executive Chairman of Anduril Industries, a defense technology company focused on autonomous systems.\nPreviously, Trae was an early employee at Palantir Technologies, where he led teams focused on growth in the intelligence/defense space as well as international expansion, helping large organizations solve their hardest data analysis problems. He was also an integral part of the product team, leading the design and strategy for new product offerings. While at Palantir, Trae also served as an adjunct faculty member at Georgetown University.\nPrior to Palantir, Trae worked as a computational linguist building enterprise solutions to Arabic/Persian name matching and data enrichment within the United States Intelligence community. He began his career working in the office of then Congressman Rob Portman and in the Political Affairs Office at the Embassy of Afghanistan in Washington, D.C. immediately following the installation of Hamid Karzai\u2019s transitional government. Trae graduated from the School of Foreign Service at Georgetown University.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
-      "startDate": "2026-10-21T22:00:00Z",
-      "endDate": "2026-10-21T23:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "learning",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-7ba81d3e.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/trae-stephens-spc",
-        "original_event_id": "_clr78bbecl9m8lpgd4pk8shmcl1k4ri0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "South Park Commons",
-          "website": "https://luma.com/southparkcommons-events",
-          "instagram": "",
-          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "San Francisco, California",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "South Park Commons",
-          "url": "https://luma.com/southparkcommons-events",
-          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlY2w5bThscGdkNHBrOHNobWNsMWs0cmkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_south_park_commons_eb4bb512",
       "name": "SPC Post-Training Forum: LangChain CTO, Ankush Gola",
       "type": "technology",
@@ -114,7 +60,7 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_south_park_commons",
-      "description": "South Park Commons is excited to host Tanay Kothari, co-founder & CEO of Wispr (and SPC alum) for a fireside chat.\nEvent Details\n3:00pm: Doors Open\n3:30-4:30pm: Fireside Chat\nTanay Kothari is the co-founder and CEO of Wispr, the AI-powered voice productivity tool. A four-time founder, he launched FeatherX, an AI personalization startup for online stores, while still in college. After it was acquired by Cerebra Technologies, he joined the company to lead engineering and product. Earlier, he built Convert, a music discovery platform that grew to more than 2.5 million organic monthly active users.\n\nTanay holds a bachelor\u2019s degree in Computer Science and a master\u2019s degree in Artificial Intelligence from Stanford, where he taught the university\u2019s Deep Learning course alongside Prof. Andrew Ng and published research at the Stanford AI Lab. He also served as President of the Stanford Venture Capital Club for three years. In 2023, he was named to the Forbes 30 Under 30 list.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "description": "South Park Commons is excited to host Tanay Kothari, co-founder & CEO of Wispr (and SPC alum) for a fireside chat.\nEvent Details\n3:00pm: Doors Open\n3:30-4:30pm: Fireside Chat\nTanay Kothari is the co-founder and CEO of Wispr and Wispr Advanced Interfaces Lab. A four-time founder, he launched FeatherX, an AI personalization startup for online stores, while still in college. After it was acquired by Cerebra Technologies, he joined the company to lead engineering and product. Earlier, he built Convert, a music discovery platform that grew to more than 2.5 million organic monthly active users.\n\nTanay holds a bachelor\u2019s degree in Computer Science and a master\u2019s degree in Artificial Intelligence from Stanford, where he taught the university\u2019s Deep Learning course alongside Prof. Andrew Ng and published research at the Stanford AI Lab. He also served as President of the Stanford Venture Capital Club for three years. In 2023, he was named to the Forbes 30 Under 30 list.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
       "startDate": "2026-11-12T23:00:00Z",
       "endDate": "2026-11-13T00:30:00Z",
       "category": [
@@ -217,5 +163,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-21T13:23:18.691739"
+  "timestamp": "2026-10-22T13:24:19.385772"
 }
