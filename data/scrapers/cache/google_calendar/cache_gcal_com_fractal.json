@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_ef69ea79",
-      "name": "\u26a1 Fractal Weekly Demo Party #11 \u26a1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long, signup here! https://forms.gle/aseDLe991oN9m7WX7\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
-      "startDate": "2026-10-22T22:30:00Z",
-      "endDate": "2026-10-23T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e0bfcd4c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/5qvhtqyl",
-        "original_event_id": "_clr78bb5el9l0h1k6tr44cq9b57nce20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI1ZWw5bDBoMWs2dHI0NGNxOWI1N25jZTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_8ce37450",
-      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 4",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
-      "startDate": "2026-10-22T23:00:00Z",
-      "endDate": "2026-10-23T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-30069875.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/uomy4h7w",
-        "original_event_id": "_clr78baae5gk6kpjdsrmcchhe16n8r20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Alex Pinheiro",
-          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Alex Pinheiro",
-          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhZTVnazZrcGpkc3JtY2NoaGUxNm44cjIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_5d6ee754",
       "name": "Creators Group IRL - Co-Working (S2E3)",
       "type": "tech",
@@ -1984,5 +1876,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-22T13:24:17.405479"
+  "timestamp": "2026-10-23T13:03:35.309353"
 }
