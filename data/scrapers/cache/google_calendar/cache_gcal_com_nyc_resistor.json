@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_0ffaf3aa",
-      "name": "Synthesizer Night @ NYC Resistor",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2002480300484\n\nGathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!Join us at NYC Resistor, a makerspace in Brooklyn for an electrifying Synthesizer Night! Get ready to unleash your creativity, explore sonic landscapes, and connect with fellow synth enthusiasts in an evening dedicated to the mesmerizing world of synthesizers. This is a pay-what-you-wish event (recommended donation $8).\nSynthesizer Night at NYC Resistor is a celebration of all things synthesizer. Whether you're a seasoned musician, an avid collector, or simply fascinated by the possibilities of electronic sound, this event offers a unique opportunity to gather with like-minded individuals and revel in the captivating soundscape of synthesizers.\nAt Synthesizer Night, participants are encouraged to bring their own synthesizers, from vintage analog gems to cutting-edge modular wonders. It's a chance to showcase your personal setup, experiment with new equipment, and dive into the rich sonic tapestry that synthesizers offer.\nFor those looking to enhance the collaborative experience, consider arriving early to connect your synthesizer to a MIDI/CV clock. This allows for synchronized timing among all instruments, creating a seamless musical fusion during impromptu jam sessions.\nIn addition to the collaborative jam sessions, the event provides a unique opportunity for a show and tell/play with anything that attendees bring. Share your favorite gear, experiment with different setups, and engage in hands-on exploration of various synthesizers and electronic music equipment.\nThe event unfolds in a relaxed and welcoming atmosphere, providing a platform for musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. Whether you're a beginner seeking guidance or an expert eager to inspire others, Synthesizer Night is the perfect setting to engage in conversations, exchange knowledge, and foster a vibrant community. \nThroughout the evening, you'll have the opportunity to engage in impromptu jam sessions, where the collective energy of multiple synthesizers intertwines to create awe-inspiring sounds. Experience the joy of collaborating with fellow musicians, experiment with different genres and styles, and let the unique characteristics of each instrument shape your sonic explorations.\nAdditionally, for those who wish to showcase their skills and perform, there will be dedicated performance slots. Take center stage, captivate the audience, and let your creativity soar as you demonstrate the full potential of your synthesizer setup. To sign up for a performance slot, email classes@nycresistor.com or join our Discord and post to #synth.\nWhether you're an ardent synth enthusiast, an aspiring musician, or simply curious about the captivating world of synthesizers, Synthesizer Night at NYC Resistor is an event that will inspire, educate, and leave you in awe of the boundless possibilities that electronic sound offers. Don't miss this opportunity to immerse yourself in an evening of music, collaboration, and innovation. Mark your calendars, pack up your favorite synths, and join us at NYC Resistor for a night you won't soon forget. We can't wait to see you there!\nThis is a masks optional event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
-      "startDate": "2026-10-23T19:30:00-04:00",
-      "endDate": "2026-10-23T22:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 8.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "See event description for pricing details"
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2002480300484",
-        "original_event_id": "c0j6g56b9m20jleaegno2pqvug",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=YzBqNmc1NmI5bTIwamxlYWVnbm8ycHF2dWcgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_06208a88",
       "name": "Wire Wrapping: Make Your Own Wand or Bracelet",
       "type": "hackerspace",
@@ -157,59 +104,6 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cTFhaWI4bWZqZHVlM2g4ZnVvOTlzZG02bzQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_130ac62b",
-      "name": "Code of Conduct Committee Meeting (Open?)",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "Agenda:\nDefine the Code of Conduct Committee\nHow the CoCC does it's job\nWhat it's NOT responsible for\nProduce a Standard Operating Procedure",
-      "startDate": "2026-10-25T10:30:00-04:00",
-      "endDate": "2026-10-25T15:30:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=NjBvMzBlMzNjZ3FtY2I5bzZzczYyYjlrY2NzNjZiOXA2cGlqOGJiNjY4cTMyZTFwNzBzajJjMWc2YyBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "60o30e33cgqmcb9o6ss62b9kccs66b9p6pij8bb668q32e1p70sj2c1g6c",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjBvMzBlMzNjZ3FtY2I5bzZzczYyYjlrY2NzNjZiOXA2cGlqOGJiNjY4cTMyZTFwNzBzajJjMWc2YyBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
     },
     {
@@ -4027,7 +3921,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NHZibnA3MmRyczBwanI3djQxMG11aDNkaTRfMjAyNjEyMzFUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_603154b9",
+      "name": "Masks On Craft Night",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "All the fun of a regular craft night with the added safety of a masks-required environment.<br><br>Free (and optional) tickets are available here:\u00a0<a href=\"https://www.google.com/url?q=https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw30wJgCOHNVYdmKOTp_roao\" target=\"_blank\">https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557</a><br><br>This event, like all NYC Resistor events is 18 and over and governed by out code of conduct.\u00a0<br><br>More information:\u00a0<a href=\"https://www.google.com/url?q=http://www.nycresistor.com/participate/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1wUIUV1qFGFLwgIAX6dIkL\" target=\"_blank\"><u>http://www.nycresistor.com/participate/</u></a><br>NYC Resistor Code of Conduct:\u00a0<a href=\"https://www.google.com/url?q=http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0FxoSzn8w-pu237gKg6lmI\" target=\"_blank\"><u>http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/</u></a>",
+      "startDate": "2027-01-01T18:30:00-05:00",
+      "endDate": "2027-01-01T21:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557",
+        "original_event_id": "0iqqft475g0rh2qe28btv8gne9_20270101T233000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "87 3rd Ave, Brooklyn, NY 11217, USA",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGlxcWZ0NDc1ZzByaDJxZTI4YnR2OGduZTlfMjAyNzAxMDFUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
     }
   ],
-  "timestamp": "2026-10-23T13:03:36.200520"
+  "timestamp": "2026-10-24T12:25:05.788163"
 }
