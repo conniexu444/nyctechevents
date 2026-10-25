@@ -1,112 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_06208a88",
-      "name": "Wire Wrapping: Make Your Own Wand or Bracelet",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/wire-wrapping-make-your-own-wand-or-bracelet-tickets-2002479922353\n\nIn this wire wrapping workshop, we will unlock our creative potential by crafting unique objects from aluminum wire and stones.You'll learn four simple weaving techniques that build into complex, stimulating details, and how to embed stones and beads securely into your designs. Once you've mastered the techniques, you'll put them to use creating either a wand or a bracelet. Participants can also personalize their piece with their choice of stones and beads.\nQuartz points, assorted gemstone beads, and aluminum wire will be provided. Feel free to bring your own stones and beads.\nWho is this class for:\nAnyone that likes working with their hands and small repetitive details.\nYour Instructor:I am an artist that approaches many mediums and loves working with her hands. My visual language stems from my proclivity for organic details and fluid dynamics. Wire wrapping has been an important medium in my exploration in tandem with stones and crystals. I enjoy creating small 'magical' objects with different combinations of stones, wire wrapping techniques, metals, anything to create pieces that feel alive and otherworldly but also intuitive and instinctually familiar.\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
-      "startDate": "2026-10-24T12:00:00-04:00",
-      "endDate": "2026-10-24T14:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/wire-wrapping-make-your-own-wand-or-bracelet-tickets-2002479922353",
-        "original_event_id": "cghhtk2395mh60qrub4e95o5mc",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=Y2doaHRrMjM5NW1oNjBxcnViNGU5NW81bWMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_d6fe4598",
-      "name": "PCB Artwork: Make your own business card",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/pcb-artwork-make-your-own-business-card-tickets-2002916205287\n\nPrinted circuit boards aren&#39;t just for electronics. Their layered structure make them a surprisingly expressive artistic medium.Printed circuit boards aren't just for electronics. Their layered structure, copper traces, soldermask colors, and silkscreen printing make them a surprisingly expressive artistic medium.\nIn this workshop, you'll use PCBs to design your own business card (or any other kind of card), ready to fabricate in real fiberglass and copper.\nYou'll edit and manipulate vector art in **Inkscape**, convert your artwork into a **KiCAD** footprint, and place it on a board ready to be fabricated. Along the way, you'll learn how PCB fabricators interpret computer graphics: how vector paths become physical primitives, how colors map to fabrication layers, and how artwork gets distributed across copper, soldermask, and silkscreen to create the final board.\nNo electronics background required \u2014 this workshop is about graphic design and fabrication, not circuit theory or soldering. If you have a computer, you can make a graphic PCB! If you already know how to design a PCB, this can help you level up their visual appeal. Background in working with SVG is helpful but not required.\nTo bring:\nLaptopThis workshop is lead by Alex Tait.\nThere are 2 spots reserved for people who cannot access the class at the full price, so please make use of one of these half-off need-based tickets if that is your situation. Checkout Code: 4-ACCESSTIX\nThis is a masks optional workshop.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at on the NYC Resistor website.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n\n\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-10-24T15:00:00-04:00",
-      "endDate": "2026-10-24T19:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/pcb-artwork-make-your-own-business-card-tickets-2002916205287",
-        "original_event_id": "q1aib8mfjdue3h8fuo99sdm6o4",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=cTFhaWI4bWZqZHVlM2g4ZnVvOTlzZG02bzQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_48b165ab",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -3974,7 +3868,113 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MGlxcWZ0NDc1ZzByaDJxZTI4YnR2OGduZTlfMjAyNzAxMDFUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_2a4d6afb",
+      "name": "HOLD: Repair Event (Maurice)",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2027-01-02T14:00:00-05:00",
+      "endDate": "2027-01-02T17:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=N2tmMGN0YWRtYzc4YmYyNWNoMGNtdjc2cXNfMjAyNzAxMDJUMTkwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "7kf0ctadmc78bf25ch0cmv76qs_20270102T190000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=N2tmMGN0YWRtYzc4YmYyNWNoMGNtdjc2cXNfMjAyNzAxMDJUMTkwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_0508b089",
+      "name": "HOLD: Intro to Soldering Workshop: Make an LED Tile",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP\u00a0<a href=\"https://www.google.com/url?q=https://www.eventbrite.com/o/52408308&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1Dqb65aVAqtw7EJ7R8E_lI\" target=\"_blank\">https://www.eventbrite.com/o/52408308</a><br>This is our monthly soldering class. The tickets typically go live 3-4 weeks in advance.",
+      "startDate": "2027-01-03T12:00:00-05:00",
+      "endDate": "2027-01-03T15:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=dW1rc2UwZ2lkYnVzNmRlbm1yMnNkcGNtbjNfMjAyNzAxMDNUMTcwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "umkse0gidbus6denmr2sdpcmn3_20270103T170000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=dW1rc2UwZ2lkYnVzNmRlbm1yMnNkcGNtbjNfMjAyNzAxMDNUMTcwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
     }
   ],
-  "timestamp": "2026-10-24T12:25:05.788163"
+  "timestamp": "2026-10-25T12:56:22.596877"
 }

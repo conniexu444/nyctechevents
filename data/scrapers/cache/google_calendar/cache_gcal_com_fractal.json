@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_fc858e82",
-      "name": "Private Event",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/nyc-ysko\n\nAddress:\n111 Conselyea St\nBrooklyn, NY\nUnited States\n\nHosted by Crystal Duan",
-      "startDate": "2026-10-24T19:30:00Z",
-      "endDate": "2026-10-25T01:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-b42365d8.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-ysko",
-        "original_event_id": "_clr78bbne9i4mpro8t65ejr98tq46gi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJuZTlpNG1wcm84dDY1ZWpyOTh0cTQ2Z2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_9de34c7b",
       "name": "pumpkin brunch",
       "type": "tech",
@@ -1827,5 +1773,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-24T12:25:05.267546"
+  "timestamp": "2026-10-25T12:56:22.085233"
 }
