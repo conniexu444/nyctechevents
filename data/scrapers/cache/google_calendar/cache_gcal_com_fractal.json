@@ -1,163 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_9de34c7b",
-      "name": "pumpkin brunch",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-10-25T15:00:00Z",
-      "endDate": "2026-10-25T17:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5konic26d9l72ga5c9gj0sr9et06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/2musXniOwtFBmm8rousI",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWtvbmljMjZkOWw3MmdhNWM5Z2owc3I5ZXQwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_a542befd",
-      "name": "Jhana NYC Meditation",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "This is a social event hosted for jhana meditators and those who are curious about jhana meditation. During the meeting we will meditate but there will be no instruction; you're welcome to meditate however you like or to sit quietly for an hour.\n\nMeditation cushions will not be provided.  Please bring whatever you need to make yourself comfortable.  We will be meeting in The Lounge.\nDIRECTIONS\nThere are two grey doors at the address. Enter the one on the RIGHT (to the right of Savino's Quality Pasta) and proceed straight up the stairs to the second floor.",
-      "startDate": "2026-10-25T18:00:00Z",
-      "endDate": "2026-10-25T22:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-39b7587a.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/1uh5pb6z",
-        "original_event_id": "_clr78bao9cp4osrjb14nci2k894ngia0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Jhana NYC",
-          "website": "https://luma.com/calendar/cal-Hl2i5yr1fumfqWY",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "111 Conselyea St\n111 Conselyea St, Brooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Jhana NYC",
-          "url": "https://luma.com/calendar/cal-Hl2i5yr1fumfqWY",
-          "image": "https://images.lumacdn.com/uploads/6d/165fb0da-7792-4255-ab8b-e75bc6c1bf4d.jpg",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFvOWNwNG9zcmpiMTRuY2kyazg5NG5naWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_26f4f1f1",
-      "name": "SideQuest IRL #48",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Join us for an afternoon of pursuing your personal side quest! Whether you\u2019re writing, coding, or doing those taxes you\u2019ve been putting off, this is your space. It\u2019s intentional time for you to focus on what feels meaningful to you and meet people doing the same thing. We\u2019ll split our time between focused work sessions and breaks to reset and mingle with other creators.\nRough Agenda*\n2:30-3:00pm: Mingling, Introductions, and Intention Sharing\n3:00-4:00pm: Deep Focus Session 1\n4:00-4:20pm: Optional Break\n4:20-5:30pm: Deep Focus Session 2\n5:30-6:00pm: Optional Show and Tell\n___________________\n\nAbout SideQuest:\nWe host coworking sessions every other Sunday. Subscribe to our events calendar if you can\u2019t make this one :)\nIf you've got ideas for how to help build the community, or you'd like to host a future SideQuest (it's easier than you might think!), we'd love to hear from you.\nThank you to Fractal Campus for hosting us, our friends at PurdueHackers, CozySundays and Socratica for seeding the idea, and Chandiran for building the SideQuest community.",
-      "startDate": "2026-10-25T18:30:00Z",
-      "endDate": "2026-10-25T22:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-474c7a7c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/vkr5yr5m",
-        "original_event_id": "_clr78bb1edbneihme9p54q1ka174kqi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "SideQuest",
-          "website": "https://luma.com/sidequest",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Kings County, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "SideQuest",
-          "url": "https://luma.com/sidequest",
-          "image": "https://images.lumacdn.com/calendars/7l/768c5bdb-8fbb-4530-a326-f69af660c934",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIxZWRibmVpaG1lOXA1NHExa2ExNzRrcWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_4db21c7a",
       "name": "Vajrayana: An Introduction - Session 4",
       "type": "tech",
@@ -267,7 +110,7 @@
     },
     {
       "id": "evt_gcal_com_fractal_d6dbb2e7",
-      "name": "Creators Group IRL - Co-Working (S2E4)",
+      "name": "Video & Film Creators IRL - Co-Working (S2E4)",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
@@ -1773,5 +1616,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-25T12:56:22.085233"
+  "timestamp": "2026-10-26T14:44:35.396092"
 }
