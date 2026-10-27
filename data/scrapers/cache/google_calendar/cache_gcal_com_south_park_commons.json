@@ -1,6 +1,114 @@
 {
   "events": [
     {
+      "id": "evt_gcal_com_south_park_commons_b3ec92f3",
+      "name": "Design Chat with Ian Silber, Fmr. Head of Product Design, OpenAI",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "South Park Commons is delighted to host Ian Silber for our Design Chat series with Soleio.\nEvent Details\n4:30pm: Doors Open\n5pm-6pm: Design Chat\nIan Silber is the former Head of Product Design at OpenAI, where he has led the design of ChatGPT, Codex, and the company\u2019s product experience for the past three years. Before OpenAI, he was an early designer at Artifact, the AI news app built by the Instagram founders, and spent eight years at Instagram, where he helped build products including Reels.\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-11-05T00:30:00Z",
+      "endDate": "2026-11-05T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-4807f970.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/ian-silber-spc",
+        "original_event_id": "_clr78bbi9lnkelqc8d97cij9eh16eii0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJpOWxua2VscWM4ZDk3Y2lqOWVoMTZlaWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_south_park_commons_693b6cb1",
+      "name": "Design Chat with Alex Cornell, Meta",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "South Park Commons is delighted to host Alex Cornell for our Design Chat series with Soleio.\nEvent Details\n4:30pm: Doors Open\n5pm-6pm: Design Chat\nAlex Cornell is a Design Director at Meta Superintelligence Labs (MSL), where he leads the design for Muse, Meta's consumer AI agent. Previously, he created the standalone Meta AI app and has been working in product design since 2007. His prior experience at Meta includes an earlier tenure at Facebook, where he designed Facebook Live, Watch, and Social Video. Outside of Meta, his product design career includes roles at Linear and Substack, as well as co-founding the startups Cocoon and Dialpad. His Spotify has over 50 million plays.\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-11-11T00:30:00Z",
+      "endDate": "2026-11-11T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-ef092859.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/alex-cornell-spc",
+        "original_event_id": "_clr78b9n74om4sa9d1m42tjq9h8l2h20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluNzRvbTRzYTlkMW00MnRqcTloOGwyaDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_a843be06",
       "name": "Fireside Chat with Tanay Kothari, Wispr Flow",
       "type": "technology",
@@ -109,5 +217,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-26T14:44:37.635327"
+  "timestamp": "2026-10-27T13:52:09.637729"
 }

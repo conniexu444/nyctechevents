@@ -115,8 +115,8 @@
       "locationId": "",
       "communityId": "com_fractal",
       "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-10-30T20:30:00Z",
-      "endDate": "2026-10-30T23:00:00Z",
+      "startDate": "2026-10-30T21:30:00Z",
+      "endDate": "2026-10-31T00:00:00Z",
       "category": [
         "tech",
         "startup",
@@ -703,7 +703,7 @@
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners, hosted by Newtown Analytics at Fractal Tech. This event will go beyond the hype and inspect the potential impact of AI on labor from well-informed business perspectives both on the ground and systemic.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nDetails on our featured speaker and partner, TBA!",
+      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners, hosted by Newtown Analytics at Fractal Tech. This event will go beyond the hype and inspect the potential impact of AI on labor from well-informed business perspectives both on the ground and systemic.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nOur featured collaborator: Omni\nOmni is an AI analytics platform that gives every person and every AI agent the same governed definitions of the business's metrics. That puts Omni close to this month's question: what context does AI need before the business can trust its answers? Omni joins us through JD Costantini of their go-to-market team.\nBio: Began my career as a data engineering consultant at IBM working across industries and getting exposed to tons of different technologies across the data stack. After recognizing the innovation happening in the space, I moved into the AI Analytics startup space in 2021, and joined Omni 2 years ago. I love being able to work with clients of all shapes and sizes, finally delivering a trustworthy self-service analytics experience for the masses.\nPresentation Teaser: We'll discuss how the marriage of context and data is the key to unlock the AI-era version of analytics. How data teams are evolving to be the stewards of semantics. Why you need to keep the business SMEs squarely in your feedback loop. And why collecting context is good, but optimizing how you use it is great.",
       "startDate": "2026-11-18T23:30:00Z",
       "endDate": "2026-11-19T02:00:00Z",
       "category": [
@@ -1616,5 +1616,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-26T14:44:35.396092"
+  "timestamp": "2026-10-27T13:52:06.665189"
 }
