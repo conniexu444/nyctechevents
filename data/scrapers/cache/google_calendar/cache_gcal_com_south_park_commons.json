@@ -55,6 +55,114 @@
       }
     },
     {
+      "id": "evt_gcal_com_south_park_commons_992cb955",
+      "name": "Building a New Market: Compute as an Asset Class",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "We're hosting a panel on the emerging market for AI compute.\n\nCompute is becoming something you can price, hedge, and trade. As demand for GPUs outruns supply and prices swing, the people who buy and sell compute are building the same market infrastructure that exists for energy and other commodities: indices, benchmarks, spot markets, and derivatives.\n\nJoin us at SPC NYC for a conversation with people building that market from different sides:\nAlejandro Soumah leads compute trading at Jump Trading, overseeing trading and transaction structuring across compute markets. He previously co-founded It\u00f4 Markets, an agentic compute trading desk, and worked as a quantitative analyst at Goldman Sachs.\n\nCarmen Li is the founder and CEO of Silicon Data, which provides GPU pricing, benchmarks, and market data for AI compute. She is also CEO of Compute Exchange, a marketplace for trading compute. Before founding Silicon Data in 2024, she spent more than 15 years in financial services, including roles at Bloomberg (global head of strategic alliances for enterprise data), Citi, and DRW.\nBrexton Pham is Global Co-Head, AI & Compute Infrastructure at the Cantor Group where he leads cross-group compute efforts across Cantor, BGC, and Newmark.\nModerated by Ryan Galvankar, EQX\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.",
+      "startDate": "2026-11-05T22:30:00Z",
+      "endDate": "2026-11-06T00:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-5d55851a.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/compute-spcnyc",
+        "original_event_id": "_clr78ban718lkq1p8gq44sqqedsj0iq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFuNzE4bGtxMXA4Z3E0NHNxcWVkc2owaXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_south_park_commons_b51c9af1",
+      "name": "SPC Demo Night",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "Come see:\nAutonomous bio-techs (Sourav Bandopadhyay)\nFrontiers of phonetic modeling (Aruna Srivastava)\nTraining an AI model to play Super Smash Bros beyond a pro-level (Eric Gu)\nVoxel-based real-to-sim modeling for robotics (Francis Williams)\nThis is the vibe if you haven't joined us before: new behaviors, mech interp & steering.\n\nDemos start at 7:00, sharp!\nIf you are exploring what's next, apply to join SPC.",
+      "startDate": "2026-11-06T02:30:00Z",
+      "endDate": "2026-11-06T05:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-9ed83eaf.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/southpark-hkkd",
+        "original_event_id": "_clr78bbc6lj6ku2gb5cmeq23dl7mmcq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "380 Brannan St\n380 Brannan St, San Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJjNmxqNmt1MmdiNWNtZXEyM2RsN21tY3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_693b6cb1",
       "name": "Design Chat with Alex Cornell, Meta",
       "type": "technology",
@@ -217,5 +325,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-27T13:52:09.637729"
+  "timestamp": "2026-10-28T14:47:29.641904"
 }

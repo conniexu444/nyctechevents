@@ -55,6 +55,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_d390ce24",
+      "name": "\u26a1 Fractal Weekly Demo Party #12 \u26a1",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsignup here \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\nhttps://forms.gle/vzXpPpWtchJRYQii9?_imcp=1\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
+      "startDate": "2026-10-29T22:30:00Z",
+      "endDate": "2026-10-30T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-e0bfcd4c.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/1d8tvnhx",
+        "original_event_id": "_clr78bbicpnj0k21a1hmqcb5690mgki0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "https://luma.com/nyc-tech",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Fractal Campus NYC",
+          "url": "https://luma.com/nyc-tech",
+          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJpY3BuajBrMjFhMWhtcWNiNTY5MG1na2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_fc084b26",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 5",
       "type": "tech",
@@ -1346,6 +1400,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_966d72fb",
+      "name": "Context Engineering Guild: December Edition",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "NYC IRL community for advanced practitioners of LLM coding techniques. Monthly Brooklyn meetups. \n\nThe CEG emphasizes advanced use of LLMs for the working engineer, and is not intended for first time coders.\n\nWe start with a lecture on whats happened in the last month, then have some guided or group discussions about current trends in tooling and capabilities. \n\n CEG posts at https://x.com/ContextGuildNYC\n\nBring your main coding laptop so we can share how we build together. Event is two hours + post event discussion",
+      "startDate": "2027-01-03T19:00:00Z",
+      "endDate": "2027-01-03T22:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-57b0a1e7.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/h3llg1jp",
+        "original_event_id": "_clr78bai9dhmkq9ge18k8qpma975ehi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Context Engineering Guild of New York City",
+          "website": "https://luma.com/CEG",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Brooklyn, NY\nBrooklyn, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Context Engineering Guild of New York City",
+          "url": "https://luma.com/CEG",
+          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFpOWRobWtxOWdlMThrOHFwbWE5NzVlaGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_916505ef",
       "name": "Bible-plus-classics reading group, Session 2.3 - Wilde: A cry from the depths, a fire from the sky",
       "type": "tech",
@@ -1616,5 +1724,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-27T13:52:06.665189"
+  "timestamp": "2026-10-28T14:47:26.341131"
 }

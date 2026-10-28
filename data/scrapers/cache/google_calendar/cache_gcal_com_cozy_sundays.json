@@ -166,12 +166,67 @@
       }
     },
     {
-      "id": "evt_gcal_com_cozy_sundays_f6870db8",
-      "name": "Cozy Sundays - Friendsgiving Lunch",
+      "id": "evt_gcal_com_cozy_sundays_ae1c1380",
+      "name": "cozy fall painting",
       "type": "co-working",
       "locationId": "",
       "communityId": "com_cozy_sundays",
-      "description": "Come one, come all to celebrate the fall season & our cozy sundays community!\nWe usually spend our time together working on and sharing projects, but it\u2019s about time for us to celebrate each other!\nWhether you\u2019ve been coming for years, months, or this is your first time, you\u2019re welcome to join!\nPlease write down what you plan to bring here, as well as any dietary restrictions: https://docs.google.com/spreadsheets/d/1kqCD7EC7i87wvsEk7p05djti6MqBi_baS8Bf8YuRpXo/edit?usp=sharing",
+      "description": "As it gets colder outside, it\u2019s time for us to get cozy & warm inside. Join us for a cozy, fall painting night! The theme is anything that evokes a fond memory or place in NYC\u2026 but you\u2019re of course welcome to paint whatever you wish!\nWe\u2019ll be providing some paint & brushes, but if you have any of your own supplies, please bring them.",
+      "startDate": "2026-11-17T23:30:00Z",
+      "endDate": "2026-11-18T02:00:00Z",
+      "category": [
+        "co-working",
+        "passion projects",
+        "community",
+        "biweekly",
+        "creative"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-d9394ffa.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/c0bd1gpj",
+        "original_event_id": "_clr78ba6b92micidetrn6d33d9lngs20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cozy Sundays",
+          "website": "https://luma.com/cozy-sundays",
+          "instagram": "",
+          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "425 Broadway, 5th floor",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cozy Sundays",
+          "url": "https://luma.com/cozy-sundays",
+          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE2YjkybWljaWRldHJuNmQzM2Q5bG5nczIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_cozy_sundays_f6870db8",
+      "name": "Cozy Sundays - Friendsgiving (lunch)",
+      "type": "co-working",
+      "locationId": "",
+      "communityId": "com_cozy_sundays",
+      "description": "Come one, come all to celebrate the fall season & our cozy sundays community!\nWe usually spend our time together working on and sharing projects, but it\u2019s about time for us to celebrate each other & share good food.\nWhether you\u2019ve been coming for years, months, or this is your first time, you\u2019re welcome to join.\nPlease write down what you plan to bring here, as well as any dietary restrictions: https://docs.google.com/spreadsheets/d/1kqCD7EC7i87wvsEk7p05djti6MqBi_baS8Bf8YuRpXo/edit?usp=sharing",
       "startDate": "2026-11-22T18:00:00Z",
       "endDate": "2026-11-22T21:00:00Z",
       "category": [
@@ -331,5 +386,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-27T13:52:17.385968"
+  "timestamp": "2026-10-28T14:47:38.893731"
 }

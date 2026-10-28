@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_0a6c488a",
-      "name": "Resistor Tuesday Members Meeting",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "See the #members voice channel on discord.",
-      "startDate": "2026-10-27T20:00:00-04:00",
-      "endDate": "2026-10-27T21:00:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjEwMjhUMDAwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "p4f1001anp1giijk0ij2m636v1_20261028T000000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "87 3rd Ave",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjEwMjhUMDAwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_5be1140b",
       "name": "NYCResistor Ham Radio Club",
       "type": "hackerspace",
@@ -3974,7 +3921,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNzAxMDRUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_0f847397",
+      "name": "Resistor Tuesday Members Meeting",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "See the #members voice channel on discord.",
+      "startDate": "2027-01-05T20:00:00-05:00",
+      "endDate": "2027-01-05T21:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNzAxMDZUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
+        "original_event_id": "p4f1001anp1giijk0ij2m636v1_20270106T010000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "87 3rd Ave",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNzAxMDZUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
     }
   ],
-  "timestamp": "2026-10-27T13:52:07.372204"
+  "timestamp": "2026-10-28T14:47:27.039041"
 }
