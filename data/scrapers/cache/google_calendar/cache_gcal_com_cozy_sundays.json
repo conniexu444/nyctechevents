@@ -204,7 +204,7 @@
         },
         "venue": {
           "name": "",
-          "address": "425 Broadway, 5th floor",
+          "address": "https://luma.com/event/evt-FZEi2Mwws4cjkxp",
           "type": "Offline"
         },
         "speakers": [],
@@ -386,5 +386,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-28T14:47:38.893731"
+  "timestamp": "2026-10-29T14:50:41.522642"
 }

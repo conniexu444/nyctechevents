@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_4db21c7a",
-      "name": "Vajrayana: An Introduction - Session 4",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
-      "startDate": "2026-10-28T23:00:00Z",
-      "endDate": "2026-10-29T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-af45690f.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/na5xfie4",
-        "original_event_id": "_clr78bbg9dmn4gr6cco7kk2gasp3it20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Andrew Blevins",
-          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Andrew Blevins",
-          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJnOWRtbjRncjZjY283a2syZ2FzcDNpdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_d390ce24",
-      "name": "\u26a1 Fractal Weekly Demo Party #12 \u26a1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsignup here \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\nhttps://forms.gle/vzXpPpWtchJRYQii9?_imcp=1\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
-      "startDate": "2026-10-29T22:30:00Z",
-      "endDate": "2026-10-30T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e0bfcd4c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/1d8tvnhx",
-        "original_event_id": "_clr78bbicpnj0k21a1hmqcb5690mgki0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJpY3BuajBrMjFhMWhtcWNiNTY5MG1na2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_fc084b26",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 5",
       "type": "tech",
@@ -212,6 +104,55 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_6760388d",
+      "name": "fractal brunch",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-11-01T16:00:00Z",
+      "endDate": "2026-11-01T18:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5ls54ha271774gb86ha64c2be906atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/3CdHToSq99JwBWN5oBTr",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxzNTRoYTI3MTc3NGdiODZoYTY0YzJiZTkwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_e896a5c4",
       "name": "Speculative Worldbuilding Seminar (FractalU), Unit 4",
       "type": "tech",
@@ -263,6 +204,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFuZGxpMzZvOW85ZGtuZXUyYWNsMzZ1cXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_d390ce24",
+      "name": "\u26a1 Fractal Weekly Demo Party #12 \u26a1",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsignup here \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\nhttps://forms.gle/vzXpPpWtchJRYQii9?_imcp=1\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
+      "startDate": "2026-11-04T23:30:00Z",
+      "endDate": "2026-11-05T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-e0bfcd4c.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/1d8tvnhx",
+        "original_event_id": "_clr78bbicpnj0k21a1hmqcb5690mgki0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "https://luma.com/nyc-tech",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Fractal Campus NYC",
+          "url": "https://luma.com/nyc-tech",
+          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJpY3BuajBrMjFhMWhtcWNiNTY5MG1na2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1724,5 +1719,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-28T14:47:26.341131"
+  "timestamp": "2026-10-29T14:50:26.079071"
 }

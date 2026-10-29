@@ -114,7 +114,7 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_south_park_commons",
-      "description": "Come see:\nAutonomous bio-techs (Sourav Bandopadhyay)\nFrontiers of phonetic modeling (Aruna Srivastava)\nTraining an AI model to play Super Smash Bros beyond a pro-level (Eric Gu)\nVoxel-based real-to-sim modeling for robotics (Francis Williams)\nThis is the vibe if you haven't joined us before: new behaviors, mech interp & steering.\n\nDemos start at 7:00, sharp!\nIf you are exploring what's next, apply to join SPC.",
+      "description": "Come see:\nAutonomous biotechs (Sourav Bandopadhyay)\nFrontiers of phonetic modeling (Aruna Srivastava)\nTraining an AI model to play Super Smash Bros beyond a pro-level (Eric Gu)\nSim-to-real-to-sim at scale (Francis Williams)\nThis is the vibe if you haven't joined us before: new behaviors, mech interp & steering.\n\nDemos start at 7:00, sharp!\nIf you are exploring what's next, apply to join SPC.",
       "startDate": "2026-11-06T02:30:00Z",
       "endDate": "2026-11-06T05:00:00Z",
       "category": [
@@ -325,5 +325,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-28T14:47:29.641904"
+  "timestamp": "2026-10-29T14:50:29.897384"
 }
