@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_5832319b",
-      "name": "NYC Resistor Halloween Party 2026",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/nyc-resistor-halloween-party-2026-tickets-2003212555679\n\nJoin NYC Resistor and friends for a spooky-special night of music and costumes.Join us for the 2026 NYC Resistor Halloween party! Costumes encouraged, 21+, tickets $20 in advance or at the door. Drinks are free.\nAs with all NYC Resistor events, this event is governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
-      "startDate": "2026-10-31T20:00:00-04:00",
-      "endDate": "2026-10-31T23:55:00-04:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 20.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "See event description for pricing details"
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/nyc-resistor-halloween-party-2026-tickets-2003212555679",
-        "original_event_id": "hqanc5aq1r0aojq1ndnnqi2r64",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 3rd Ave\nBrooklyn,  11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=aHFhbmM1YXExcjBhb2pxMW5kbm5xaTJyNjQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_cadc4d34",
       "name": "Intro to Soldering Workshop: Make an LED Tile",
       "type": "hackerspace",
@@ -3923,5 +3870,5 @@
       }
     }
   ],
-  "timestamp": "2026-10-31T14:06:39.904538"
+  "timestamp": "2026-11-01T14:43:39.318912"
 }
