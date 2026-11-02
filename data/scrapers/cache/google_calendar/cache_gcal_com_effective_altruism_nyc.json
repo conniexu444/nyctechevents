@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_031b8164",
-      "name": "World Vegan Day",
+      "id": "evt_gcal_com_effective_altruism_nyc_c61d3003",
+      "name": "EA Data & Tech Meetup",
       "type": "effective altruism",
       "locationId": "",
       "communityId": "com_effective_altruism_nyc",
-      "description": "The perfect day to eat all of your Halloween candy! (No milk chocolate, though.)<br><br><a href=\"https://www.google.com/url?q=https://en.wikipedia.org/wiki/World_Vegan_Day&amp;sa=D&amp;source=calendar&amp;ust=1671557497614102&amp;usg=AOvVaw3XZj_WUToiLysODuqYIB22\" target=\"_blank\">https://en.wikipedia.org/wiki/World_Vegan_Day</a>",
-      "startDate": "2026-11-01",
-      "endDate": "2026-11-02",
+      "description": "Come join other effective altruists (EAs) working in data and tech for a casual meet up at Juke Bar. Hope to see you there!",
+      "startDate": "2026-11-05T18:00:00-05:00",
+      "endDate": "2026-11-05T20:00:00-05:00",
       "category": [
         "effective altruism",
         "impact",
@@ -16,37 +16,42 @@
         "community"
       ],
       "price": {
-        "amount": 0,
+        "amount": 0.0,
         "type": "Free",
         "currency": "USD",
-        "details": ""
+        "details": "General Admission"
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": false,
       "tags": [],
-      "image": "",
+      "image": "events/luma-event-73d44d97.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=M2Jwbjk3ZDNwNWVxYzZuMzdmdWtyYm1zdjBfMjAyNjExMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
-        "original_event_id": "3bpn97d3p5eqc6n37fukrbmsv0_20261101",
+        "source_url": "https://luma.com/njbsozin",
+        "original_event_id": "4eh11vtrefl1aqrp2f8h96ncva",
         "organizer": {
-          "name": "Effective Altruism NYC Events",
-          "website": "",
+          "name": "EA NYC",
+          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
           "instagram": "",
           "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
         },
         "venue": {
           "name": "",
-          "address": "Worldwide!",
+          "address": "Juke Bar\nJuke Bar, New York, New York",
           "type": "Offline"
         },
         "speakers": [],
         "social_links": [],
         "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=M2Jwbjk3ZDNwNWVxYzZuMzdmdWtyYm1zdjBfMjAyNjExMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+        "luma_source": true,
+        "luma_host": {
+          "name": "EA NYC",
+          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NGVoMTF2dHJlZmwxYXFycDJmOGg5Nm5jdmEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
       }
     },
     {
@@ -96,6 +101,114 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=Nm0ycmVzNjVrdHI2ZGZmNzdlNm9scGFuYzVfMjAyNjExMTQgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_be2cb560",
+      "name": "Special Speaker Event Sean Mayberry",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "Join EA NYC for a talk with Sean Mayberry, founder and CEO of StrongMinds, on how to bring evidence-based depression care to millions of people at a cost of about $10 each.\nSean will trace his path from the U.S. State Department and Intel to a decade leading HIV/AIDS, malaria, and anti-poverty programs across Africa and Asia. He'll explain how that experience led him to found StrongMinds in 2013, and how a focus on cost-effectiveness and scale shaped the organization from the start.\nStrongMinds has since helped nearly 2.5 million people access group talk therapy, delivered by lay community health workers and increasingly integrated into government health systems. Sean will also preview early findings from StrongMinds' first randomized controlled trial.\nThe talk will be followed by Q&A and time to mingle. Drinks provided.\nSean Mayberry is the founder and CEO of StrongMinds, a nonprofit that partners with governments to integrate group talk therapy into existing community health systems. A former U.S. Foreign Service Officer and Intel executive, he went on to serve as Country Director for Population Services International in India and the DRC, COO of VisionSpring, and CEO of FXB International. He was named to the inaugural TIME100 Health list in 2024.",
+      "startDate": "2026-11-17T18:00:00-05:00",
+      "endDate": "2026-11-17T20:00:00-05:00",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-30257136.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/3ad2whnz",
+        "original_event_id": "17bciqfvu5oikk8e0b9h5eqcfr",
+        "organizer": {
+          "name": "EA NYC",
+          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "EA NYC",
+          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MTdiY2lxZnZ1NW9pa2s4ZTBiOWg1ZXFjZnIgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_931f520a",
+      "name": "EA NYC Vegan Dim Sum",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "Please join EA NYC for our monthly vegan dim sum.\n- All are welcome! - Cost per meal: variable, likely $25-$30 - If you\u2019d like to attend but have any concerns, please get in touch with Megan\nJoin for an EA NYC community favorite: tasty and affordable vegan dim sum!",
+      "startDate": "2026-11-21T13:00:00-05:00",
+      "endDate": "2026-11-21T15:00:00-05:00",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-97fb11c5.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/n6xr2hrv",
+        "original_event_id": "5svj7521293j47dea9sc7euboo",
+        "organizer": {
+          "name": "EA NYC",
+          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Bodhi Kosher Vegetarian Restaurant\nBodhi Kosher Vegetarian Restaurant, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "EA NYC",
+          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
+          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NXN2ajc1MjEyOTNqNDdkZWE5c2M3ZXVib28gaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
       }
     },
     {
@@ -636,7 +749,56 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MnRhcWU2ZTljdW92ZTJoazAzOXUwOGQ3cGZfMjAyNzEwMTAgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_8a93ca44",
+      "name": "World Vegan Day",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "The perfect day to eat all of your Halloween candy! (No milk chocolate, though.)<br><br><a href=\"https://www.google.com/url?q=https://en.wikipedia.org/wiki/World_Vegan_Day&amp;sa=D&amp;source=calendar&amp;ust=1671557497614102&amp;usg=AOvVaw3XZj_WUToiLysODuqYIB22\" target=\"_blank\">https://en.wikipedia.org/wiki/World_Vegan_Day</a>",
+      "startDate": "2027-11-01",
+      "endDate": "2027-11-02",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=M2Jwbjk3ZDNwNWVxYzZuMzdmdWtyYm1zdjBfMjAyNzExMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
+        "original_event_id": "3bpn97d3p5eqc6n37fukrbmsv0_20271101",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "website": "",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Worldwide!",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=M2Jwbjk3ZDNwNWVxYzZuMzdmdWtyYm1zdjBfMjAyNzExMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
     }
   ],
-  "timestamp": "2026-11-01T14:43:22.637436"
+  "timestamp": "2026-11-02T17:40:59.213301"
 }
