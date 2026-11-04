@@ -167,11 +167,11 @@
     },
     {
       "id": "evt_gcal_com_cozy_sundays_f6870db8",
-      "name": "Cozy Sundays - Friendsgiving (lunch)",
+      "name": "Cozy Sundays - Friendsgiving",
       "type": "co-working",
       "locationId": "",
       "communityId": "com_cozy_sundays",
-      "description": "Come one, come all to celebrate the fall season & our cozy sundays community!\nWe usually spend our time together working on and sharing projects, but it\u2019s about time for us to celebrate each other & share good food.\nWhether you\u2019ve been coming for years, months, or this is your first time, you\u2019re welcome to join.\nPlease write down what you plan to bring here, as well as any dietary restrictions: https://docs.google.com/spreadsheets/d/1kqCD7EC7i87wvsEk7p05djti6MqBi_baS8Bf8YuRpXo/edit?usp=sharing",
+      "description": "This is a late lunch potluck.\nCome one, come all to celebrate the fall season & our cozy sundays community!\nWe usually spend our time together working on and sharing projects, but it\u2019s about time for us to celebrate each other & share good food.\nWhether you\u2019ve been coming for years, months, or this is your first time, you\u2019re welcome to join.\nPlease write down what you plan to bring here, as well as any dietary restrictions: https://docs.google.com/spreadsheets/d/1kqCD7EC7i87wvsEk7p05djti6MqBi_baS8Bf8YuRpXo/edit?usp=sharing",
       "startDate": "2026-11-22T18:00:00Z",
       "endDate": "2026-11-22T21:00:00Z",
       "category": [
@@ -331,5 +331,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-03T15:44:08.807199"
+  "timestamp": "2026-11-04T15:57:12.520215"
 }
