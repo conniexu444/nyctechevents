@@ -15,6 +15,7 @@ Allow: /events/
 Allow: /communities/
 Allow: /locations/
 Allow: /about/
+Allow: /sources/
 
 # Disallow unnecessary files to reduce crawl budget waste
 Disallow: /_next/
