@@ -3,19 +3,19 @@ import AboutClient from "./AboutClient";
 import { SITE_URL } from '@/lib/site';
 
 export const metadata: Metadata = {
-  title: "About Joshua Spergel | NYC Events & Tech",
-  description: "Learn more about Joshua Spergel, the creator of NYC Events. Discover his projects, interests in web scraping, and how to get in touch.",
+  title: "About the Creators | NYC Tech Events",
+  description: "Meet Joshua Spergel and Connie Xu, the co-creators of NYC Tech Events. Learn about the team behind this cyberpunk guide to New York's tech scene.",
   openGraph: {
-    title: "About Joshua Spergel | NYC Events & Tech",
-    description: "Learn more about Joshua Spergel, the creator of NYC Events.",
+    title: "About the Creators | NYC Tech Events",
+    description: "Meet Joshua Spergel and Connie Xu, the co-creators of NYC Tech Events.",
     url: `${SITE_URL}/about`,
-    type: "profile",
+    type: "website",
     images: [
       {
-        url: `${SITE_URL}/joshua_spergel_profile.jpg`,
-        width: 800,
-        height: 800,
-        alt: "Joshua Spergel"
+        url: `${SITE_URL}/nyc_skyline.gif`,
+        width: 1200,
+        height: 630,
+        alt: "NYC Tech Events — created by Joshua Spergel and Connie Xu"
       }
     ]
   },
@@ -23,12 +23,12 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@nycdosomething",
     creator: "@nycdosomething",
-    title: "About Joshua Spergel | NYC Events & Tech",
-    description: "Creator of somethingtodo.nyc, web scraping enthusiast, living near NYC.",
-    images: [`${SITE_URL}/joshua_spergel_profile.jpg`]
+    title: "About the Creators | NYC Tech Events",
+    description: "Joshua Spergel and Connie Xu — the team behind NYC Tech Events.",
+    images: [`${SITE_URL}/nyc_skyline.gif`]
   }
 };
 
 export default function AboutPage() {
   return <AboutClient />;
-} 
+}
