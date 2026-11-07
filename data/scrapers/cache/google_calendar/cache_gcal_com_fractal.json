@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_8d126897",
-      "name": "Video & Film Creators | Co-Working + Hangout",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-11-06T22:30:00Z",
-      "endDate": "2026-11-07T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5l0jei3dat0mgpqiahb6sh239p06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/GYLzDAgvhJ02PKVxStxX?c=8xdkz3S3",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWwwamVpM2RhdDBtZ3BxaWFoYjZzaDIzOXAwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_f624c46a",
       "name": "Private Event",
       "type": "tech",
@@ -155,6 +106,55 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJiOHBzbDBpMjg2OXI2YXJpNWI1MTZtcTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_557f13fb",
+      "name": "fractal brunch",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-11-08T16:00:00Z",
+      "endDate": "2026-11-08T18:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5lcmcs2l60o32kpi9lq30gr1eh06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/5qTNhql4LCQw8O4nUIZx?c=_cfsBtWO",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxjbWNzMmw2MG8zMmtwaTlscTMwZ3IxZWgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1940,5 +1940,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-06T15:34:05.638527"
+  "timestamp": "2026-11-07T14:34:47.883297"
 }

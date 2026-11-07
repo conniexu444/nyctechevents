@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_98139389",
-      "name": "Masks On Craft Night",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "All the fun of a regular craft night with the added safety of a masks-required environment.<br><br>Free (and optional) tickets are available here:\u00a0<a href=\"https://www.google.com/url?q=https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw30wJgCOHNVYdmKOTp_roao\" target=\"_blank\">https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557</a><br><br>This event, like all NYC Resistor events is 18 and over and governed by out code of conduct.\u00a0<br><br>More information:\u00a0<a href=\"https://www.google.com/url?q=http://www.nycresistor.com/participate/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1wUIUV1qFGFLwgIAX6dIkL\" target=\"_blank\"><u>http://www.nycresistor.com/participate/</u></a><br>NYC Resistor Code of Conduct:\u00a0<a href=\"https://www.google.com/url?q=http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0FxoSzn8w-pu237gKg6lmI\" target=\"_blank\"><u>http://www.nycresistor.com/2015/08/04/nyc-resistor-code-of-conduct/</u></a>",
-      "startDate": "2026-11-06T18:30:00-05:00",
-      "endDate": "2026-11-06T21:30:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-623419182557",
-        "original_event_id": "0iqqft475g0rh2qe28btv8gne9_20261106T233000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "87 3rd Ave, Brooklyn, NY 11217, USA",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGlxcWZ0NDc1ZzByaDJxZTI4YnR2OGduZTlfMjAyNjExMDZUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_42931123",
       "name": "Yoga for Hackers",
       "type": "hackerspace",
@@ -316,6 +263,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjExMTFUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_56b15763",
+      "name": "Insurance Inspection",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "",
+      "startDate": "2026-11-11T15:30:00-05:00",
+      "endDate": "2026-11-11T16:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=dW5zZzgzOWZvZzd0ajdsbTE2NjlkcmtmajQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
+        "original_event_id": "unsg839fog7tj7lm1669drkfj4",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=dW5zZzgzOWZvZzd0ajdsbTE2NjlkcmtmajQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1326,12 +1326,12 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_30174064",
-      "name": "HOLD: SYNTH Night",
+      "id": "evt_gcal_com_nyc_resistor_e2021f8d",
+      "name": "Synthesizer Night @ NYC Resistor",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
+      "description": "RSVP https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594\n\nGathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!Join us at NYC Resistor, a makerspace in Brooklyn for an electrifying Synthesizer Night! Get ready to unleash your creativity, explore sonic landscapes, and connect with fellow synth enthusiasts in an evening dedicated to the mesmerizing world of synthesizers. This is a pay-what-you-wish event (recommended donation $8).\nSynthesizer Night at NYC Resistor is a celebration of all things synthesizer. Whether you're a seasoned musician, an avid collector, or simply fascinated by the possibilities of electronic sound, this event offers a unique opportunity to gather with like-minded individuals and revel in the captivating soundscape of synthesizers.\nAt Synthesizer Night, participants are encouraged to bring their own synthesizers, from vintage analog gems to cutting-edge modular wonders. It's a chance to showcase your personal setup, experiment with new equipment, and dive into the rich sonic tapestry that synthesizers offer.\nFor those looking to enhance the collaborative experience, consider arriving early to connect your synthesizer to a MIDI/CV clock. This allows for synchronized timing among all instruments, creating a seamless musical fusion during impromptu jam sessions.\nIn addition to the collaborative jam sessions, the event provides a unique opportunity for a show and tell/play with anything that attendees bring. Share your favorite gear, experiment with different setups, and engage in hands-on exploration of various synthesizers and electronic music equipment.\nThe event unfolds in a relaxed and welcoming atmosphere, providing a platform for musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. Whether you're a beginner seeking guidance or an expert eager to inspire others, Synthesizer Night is the perfect setting to engage in conversations, exchange knowledge, and foster a vibrant community.\nThroughout the evening, you'll have the opportunity to engage in impromptu jam sessions, where the collective energy of multiple synthesizers intertwines to create awe-inspiring sounds. Experience the joy of collaborating with fellow musicians, experiment with different genres and styles, and let the unique characteristics of each instrument shape your sonic explorations.\nAdditionally, for those who wish to showcase their skills and perform, there will be dedicated performance slots. Take center stage, captivate the audience, and let your creativity soar as you demonstrate the full potential of your synthesizer setup. To sign up for a performance slot, email classes@nycresistor.com or join our Discord and post to #synth.\nWhether you're an ardent synth enthusiast, an aspiring musician, or simply curious about the captivating world of synthesizers, Synthesizer Night at NYC Resistor is an event that will inspire, educate, and leave you in awe of the boundless possibilities that electronic sound offers. Don't miss this opportunity to immerse yourself in an evening of music, collaboration, and innovation. Mark your calendars, pack up your favorite synths, and join us at NYC Resistor for a night you won't soon forget. We can't wait to see you there!\nThis is a masks optional event.\nWe are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending. We are also an 18+ space, and accessibility information can be found here.\n",
       "startDate": "2026-11-27T19:30:00-05:00",
       "endDate": "2026-11-27T22:30:00-05:00",
       "category": [
@@ -1345,20 +1345,20 @@
         "robotics"
       ],
       "price": {
-        "amount": 0,
-        "type": "Free",
+        "amount": 8.0,
+        "type": "Paid",
         "currency": "USD",
-        "details": ""
+        "details": "See event description for pricing details"
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=OTM4MDcwNDkwZDgxNGQyMjgyYzY2ZDljMGJmNTIzNjFfMjAyNjExMjhUMDAzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "938070490d814d2282c66d9c0bf52361_20261128T003000Z",
+        "source_url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594",
+        "original_event_id": "lfj3beiohvb7u65hea4vtr0q28",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1367,7 +1367,7 @@
         },
         "venue": {
           "name": "",
-          "address": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
           "type": "Offline"
         },
         "speakers": [],
@@ -1375,7 +1375,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=OTM4MDcwNDkwZDgxNGQyMjgyYzY2ZDljMGJmNTIzNjFfMjAyNjExMjhUMDAzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=bGZqM2JlaW9odmI3dTY1aGVhNHZ0cjBxMjggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1429,6 +1429,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NGRrb25zdnYxNTNrb3ZqMTJya3Nqdm5hamsgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_f592efdb",
+      "name": "Mask Chains 101 -",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/mask-chains-101--tickets-2004486179121\n\nYou will learn the basics of wire wrapping your own mask chain and go home with your own wire wrapped flower mask chain.In this mask chain class, you will learn the basics of wire wrapping your own mask chain. We will cover tools, measurements, techniques, and bead choices. You will go home with your own wire wrapped flower mask chain.\nYour instructor:Hi, my name is Shine, and I am a NYC-based queer artist and educator with ME/CFS. I am COVID-cautious because I believe that pandemics are a tool of the empire and our health is a gift that should be fiercely protected. I create handmade, creative, and multipurpose mask chains and wire-wrapped jewelry using thrifted, second-hand, and vintage materials. My art gives new life to forgotten beads and chains. I believe that looking hot in a mask is praxis, and I hope that my chains help you feel confident in your mask and inspire you to start conversations about masking with the people around you.This is a masks required workshop.\nThis is also a class where No One Is Turned Away For Lack Of Funds (aka NOTAFLOF). Please use this ticket code at checkout if you are unable to particpate at full price:\nNOTAFLOF2026 - This code will give you a both a pay-what-you-can and a no-cost ticket option.\nWe are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending. We are also an 18+ space, and accessibility information can be found here.\n",
+      "startDate": "2026-11-28T14:00:00-05:00",
+      "endDate": "2026-11-28T15:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "See event description for pricing details"
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/mask-chains-101--tickets-2004486179121",
+        "original_event_id": "tvfdv5ot193q8mg7bsfqekt5oo",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=dHZmZHY1b3QxOTNxOG1nN2JzZnFla3Q1b28gcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -3923,5 +3976,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-06T15:34:06.376542"
+  "timestamp": "2026-11-07T14:34:48.354087"
 }
