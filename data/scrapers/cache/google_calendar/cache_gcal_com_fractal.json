@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_f624c46a",
-      "name": "Private Event",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/nyc-fe3e\n\nAddress:\nFractal Tech, 111 Conselyea St Fl 2, Brooklyn, NY 11211, USA\n\nHosted by Liam Duffy",
-      "startDate": "2026-11-07T15:00:00Z",
-      "endDate": "2026-11-07T20:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-6f1f5796.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-fe3e",
-        "original_event_id": "_clr78bbm99872q2lf9d5ecbqa565kcq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJtOTk4NzJxMmxmOWQ1ZWNicWE1NjVrY3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_f1288ffb",
-      "name": "Ask a Republican!",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "What is a Maximum Republican?\nYou can read the Maximum Republican overview here, but you might have questions that it doesn't cover. Maybe you just want to discuss the partisan landscape of New York City and State in a grounded way. Maybe you don't want to be afraid of doing partisan politics anymore, and want to talk to people who aren't either. Maybe you're just intellectually curious, and want to see what's happening in that area.\nCome have some lunch, meet new friends (of all parties and none), and let's chat.\nRun of show:\n6:00-6:30pm: we will have some food and snacks. Arrive, eat some food, and just chill.\n6:30-7:30pm: a few Maximum Republicans will be answering your questions. You can submit them beforehand via this Luma registration too.\n7:30-8:00pm: hang out and depart at your leisure.",
-      "startDate": "2026-11-07T23:00:00Z",
-      "endDate": "2026-11-08T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-37a271c6.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/maximum-x5vk",
-        "original_event_id": "_clr78bbb8psl0i2869r6ari5b516mq20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Maximum New York",
-          "website": "https://luma.com/maximumnewyork",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Maximum New York",
-          "url": "https://luma.com/maximumnewyork",
-          "image": "https://images.lumacdn.com/calendars/o5/066f5816-f982-46c3-ba46-7ab6b849a05e",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJiOHBzbDBpMjg2OXI2YXJpNWI1MTZtcTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_557f13fb",
       "name": "fractal brunch",
       "type": "tech",
@@ -1940,5 +1832,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-07T14:34:47.883297"
+  "timestamp": "2026-11-08T14:43:23.156903"
 }

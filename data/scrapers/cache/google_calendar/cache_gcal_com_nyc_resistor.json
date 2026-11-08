@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_42931123",
-      "name": "Yoga for Hackers",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/yoga-for-hackers-tickets-2003487419805\n\nHack your body. We&#39;ll cover fundamental yoga postures, with an emphasis on alignment, breathing practices and strength. All are welcome!Note: class begins at noon, please try to come a few minutes early to set up!\n\nDescription:\nPerfect for those of us who spend too much time at our computers or hunched over a project. No prior experience with yoga required. Please wear comfortable clothes for stretching and bring a yoga mat (or borrow one from a friend)!Instructor:\nHal has been practicing yoga since they were a teenager. Their first yoga teacher used to come around the room and cheerfully say the class would be in the pose for a week to 10 days. Hal has a similar sense of humor and thinks a yoga class is best when students feel both deeply supported and challenged. Hal is a software dev who appreciates a good bug and is a 200-hr certified yoga teacher.More info:\nNo masks required\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
-      "startDate": "2026-11-07T12:00:00-05:00",
-      "endDate": "2026-11-07T13:30:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/yoga-for-hackers-tickets-2003487419805",
-        "original_event_id": "8fretnj5kcdmnbkto535bj1bms",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=OGZyZXRuajVrY2RtbmJrdG81MzViajFibXMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_ac66d7fe",
       "name": "Basics of Analog Tape Echo and Cassette Loops",
       "type": "hackerspace",
@@ -3976,5 +3923,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-07T14:34:48.354087"
+  "timestamp": "2026-11-08T14:43:23.659103"
 }

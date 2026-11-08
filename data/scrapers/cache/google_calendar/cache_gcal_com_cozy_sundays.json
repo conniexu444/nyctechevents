@@ -166,61 +166,6 @@
       }
     },
     {
-      "id": "evt_gcal_com_cozy_sundays_f6870db8",
-      "name": "Cozy Sundays - Friendsgiving",
-      "type": "co-working",
-      "locationId": "",
-      "communityId": "com_cozy_sundays",
-      "description": "This is a late lunch potluck.\nCome one, come all to celebrate the fall season & our cozy sundays community!\nWe usually spend our time together working on and sharing projects, but it\u2019s about time for us to celebrate each other & share good food.\nWhether you\u2019ve been coming for years, months, or this is your first time, you\u2019re welcome to join.\nPlease write down what you plan to bring here, as well as any dietary restrictions: https://docs.google.com/spreadsheets/d/1kqCD7EC7i87wvsEk7p05djti6MqBi_baS8Bf8YuRpXo/edit?usp=sharing",
-      "startDate": "2026-11-22T18:00:00Z",
-      "endDate": "2026-11-22T21:00:00Z",
-      "category": [
-        "co-working",
-        "passion projects",
-        "community",
-        "biweekly",
-        "creative"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-9ccefdc0.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/zqe8yemd",
-        "original_event_id": "_clr78b9k8dokohj6e11jct1oclsmeqi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Cozy Sundays",
-          "website": "https://luma.com/cozy-sundays",
-          "instagram": "",
-          "email": "nbqghatsg76q5hvuncn0eidonebg6pmj@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "425 Broadway, 5th floor",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Cozy Sundays",
-          "url": "https://luma.com/cozy-sundays",
-          "image": "https://images.lumacdn.com/calendars/o3/e33f2474-2ce5-490b-9550-32cb5f5e760e",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlrOGRva29oajZlMTFqY3Qxb2Nsc21lcWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgbmJxZ2hhdHNnNzZxNWh2dW5jbjBlaWRvbmViZzZwbWpAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_cozy_sundays_0c11f85e",
       "name": "Cozy Sundays \u2014 Fall '26 Session V",
       "type": "co-working",
@@ -331,5 +276,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-07T14:34:57.865965"
+  "timestamp": "2026-11-08T14:43:33.660567"
 }
