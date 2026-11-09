@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_ea12b549",
-      "name": "Studio Jams x Sangarang - Production Workshop",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Find more information on https://luma.com/verci",
-      "startDate": "2026-11-08T19:00:00Z",
-      "endDate": "2026-11-08T22:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/verci",
-        "original_event_id": "_cdgmopbm5lin0oi36t648jqn99o46hrbct06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/4mjyj0arqNetWgMpUwdD",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxpbjBvaTM2dDY0OGpxbjk5bzQ2aHJiY3QwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_4bcb2210",
       "name": "Open Mic Night (funny)",
       "type": "technology",
@@ -635,7 +586,7 @@
     },
     {
       "id": "evt_gcal_com_verci_8f49db5d",
-      "name": "Philippines Trip",
+      "name": "Into the Islands: Verci & Pearl Philippines",
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
@@ -649,7 +600,7 @@
         "community"
       ],
       "price": {
-        "amount": 2900.0,
+        "amount": 2000.0,
         "type": "Paid",
         "currency": "USD",
         "details": "General Admission"
@@ -657,7 +608,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-a41e1a7a.jpg",
+      "image": "events/luma-event-79278a48.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -688,5 +639,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-08T14:43:29.978383"
+  "timestamp": "2026-11-09T18:04:17.736875"
 }
