@@ -109,6 +109,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_south_park_commons_11ea5f96",
+      "name": "SPC Energy Forum: Fireside with Garth Sheldon-Coulson, Co-Founder and CEO of Panthalassa",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "The South Park Commons Energy Forum is delighted to host a fireside with Garth Sheldon-Coulson.\nGarth Sheldon-Coulson is Co-Founder and CEO of Panthalassa, a company unlocking planetary-scale renewable energy in the middle of the ocean. Panthalassa's technologies capture wave energy far from shore and use it to produce AI compute delivered by satellite and renewable fuels delivered by ship. Panthalassa's 200-person team is headquartered in Portland, Oregon and backed by leading venture capital firms.\nAgenda:\n10:30am: Doors open\n11:00am: Fireside begins\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nApply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-11-18T18:30:00Z",
+      "endDate": "2026-11-18T20:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-1754a7d4.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/spc-garth",
+        "original_event_id": "_clr78ba891o3ehim84p7ii23cpm7idi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4OTFvM2VoaW04NHA3aWkyM2NwbTdpZGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_61f083d8",
       "name": "Fireside Chat with Abhinav Gupta, Skild.ai",
       "type": "technology",
@@ -163,5 +217,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-09T18:04:12.435765"
+  "timestamp": "2026-11-10T16:00:49.314270"
 }

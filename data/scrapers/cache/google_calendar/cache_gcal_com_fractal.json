@@ -271,6 +271,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_2cc5a680",
+      "name": "Hearth Community Friendsgiving",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Join Hearth (www.discoverhearth.org) and friends for our first annual community Friendsgiving dinner across NYC!  We'll have good people, food (potluck-style), games, and gratitudes. On sign-up, please note if you have any dietary restrictions. We will have multiple apartments hosting Friendsgiving across the city; we'll match you to the location closest to you with availability.  What is Hearth? Hearth is a new IRL, consistent community for deeper conversations and connections. Learn more at: www.discoverhearth.org",
+      "startDate": "2026-11-13T22:30:00Z",
+      "endDate": "2026-11-14T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-471f9168.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/4kxborhk",
+        "original_event_id": "_clr78bbef1rmuk2eed66sci69co4qja0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Hearth Team",
+          "website": "https://luma.com/user/usr-y0PDIOnEPE3ceru",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Hearth Team",
+          "url": "https://luma.com/user/usr-y0PDIOnEPE3ceru",
+          "image": "https://images.lumacdn.com/uploads/xa/a2491821-08a7-4445-8dad-38ee0ddc8df7.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlZjFybXVrMmVlZDY2c2NpNjljbzRxamEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_87640944",
       "name": "Private Event",
       "type": "tech",
@@ -294,7 +348,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-92c5d6d3.jpg",
+      "image": "events/luma-event-e0bfcd4c.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -564,7 +618,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-644a6742.jpg",
+      "image": "events/luma-event-e0bfcd4c.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -942,7 +996,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-6f1f5796.jpg",
+      "image": "events/luma-event-e0bfcd4c.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -1104,7 +1158,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-c4fe9232.jpg",
+      "image": "events/luma-event-e0bfcd4c.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -1320,7 +1374,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-d28df78c.jpg",
+      "image": "events/luma-event-e0bfcd4c.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -1783,5 +1837,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-09T18:04:09.982003"
+  "timestamp": "2026-11-10T16:00:46.362618"
 }
