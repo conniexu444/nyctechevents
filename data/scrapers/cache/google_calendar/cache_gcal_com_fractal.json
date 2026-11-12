@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_2166852d",
-      "name": "\u26a1 Fractal Weekly Demo Party #13 \u26a1",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "sunset pizza & drinks, & a showcase of strange and beautiful side projects, hobbies, + creations \ud83e\udeb4\u2728\u26a1\ud83c\udfa8\ndemos will be 3 min long\nsignup here \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\nhttps://docs.google.com/forms/d/1hieQF1BwWnXQtKLRT_2gRWXy4RQueZhzepT_fgT41p0/viewform\ndemos of all kinds welcome, come share whatever you're most proud of\n~\n6:30 to 7:00pm - pizza & sunset \ud83c\udf05\ud83c\udf55\n7:00 to 7:30pm - \u26a1 demos \u26a1\n7:30pm onwards - hang out\n~\n+1s welcome",
-      "startDate": "2026-11-11T23:30:00Z",
-      "endDate": "2026-11-12T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e0bfcd4c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-n6ba",
-        "original_event_id": "_clr78bab6kr6gmb3a9d5ctrm9lkn8ea0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFiNmtyNmdtYjNhOWQ1Y3RybTlsa244ZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_281239a5",
-      "name": "Vajrayana: An Introduction - Session 6",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "A session of this class: https://andrewshadeblevins.com/vajrayana-course/\nFor registered attendees only.",
-      "startDate": "2026-11-12T00:00:00Z",
-      "endDate": "2026-11-12T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-82544638.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/4johjpha",
-        "original_event_id": "_clr78b9pdtojcphjcpjmucij8p4kqia0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Andrew Blevins",
-          "website": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Andrew Blevins",
-          "url": "https://luma.com/user/usr-UV0WbDIRtBifkES",
-          "image": "https://images.lumacdn.com/avatars/cu/6daf84e1-2f9f-4eaa-8ff6-fc6f3e42fbe8.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlwZHRvamNwaGpjcGptdWNpajhwNGtxaWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_e570bd95",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 7",
       "type": "tech",
@@ -325,6 +217,55 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_687c11f5",
+      "name": "fractal brunch",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-11-15T16:00:00Z",
+      "endDate": "2026-11-15T17:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5lh7kg9hcko6cqq2chimgdapah06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/G1e75P7bURaQBC5cyRYG?c=zx9IgWQj",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxoN2tnOWhja282Y3FxMmNoaW1nZGFwYWgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_5dde804b",
       "name": "Speculative Worldbuilding Seminar (FractalU), Unit 6",
       "type": "tech",
@@ -433,6 +374,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_5f9b5310",
+      "name": "cozy cafe @ fractal",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Join us for cozy cafe hour @ fractal \u2615\ufe0f\nThere will be coffee, ambient music, and cozy vibes. come read, write, and cowork with friends. Chatting is recommended in small groups only, like at a cafe. Stickies for intentions and ways to connect will be available.\nthere is a piano and a guitar! if you want to play some ambient music that would be lovely.\npicnic style- pls bring snacks, fruit, baked goods, coffee beans, cider, wine, hot chocolate, chess, tarot, etc.\nfeel free to bring a +1. you don't have to be a fractal member. see you there! \u2728",
+      "startDate": "2026-11-19T19:00:00Z",
+      "endDate": "2026-11-19T22:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-e289faf5.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/zpmdkda6",
+        "original_event_id": "_clr78b9hcprn8h1gc5r3ici68dt4eqi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "christineist",
+          "website": "https://luma.com/user/usr-cvXaB7zRXlvNrfl",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "christineist",
+          "url": "https://luma.com/user/usr-cvXaB7zRXlvNrfl",
+          "image": "https://images.lumacdn.com/uploads/t4/577199bd-5429-429f-8635-83103bce79ca.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjloY3BybjhoMWdjNXIzaWNpNjhkdDRlcWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_679caec4",
       "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 8",
       "type": "tech",
@@ -484,6 +479,55 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOGwzbjBjaGk5MG8zZWdhNDZwYjRpY2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_62f5f0cb",
+      "name": "Video & Film Creators | Co-Working + Hangout (S2E7)",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-11-20T22:30:00Z",
+      "endDate": "2026-11-21T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5l94mlif6d478pqd99b6gqrn7506atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/9yZaN3R3bxcL69QqQpuQ?c=kUGb9Eao",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw5NG1saWY2ZDQ3OHBxZDk5YjZncXJuNzUwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -646,6 +690,55 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjloNzFvbmVkYmY4cHMzYXA5Z2FoYTNpaXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_0b1a10f7",
+      "name": "fractal brunch",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-11-22T16:00:00Z",
+      "endDate": "2026-11-22T17:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5l466papf513cu1oahh5itb9eh06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/TAgyqJsAzODQJZqfZ5hi?c=Uym0td3L",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw0NjZwYXBmNTEzY3Uxb2FoaDVpdGI5ZWgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1781,7 +1874,331 @@
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxODljNTZzaWJjaDFtYXMzamVwdDQ2c2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
+    },
+    {
+      "id": "evt_gcal_com_fractal_c5b7ae1c",
+      "name": "Bible-plus-classics reading group, Session 2.8 - Milton: All the devils",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nIf you\u2019re new to the group, you\u2019re welcome to start right here.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nIt will be something like: a section of Paradise Lost by John Milton, along with writings about the devil from other writers and from various books of the Bible.\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019re covering a variety of stories about trials and suffering. This theme will last us through May 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-03-17T23:00:00Z",
+      "endDate": "2027-03-18T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-57758a3b.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/m5d5mlij",
+        "original_event_id": "_clr78baaapi54sqd8986iebp9tlmak20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFhYXBpNTRzcWQ4OTg2aWVicDl0bG1hazIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_3eb719b5",
+      "name": "Bible-plus-classics reading group, Session 2.9 - Boethius: In the wheels of history",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nIf you\u2019re new to the group, you\u2019re welcome to start right here.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nIt will be something like: \"Consolation of Philosophy\" by Boethius, alongside the Book of Daniel.\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019re covering a variety of stories about trials and suffering. This theme will last us through May 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-03-31T23:00:00Z",
+      "endDate": "2027-04-01T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-4274110e.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/3gfuvjxn",
+        "original_event_id": "_clr78bbqel5n2m1jehokopb8e9rmedi0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxZWw1bjJtMWplaG9rb3BiOGU5cm1lZGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_92fe3ee2",
+      "name": "Bible-plus-classics reading group, Session 2.10 - O'Connor and Nietzsche: Misfits and supermen",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nIf you\u2019re new to the group, you\u2019re welcome to start right here.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nIt will be a juxtaposition of writings from Flannery O'Connor, Friedrich Nietzsche, and Corinthians.\nMore about \"Season Two: Trials and Suffering\"\nIn this second season, we\u2019re covering a variety of stories about trials and suffering. This theme will last us through May 2027, with sessions roughly every other Wednesday.\nUnlike in Season One, which served mainly as an introduction to the Bible itself, Season Two will lean more heavily on the \u201cclassics\u201d half of our quest. The reading load will be heavier and more modern.",
+      "startDate": "2027-04-14T23:00:00Z",
+      "endDate": "2027-04-15T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-0857a411.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/jzgkwnve",
+        "original_event_id": "_clr78b9jdhc4elbcadnj6gil6hinat20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlqZGhjNGVsYmNhZG5qNmdpbDZoaW5hdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_bfa69df4",
+      "name": "Bible-plus-classics reading group, Session 2.11 - Moby-Dick 1 of 3",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nIf you\u2019re new to the group, you\u2019re welcome to start right here.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nIt will be our first of three sessions reading through all of Moby-Dick, alongside relevant Bible stories and excerpts from other authors.",
+      "startDate": "2027-04-28T23:00:00Z",
+      "endDate": "2027-04-29T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-f967aee2.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/zc466v9i",
+        "original_event_id": "_clr78baqaoqn8s3c8dnn0qr7alj4uii0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFxYW9xbjhzM2M4ZG5uMHFyN2FsajR1aWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_426e9dde",
+      "name": "Bible-plus-classics reading group, Session 2.12 - Moby-Dick 2 of 3",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nIf you\u2019re new to the group, you\u2019re welcome to start right here.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nIt will be our second of three sessions reading through all of Moby-Dick, alongside relevant Bible stories and excerpts from other authors.",
+      "startDate": "2027-05-12T23:00:00Z",
+      "endDate": "2027-05-13T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-379ae9d7.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/4vpl49wi",
+        "original_event_id": "_clr78ba48d9miqb594oj2g9n8kpk6iq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE0OGQ5bWlxYjU5NG9qMmc5bjhrcGs2aXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_307fa6dd",
+      "name": "Bible-plus-classics reading group, Session 2.13 - Moby-Dick 3 of 3",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "Welcome!\nIn this discussion group, we pair Bible passages with classic literature, essays, and philosophy. No beliefs required!\nOur sessions will run for about 2 hours, with a break in the middle. These events are free of tuition, but you must own a physical Bible, and you will be required to purchase or borrow some more books as we go along.\nIf you\u2019re new to the group, you\u2019re welcome to start right here.\nExact readings for this session\nForthcoming. Please check back here closer to the time.\nIt will be our second of three sessions reading through all of Moby-Dick, alongside relevant Bible stories and excerpts from other authors.",
+      "startDate": "2027-05-26T23:00:00Z",
+      "endDate": "2027-05-27T01:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-25a842b8.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/mxfz75wa",
+        "original_event_id": "_clr78ba28l94ecqpchrmghpi8t756qq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Stephen W",
+          "website": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Stephen W",
+          "url": "https://luma.com/user/usr-1A7fx6TpGwu6xSO",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOGw5NGVjcXBjaHJtZ2hwaTh0NzU2cXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
     }
   ],
-  "timestamp": "2026-11-11T15:48:01.443766"
+  "timestamp": "2026-11-12T16:33:56.109482"
 }
