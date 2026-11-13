@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_240c83b2",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP <a href=\"https://www.google.com/url?q=https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098743969&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1h-gNRpMpwmU7u34HwBToV\" target=\"_blank\">https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098743969</a>\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community&#39;s values before attending.\n",
-      "startDate": "2026-11-12T18:30:00-05:00",
-      "endDate": "2026-11-12T21:30:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098743969",
-        "original_event_id": "69bpb3817clv4ofqugasbn43pt_20261112T233000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NjlicGIzODE3Y2x2NG9mcXVnYXNibjQzcHRfMjAyNjExMTJUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_0768f5ae",
       "name": "Sewing Machines: How to Make a Tote Bag",
       "type": "hackerspace",
@@ -1114,12 +1061,12 @@
       }
     },
     {
-      "id": "evt_gcal_com_nyc_resistor_d008e9aa",
-      "name": "Hold: TouchDesigner class",
+      "id": "evt_gcal_com_nyc_resistor_2efe786a",
+      "name": "TouchDesigner ESP32s and Sensors!",
       "type": "hackerspace",
       "locationId": "loc_nyc_resistor",
       "communityId": "com_nyc_resistor",
-      "description": "",
+      "description": "RSVP https://www.eventbrite.com/e/touchdesigner-esp32s-and-sensors-tickets-2004801732951\n\nWire a motion sensor to an ESP32 and stream the live data into TouchDesigner over OSC and MQTT. No Arduino experience needed!You'll wire a MPU6050 accelerator and gyroscope to an ESP32, flash a starter sketch, and watch the live numbers land in TouchDesigner in real time over OSC, MQTT, or HTTP.\nOnce the numbers are flowing, the creative side opens up. Tilt the board to spin a particle system, wave your hand scale geometry, or push the temperature reading into a color ramp. The MPU6050 reports seven values, three for acceleration, three for rotation, and one for temperature, and any of them can drive geometry, color, audio, or timing.\nYou leave with the code and the wiring guide, which is everything you need to rebuild it.\n\nWhat you'll do:\n- Wire an MPU6050 to an ESP32 on the I2C bus.\n- Flash the template and join it to the network.\n- Send live accelerometer, gyroscope, and temperature readings into TouchDesigner three ways: OSC, MQTT, and HTTP.\n- Drive visuals with real motion through CHOPs.\n- Toggle each protocol from the dashboard and watch the setting stick across a reboot.\n\nWhat you will learn:\n- How to setup a working ESP32 sensor node with the code.\n- How to use the template repository and wiring guide.\n- How to get data into TouchDesigner to control your visuals.\n\nWho it's for:\nTouchDesigner users who want physical input. The workshop assume no Arduino experience.\nRequirements: Participants should bring a laptop with TouchDesigner and Arduino installed.\n\nInstructor :Bio\nWoody Poulard (aka GRNCH) is a Brooklyn-based artist/musician whose work focuses on generative audio-reactive visual installations and performances. He uses creative coding applications like TouchDesigner to generate real-time visuals, Blender for 3D design, and Ableton for music production. Trained in both audio and mechanical engineering, Woody also makes physical sculptures using digital fabrication techniques like 3D printing, laser cutting, and CNC routing. GRNCH\u2019s visuals use elements of abstract, futuristic, and hypnotic scenery, often paired with his signature sound: dark, cinematic, suspenseful techno and broken beat.\nNo masks required\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\n",
       "startDate": "2026-11-29T14:00:00-05:00",
       "endDate": "2026-11-29T17:00:00-05:00",
       "category": [
@@ -1139,14 +1086,14 @@
         "details": ""
       },
       "capacity": null,
-      "registrationRequired": null,
+      "registrationRequired": true,
       "tags": [],
       "image": "",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=MnUxa2NhcHR1ZW41dnJwanAwbHB2Y2ExODQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw",
-        "original_event_id": "2u1kcaptuen5vrpjp0lpvca184",
+        "source_url": "https://www.eventbrite.com/e/touchdesigner-esp32s-and-sensors-tickets-2004801732951",
+        "original_event_id": "sjh5tnujtngf2klocc2919gdhc",
         "organizer": {
           "name": "NYCResistor",
           "website": "",
@@ -1155,7 +1102,7 @@
         },
         "venue": {
           "name": "",
-          "address": "",
+          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
           "type": "Offline"
         },
         "speakers": [],
@@ -1163,7 +1110,7 @@
         "featured": false,
         "luma_source": false,
         "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MnUxa2NhcHR1ZW41dnJwanAwbHB2Y2ExODQgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=c2poNXRudWp0bmdmMmtsb2NjMjkxOWdkaGMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -3921,7 +3868,60 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=M2IwdXNlYTNpdXFrYmJwZnQwaGwxNDRxdGIgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_a795e9ea",
+      "name": "Public Craft Night Mondays and Thursdays!",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
+      "startDate": "2027-01-25T18:30:00-05:00",
+      "endDate": "2027-01-25T21:30:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098772053",
+        "original_event_id": "0au2lakcl2vb7744hj4vkq52ap_20270125T233000Z",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNzAxMjVUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
     }
   ],
-  "timestamp": "2026-11-12T16:33:56.716675"
+  "timestamp": "2026-11-13T15:53:26.336099"
 }

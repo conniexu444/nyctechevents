@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_e570bd95",
-      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 7",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
-      "startDate": "2026-11-13T00:00:00Z",
-      "endDate": "2026-11-13T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-01575196.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/hx597okp",
-        "original_event_id": "_clr78ba4cpl6qjbjetcj4gibf56nimi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Alex Pinheiro",
-          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Alex Pinheiro",
-          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE0Y3BsNnFqYmpldGNqNGdpYmY1Nm5pbWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_59240598",
       "name": "NYC Physical AI, ML, and Computer Vision Meetup",
       "type": "tech",
@@ -266,6 +212,55 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_bc085654",
+      "name": "Video & Film Creators | Co-Working + Hangout",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-11-16T23:00:00Z",
+      "endDate": "2026-11-17T01:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5l0l6d9ib5b5epaof1pksob58506atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/FmVJmbRqafsq34R48mdV?c=8lSH0kMo",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWwwbDZkOWliNWI1ZXBhb2YxcGtzb2I1ODUwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_5dde804b",
       "name": "Speculative Worldbuilding Seminar (FractalU), Unit 6",
       "type": "tech",
@@ -379,7 +374,7 @@
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "Join us for cozy cafe hour @ fractal \u2615\ufe0f\nThere will be coffee, ambient music, and cozy vibes. come read, write, and cowork with friends. Chatting is recommended in small groups only, like at a cafe. Stickies for intentions and ways to connect will be available.\nthere is a piano and a guitar! if you want to play some ambient music that would be lovely.\npicnic style- pls bring snacks, fruit, baked goods, coffee beans, cider, wine, hot chocolate, chess, tarot, etc.\nfeel free to bring a +1. you don't have to be a fractal member. see you there! \u2728",
+      "description": "Join us for cozy cafe hour @ fractal \u2615\ufe0f\nThere will be coffee, ambient music, and cozy vibes. come read, write, and cowork with friends. Chatting is recommended in small groups only, like at a cafe. Stickies for intentions and ways to connect will be available.\nthere is a piano and a guitar! if you want to play some ambient music that would be lovely.\npicnic style- pls bring snacks, fruit, baked goods, coffee beans, cider, wine, hot chocolate, chess, tarot, etc.\nfeel free to bring a +1. you don't have to be a fractal member. see you there! \u2728\nhttps://partiful.com/e/7xgWT5S7MuTzHfTrQIPW",
       "startDate": "2026-11-19T19:00:00Z",
       "endDate": "2026-11-19T22:00:00Z",
       "category": [
@@ -479,55 +474,6 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOGwzbjBjaGk5MG8zZWdhNDZwYjRpY2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_62f5f0cb",
-      "name": "Video & Film Creators | Co-Working + Hangout (S2E7)",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-11-20T22:30:00Z",
-      "endDate": "2026-11-21T01:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5l94mlif6d478pqd99b6gqrn7506atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/9yZaN3R3bxcL69QqQpuQ?c=kUGb9Eao",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw5NG1saWY2ZDQ3OHBxZDk5YjZncXJuNzUwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -847,6 +793,55 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJoOWQ5bGFnaTNhOTE3ZWdhN2VsaDQ0a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_02d8aa21",
+      "name": "Video & Film Creators | Co-Working + Hangout",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-11-23T23:00:00Z",
+      "endDate": "2026-11-24T01:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5lp54e289pcn0eaq9t14eda86d06atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://partiful.com/e/9yZaN3R3bxcL69QqQpuQ?c=LW3oIqXn",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxwNTRlMjg5cGNuMGVhcTl0MTRlZGE4NmQwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2200,5 +2195,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-12T16:33:56.109482"
+  "timestamp": "2026-11-13T15:53:25.804788"
 }

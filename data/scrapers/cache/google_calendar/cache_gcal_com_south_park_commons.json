@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_south_park_commons_a843be06",
-      "name": "Fireside Chat with Tanay Kothari, Wispr Flow",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_south_park_commons",
-      "description": "South Park Commons is excited to host Tanay Kothari, co-founder & CEO of Wispr (and SPC alum) for a fireside chat.\nEvent Details\n3:00pm: Doors Open\n3:30-4:30pm: Fireside Chat\nTanay Kothari is the co-founder and CEO of Wispr and Wispr Advanced Interfaces Lab. A four-time founder, he launched FeatherX, an AI personalization startup for online stores, while still in college. After it was acquired by Cerebra Technologies, he joined the company to lead engineering and product. Earlier, he built Convert, a music discovery platform that grew to more than 2.5 million organic monthly active users.\n\nTanay holds a bachelor\u2019s degree in Computer Science and a master\u2019s degree in Artificial Intelligence from Stanford, where he taught the university\u2019s Deep Learning course alongside Prof. Andrew Ng and published research at the Stanford AI Lab. He also served as President of the Stanford Venture Capital Club for three years. In 2023, he was named to the Forbes 30 Under 30 list.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
-      "startDate": "2026-11-12T23:00:00Z",
-      "endDate": "2026-11-13T00:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "learning",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-c5c19c23.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/tanay-kothari-spc",
-        "original_event_id": "_clr78baqe52j8lid6dnjgj3n95b4mea0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "South Park Commons",
-          "website": "https://luma.com/southparkcommons-events",
-          "instagram": "",
-          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "San Francisco, California",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "South Park Commons",
-          "url": "https://luma.com/southparkcommons-events",
-          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFxZTUyajhsaWQ2ZG5qZ2ozbjk1YjRtZWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_south_park_commons_11ea5f96",
       "name": "SPC Energy Forum: Fireside with Garth Sheldon-Coulson, Co-Founder and CEO of Panthalassa",
       "type": "technology",
@@ -217,5 +163,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-12T16:33:59.372151"
+  "timestamp": "2026-11-13T15:53:27.858694"
 }
