@@ -1,59 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_0768f5ae",
-      "name": "Sewing Machines: How to Make a Tote Bag",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "<a href=\"https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2003614910132\">https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2003614910132</a><br><br><br><br><p>Absolute beginners are welcome. Learn how to thread and use a Sewing Machine. Make a Tote bag at NYC Resistor!</p><br><br><p>Learn how to properly operate a sewing machine and make a tote bag. We will cover the basics. This class is designed for absolute beginners.</p><ul><li>How a sewing machine works.</li><li>How to thread a sewing machine.</li><li>Types of stitches.</li><li>Stretch vs Non-stretch Fabrics.</li><li>Make a liner (the inside outs).</li><li>Secure your stitches.</li><li>Sewing trouble shooting.</li></ul><p>We will be using fabric that has been donated to NYC Resistor, but if you would like to bring your own it is encouraged!</p><p>This class is taught by NYC Resistor member: Olivia founder of\u00a0<a href=\"https://www.makephilia.com/\" target=\"_blank\"><u>Makephilia Workshops</u></a>.</p><p>As with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at\u00a0<a href=\"https://www.nycresistor.com/code-of-conduct/\" target=\"_blank\"><u>www.nycresistor.com/participate/</u></a>. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.</p><p>This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.</p>",
-      "startDate": "2026-11-13T18:00:00-05:00",
-      "endDate": "2026-11-13T21:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2003614910132",
-        "original_event_id": "5bj4ci3aifqfqrmv2k6ibks541",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor, 87 3rd Ave, Brooklyn, NY 11217, USA",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NWJqNGNpM2FpZnFmcXJtdjJrNmlia3M1NDEgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_55e8008b",
       "name": "Make Along: Make a Pinhole Polaroid Camera from a Beer or Soda Can!",
       "type": "hackerspace",
@@ -3923,5 +3870,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-13T15:53:26.336099"
+  "timestamp": "2026-11-14T14:43:07.326362"
 }

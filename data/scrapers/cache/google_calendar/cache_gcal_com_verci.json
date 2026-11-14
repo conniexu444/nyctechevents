@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_5c126de6",
-      "name": "Diwali Party @ Verci",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Find more information on https://luma.com/verci",
-      "startDate": "2026-11-14T00:00:00Z",
-      "endDate": "2026-11-14T04:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/verci",
-        "original_event_id": "_cdgmopbm5l9kahj16ks34cqee5l56r2f9l06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/QHQ8W76zPWf39Zzo4eIp",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw5a2FoajE2a3MzNGNxZWU1bDU2cjJmOWwwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_7ef97abb",
       "name": "NYC K-Pop Creator & Community Mixer",
       "type": "technology",
@@ -207,6 +158,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_dfcbe905",
+      "name": "creative parallel play",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Our creative book club is evolving :)\n\nAs we continue to grow as artists and practice the lessons in the book, I think it\u2019s time for this book club to evolve and transition into new formats:\nweekly co-creating session, where we work on our arts together and separately (think parallel play? But also small exercises to share with each other? skill sharing?)\nsometimes movie club? We can watch some movies together that inspire you to make art\nweekly show and tell + accountability for what we are working on\nfuture book club again (?) potential new titles include the creative act by Rick Rubin\ntopic of your choosing! Please feel free to propose and lead your own creative play session\nPlease also feel free to also invite other folks who might be interested in creating, crafting, or hanging out together. \n\nWe are meeting on Verci 9th floor in the couch area. \n\nFor this upcoming Monday, we are doing a bit of creative parallel play. Bring your own creative medium, or I will also bring some craft supplies with some generative prompts! see you soon :)",
+      "startDate": "2026-11-17T00:00:00Z",
+      "endDate": "2026-11-17T01:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-046a12a1.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/n91sf2cf",
+        "original_event_id": "_clr78b9n6t4mag9o8djj8hidctom4ka0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Hazel",
+          "website": "https://luma.com/user/hazel",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Hazel",
+          "url": "https://luma.com/user/hazel",
+          "image": "https://images.lumacdn.com/avatars/fa/9d30cbf1-66ee-49de-a4d6-7e19e2e12c5d.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluNnQ0bWFnOW84ZGpqOGhpZGN0b200a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_203d5d3f",
       "name": "Build a Digital Hairclips or Nametag (and take it home)",
       "type": "technology",
@@ -261,7 +266,7 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "Stop by for breakfast! Starting from 8:30-10am. Coffee, bagels, smoothies, etc., yum.\n\nDietary restrictions due by friday (11/13).",
+      "description": "Stop by for breakfast! Starting from 8:30-10am. Coffee, bagels, smoothies, etc., yum.\n\nDietary restrictions due by friday (11/13) at 3pm.",
       "startDate": "2026-11-17T13:30:00Z",
       "endDate": "2026-11-17T15:30:00Z",
       "category": [
@@ -835,6 +840,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_321bf0ec",
+      "name": "Book Club: The Beauty of the Husband",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Monday, December 14, 7\u20139pm\nWe\u2019re reading The Beauty of the Husband: A Fictional Essay in 29 Tangos by Anne Carson.\nCarson is a Canadian poet and classicist who won the 2026 Nobel Prize in Literature. She writes about love and desire by pulling the ancient Greeks into the present, and this one is her take on a marriage, told as 29 tangos. It\u2019s short, and it\u2019s strange.\nPlease come having read the whole book. We\u2019ll be talking about all of it. Expect close reading and thematic analysis.\n\nWhat is marriage book club? An experimental social club for marriage, in New York City. Think book club, but for all kinds of media: books, film, TV, music, all kinds of media about what marriage is and what it does. Open to married, queer, engaged, long-term committed, or anyone who thinks about marriage. This is Edition 001.",
+      "startDate": "2026-12-15T00:00:00Z",
+      "endDate": "2026-12-15T01:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-de836256.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/jeexm22a",
+        "original_event_id": "_clr78ba58h278u3n6tm48gi895gl2ua0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Hazel",
+          "website": "https://luma.com/user/hazel",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Hazel",
+          "url": "https://luma.com/user/hazel",
+          "image": "https://images.lumacdn.com/avatars/fa/9d30cbf1-66ee-49de-a4d6-7e19e2e12c5d.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE1OGgyNzh1M242dG00OGdpODk1Z2wydWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_8f49db5d",
       "name": "Into the Islands: Verci & Pearl Philippines",
       "type": "technology",
@@ -943,5 +1002,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-13T15:53:36.700430"
+  "timestamp": "2026-11-14T14:43:17.076969"
 }

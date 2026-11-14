@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_59240598",
-      "name": "NYC Physical AI, ML, and Computer Vision Meetup",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Join us in New York on November 13th for the NYC Physical AI, ML, and Computer Vision Meetup, co-presented by Nebius and Voxel51.\nThe evening features lightning talks from local speakers working across AI, machine learning, and computer vision, followed by networking, food, and drinks.\nTalks will include:\nClosing the human to robot gap for dexterous hands \u2014 Irmak Guzey at New York University\nBuilding Real-World Computer Vision Systems with Voxel51 \u2014 Dan Gural at Voxel51\nBeyond Frames: Searching Hours of Footage with One Natural-Language Query \u2014 Yash Gugale at TwelveLabs\nLearning the Geometry of Compression: OrBIT \u2014 Yunied Puig de Dios at Independent\nWhy Aren't Robots Everywhere Yet? An Introduction to Physical AI - Dhruv Diddi at Nebius\nLocation: Fractal, 111 Conselyea St, Fl 2, Brooklyn, NY 11211 (Williamsburg - 3 min from the Lorimer St L/Metropolitan Ave G stop).\nBy submitting, you agree to Voxel51's Terms of Service and Privacy Policy and agree to receive occasional emails.",
-      "startDate": "2026-11-13T22:30:00Z",
-      "endDate": "2026-11-14T01:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e88537b0.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-physical-ai-ml-and-computer-vision-meetup-nov",
-        "original_event_id": "_clr78ba8e1k4mq28b5s54uhkd566ooa0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Voxel51 Events",
-          "website": "https://luma.com/voxel51",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Voxel51 Events",
-          "url": "https://luma.com/voxel51",
-          "image": "https://images.lumacdn.com/calendars/dx/70e8722e-d48b-4acc-a4a1-6e93a0977bef.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4ZTFrNG1xMjhiNXM1NHVoa2Q1NjZvb2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_2cc5a680",
-      "name": "Hearth Community Friendsgiving",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Join Hearth (www.discoverhearth.org) and friends for our first annual community Friendsgiving dinner across NYC!  We'll have good people, food (potluck-style), games, and gratitudes. On sign-up, please note if you have any dietary restrictions. We will have multiple apartments hosting Friendsgiving across the city; we'll match you to the location closest to you with availability.  What is Hearth? Hearth is a new IRL, consistent community for deeper conversations and connections. Learn more at: www.discoverhearth.org",
-      "startDate": "2026-11-13T22:30:00Z",
-      "endDate": "2026-11-14T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-471f9168.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/4kxborhk",
-        "original_event_id": "_clr78bbef1rmuk2eed66sci69co4qja0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Hearth Team",
-          "website": "https://luma.com/user/usr-y0PDIOnEPE3ceru",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Hearth Team",
-          "url": "https://luma.com/user/usr-y0PDIOnEPE3ceru",
-          "image": "https://images.lumacdn.com/uploads/xa/a2491821-08a7-4445-8dad-38ee0ddc8df7.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJlZjFybXVrMmVlZDY2c2NpNjljbzRxamEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_87640944",
       "name": "Private Event",
       "type": "tech",
@@ -2195,5 +2087,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-13T15:53:25.804788"
+  "timestamp": "2026-11-14T14:43:06.752911"
 }
