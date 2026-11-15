@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_87640944",
-      "name": "Private Event",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Get up-to-date information at: https://luma.com/nyc-n7p4\n\nAddress:\nFractal Tech, 111 Conselyea St Fl 2, Brooklyn, NY 11211, USA\n\nHosted by Liam Duffy",
-      "startDate": "2026-11-14T15:00:00Z",
-      "endDate": "2026-11-14T20:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e0bfcd4c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-n7p4",
-        "original_event_id": "_clr78bba71b7ec3p8hk6gmj1a0q5eui0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "https://luma.com/nyc-tech",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Fractal Campus NYC",
-          "url": "https://luma.com/nyc-tech",
-          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJhNzFiN2VjM3A4aGs2Z21qMWEwcTVldWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_687c11f5",
       "name": "fractal brunch",
       "type": "tech",
@@ -738,7 +684,7 @@
     },
     {
       "id": "evt_gcal_com_fractal_d44d5d18",
-      "name": "Context Engineering Guild of NYC: November Edition",
+      "name": "Context Engineering Guild of New York City: November Edition",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
@@ -1440,7 +1386,7 @@
     },
     {
       "id": "evt_gcal_com_fractal_966d72fb",
-      "name": "Context Engineering Guild: December Edition",
+      "name": "Context Engineering Guild of New York City: December Edition",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
@@ -2087,5 +2033,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-14T14:43:06.752911"
+  "timestamp": "2026-11-15T15:11:20.059306"
 }

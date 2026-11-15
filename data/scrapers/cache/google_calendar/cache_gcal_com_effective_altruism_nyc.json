@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_25b51972",
-      "name": "Happy birthday, Giving What We Can!",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "Giving What We Can was officially founded on November 14th, 2009. Every anniversary represents a few hundred more people (and in the future, perhaps even larger numbers) who have committed a substantial fraction of their income to helping others effectively. Huzzah!",
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-15",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=Nm0ycmVzNjVrdHI2ZGZmNzdlNm9scGFuYzVfMjAyNjExMTQgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
-        "original_event_id": "6m2res65ktr6dff77e6olpanc5_20261114",
-        "organizer": {
-          "name": "Effective Altruism NYC Events",
-          "website": "",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=Nm0ycmVzNjVrdHI2ZGZmNzdlNm9scGFuYzVfMjAyNjExMTQgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_be2cb560",
       "name": "Special Speaker Event Sean Mayberry",
       "type": "effective altruism",
@@ -744,7 +695,56 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=M2Jwbjk3ZDNwNWVxYzZuMzdmdWtyYm1zdjBfMjAyNzExMDEgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
       }
+    },
+    {
+      "id": "evt_gcal_com_effective_altruism_nyc_9a554e70",
+      "name": "Happy birthday, Giving What We Can!",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "Giving What We Can was officially founded on November 14th, 2009. Every anniversary represents a few hundred more people (and in the future, perhaps even larger numbers) who have committed a substantial fraction of their income to helping others effectively. Huzzah!",
+      "startDate": "2027-11-14",
+      "endDate": "2027-11-15",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": null,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.google.com/calendar/event?eid=Nm0ycmVzNjVrdHI2ZGZmNzdlNm9scGFuYzVfMjAyNzExMTQgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw",
+        "original_event_id": "6m2res65ktr6dff77e6olpanc5_20271114",
+        "organizer": {
+          "name": "Effective Altruism NYC Events",
+          "website": "",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=Nm0ycmVzNjVrdHI2ZGZmNzdlNm9scGFuYzVfMjAyNzExMTQgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
     }
   ],
-  "timestamp": "2026-11-14T14:42:49.730715"
+  "timestamp": "2026-11-15T15:11:02.912846"
 }
