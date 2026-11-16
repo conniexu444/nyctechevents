@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_687c11f5",
-      "name": "fractal brunch",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-11-15T16:00:00Z",
-      "endDate": "2026-11-15T17:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5lh7kg9hcko6cqq2chimgdapah06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/G1e75P7bURaQBC5cyRYG?c=zx9IgWQj",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxoN2tnOWhja282Y3FxMmNoaW1nZGFwYWgwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_bc085654",
       "name": "Video & Film Creators | Co-Working + Hangout",
       "type": "tech",
@@ -477,6 +428,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_5cf18785",
+      "name": "SMART LIFE Experience | Life Design + AI to begin 2027 with a clear direction",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "What would it feel like to begin 2027 with a clearer direction, meaningful priorities, and women around you who are also building more intentional lives?\nWe invite you to join us for a morning in NYC, with brunch and a relaxed workshop on Life Design and artificial intelligence. A space to pause, look at your life with intention and method, and learn how to use AI to put your plans into action.\nIf you are thinking about your next step, navigating a transition, or ready to step out of autopilot and make more room for your own projects, this experience will help you find clarity and practical ways to use AI to support your plans in everyday life.\n\nWhat to expect\nWe\u2019ll gather a small group over brunch for meaningful conversation and a chance to connect with ambitious women who have challenged themselves and want to build more intentional lives and a supportive community.\nThe brunch will be followed by two guided sessions with Thaysa Starling and Mayumi Tha\u00eds. Through the Smart Life Method (@Smart.life360), the experience brings together Life Design, strategic reflection, community, and AI.\nLife Design\nLife Design applies design-thinking principles to life. Popularized by Stanford professors, the approach helps people explore possibilities and continuously shape their personal and professional lives.\nThrough guided reflection, you\u2019ll make sense of 2026, recognize what gave you energy, decide what to carry forward and what to leave behind, and begin shaping what comes next.\nYou\u2019ll define meaningful priorities and a clearer direction for 2027.\nArtificial Intelligence\nWe\u2019ll explore what AI can already do and what changes when it understands your personal context.\nInstead of functioning only as a search tool, AI can become a thought and accountability partner that helps you organize priorities, make decisions, break plans into manageable steps, and follow through on what matters.\nYou\u2019ll explore practical ways to use AI in your daily life and turn what you defined during the Life Design session into realistic actions that fit your routine.\nPlease bring your laptop. No previous AI experience is required, and you do not need to arrive with everything figured out.\nYou\u2019ll leave with\nA clearer perspective on the year you lived\nA personal direction and meaningful priorities for 2027\nPractical ways to use AI to support your plans\nNew connections with an inspiring community of women\n\nExclusive gathering \u2022 Limited seats \u2022 Pocket edition\nWhen: Sunday, November 22, 10:30 AM-2 PM.\nWhere: Brooklyn, NYC (Full address after confirmation)\nInvestment: $90 per person, including the Smart Life Method experience, all materials, and brunch.\n\n> If you bring a friend, $70 per person.\nSeats are limited to keep the gathering personal.\nRegistration\nYour seat is confirmed once payment is received.\nZelle: 8022758227\nAfter completing the payment, please send the confirmation via WhatsApp to +55 34 99113-0207 or by text to +1 802-275-8227. (Thaysa)\nIf you have any questions, feel free to contact Thaysa.\n\nWe would love to share this morning with you!\n\nAbout Smart Life 360\nSmart Life 360 helps women step out of autopilot and design their lives with greater clarity, intention, and balance.\nThe Smart Life Method brings together self-awareness, strategy, action, and continuous evolution. Through Life Design, meaningful human connection, and AI, it helps transform what matters into clearer choices, realistic priorities, and actions that fit into everyday life.\nAbout the Smart Life facilitators\nThaysa Starling is an entrepreneur who is passionate about combining humanity with efficiency. She has intentionally shaped the life she lives today. Based in New York, she leads a customer experience and artificial intelligence company, mentors business and customer experience at Columbia University, and runs in her free time.\nDriven by curiosity about people, cultures, art, and new ways of living and working, Thaysa combines strategy, technology, and a human perspective to turn ideas into action and problems into innovation.\nMayumi Tha\u00eds is a design strategist working at the intersection of design, experience, and technology. She spent more than eight years between California and New York, working at Gensler, the world\u2019s largest architecture, design, and consulting firm, where she designed experiences for companies and brands.\nShe began an M.S. in Emerging Technologies at NYU and now applies the same design process to the most important project of all: her own life. Through Smart Life, she helps others do the same. She thinks in systems, plays pickleball, and documents what inspires her in her visual diary, @mayumi.pov.\nTogether, Thaysa and Mayumi explore the world of well-being and the challenge of balancing ambition, presence, and a fulfilling life. They believe technology is most meaningful when it creates more space for what truly matters, and this is the perspective they bring to Smart Life.",
+      "startDate": "2026-11-22T15:30:00Z",
+      "endDate": "2026-11-22T19:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-44222e40.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/gznvv1ul",
+        "original_event_id": "_clr78ba885d6oeb3a0r4ah3bd5d7kki0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Thaysa Starling",
+          "website": "https://luma.com/user/usr-wiiQnEApb44Bk57",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Thaysa Starling",
+          "url": "https://luma.com/user/usr-wiiQnEApb44Bk57",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_46.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4ODVkNm9lYjNhMHI0YWgzYmQ1ZDdra2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_0b1a10f7",
       "name": "fractal brunch",
       "type": "tech",
@@ -531,7 +536,7 @@
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
-      "description": "This is a social event hosted for jhana meditators and those who are curious about jhana meditation. During the meeting we will meditate but there will be no instruction; you're welcome to meditate however you like or to sit quietly for an hour.\n\nPlease bring food and drinks to share. Paper cups, plates, bowls, utensils, and napkins will be provided.\nMeditation cushions will not be provided.  Please bring whatever you need to make yourself comfortable.  We will be meeting in The Lounge.\nDIRECTIONS\nThere are two grey doors at the address. Enter the one on the RIGHT (to the right of Savino's Quality Pasta) and proceed straight up the stairs to the second floor.",
+      "description": "This is a social event hosted for jhana meditators and those who are curious about jhana meditation. During the meeting we will meditate but there will be no instruction; you're welcome to meditate however you like or to sit quietly for an hour.\n\nThere are a few meditation cushions but not enough for everyone.  Please bring whatever you need to make yourself comfortable.  We will be meeting in The Lounge.\nDIRECTIONS\nThere are two grey doors at the address. Enter the one on the RIGHT (to the right of Savino's Quality Pasta) and proceed straight up the stairs to the second floor.",
       "startDate": "2026-11-22T19:00:00Z",
       "endDate": "2026-11-22T23:00:00Z",
       "category": [
@@ -2033,5 +2038,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-15T15:11:20.059306"
+  "timestamp": "2026-11-16T17:46:30.963001"
 }

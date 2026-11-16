@@ -1,112 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_nyc_resistor_ae17a40d",
-      "name": "Learn to Use a Laser Cutter to Cut and Etch Your Own Designs",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/learn-to-use-a-laser-cutter-to-cut-and-etch-your-own-designs-tickets-2003478594408\n\nHarness the power of an Epilog 60 Watt Laser! In this class you&#39;ll learn everything you need.Harness the power of an Epilog 60 Watt Laser! In this class you'll learn everything you need to know to make the ideas in your head become a reality with a laser.\nIn this three hour class, you will learn:\nHow to set up a file for cutting on the laser cutter in Inkscape or Adobe Illustrator.Laser cutter safety including materials testing.Laser cutter operation including configuration, cuts and raster etching in common materials like wood, acrylic, cardboard and others.At the end of class, you will go home with:\nOne laser cut project, either the class default or a simple one of your own design (see below for details)Resistor Laser Certification, enabling you to use our laser on Craft Nights.Please bring the following to class:\nA laptop with either Inkscape (free: download here: https://inkscape.org/release/inkscape-1.2.1/) or Adobe Illustrator installed.\nA USB jump drive\nThe following items are optional if you'd like to try cutting a simple custom design. If your file ends up being too complicated, we may have you do the class default project first, just to learn the laser in the time allotted - but we'll definitely help you with your more complex cut at a free Craft Night in future!\nAn SVG vector file of a simple shape you'd like to cut for your first cut.A piece of 1/8 inch or thinner wood, acrylic or cardboard you'd like to cut. If you can't bring your own material, small pieces will be made available, or larger pieces for purchase on site.Please be on time for the start of class! If you're late you will miss your slot.\nThis class will be taught by NYC Resistor member Woody. As with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\nPlease note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-11-15T13:00:00-05:00",
-      "endDate": "2026-11-15T16:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/learn-to-use-a-laser-cutter-to-cut-and-etch-your-own-designs-tickets-2003478594408",
-        "original_event_id": "0g6mk2agh5svc88cj6lqo89vds",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MGc2bWsyYWdoNXN2Yzg4Y2o2bHFvODl2ZHMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_c0de1d3f",
-      "name": "Computer Programming for Absolute Beginners (in Python)",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/computer-programming-for-absolute-beginners-in-python-tickets-2003610794823\n\nThis tutorial for absolute beginners goes through basic programming concepts, Python syntax, and a few fun programs along the way.It's time to stop putting it off. You know that Python is a powerful language with a huge ecosystem and friendly community. Maybe you've dabbled with some tutorials before, but it never quite stuck. It's time to join some fellow beginners and learn to program in the Python programming language. This tutorial for absolute beginners go through basic programming concepts, Python syntax, and a few fun programs along the way. It's not a math-heavy hacker challenge; just the sensible foundation concepts heavy with examples. If you've started and stopped learning to code before, or never got around to starting at all, sign up for this tutorial and start on a strong step. You'll end with a set of tools, the knowledge of where to go next, and the confidence to continue your programming journey.This tutorial is presented by Al Sweigart, author of Automate the Boring Stuff with Python and several other Python books. All of his books are freely available under a Creative Commons license at https://inventwithpython.com.This tutorial is for complete beginners with no programming experience. You will need a laptop with Python installed (it is free from Python.org). You will need to install a code editor: I recommend Mu for free from https://codewith.mu/. Course materials are at https://inventwithpython.com/pyconus2026/.Attendees will get a printed workbook that we'll work through during the class. You'll be able to take it home for self-completion and review.\nThere are 2 spots reserved for people who cannot access the class at the full price, so please make use of one of these pay-what-you-can tickets if that is your situation. Checkout Code: 4-ACCESSTIX\nThis is a masks optional class.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
-      "startDate": "2026-11-15T18:30:00-05:00",
-      "endDate": "2026-11-15T22:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/computer-programming-for-absolute-beginners-in-python-tickets-2003610794823",
-        "original_event_id": "fauon0kgmcksg3jre6kbmv8n6c",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYCResistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=ZmF1b24wa2dtY2tzZzNqcmU2a2JtdjhuNmMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_nyc_resistor_8fe6bfe5",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -902,6 +796,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_b88941cb",
+      "name": "Still Life Painting: MASK REQUIRED",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/still-life-painting-mask-required-tickets-2004868294037\n\nBeginner friendly, guided Still Life Painting session: Masks RequiredThis will be a beginner friendly, guided still life painting session. A simple still life reference will be set up for the class to paint. Materials included will be 8x10\u201d canvas, acrylic paint, &amp; painting materials (brushes/palettes/etc) but feel free to byo art supplies. All experience levels are welcome!\n\nThis is a MASK REQUIRED event.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/.\n",
+      "startDate": "2026-11-29T11:00:00-05:00",
+      "endDate": "2026-11-29T13:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/still-life-painting-mask-required-tickets-2004868294037",
+        "original_event_id": "85dfjs55t0s6caogale62qs90s",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=ODVkZmpzNTV0MHM2Y2FvZ2FsZTYycXM5MHMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_2efe786a",
       "name": "TouchDesigner ESP32s and Sensors!",
       "type": "hackerspace",
@@ -1058,6 +1005,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNjEyMDJUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_037105d1",
+      "name": "Soldering Workshop: Make an LED Tile",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2004867478598\n\nSoldering is one of the most important skills you&#x27;ll need for working with electronics. Come join us for an introductory through-hole solderSoldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole soldering workshop. Soldering enables you to create sturdy connections between electrical components. In this hands-on workshop, you'll learn how to use a soldering iron safely and effectively, and get plenty of practice with both soldering and de-soldering techniques. We'll be soldering up some Game of Life kits - LED tiles that generate nifty animations. No previous experience is required, making this introductory workshop a great choice for anyone who's curious about getting started with hardware tinkering! All materials will be provided.\nOK, awesome, I want to join!\nPlease be ready to start at 6pm! We find that you will need this time to get through the whole class. Our classes tend to sell out about a week in advance so if you're interested, you may want to sign up early.\nThis class will be taught by Resistor member Olivia aka Makephilia.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-12-02T18:00:00-05:00",
+      "endDate": "2026-12-02T21:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2004867478598",
+        "original_event_id": "ghv2v2ge5rd389i75n41e620t8",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=Z2h2MnYyZ2U1cmQzODlpNzVuNDFlNjIwdDggcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -1856,6 +1856,59 @@
       }
     },
     {
+      "id": "evt_gcal_com_nyc_resistor_90b0f23b",
+      "name": "Make Along: Make a Pinhole Polaroid Camera from a Beer or Soda Can!",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/make-along-make-a-pinhole-polaroid-camera-from-a-beer-or-soda-can-tickets-2004867969065\n\nLearn how to make a pinhole polaroid camera with stuff you can find around the house, but don&#x27;t worry, we&#x27;ll provide all the materials.Together we will make pinhole cameras from two cans. Cans will be provided or you can bring your own favorite cans. You can use this camera with 4x5 film or polaroids or long exposure non silver based emulsion. If you love making equipment from trash you will love this class. We will discuss long exposure reciprocity failure, light metering apps, and how a pinhole camera works.\nThis class will be taught by Resistor member Olivia aka Makephilia.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/code-of-conduct/. Please note that refunds must be requested 72 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-12-13T15:00:00-05:00",
+      "endDate": "2026-12-13T18:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/make-along-make-a-pinhole-polaroid-camera-from-a-beer-or-soda-can-tickets-2004867969065",
+        "original_event_id": "ga4kld38g4nfkpp1g247tjt6lo",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYCResistor\n87 3rd Ave\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=Z2E0a2xkMzhnNG5ma3BwMWcyNDd0anQ2bG8gcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_nyc_resistor_2e09615a",
       "name": "Public Craft Night Mondays and Thursdays!",
       "type": "hackerspace",
@@ -2118,6 +2171,59 @@
         "luma_source": false,
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=NG9rNjI0YjQyb3ZiY3I2ZW9wZHVtaDQzYW4gcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
+      }
+    },
+    {
+      "id": "evt_gcal_com_nyc_resistor_3517ec55",
+      "name": "Sewing Machines: How to Make a Tote Bag",
+      "type": "hackerspace",
+      "locationId": "loc_nyc_resistor",
+      "communityId": "com_nyc_resistor",
+      "description": "RSVP https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2004867831654\n\nAbsolute beginners are welcome. Learn how to thread and use a Sewing Machine.  Make a Tote bag at NYC Resistor!Learn how to properly operate a sewing machine and make a tote bag. We will cover the basics. This class is designed for absolute beginners.\nHow a sewing machine works.How to thread a sewing machine.Types of stitches.Stretch vs Non-stretch Fabrics.Make a liner (the inside outs).Secure your stitches.Sewing trouble shooting.We will be using fabric that has been donated to NYC Resistor, but if you would like to bring your own it is encouraged!\nThis class is taught by NYC Resistor member: Olivia founder of Makephilia Workshops.\nAs with all NYC Resistor events, this class is 18+ and governed by our Code of Conduct. The Code of Conduct, as well as accessibility information, can be found at www.nycresistor.com/participate/. Please note that refunds must be requested 24 hours in advance. If you have any questions, please email classes@nycresistor.com.\nThis program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council.\n",
+      "startDate": "2026-12-18T18:00:00-05:00",
+      "endDate": "2026-12-18T21:00:00-05:00",
+      "category": [
+        "hackerspace",
+        "maker",
+        "hardware",
+        "electronics",
+        "laser cutting",
+        "3d printing",
+        "microcontrollers",
+        "robotics"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": true,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2004867831654",
+        "original_event_id": "5ht5hqk8dbkc3vm7059kpg7efs",
+        "organizer": {
+          "name": "NYCResistor",
+          "website": "",
+          "instagram": "",
+          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": false,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=NWh0NWhxazhkYmtjM3ZtNzA1OWtwZzdlZnMgcDJtMmF2OWRocmg0bjF1YjdqbHNjNjhzN29AZw"
       }
     },
     {
@@ -3762,113 +3868,7 @@
         "luma_host": null,
         "google_calendar_link": "https://www.google.com/calendar/event?eid=MGF1Mmxha2NsMnZiNzc0NGhqNHZrcTUyYXBfMjAyNzAxMjVUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
       }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_24c69688",
-      "name": "Resistor Tuesday Members Meeting",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "See the #members voice channel on discord.",
-      "startDate": "2027-01-26T20:00:00-05:00",
-      "endDate": "2027-01-26T21:00:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": null,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNzAxMjdUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn",
-        "original_event_id": "p4f1001anp1giijk0ij2m636v1_20270127T010000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "87 3rd Ave",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=cDRmMTAwMWFucDFnaWlqazBpajJtNjM2djFfMjAyNzAxMjdUMDEwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
-    },
-    {
-      "id": "evt_gcal_com_nyc_resistor_025e4047",
-      "name": "Public Craft Night Mondays and Thursdays!",
-      "type": "hackerspace",
-      "locationId": "loc_nyc_resistor",
-      "communityId": "com_nyc_resistor",
-      "description": "RSVP https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098753999\n\nLearn, make and share at NYC Resistor (all events18+)Note this event is 18+\nWelcome to Craft Night! Masks are now OPTIONAL at all our Craft Nights, Mondays and Thursdays. Your RSVP here is much appreciated so we can notify you of any covid contact after the fact, but is not required. Come on out, bring your freinds, and stay safe out there! Looking for a masks-on version of Craft Night? Check out Masks-On Craft Night!\nNYC Resistor is open to the public for Craft Nights every Monday and Thursday from 6:30-9:30 PM! Come bring your current crafting project and work on it with other artists, crafters, and makers of all kinds. Resistors do everything from costumes to electronics to visual arts to woodworking; people and crafting projects of all sorts are enthusiastically welcome. We are a proactively inclusive space, and prioritize creating opportunities for the whole community to engage with our events, across all identities of race, creed, ethnicity, age, religion, gender, gender identity, sexual orientation, physical appearance, and ability; please read our Code of Conduct to familiarize yourself with our community's values before attending.\n",
-      "startDate": "2027-01-28T18:30:00-05:00",
-      "endDate": "2027-01-28T21:30:00-05:00",
-      "category": [
-        "hackerspace",
-        "maker",
-        "hardware",
-        "electronics",
-        "laser cutting",
-        "3d printing",
-        "microcontrollers",
-        "robotics"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": true,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098753999",
-        "original_event_id": "4vbnp72drs0pjr7v410muh3di4_20270128T233000Z",
-        "organizer": {
-          "name": "NYCResistor",
-          "website": "",
-          "instagram": "",
-          "email": "p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "NYC Resistor\n87 Third Avenue\nBrooklyn, NY 11217",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": false,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=NHZibnA3MmRyczBwanI3djQxMG11aDNkaTRfMjAyNzAxMjhUMjMzMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn"
-      }
     }
   ],
-  "timestamp": "2026-11-15T15:11:20.687511"
+  "timestamp": "2026-11-16T17:46:31.465502"
 }
