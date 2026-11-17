@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_dfcbe905",
-      "name": "creative parallel play",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Our creative book club is evolving :)\n\nAs we continue to grow as artists and practice the lessons in the book, I think it\u2019s time for this book club to evolve and transition into new formats:\nweekly co-creating session, where we work on our arts together and separately (think parallel play? But also small exercises to share with each other? skill sharing?)\nsometimes movie club? We can watch some movies together that inspire you to make art\nweekly show and tell + accountability for what we are working on\nfuture book club again (?) potential new titles include the creative act by Rick Rubin\ntopic of your choosing! Please feel free to propose and lead your own creative play session\nPlease also feel free to also invite other folks who might be interested in creating, crafting, or hanging out together. \n\nWe are meeting on Verci 9th floor (not 12!!) in the couch area. \n\nFor this upcoming Monday, we are doing a bit of creative parallel play. Bring your own creative medium, or I will also bring some craft supplies with some generative prompts! see you soon :)",
-      "startDate": "2026-11-17T00:00:00Z",
-      "endDate": "2026-11-17T01:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-046a12a1.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/n91sf2cf",
-        "original_event_id": "_clr78b9n6t4mag9o8djj8hidctom4ka0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Hazel",
-          "website": "https://luma.com/user/hazel",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Hazel",
-          "url": "https://luma.com/user/hazel",
-          "image": "https://images.lumacdn.com/avatars/fa/9d30cbf1-66ee-49de-a4d6-7e19e2e12c5d.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjluNnQ0bWFnOW84ZGpqOGhpZGN0b200a2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_d1208dd7",
-      "name": "Satellite Breakfast",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "Stop by for breakfast! Starting from 8:30am. Coffee, bagel sandwiches, smoothies, yum.\n\nDietary restrictions due by friday (11/13) at 3pm.",
-      "startDate": "2026-11-17T13:30:00Z",
-      "endDate": "2026-11-17T15:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-0636dada.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/i8k2pvda",
-        "original_event_id": "_clr78bag857k8iiga9ln4cr971ajcri0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFnODU3azhpaWdhOWxuNGNyOTcxYWpjcmkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_ed183725",
       "name": "Verci Movie Club",
       "type": "technology",
@@ -217,14 +109,14 @@
       }
     },
     {
-      "id": "evt_gcal_com_verci_c85a72f6",
-      "name": "DETENTION Comedy - Tea Room Debut",
+      "id": "evt_gcal_com_verci_18226581",
+      "name": "DETENTION COMEDY - Tea Room Debut",
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "Find more information on https://luma.com/verci",
-      "startDate": "2026-11-20T00:00:00Z",
-      "endDate": "2026-11-20T01:45:00Z",
+      "description": "An intimate comedy show in the perfect room in Flatiron. Hosted at a creative co-working space. Free drinks and snacks, killer lineup with comedians from Dont Tell, Comedy Cellar, and Netflix.",
+      "startDate": "2026-11-20T00:30:00Z",
+      "endDate": "2026-11-20T02:00:00Z",
       "category": [
         "technology",
         "innovation",
@@ -232,37 +124,42 @@
         "community"
       ],
       "price": {
-        "amount": 0,
-        "type": "Free",
+        "amount": 25.0,
+        "type": "Paid",
         "currency": "USD",
-        "details": ""
+        "details": "General Admission"
       },
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "",
+      "image": "events/luma-event-53d57194.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
-        "source_url": "https://luma.com/verci",
-        "original_event_id": "_cdgmopbm5l872jap91hkgpb79d16ehabd106atj5dpq76bjcekn6qo8",
+        "source_url": "https://luma.com/verci-xe0n",
+        "original_event_id": "_clr78ba38hsk4qi699h66gqjddcj2s20clr6arjkecn6ot9edlgg",
         "organizer": {
           "name": "Verci Events",
-          "website": "",
+          "website": "https://luma.com/verci",
           "instagram": "",
           "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
         },
         "venue": {
           "name": "",
-          "address": "https://pools.events/t/jfw7i6vy/",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
           "type": "Offline"
         },
         "speakers": [],
         "social_links": [],
         "featured": false,
         "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWw4NzJqYXA5MWhrZ3BiNzlkMTZlaGFiZDEwNmF0ajVkcHE3NmJqY2VrbjZxbzggcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzOGhzazRxaTY5OWg2NmdxamRkY2oyczIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -845,5 +742,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-16T17:46:53.889466"
+  "timestamp": "2026-11-17T17:17:25.681554"
 }
