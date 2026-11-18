@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_effective_altruism_nyc_be2cb560",
-      "name": "Special Speaker Event Sean Mayberry",
-      "type": "effective altruism",
-      "locationId": "",
-      "communityId": "com_effective_altruism_nyc",
-      "description": "Join EA NYC for a talk with Sean Mayberry, founder and CEO of StrongMinds, on how to bring evidence-based depression care to millions of people at a cost of about $10 each.\nSean will trace his path from the U.S. State Department and Intel to a decade leading HIV/AIDS, malaria, and anti-poverty programs across Africa and Asia. He'll explain how that experience led him to found StrongMinds in 2013, and how a focus on cost-effectiveness and scale shaped the organization from the start.\nStrongMinds has since helped nearly 2.5 million people access group talk therapy, delivered by lay community health workers and increasingly integrated into government health systems. Sean will also preview early findings from StrongMinds' first randomized controlled trial.\nThe talk will be followed by Q&A and time to mingle. Drinks provided.\nSean Mayberry is the founder and CEO of StrongMinds, a nonprofit that partners with governments to integrate group talk therapy into existing community health systems. A former U.S. Foreign Service Officer and Intel executive, he went on to serve as Country Director for Population Services International in India and the DRC, COO of VisionSpring, and CEO of FXB International. He was named to the inaugural TIME100 Health list in 2024.",
-      "startDate": "2026-11-17T18:00:00-05:00",
-      "endDate": "2026-11-17T20:00:00-05:00",
-      "category": [
-        "effective altruism",
-        "impact",
-        "philosophy",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-30257136.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/3ad2whnz",
-        "original_event_id": "17bciqfvu5oikk8e0b9h5eqcfr",
-        "organizer": {
-          "name": "EA NYC",
-          "website": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "instagram": "",
-          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "EA NYC",
-          "url": "https://luma.com/calendar/cal-vnPGs6DwV4F2m8X",
-          "image": "https://cdn.lu.ma/avatars-default/community_avatar_4.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=MTdiY2lxZnZ1NW9pa2s4ZTBiOWg1ZXFjZnIgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
-      }
-    },
-    {
       "id": "evt_gcal_com_effective_altruism_nyc_931f520a",
       "name": "EA NYC Vegan Dim Sum",
       "type": "effective altruism",
@@ -746,5 +692,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-17T17:16:53.774832"
+  "timestamp": "2026-11-18T16:54:46.545140"
 }
