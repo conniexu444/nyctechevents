@@ -55,6 +55,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_effective_altruism_nyc_019b17d8",
+      "name": "Double Impact Night NYC",
+      "type": "effective altruism",
+      "locationId": "",
+      "communityId": "com_effective_altruism_nyc",
+      "description": "This Giving Tuesday, your impact can go twice as far.\nJoin us for a special Giving Tuesday celebration hosted by One for the World. Come connect with our community, enjoy dinner and libations, and see our impact thermometer rise as we come together to end preventable child death through effective giving.\nAt the heart of the evening will be our live community auction and donations will be matched to make your generosity go further!\nTogether, let\u2019s give effectively and have some fun while we\u2019re at it!\n*All ticket proceeds will go to one of our Top Pick charitable partners identified by GiveWell.",
+      "startDate": "2026-12-01T19:00:00-05:00",
+      "endDate": "2026-12-01T23:00:00-05:00",
+      "category": [
+        "effective altruism",
+        "impact",
+        "philosophy",
+        "community"
+      ],
+      "price": {
+        "amount": 30.0,
+        "type": "Paid",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-35b2baae.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/1afnfam5",
+        "original_event_id": "mu64nke8kp1729b1eltli7btrc",
+        "organizer": {
+          "name": "One for the World",
+          "website": "https://luma.com/1fortheworld",
+          "instagram": "",
+          "email": "hbvetqf5h1pd0of0vn6uvphqts@group.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "One for the World",
+          "url": "https://luma.com/1fortheworld",
+          "image": "https://images.lumacdn.com/uploads/o9/0ae5b706-5025-44df-97c1-4af672d86608.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=bXU2NG5rZThrcDE3MjliMWVsdGxpN2J0cmMgaGJ2ZXRxZjVoMXBkMG9mMHZuNnV2cGhxdHNAZw"
+      }
+    },
+    {
       "id": "evt_gcal_com_effective_altruism_nyc_25c8a97c",
       "name": "Smallpox Eradication Day",
       "type": "effective altruism",
@@ -692,5 +746,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-18T16:54:46.545140"
+  "timestamp": "2026-11-19T17:01:20.443145"
 }

@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_9fd4faad",
-      "name": "US Open Weights Models",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Socratic dialogues with top AI engineers, researchers, and founders discussing new models, coding agents, harnesses, AI orchestrators, research papers, and more.\nTopics:\nBlog post: TBD\nParticipation is highly selective, conversations are high-signal and low-noise.\n\n\nAgenda\n6:00 PM   Welcome \u2014\u00a0food, and drinks\n7:00 PM    Socratic Dialogues\n8:00 PM   Presentations\n9:00 PM   Networking at a bar nearby\nSocratic Dialogues\nWe begin this session with a quick 5-seconds each intro round to get to know each other.\nThen we dive into the topics, reading the last article in aisocratic.org/blog \u2014\u00a0experts on the current topic are encouraged to share anything they know on it.\nPresentations\nLet's focus this event on sharing dev environments, AI tools, open source orchestrators.\nAdd yourself here to present: https://docs.google.com/document/d/1pJ93aZQBCevLpCS0VVUPlFfmQ_xDmyYmdw3LK_zbwSA/edit?tab=t.0\n\nSponsors\nContact fed@aisocratic.org.\n\n\nWe're an exclusive community of of top-tier engineers, researchers, and founders working frontier AI. We meet monthly to discuss new models, papers, frameworks, and more.\nSign up on aisocratic.org to receive updates on new events and blog posts.",
-      "startDate": "2026-11-18T23:00:00Z",
-      "endDate": "2026-11-19T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 20.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-688d178c.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/ai-november",
-        "original_event_id": "_clr78baq9tilaoj6a536mgil8537ccq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "AI Socratic NY",
-          "website": "https://luma.com/ainy",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Brooklyn, NY\nBrooklyn, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "AI Socratic NY",
-          "url": "https://luma.com/ainy",
-          "image": "https://images.lumacdn.com/calendars/2l/16d42384-b2d1-4b32-b51d-0efe6dac53ba.png",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFxOXRpbGFvajZhNTM2bWdpbDg1MzdjY3EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_e2fe006a",
-      "name": "Data Salon: Context and Data",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners, hosted by Newtown Analytics at Fractal Tech. This event will go beyond the hype and inspect the potential impact of AI on labor from well-informed business perspectives both on the ground and systemic.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nOur featured collaborator: Omni\nOmni is an AI analytics platform that gives every person and every AI agent the same governed definitions of the business's metrics. That puts Omni close to this month's question: what context does AI need before the business can trust its answers? Omni joins us through JD Costantini of their go-to-market team.\nBio: JD began his career as a data engineering consultant at IBM, working across industries and gaining exposure to a wide range of technologies across the data stack. After recognizing the innovation happening in the space, he moved into the AI analytics startup world in 2021 and joined Omni two years ago. He loves working with clients of all sizes, delivering a trustworthy self-service analytics experience for the masses.\nPresentation Teaser: We'll discuss how the marriage of context and data is the key to unlock the AI-era version of analytics. How data teams are evolving to be the stewards of semantics. Why you need to keep the business SMEs squarely in your feedback loop. And why collecting context is good, but optimizing how you use it is great.",
-      "startDate": "2026-11-18T23:30:00Z",
-      "endDate": "2026-11-19T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-41817197.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/ozb7lz0u",
-        "original_event_id": "_clr78bafed2kke3ld8skes3q6di4ulq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Akpanoluo Etteh",
-          "website": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Akpanoluo Etteh",
-          "url": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
-          "image": "https://images.lumacdn.com/avatars/ge/7a2cd2ea-ee03-4613-bdf3-7959363cec26.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFmZWQya2tlM2xkOHNrZXMzcTZkaTR1bHEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_5f9b5310",
       "name": "cozy cafe @ fractal",
       "type": "tech",
@@ -430,6 +322,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4ODVkNm9lYjNhMHI0YWgzYmQ1ZDdra2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_759a1b79",
+      "name": "SMART LIFE Experience | Life Design + AI to begin 2027 with intention",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "What would it feel like to begin 2027 with more clarity, meaningful priorities, and a community around you that is also building more intentional lives?\nWe invite you to join us for a morning in NYC, with brunch and a relaxed workshop on Life Design and artificial intelligence. A space to pause, look at your life with intention and method, and learn how to use AI to put your plans into action.\nIf you are thinking about your next step, navigating a transition, or ready to step out of autopilot and make more room for your own projects, this experience will help you gain clearer direction, and practical ways to use AI in everyday life.\nNo previous AI experience is required, and you do not need to arrive with everything figured out.\n\nWhat to expect\nWe\u2019ll gather a small group over brunch for meaningful conversation and a chance to connect with ambitious people who have big goals and full calendars, and still want to live with intention and balance.\nThe brunch will be followed by two guided sessions with Thaysa Starling and Mayumi Thais. Through the Smart Life Method (@Smart.life360), the experience brings together Life Design, strategic reflection, community, and AI.\nLIFE DESIGN \nLife Design applies design-thinking principles to life. Popularized by Stanford professors, the approach helps people explore possibilities and continuously shape their personal and professional lives.\nThrough guided reflection, you\u2019ll make sense of 2026, recognize what gave you energy, decide what to carry forward and what to leave behind, and begin shaping what comes next.\n\nARTIFICIAL INTELLIGENCE \nWe\u2019ll explore what AI can already do and what changes when it understands your personal context.\nInstead of functioning only as a search tool, AI can become a thought and accountability partner that helps you organize priorities, make decisions, break plans into manageable steps, and follow through on what matters.\nYou\u2019ll explore practical ways to use AI in your daily life and turn what you defined during the Life Design session into realistic actions that fit your routine.\nYou\u2019ll leave with\nA clearer perspective on the year you lived\nPersonal intentions and priorities for 2027\nPractical ways to use AI to support your plans\nNew connections with an inspiring community\nPlease bring your laptop.\n\nIntimate gathering \u2022 Limited seats \u2022 Pocket edition\nWhen: Sunday, November 22, 10:30 AM to 2 PM.\nWhere: NYC (Full address after confirmation)\nInvestment: $90 per person, including the Smart Life Method experience, all materials, and brunch. \nSpecial price: if you bring a friend: $70 per person, or pay by Friday, Nov 20.\n\nRegistration: \n1. Request to join on this Luma page.\n2. Zelle: 8022758227.\n3. We'll reach out to you via WhatsApp +1 (747) 275-6611 with the payment & venue details.\n4. Your spot is confirmed once payment is received.\nSeats are limited to keep the gathering personal. If you have any questions, feel free to contact us.\nWe are excited to share this morning with you!\n\nAbout Smart Life 360\nSmart Life 360 helps women step out of autopilot and design their lives with greater clarity, intention, and balance.\nThe Smart Life Method brings together self-awareness, strategy, action, and continuous evolution. Through Life Design, meaningful human connection, and AI, it helps transform what matters into clearer choices, realistic priorities, and actions that fit into everyday life.\nAbout the Smart Life facilitators\nThaysa Starling is an entrepreneur who is passionate about combining humanity with efficiency. She has intentionally shaped the life she lives today. Based in New York, she leads a customer experience and artificial intelligence company, mentors business and customer experience at Columbia University, and runs in her free time.\nDriven by curiosity about people, cultures, art, and new ways of living and working, Thaysa combines strategy, technology, and a human perspective to turn ideas into action and problems into innovation.\nMayumi Thais is a design strategist working at the intersection of design, experience, and technology. She spent more than eight years between California and New York, working at Gensler, the world\u2019s largest architecture, design, and consulting firm, where she designed experiences for companies and brands.\nShe began an M.S. in Emerging Technologies at NYU and now applies the same design process to the most important project of all: her own life. Through Smart Life, she helps others do the same. She thinks in systems, plays pickleball, and documents what inspires her in her visual diary, @mayumi.pov.\nTogether, Thaysa and Mayumi explore the world of well-being and the challenge of balancing ambition, presence, and a fulfilling life. They believe technology is most meaningful when it creates more space for what truly matters, and this is the perspective they bring to Smart Life.",
+      "startDate": "2026-11-22T15:30:00Z",
+      "endDate": "2026-11-22T19:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-44222e40.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/o4ken25t",
+        "original_event_id": "_clr78bacad65ehqnahjk8q33apgkep20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "https://luma.com/nyc-tech",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Fractal Campus NYC",
+          "url": "https://luma.com/nyc-tech",
+          "image": "https://images.lumacdn.com/calendars/pz/00560a39-25b0-42ee-8e67-a995419ca6e6",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFjYWQ2NWVocW5haGprOHEzM2FwZ2tlcDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1342,7 +1288,7 @@
     },
     {
       "id": "evt_gcal_com_fractal_966d72fb",
-      "name": "Context Engineering Guild of New York City: December Edition",
+      "name": "Context Engineering Guild of New York City: December/January Edition",
       "type": "tech",
       "locationId": "",
       "communityId": "com_fractal",
@@ -2151,5 +2097,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-18T16:55:03.241476"
+  "timestamp": "2026-11-19T17:01:44.588987"
 }

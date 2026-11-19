@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_south_park_commons_11ea5f96",
-      "name": "SPC Energy Forum: Fireside with Garth Sheldon-Coulson, Co-Founder and CEO of Panthalassa",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_south_park_commons",
-      "description": "The South Park Commons Energy Forum is delighted to host a fireside with Garth Sheldon-Coulson.\nGarth Sheldon-Coulson is Co-Founder and CEO of Panthalassa, a company unlocking planetary-scale renewable energy in the middle of the ocean. Panthalassa's technologies capture wave energy far from shore and use it to produce AI compute delivered by satellite and renewable fuels delivered by ship. Panthalassa's 200-person team is headquartered in Portland, Oregon and backed by leading venture capital firms.\nAgenda:\n10:30am: Doors open\n11:00am: Fireside begins\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nApply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
-      "startDate": "2026-11-18T18:30:00Z",
-      "endDate": "2026-11-18T20:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "learning",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-1754a7d4.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/spc-garth",
-        "original_event_id": "_clr78ba891o3ehim84p7ii23cpm7idi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "South Park Commons",
-          "website": "https://luma.com/southparkcommons-events",
-          "instagram": "",
-          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "San Francisco, CA\nSan Francisco, California",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "South Park Commons",
-          "url": "https://luma.com/southparkcommons-events",
-          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE4OTFvM2VoaW04NHA3aWkyM2NwbTdpZGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_south_park_commons_61f083d8",
-      "name": "Fireside Chat with Abhinav Gupta, Skild.ai",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_south_park_commons",
-      "description": "South Park Commons is delighted to host Abhinav Gupta, co-founder of Skild.ai.\nEvent Details\n4:30pm: Doors Open\n5:00-6:00pm: Fireside Chat\n\nAbhinav Gupta serves as President and Co\u2011Founder of Skild AI. He is also a Professor at the Robotics Institute, Carnegie Mellon University. Prior to this, Abhinav was founding research lead at FAIR Robotics and worked at Google and AI2 as well.\nAt Skild, Abhinav focuses on building a general-purpose brain for robots with a long-term goal of building general purpose intelligence. Abhinav is known for pioneering contributions to AI, including scaling visual and robot learning, self-supervised learning, and lifelong learning systems.\nHe is a recipient of several awards including IAPR 2020 JK Aggarwal Prize, PAMI 2016 Young Researcher Award, ONR Young Investigator Award, Sloan Research Fellowship, Okawa Foundation Grant, Bosch Young Faculty Fellowship, YPO Fellowship, IJCAI Early Career Spotlight, ICRA Best Student Paper award, and the ECCV Best Paper Runner-up Award. His research has also been featured in Newsweek, BBC, Wall Street Journal, Wired and Slashdot.\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
-      "startDate": "2026-11-19T00:30:00Z",
-      "endDate": "2026-11-19T02:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "learning",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-d277325d.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/skild-spc",
-        "original_event_id": "_clr78bb3ed6lksb4dp6k8kqpaspkosi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "South Park Commons",
-          "website": "https://luma.com/southparkcommons-events",
-          "instagram": "",
-          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "San Francisco, California",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "South Park Commons",
-          "url": "https://luma.com/southparkcommons-events",
-          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmIzZWQ2bGtzYjRkcDZrOGtxcGFzcGtvc2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_south_park_commons_e7488793",
       "name": "Building the New Energy Frontier at SPC NYC",
       "type": "technology",
@@ -161,7 +53,61 @@
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxY2NxM2FzYWtiNTFuZXEyaDYwb2plcWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
       }
+    },
+    {
+      "id": "evt_gcal_com_south_park_commons_a35807a8",
+      "name": "Design Chat with John Bai, SpaceXSI",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "South Park Commons is delighted to host John Bai for our Design Chat series with Soleio.\nEvent Details\n4:30pm: Doors Open\n5pm-6pm: Design Chat\nJohn Bai is a product designer at SpaceXSI, working on AI-native product experiences across Grok Bot, X, and Cursor. Over the past decade, he has designed products at Plaid, Lyft, and Dropbox. A RISD graduate based in New York, he explores how emerging tools are reshaping the role, process, and craft of product design.\nWebsite:\u00a0johnb.ai\u00a0\u00b7\u00a0X:\u00a0@johnbai \u00b7\u00a0Instagram:\u00a0@bohnjai\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-12-10T00:30:00Z",
+      "endDate": "2026-12-10T02:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-577a87b7.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/john-bai-spc",
+        "original_event_id": "_clr78bajeh7n2qb5ala58sj8apl74rq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFqZWg3bjJxYjVhbGE1OHNqOGFwbDc0cnEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
     }
   ],
-  "timestamp": "2026-11-18T16:55:05.106102"
+  "timestamp": "2026-11-19T17:01:47.018817"
 }
