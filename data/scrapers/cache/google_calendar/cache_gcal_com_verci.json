@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_verci_18226581",
-      "name": "DETENTION COMEDY - Tea Room Debut",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "An intimate comedy show in the perfect room in Flatiron. Hosted at a creative co-working space. Free drinks and snacks, killer lineup with comedians from Dont Tell, Comedy Cellar, and Netflix.",
-      "startDate": "2026-11-20T00:30:00Z",
-      "endDate": "2026-11-20T02:00:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 25.0,
-        "type": "Paid",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-53d57194.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/verci-xe0n",
-        "original_event_id": "_clr78ba38hsk4qi699h66gqjddcj2s20clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEzOGhzazRxaTY5OWg2NmdxamRkY2oyczIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_verci_203d5d3f",
       "name": "Build a Digital Hairclips or Nametag (and take it home)",
       "type": "technology",
@@ -634,5 +580,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-19T17:01:54.284952"
+  "timestamp": "2026-11-20T16:35:53.246448"
 }

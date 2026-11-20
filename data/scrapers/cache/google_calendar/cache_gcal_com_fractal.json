@@ -1,114 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_5f9b5310",
-      "name": "cozy cafe @ fractal",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Join us for cozy cafe hour @ fractal \u2615\ufe0f\nThere will be coffee, ambient music, and cozy vibes. come read, write, and cowork with friends. Chatting is recommended in small groups only, like at a cafe. Stickies for intentions and ways to connect will be available.\nthere is a piano and a guitar! if you want to play some ambient music that would be lovely.\npicnic style- pls bring snacks, fruit, baked goods, coffee beans, cider, wine, hot chocolate, chess, tarot, etc.\nfeel free to bring a +1. you don't have to be a fractal member. see you there! \u2728\nhttps://partiful.com/e/7xgWT5S7MuTzHfTrQIPW",
-      "startDate": "2026-11-19T19:00:00Z",
-      "endDate": "2026-11-19T22:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-e289faf5.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/zpmdkda6",
-        "original_event_id": "_clr78b9hcprn8h1gc5r3ici68dt4eqi0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "christineist",
-          "website": "https://luma.com/user/usr-cvXaB7zRXlvNrfl",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "christineist",
-          "url": "https://luma.com/user/usr-cvXaB7zRXlvNrfl",
-          "image": "https://images.lumacdn.com/uploads/t4/577199bd-5429-429f-8635-83103bce79ca.jpg",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjloY3BybjhoMWdjNXIzaWNpNjhkdDRlcWkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_fractal_679caec4",
-      "name": "\u2660\ufe0f Poker Strategy (FractalU Class) \u2665\ufe0f Session 8",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Course Description\nApplication form\nIn this class, students will meet weekly for No-Limit Texas Hold'em strategy instruction from a high-stakes online pro, and to play against one another and socialize.",
-      "startDate": "2026-11-20T00:00:00Z",
-      "endDate": "2026-11-20T02:00:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-01575196.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/sbniif7r",
-        "original_event_id": "_clr78ba28l3n0chi90o3ega46pb4ici0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Alex Pinheiro",
-          "website": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Alex Pinheiro",
-          "url": "https://luma.com/user/usr-smgAKtRs8gS8eKr",
-          "image": "https://images.lumacdn.com/uploads/zk/947c3d70-f4c9-441b-b22d-d63a7aba747c.png",
-          "type": "Person"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyOGwzbjBjaGk5MG8zZWdhNDZwYjRpY2kwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_44c152fc",
       "name": "Indie Game Night",
       "type": "tech",
@@ -909,6 +801,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_02aebc3f",
+      "name": "Zed's Party Machine",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "I'm Zed, and I run this party.\nHave you ever attended a party hosted by a sophisticated and elegant cardboard robot like myself? Of course you haven't.\nAll you need is your phone to participate in my one of a kind room-scale party game experience.\nPrepare yourself to laugh, to cry, to win, to lose, to make a new friend, and to be roasted by none other than yours truly.\nIf you want to see more of me, follow me on Instagram. Or don't. It's not like I care.\n\nhttps://www.instagram.com/partytechhq",
+      "startDate": "2026-12-10T23:00:00Z",
+      "endDate": "2026-12-11T00:30:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-a3ffba0b.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/jg049g48",
+        "original_event_id": "_clr78bag8gr6au9pc5j3cc9lc95ngjq0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Cole",
+          "website": "https://luma.com/user/usr-muUukvldrHDE5Dw",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Cole",
+          "url": "https://luma.com/user/usr-muUukvldrHDE5Dw",
+          "image": "https://cdn.lu.ma/avatars-default/avatar_1.png",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFnOGdyNmF1OXBjNWozY2M5bGM5NW5nanEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_e106eee2",
       "name": "Private Event",
       "type": "tech",
@@ -1076,7 +1022,7 @@
       "type": "tech",
       "locationId": "loc_fractal",
       "communityId": "com_fractal",
-      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners, hosted by Newtown Analytics at Fractal Tech.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nDetails on our featured speaker, TBA!",
+      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners, hosted by Newtown Analytics at Fractal Tech.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nOur featured presenter is Danielle Leong, who will lead us in discussing the new possibilities for collaboration between AI agents and stakeholders, facilitated by stakeholder access to LLMs",
       "startDate": "2026-12-17T23:30:00Z",
       "endDate": "2026-12-18T02:00:00Z",
       "category": [
@@ -1094,7 +1040,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-f0b54d4a.jpg",
+      "image": "events/luma-event-4f099e0c.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -1500,6 +1446,60 @@
           "type": "Person"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFvY2hwbjRzcTRjZHJsNGUyMzYxOTdramEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_c54a0e33",
+      "name": "Data Salon, January 2027",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "An event series for fostering thought leadership across data disciplines and those who work closely with data practitioners, hosted by Newtown Analytics at Fractal Tech.\nMC'd by Akpanoluo Etteh, Sr. Director of Data Engineering at Arcspan (fmr: Anthropic, Bandcamp) and founder of The Soundshop music salon series, and co-hosted by Michael Bartoli, Founder of Newtown Analytics (fmr: ob\u00e9 Fitness)\nDetails on topic and our featured speaker, TBA!",
+      "startDate": "2027-01-21T23:30:00Z",
+      "endDate": "2027-01-22T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-941e4215.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/ixm3kouw",
+        "original_event_id": "_clr78balf5r72s3lept4sdjd8lt5kqa0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Akpanoluo Etteh",
+          "website": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Akpanoluo Etteh",
+          "url": "https://luma.com/user/usr-RSRxUQKSjK1jcR7",
+          "image": "https://images.lumacdn.com/avatars/ge/7a2cd2ea-ee03-4613-bdf3-7959363cec26.jpg",
+          "type": "Person"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFsZjVyNzJzM2xlcHQ0c2RqZDhsdDVrcWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -2097,5 +2097,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-19T17:01:44.588987"
+  "timestamp": "2026-11-20T16:35:46.711818"
 }
