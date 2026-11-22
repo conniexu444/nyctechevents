@@ -1,60 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_a43340a1",
-      "name": "Maximum Graduation!",
-      "type": "tech",
-      "locationId": "loc_fractal",
-      "communityId": "com_fractal",
-      "description": "Congratulations, Cohort 16!\nCome and celebrate the end of cohort 16 of The Foundations of New York, and those who successfully completed the final exam. They will receive their MNY credentials and other accolades, and we will all enjoy good company and food.\nRun of show:\n6:00-6:30pm: arrival, food, and socializing\n6:30-6:50pm: presentation of credentials\n6:50-7:30pm (and beyond): enjoy good company\nMNY alumni, friends, and +1s are welcome! Just register on this Luma.",
-      "startDate": "2026-11-21T23:00:00Z",
-      "endDate": "2026-11-22T00:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-672ca1f2.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/maximum-x33c",
-        "original_event_id": "_clr78b9h71onedbf8ps3ap9gaha3iiq0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Maximum New York",
-          "website": "https://luma.com/maximumnewyork",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "Fractal Tech",
-          "address": "111 Conselyea St, Brooklyn, NY 11211",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Maximum New York",
-          "url": "https://luma.com/maximumnewyork",
-          "image": "https://images.lumacdn.com/calendars/o5/066f5816-f982-46c3-ba46-7ab6b849a05e",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjloNzFvbmVkYmY4cHMzYXA5Z2FoYTNpaXEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_5cf18785",
       "name": "SMART LIFE Experience | Life Design + AI to begin 2027 with intention",
       "type": "tech",
@@ -112,7 +58,7 @@
       "id": "evt_gcal_com_fractal_759a1b79",
       "name": "SMART LIFE Experience | Life Design + AI to begin 2027 with intention",
       "type": "tech",
-      "locationId": "",
+      "locationId": "loc_fractal",
       "communityId": "com_fractal",
       "description": "What would it feel like to begin 2027 with more clarity, meaningful priorities, and a community around you that is also building more intentional lives?\nWe invite you to join us for a morning in NYC, with brunch and a relaxed workshop on Life Design and artificial intelligence. A space to pause, look at your life with intention and method, and learn how to use AI to put your plans into action.\nIf you are thinking about your next step, navigating a transition, or ready to step out of autopilot and make more room for your own projects, this experience will help you gain clearer direction, and practical ways to use AI in everyday life.\nNo previous AI experience is required, and you do not need to arrive with everything figured out.\n\nWhat to expect\nWe\u2019ll gather a small group over brunch for meaningful conversation and a chance to connect with ambitious people who have big goals and full calendars, and still want to live with intention and balance.\nThe brunch will be followed by two guided sessions with Thaysa Starling and Mayumi Thais. Through the Smart Life Method (@Smart.life360), the experience brings together Life Design, strategic reflection, community, and AI.\nLIFE DESIGN \nLife Design applies design-thinking principles to life. Popularized by Stanford professors, the approach helps people explore possibilities and continuously shape their personal and professional lives.\nThrough guided reflection, you\u2019ll make sense of 2026, recognize what gave you energy, decide what to carry forward and what to leave behind, and begin shaping what comes next.\n\nARTIFICIAL INTELLIGENCE \nWe\u2019ll explore what AI can already do and what changes when it understands your personal context.\nInstead of functioning only as a search tool, AI can become a thought and accountability partner that helps you organize priorities, make decisions, break plans into manageable steps, and follow through on what matters.\nYou\u2019ll explore practical ways to use AI in your daily life and turn what you defined during the Life Design session into realistic actions that fit your routine.\nYou\u2019ll leave with\nA clearer perspective on the year you lived\nPersonal intentions and priorities for 2027\nPractical ways to use AI to support your plans\nNew connections with an inspiring community\nPlease bring your laptop.\n\nIntimate gathering \u2022 Limited seats \u2022 Pocket edition\nWhen: Sunday, November 22, 10:30 AM to 2 PM.\nWhere: NYC (Full address after confirmation)\nInvestment: $90 per person, including the Smart Life Method experience, all materials, and brunch. \nSpecial price: if you bring a friend: $70 per person, or pay by Friday, Nov 20.\n\nRegistration: \n1. Request to join on this Luma page.\n2. Zelle: 8022758227.\n3. We'll reach out to you via WhatsApp +1 (747) 275-6611 with the payment & venue details.\n4. Your spot is confirmed once payment is received.\nSeats are limited to keep the gathering personal. If you have any questions, feel free to contact us.\nWe are excited to share this morning with you!\n\nAbout Smart Life 360\nSmart Life 360 helps women step out of autopilot and design their lives with greater clarity, intention, and balance.\nThe Smart Life Method brings together self-awareness, strategy, action, and continuous evolution. Through Life Design, meaningful human connection, and AI, it helps transform what matters into clearer choices, realistic priorities, and actions that fit into everyday life.\nAbout the Smart Life facilitators\nThaysa Starling is an entrepreneur who is passionate about combining humanity with efficiency. She has intentionally shaped the life she lives today. Based in New York, she leads a customer experience and artificial intelligence company, mentors business and customer experience at Columbia University, and runs in her free time.\nDriven by curiosity about people, cultures, art, and new ways of living and working, Thaysa combines strategy, technology, and a human perspective to turn ideas into action and problems into innovation.\nMayumi Thais is a design strategist working at the intersection of design, experience, and technology. She spent more than eight years between California and New York, working at Gensler, the world\u2019s largest architecture, design, and consulting firm, where she designed experiences for companies and brands.\nShe began an M.S. in Emerging Technologies at NYU and now applies the same design process to the most important project of all: her own life. Through Smart Life, she helps others do the same. She thinks in systems, plays pickleball, and documents what inspires her in her visual diary, @mayumi.pov.\nTogether, Thaysa and Mayumi explore the world of well-being and the challenge of balancing ambition, presence, and a fulfilling life. They believe technology is most meaningful when it creates more space for what truly matters, and this is the perspective they bring to Smart Life.",
       "startDate": "2026-11-22T15:30:00Z",
@@ -145,8 +91,8 @@
           "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
         },
         "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
           "type": "Offline"
         },
         "speakers": [],
@@ -1989,5 +1935,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-21T15:52:04.059817"
+  "timestamp": "2026-11-22T15:53:39.329555"
 }
