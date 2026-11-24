@@ -6,7 +6,7 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_south_park_commons",
-      "description": "Power is becoming the scarce input for everything: AI, manufacturing, housing, transport. The grid was never built for that demand curve, and the gap between what\u2019s needed and what can be delivered is turning into a market of its own.\nJoin us at SPC NYC for a conversation on what's next on the energy frontier. Panelists include:\nKeeley Erhardt, Strobe Power. Keeley Erhardt is co-founder and CEO of Strobe Power, which turns on-site generation and storage at commercial buildings into dispatchable power plants. Strobe connects these assets to wholesale electricity markets, helping meet growing power demand while lowering energy costs for building owners. Keeley holds three degrees in computer science from MIT, including a PhD.\n\nBritt Reichborn-Kjennerud is Director of Con Edison\u2019s Distribution Planning department where she leads distributed energy resource (DER) integration with the grid including customer demand management programs, distributed generation interconnection support, and DER strategy. Previously in her work at Con Edison she led the development and implementation of the company\u2019s e-mobility programs as Director of E-Mobility, and non- wires program strategy for deploying energy storage and other DERs to meet grid needs.\nShe also worked in the Research & Development department where she designed and managed projects to introduce new technologies into the company infrastructure and operations. Prior to joining Con Edison in 2014 Britt completed her PhD and a research fellowship in astrophysics at Columbia University.\n\nMeltem Demirors is the founder and General Partner of Crucible Capital, which backs founders breaking the foundational bottlenecks of the industrial buildout: power, compute, materials and the markets that coordinate them. She has spent her career where energy and compute meet capital markets, from the shale boom to Bitcoin to today's race for data center capacity.\nCody Jacobucci is the Chief Strategy Officer and a Founding Engineer at Blue Energy. Prior to Blue Energy, Cody spent nearly a decade designing and optimizing next-generation autonomous aircraft across SpaceX, Aurora Flight Sciences, and Boeing. Cody holds two degrees in mechanical engineering from MIT and an honorary degree from the University of Cambridge as an MIT-Cambridge Fellow.\nDan Hunter is the CEO of Nyquis, building real-time grid intelligence for a safer, more reliable, and more capable electric system.\nAgenda: \nDoors Open\u20145pm\nPanel Discussion\u20145:30pm-6:30pm\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\nRegistration and approval is required and space is limited, so please RSVP soon.",
+      "description": "Power is becoming the scarce input for everything: AI, manufacturing, housing, transport. The grid was never built for that demand curve, and the gap between what\u2019s needed and what can be delivered is turning into a market of its own.\nJoin us at SPC NYC for a conversation on what's next on the energy frontier. Panelists include:\nKeeley Erhardt, Strobe Power. Keeley Erhardt is co-founder and CEO of Strobe Power, which turns on-site generation and storage at commercial buildings into dispatchable power plants. Strobe connects these assets to wholesale electricity markets, helping meet growing power demand while lowering energy costs for building owners. Keeley holds three degrees in computer science from MIT, including a PhD.\n\nBritt Reichborn-Kjennerud is Director of Con Edison\u2019s Distribution Planning department where she leads distributed energy resource (DER) integration with the grid including customer demand management programs, distributed generation interconnection support, and DER strategy. Previously in her work at Con Edison she led the development and implementation of the company\u2019s e-mobility programs as Director of E-Mobility, and non- wires program strategy for deploying energy storage and other DERs to meet grid needs.\nShe also worked in the Research & Development department where she designed and managed projects to introduce new technologies into the company infrastructure and operations. Prior to joining Con Edison in 2014 Britt completed her PhD and a research fellowship in astrophysics at Columbia University.\n\nMeltem Demirors is the founder and General Partner of Crucible Capital, which backs founders breaking the foundational bottlenecks of the industrial buildout: power, compute, materials and the markets that coordinate them. She has spent her career where energy and compute meet capital markets, from the shale boom to Bitcoin to today's race for data center capacity.\nCody Jacobucci is the Chief Strategy Officer and a Founding Engineer at Blue Energy. Prior to Blue Energy, Cody spent nearly a decade designing and optimizing next-generation autonomous aircraft across SpaceX, Aurora Flight Sciences, and Boeing. Cody holds two degrees in mechanical engineering from MIT and an honorary degree from the University of Cambridge as an MIT-Cambridge Fellow.\nDaniel J. Hunter is co-founder and CEO of Nyquis, which makes high-resolution, continuous monitoring systems for the power grid. Its sensors help utilities spot developing faults and see where existing lines can serve new demand. He put himself through college as an electrician and co-founded Yoshi Mobility, where he built a first-of-its-kind 240kW mobile vehicle-to-vehicle charger.\nAgenda: \nDoors Open\u20145pm\nPanel Discussion\u20145:30pm-6:30pm\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\nRegistration and approval is required and space is limited, so please RSVP soon.",
       "startDate": "2026-11-24T22:00:00Z",
       "endDate": "2026-11-25T00:00:00Z",
       "category": [
@@ -52,6 +52,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJxY2NxM2FzYWtiNTFuZXEyaDYwb2plcWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_south_park_commons_dad6e70e",
+      "name": "Fireside Chat with Richard Socher, Recursive",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "Join SPC's  Pretraining Forum for a fireside chat with Recursive CEO Richard Socher.\nRichard Socher is the CEO and co-founder of Recursive, a company building self-improving superintelligence to automate knowledge discovery, and the CEO and co-founder of You.com, a web search infrastructure provider for AI. He is also the co-founder and managing partner at AIX Ventures. Richard previously served as chief scientist and EVP at Salesforce, having joined through the 2016 acquisition of his first AI startup MetaMind. He is widely recognized as having brought neural networks into the field of natural language processing, inventing the most widely used word vectors, contextual vectors and prompt engineering. He earned his Ph.D. in computer science from Stanford University, where he also served as an adjunct professor. He has over 250,000 citations. He is the author of the national bestseller, The Eureka Machine: Why AI Is the Key to Unlocking a New Era of Scientific Discoveries.\nAgenda: \n1:30pm\u2014Doors Open\n2:00pm-3:00pm\u2014Fireside Chat\n\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-12-03T21:30:00Z",
+      "endDate": "2026-12-03T23:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-6471bd3d.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/recursive-spc",
+        "original_event_id": "_clr78ba2ctnmmd2ldh4j4hqo6t0keq20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmEyY3RubW1kMmxkaDRqNGhxbzZ0MGtlcTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
       }
     },
     {
@@ -109,5 +163,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-23T19:46:07.652302"
+  "timestamp": "2026-11-24T19:17:08.038633"
 }

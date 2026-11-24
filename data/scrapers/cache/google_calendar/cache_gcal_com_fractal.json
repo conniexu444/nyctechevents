@@ -1,55 +1,6 @@
 {
   "events": [
     {
-      "id": "evt_gcal_com_fractal_02d8aa21",
-      "name": "Video & Film Creators IRL",
-      "type": "tech",
-      "locationId": "",
-      "communityId": "com_fractal",
-      "description": "Find more information on https://luma.com/nyc-tech",
-      "startDate": "2026-11-23T23:00:00Z",
-      "endDate": "2026-11-24T01:30:00Z",
-      "category": [
-        "tech",
-        "startup",
-        "innovation",
-        "education"
-      ],
-      "price": {
-        "amount": 0,
-        "type": "Free",
-        "currency": "USD",
-        "details": ""
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/nyc-tech",
-        "original_event_id": "_cdgmopbm5lp54e289pcn0eaq9t14eda86d06atj5dpq76bjcekn6qo8",
-        "organizer": {
-          "name": "Fractal Campus NYC",
-          "website": "",
-          "instagram": "",
-          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "https://partiful.com/e/9yZaN3R3bxcL69QqQpuQ?c=LW3oIqXn",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": null,
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWxwNTRlMjg5cGNuMGVhcTl0MTRlZGE4NmQwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
-      }
-    },
-    {
       "id": "evt_gcal_com_fractal_d44d5d18",
       "name": "Context Engineering Guild of New York City: November Edition",
       "type": "tech",
@@ -479,6 +430,55 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI4OWQwajhsMmM2OTNqOHRibThscWtpaWEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_fractal_5cbba5c9",
+      "name": "Code & Coffee 90",
+      "type": "tech",
+      "locationId": "",
+      "communityId": "com_fractal",
+      "description": "Find more information on https://luma.com/nyc-tech",
+      "startDate": "2026-12-13T19:00:00Z",
+      "endDate": "2026-12-13T22:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0,
+        "type": "Free",
+        "currency": "USD",
+        "details": ""
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/nyc-tech",
+        "original_event_id": "_cdgmopbm5kqn8lajel8j8ohk9dpjigr9b906atj5dpq76bjcekn6qo8",
+        "organizer": {
+          "name": "Fractal Campus NYC",
+          "website": "",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "https://www.meetup.com/new-york-code-coffee/",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": null,
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJtNWtxbjhsYWplbDhqOG9oazlkcGppZ3I5YjkwNmF0ajVkcHE3NmJqY2VrbjZxbzggdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
       }
     },
     {
@@ -1670,5 +1670,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-23T19:46:06.153372"
+  "timestamp": "2026-11-24T19:17:05.841154"
 }
