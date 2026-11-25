@@ -261,6 +261,114 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_23f5531c",
+      "name": "Verci Girls' Night",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "This one's for all the girls and girls' night enjoyers. We will have a sex and the city (the MOVIE) marathon going, cosmos and tartinis (doi), face masks/eye patches, nail painting, and snacks/baked treats. We'll also have a little surprise craft. So basicallyyyy my dream date.",
+      "startDate": "2026-12-04T00:00:00Z",
+      "endDate": "2026-12-04T03:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-f4ad96fd.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci-0b16",
+        "original_event_id": "_clr78banatn5ijrnf1546u24ehimoe20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFuYXRuNWlqcm5mMTU0NnUyNGVoaW1vZTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_1e89c8f8",
+      "name": "Verci World Cup",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "We had so much fun last time, we're running it back again. Join Verci for the most epic 2 hours of soccer playing imaginable.\nWe'll have snacks and drinks available and you will a good sweat in (though no judgement if you're just there to hang out and vibe). Bring turf shoes or sneakers.\nAll skill levels welcome!!",
+      "startDate": "2026-12-06T18:00:00Z",
+      "endDate": "2026-12-06T20:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-22d03bae.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/cacu6rt2",
+        "original_event_id": "_clr78ba7elhl0qadddrmumib6tckit20clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "the Ground\nthe Ground, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmE3ZWxobDBxYWRkZHJtdW1pYjZ0Y2tpdDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_5fe6821e",
       "name": "Cookie Cafe",
       "type": "technology",
@@ -316,11 +424,11 @@
     },
     {
       "id": "evt_gcal_com_verci_0d294ad0",
-      "name": "Startup Partnerships Dinner w/ Verci and Pearl",
+      "name": "Startup Partnerships Dinner w/ Verci and Pearl Talent",
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "We're bringing together the heads of startup partnerships, venture partnerships, and GTM leaders for an evening of incredible dinner.\nThere's lots to talk about and we'd love to see you there.\nHosts:\nVerci is a workspace and social space in NYC, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.\nPearl helps founders scale their business by finding, hiring, and supporting pre-vetted, AI-fluent talent. Build your team with US-based specialists and senior leaders, plus talent from the Philippines, Latin America, and South Africa.",
+      "description": "We\u2019re bringing together the people leading startup partnerships, venture partnerships, and GTM in NYC\u2019s top companies and funds.\nWe'd love to see you there!\nHosts:\nVerci is a workspace and social space in NYC, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.\nPearl Talent helps venture-backed founders build their companies with high-caliber, global talent. Pearl runs a community of 350+ health tech founders and investors too. More at health-command.com.\nSpace is limited. RSVP to save your spot.",
       "startDate": "2026-12-10T00:00:00Z",
       "endDate": "2026-12-10T02:00:00Z",
       "category": [
@@ -482,9 +590,9 @@
       "type": "technology",
       "locationId": "",
       "communityId": "com_verci",
-      "description": "MORE INFO HERE>> https://pitch.com/v/verci-retreat-catskills-november-2024-8tg7gn\nWe're running our next retreat in the Catskills from february 5h-7th\nEarly sign-ups (cheaper rates!) end on december 12th.\nBreakfast, lunch, and dinner for the whole retreat will be made on-site by the founders and chefs of Heirloom Supper Club (check them out on IG!).\nsign up / commit by grabbing a ticket on this luma page. once approved, you'll be 100% good to go to attend - if you don't get approved for capacity reasons, you will not be charged.",
-      "startDate": "2027-01-29",
-      "endDate": "2027-02-01",
+      "description": "check out catskills.verci.com for more info\nWe're running our next retreat in the Catskills from february 5h-7th\nEarly sign-ups (cheaper rates!) end on december 12th.\nBreakfast, lunch, and dinner for the whole retreat will be made on-site by the founders and chefs of Heirloom Supper Club (check them out on IG!).\nSign up / commit by grabbing a ticket on this luma page. once approved, you'll be 100% good to go to attend - if you don't get approved for capacity reasons, you will not be charged.",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-08",
       "category": [
         "technology",
         "innovation",
@@ -531,5 +639,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-24T19:17:13.419336"
+  "timestamp": "2026-11-25T18:23:34.872437"
 }

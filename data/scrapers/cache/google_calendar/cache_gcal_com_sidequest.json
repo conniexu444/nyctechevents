@@ -380,7 +380,7 @@
     },
     {
       "id": "evt_gcal_com_sidequest_e1340339",
-      "name": "SideQuest IRL #57",
+      "name": "SideQuest IRL #58",
       "type": "technology",
       "locationId": "",
       "communityId": "com_sidequest",
@@ -434,7 +434,7 @@
     },
     {
       "id": "evt_gcal_com_sidequest_8d01139f",
-      "name": "SideQuest IRL #58",
+      "name": "SideQuest IRL #59",
       "type": "technology",
       "locationId": "",
       "communityId": "com_sidequest",
@@ -488,7 +488,7 @@
     },
     {
       "id": "evt_gcal_com_sidequest_de1579e7",
-      "name": "SideQuest IRL #59",
+      "name": "SideQuest IRL #60",
       "type": "technology",
       "locationId": "",
       "communityId": "com_sidequest",
@@ -541,5 +541,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-24T19:17:17.262135"
+  "timestamp": "2026-11-25T18:23:38.716321"
 }
