@@ -7,8 +7,8 @@
       "locationId": "",
       "communityId": "com_verci",
       "description": "Find more information on https://luma.com/verci",
-      "startDate": "2026-11-26T16:00:00Z",
-      "endDate": "2026-11-26T17:00:00Z",
+      "startDate": "2026-11-27T16:00:00Z",
+      "endDate": "2026-11-27T17:00:00Z",
       "category": [
         "technology",
         "innovation",
@@ -101,60 +101,6 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI3YTkwbW1oYmtkcGg0YW1qNWM5cGtnbTIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
-      }
-    },
-    {
-      "id": "evt_gcal_com_verci_8b3fe7f6",
-      "name": "Female Founder Perfume Workshop w/ Verci",
-      "type": "technology",
-      "locationId": "",
-      "communityId": "com_verci",
-      "description": "We're bringing together the best female founders in NYC over a charcuterie board evening followed by a perfume workshop to design your own signature scent.\nThere's lots to talk about and we'd love to see you there.\nHosts:\nVerci is a workspace and social space in NYC, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
-      "startDate": "2026-12-03T23:00:00Z",
-      "endDate": "2026-12-04T01:30:00Z",
-      "category": [
-        "technology",
-        "innovation",
-        "society",
-        "community"
-      ],
-      "price": {
-        "amount": 0.0,
-        "type": "Free",
-        "currency": "USD",
-        "details": "General Admission"
-      },
-      "capacity": null,
-      "registrationRequired": false,
-      "tags": [],
-      "image": "events/luma-event-ad4fd737.jpg",
-      "status": "upcoming",
-      "metadata": {
-        "source": "Google Calendar",
-        "source_url": "https://luma.com/ns936r1x",
-        "original_event_id": "_clr78bao85ikcdr395h7gqjg710meja0clr6arjkecn6ot9edlgg",
-        "organizer": {
-          "name": "Verci Events",
-          "website": "https://luma.com/verci",
-          "instagram": "",
-          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
-        },
-        "venue": {
-          "name": "",
-          "address": "New York, NY\nNew York, New York",
-          "type": "Offline"
-        },
-        "speakers": [],
-        "social_links": [],
-        "featured": false,
-        "luma_source": true,
-        "luma_host": {
-          "name": "Verci Events",
-          "url": "https://luma.com/verci",
-          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
-          "type": "Organization"
-        },
-        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFvODVpa2NkcjM5NWg3Z3FqZzcxMG1lamEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -446,7 +392,7 @@
       "capacity": null,
       "registrationRequired": false,
       "tags": [],
-      "image": "events/luma-event-ad4fd737.jpg",
+      "image": "events/luma-event-6ea6bbf3.jpg",
       "status": "upcoming",
       "metadata": {
         "source": "Google Calendar",
@@ -474,6 +420,60 @@
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJoYjUxNmdpaGk4NWJqZXEycWU1cW0yaDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
+      "id": "evt_gcal_com_verci_8b3fe7f6",
+      "name": "Female Founder Perfume Workshop w/ Verci",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "We're bringing together the best female founders in NYC with a perfume workshop to design your own signature scent.\nHosts:\nVerci is a workspace and social space in NYC, meticulously curated for founders, artists, and creatives. Learn more at verci.com and read our manifesto at verci.com/manifesto.",
+      "startDate": "2026-12-10T23:00:00Z",
+      "endDate": "2026-12-11T01:30:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-ad4fd737.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/ns936r1x",
+        "original_event_id": "_clr78bao85ikcdr395h7gqjg710meja0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "New York, NY\nNew York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFvODVpa2NkcjM5NWg3Z3FqZzcxMG1lamEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
       }
     },
     {
@@ -639,5 +639,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-25T18:23:34.872437"
+  "timestamp": "2026-11-26T18:02:39.123418"
 }

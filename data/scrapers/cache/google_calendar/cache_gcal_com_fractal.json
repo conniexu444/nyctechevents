@@ -482,6 +482,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_fractal_e49ca936",
+      "name": "Merry Shipmas \u00b7 New York",
+      "type": "tech",
+      "locationId": "loc_fractal",
+      "communityId": "com_fractal",
+      "description": "MERRY SHIPMAS \ud83c\udf84 The nerdiest Christmas hackathon.\nThis is the New York edition, together with Fractal Accelerator. Monday 14 December, 18:00 to 21:00, at Fractal Campus, Brooklyn.\nSanta's evil twin hung something on your tree. It's a laptop. \ud83c\udf81\n...what will you ship before Christmas? Find your first users in 7 days. Meet other builders, build something with AI, and get real people using it before the year ends.\nPRIZES \ud83c\udfc6\n$1,500 in prizes\n\ud83e\udd47 1st place: $1,000 in Nebius Token Factory credits\n\ud83e\udd48 2nd place: $500 in Nebius Token Factory credits\n\u26a1 Every builder who joins gets $100 in OpenAI API credits.\n\ud83c\udf85 More prizes and surprises are still in Santa's sack. Stay tuned. \ud83d\udc40\n\n\nHOW IT WORKS\n\ud83c\udf84 Saturday 12 December: the hackathon opens online, from anywhere.\n\ud83e\udd8c In person: San Francisco and Bangalore on Saturday 12, New York on Monday 14, London on Friday 18.\n\ud83d\udef7 Then 7 days online to ship, until Saturday 19 December, 23:59 PT.\n\ud83c\udf81 Judges to be revealed soon. Keep an eye on your inbox.\nSPONSORED BY\n\ud83d\udfe3 Fetch.ai. Build AI agents and put them in front of users with ASI:One. fetch.ai\n\ud83d\udfe2 OpenAI. The company behind ChatGPT and the GPT models. openai.com\n\ud83d\udc9c Lovable. Build apps and websites by chatting with AI. lovable.dev\n\ud83d\udd35 Nebius. The AI cloud: GPUs and inference to build and run AI. nebius.com\nLAST SEASON \u2744\ufe0f\nStranger Builds, our Halloween hackathon: 1,282 builders signed up and 109 projects shipped. This time, it is Christmas.\n\u26c4 Want to judge or sponsor? Write to hey@nerdconf.com\nJOIN THE OTHER EDITIONS\nSan Francisco: https://luma.com/5623x3ae\nBangalore: https://luma.com/t1bhjc0d\nLondon: https://luma.com/287lbg3w\nOnline: https://luma.com/26pn0mh3\nNERDCONF runs hackathons in San Francisco and around the world, with a global network of 25K+ builders. merryshipmas.com",
+      "startDate": "2026-12-14T23:00:00Z",
+      "endDate": "2026-12-15T02:00:00Z",
+      "category": [
+        "tech",
+        "startup",
+        "innovation",
+        "education"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-1a01db01.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/9t2p2jjs",
+        "original_event_id": "_clr78b9jctt7aiq69p1kgc2bcd7n4li0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "NERDCONF",
+          "website": "https://luma.com/nerdconf",
+          "instagram": "",
+          "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "Fractal Tech",
+          "address": "111 Conselyea St, Brooklyn, NY 11211",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "NERDCONF",
+          "url": "https://luma.com/nerdconf",
+          "image": "https://images.lumacdn.com/uploads/8t/6df9a562-a273-41b1-aed0-5c728617d0bc.png",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlqY3R0N2FpcTY5cDFrZ2MyYmNkN240bGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_fractal_1ac992f5",
       "name": "\u26a1 Fractal Weekly Demo Party #16 \u26a1",
       "type": "tech",
@@ -1670,5 +1724,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-25T18:23:27.537976"
+  "timestamp": "2026-11-26T18:02:33.165255"
 }
