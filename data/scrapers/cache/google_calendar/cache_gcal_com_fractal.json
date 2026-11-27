@@ -32,7 +32,7 @@
         "original_event_id": "_clr78b9k718k8ppp693lgpj8d9t7el20clr6arjkecn6ot9edlgg",
         "organizer": {
           "name": "Context Engineering Guild of New York City",
-          "website": "https://luma.com/CEG",
+          "website": "https://luma.com/ContextEngineeringGuild",
           "instagram": "",
           "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
         },
@@ -47,8 +47,8 @@
         "luma_source": true,
         "luma_host": {
           "name": "Context Engineering Guild of New York City",
-          "url": "https://luma.com/CEG",
-          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
+          "url": "https://luma.com/ContextEngineeringGuild",
+          "image": "https://images.lumacdn.com/uploads/42/285996ea-3b59-4469-b981-8893abdfc6e9.png",
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlrNzE4azhwcHA2OTNsZ3BqOGQ5dDdlbDIwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
@@ -891,7 +891,7 @@
         "original_event_id": "_clr78bai9dhmkq9ge18k8qpma975ehi0clr6arjkecn6ot9edlgg",
         "organizer": {
           "name": "Context Engineering Guild of New York City",
-          "website": "https://luma.com/CEG",
+          "website": "https://luma.com/ContextEngineeringGuild",
           "instagram": "",
           "email": "t3v2rsoufffl206jh102tva3jeekfgme@import.calendar.google.com"
         },
@@ -906,8 +906,8 @@
         "luma_source": true,
         "luma_host": {
           "name": "Context Engineering Guild of New York City",
-          "url": "https://luma.com/CEG",
-          "image": "https://images.lumacdn.com/calendars/le/1a7d9984-4054-45cd-9505-c1c111cc0827.png",
+          "url": "https://luma.com/ContextEngineeringGuild",
+          "image": "https://images.lumacdn.com/uploads/42/285996ea-3b59-4469-b981-8893abdfc6e9.png",
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmFpOWRobWtxOWdlMThrOHFwbWE5NzVlaGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
@@ -1724,5 +1724,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-26T18:02:33.165255"
+  "timestamp": "2026-11-27T17:49:39.659041"
 }
