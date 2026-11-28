@@ -428,6 +428,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_verci_103604be",
+      "name": "Pass the Spark: Torras NY Launch Event",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_verci",
+      "description": "Join TORRAS and artist VEXX for a cozy, holiday-themed afternoon of art, making and connection at Verci. This intimate gathering brings NYC creatives together to celebrate the TORRAS \u00d7 VEXX collaboration and close out the year in good company. The afternoon unfolds in two sessions.\nSession 1: Discover & Connect\nGet a first look at the TORRAS \u00d7 VEXX collection, then add your wishes and ideas to the Christmas Inspiration Tree. VEXX then sits down for a candid talk and Q&A about their creative process and the story behind the collaboration.\nSession 2: Make & Create\nGet hands-on in a polymer clay miniature workshop and make your own piece to take home. While you work, VEXX paints live, creating artwork inspired by guests' inspiration cards. A few lucky attendees will take those pieces home as gifts.\nFree holiday bites and drinks (from Bubble and Sip) will be served throughout the afternoon, and every guest leaves with a TORRAS phone case. Stay as long as you like and connect with fellow creatives from the Verci community.",
+      "startDate": "2026-12-12T18:00:00Z",
+      "endDate": "2026-12-12T22:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "society",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-b11a19a8.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/verci-atu2",
+        "original_event_id": "_clr78bbnatb72eagchn68c27c4ql6ha0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "Verci Events",
+          "website": "https://luma.com/verci",
+          "instagram": "",
+          "email": "pf6o7drlfrbhmpqlmlt7p215e70i9cjn@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "Verci Flatiron\nVerci Flatiron, New York, New York",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "Verci Events",
+          "url": "https://luma.com/verci",
+          "image": "https://images.lumacdn.com/calendars/kw/d2a68898-7b2c-40c0-b2b7-27a313e1f6d2",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmJuYXRiNzJlYWdjaG42OGMyN2M0cWw2aGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgcGY2bzdkcmxmcmJobXBxbG1sdDdwMjE1ZTcwaTljam5AaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_verci_321bf0ec",
       "name": "Book Club: The Beauty of the Husband",
       "type": "technology",
@@ -590,5 +644,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-27T17:49:47.355239"
+  "timestamp": "2026-11-28T16:33:53.417018"
 }

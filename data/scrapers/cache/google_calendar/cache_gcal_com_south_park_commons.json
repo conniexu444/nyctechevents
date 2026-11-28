@@ -55,6 +55,60 @@
       }
     },
     {
+      "id": "evt_gcal_com_south_park_commons_0946b360",
+      "name": "SPC Post Training Forum: Fireside w/ Harvey CRO, Adam Sadovsky",
+      "type": "technology",
+      "locationId": "",
+      "communityId": "com_south_park_commons",
+      "description": "How do you bridge the gap between frontier models passing the bar exam and making them good enough to practice real law?\nJoin us for a technical conversation with Adam Sadovsky, Chief Research Officer at Harvey, on what it takes to push the frontier of vertical AI in the legal domain. We'll get into:\nTurning expert lawyer workflows into data, environments and reward signals for post-training and RL\nEvaluating models where there's no single right answer and the stakes are high\nPost-training on open-weight models compared with relying on frontier labs\nAbout Adam: Adam joined Harvey after serving as a CVP of AI at Microsoft, where he led post-training for models like MAI-Thinking-1. Before that, he was a distinguished software engineer and senior director at Google DeepMind, where he worked on the Gemini engineering leadership team and led efforts spanning large language model post-training, capabilities, tooling, and infrastructure.\nSchedule:\n2:30pm - Doors Open\n3:00pm - Fireside Begins\nModerated by Nick Mecklenburg (CTO, Whitney AI)\nAbout South Park Commons (SPC)\nSPC is a technical community and venture fund dedicated to helping founders, researchers, and technologists figure out what to work on next\u2014what we call the -1 to 0 stage of your career. We believe this is best accomplished in the most talent-dense community possible.\nSPC events are open to members, alumni, and special guests of the community. The best way to join events at SPC is to apply for SPC membership.\n*Please note doors close at event start time and we are unable to accommodate pending, waitlist, or late arrivals.",
+      "startDate": "2026-12-08T22:30:00Z",
+      "endDate": "2026-12-09T00:00:00Z",
+      "category": [
+        "technology",
+        "innovation",
+        "learning",
+        "community"
+      ],
+      "price": {
+        "amount": 0.0,
+        "type": "Free",
+        "currency": "USD",
+        "details": "General Admission"
+      },
+      "capacity": null,
+      "registrationRequired": false,
+      "tags": [],
+      "image": "events/luma-event-39d2c0fc.jpg",
+      "status": "upcoming",
+      "metadata": {
+        "source": "Google Calendar",
+        "source_url": "https://luma.com/spc-post-training-harvey",
+        "original_event_id": "_clr78bb5618nemijc5552t3gb9m4ssa0clr6arjkecn6ot9edlgg",
+        "organizer": {
+          "name": "South Park Commons",
+          "website": "https://luma.com/southparkcommons-events",
+          "instagram": "",
+          "email": "bfptu3ajdae5cc2k16cvs1amenbft762@import.calendar.google.com"
+        },
+        "venue": {
+          "name": "",
+          "address": "San Francisco, CA\nSan Francisco, California",
+          "type": "Offline"
+        },
+        "speakers": [],
+        "social_links": [],
+        "featured": false,
+        "luma_source": true,
+        "luma_host": {
+          "name": "South Park Commons",
+          "url": "https://luma.com/southparkcommons-events",
+          "image": "https://images.lumacdn.com/calendars/zd/801eab25-f945-44b2-8d32-29a455bd485d",
+          "type": "Organization"
+        },
+        "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YmI1NjE4bmVtaWpjNTU1MnQzZ2I5bTRzc2EwY2xyNmFyamtlY242b3Q5ZWRsZ2cgYmZwdHUzYWpkYWU1Y2MyazE2Y3ZzMWFtZW5iZnQ3NjJAaQ"
+      }
+    },
+    {
       "id": "evt_gcal_com_south_park_commons_a35807a8",
       "name": "Design Chat with John Bai, SpaceXSI",
       "type": "technology",
@@ -109,5 +163,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-27T17:49:41.258477"
+  "timestamp": "2026-11-28T16:33:47.494602"
 }

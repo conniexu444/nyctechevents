@@ -529,7 +529,7 @@
         "luma_host": {
           "name": "NERDCONF",
           "url": "https://luma.com/nerdconf",
-          "image": "https://images.lumacdn.com/uploads/8t/6df9a562-a273-41b1-aed0-5c728617d0bc.png",
+          "image": "https://images.lumacdn.com/uploads/xu/9cb40fb2-011a-4e1a-80a6-7b7414eba01f.jpg",
           "type": "Organization"
         },
         "google_calendar_link": "https://www.google.com/calendar/event?eid=X2Nscjc4YjlqY3R0N2FpcTY5cDFrZ2MyYmNkN240bGkwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdDN2MnJzb3VmZmZsMjA2amgxMDJ0dmEzamVla2ZnbWVAaQ"
@@ -1724,5 +1724,5 @@
       }
     }
   ],
-  "timestamp": "2026-11-27T17:49:39.659041"
+  "timestamp": "2026-11-28T16:33:45.459019"
 }
